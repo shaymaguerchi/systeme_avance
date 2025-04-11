@@ -1,0 +1,171 @@
+=== CV 339 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rim Ennour
+Ingénieur en Informatique décisionnelle, à la recherche d'une opportunité.
+
+Motivée, ouverte d'esprit et aime relever les défis.
+
+rimaennour@gmail.com 29718281 Hammamet, Tunisie linkedin.com/in/Rim Ennour
+
+FORMATIONS
+
+Diplôme d’ingénieur en informatique |
+Spécialité Informatique décisionnelle
+École supérieure privée des technologies de
+l'information et de management de Nabeul -
+IT Business School.
+2017 - 2020, Nabeul
+
+Licence Fondamentale | Spécialité
+Informatique appliquée à la Gestion
+Université carthage - Faculté des Sciences
+Économiques et de Gestion de Nabeul.
+2014 - 2017, Nabeul
+
+STAGES
+
+PROJET DE FIN D’ÉTUDES
+Wimbee Tech
+02/2020 - 07/2020, Les Berges du Lac - Tunis
+
+Conception et réalisation d'un processus décisionnel,
+Tableau de bord social.
+
+DÉVELOPPEUR WEB
+FREELANCE
+2019, Nabeul
+
+Participation au développement d’une plateforme de
+transport www.clicktout.com
+
+CHARGÉE DES RELATIONS PUBLIQUES
+IMAGE & ACTIONS
+2019, Les Berges du Lac - Tunis
+
+Participation à la mise en place du plan d’action, organisation
+et participation aux événements de la société et veille sur les
+réseaux sociaux.
+
+AGENTE TECHNIQUE EN
+TÉLÉCOMMUNICATION
+TUNISIE TELECOM
+2018, Hammamet
+
+Exploitation des réseaux de télécommunications.
+
+DÉVELOPPEUR WEB
+BOOSTER BC
+2017, Hammamet
+
+Développement du site web www.flyaway.pro
+
+PROJET FIN D’ÉTUDES
+BANK –ECONSEIL
+2017, Hammamet
+
+Conception et réalisation d'une application mobile d'un
+comparateur de cours de change de toutes des banques.
+
+COMPÉTENCES TECHNIQUES ET
+COMPORTEMENTALES
+
+SQL Server Data Tools | Power BI | Talend SSIS
+
+SQL Server Management Studio | MySQL | Oracle
+
+Gestion de projet | Ms project | GANTT project
+
+UML | Scrum | GIMSI
+
+Java | SQL | C |C++ | C# | HTML | PHP | CSS
+
+Eclipse | Android studio | Visual Studio Linux
+
+Travail collaboratif | Capacité de négociation | Esprit
+critique | Communication | Dynamisme | Ponctualité
+
+CERTIFICATIONS ET ATTESTATIONS
+
+Microsoft Power BI Desktop for Business Intelligence
+ (02/2021 - Present)
+Udemy
+
+Power BI: Visualisations avancées et notions clés du
+DAX (02/2021)
+LinkedIn Learning
+
+Microsoft Power BI : Le Guide Complet (04/2020)
+Alphorm
+
+Microsoft Power BI : Les fondamentaux (04/2020)
+Alphorm
+
+Microsoft SQL Server 2016 SSIS : Implémenter une
+solution ETL (04/2020)
+Alphorm
+
+Software Development Fundamentals (07/2019)
+
+Java programming final exam (01/2019)
+
+Database Administaration Fundamentals (06/2018)
+
+LANGUES
+
+Français
+Capacité professionnelle
+complète
+
+Anglais
+Compétence professionnelle
+
+CENTRES D'INTÉRÊTS
+
+Sport Réseaux sociaux Piano
+
+mailto:rimaennour@gmail.com
+https://linkedin.com/in/Rim Ennour
+http://www.clicktout.com/
+https://www.flyaway.pro/
+
+
+cleaned_text: rim ennour ingenieur informatique decisionnelle recherche opportunite motivee ouverte esprit aime relever defis rimaennour gmail com 29718281 hammamet tunisie linkedin com rim ennour formations diplome ingenieur informatique specialite informatique decisionnelle ecole superieure privee technologies information management nabeul business school 2017 2020 nabeul licence fondamentale specialite informatique appliquee gestion universite carthage faculte sciences economiques gestion nabeul 2014 2017 nabeul stages projet fin etudes wimbee tech 02 2020 07 2020 berges lac tunis conception realisation processus decisionnel tableau bord social developpeur web freelance 2019 nabeul participation developpement plateforme transport www clicktout com chargee relations publiques image actions 2019 berges lac tunis participation mise place plan action organisation participation evenements societe veille reseaux sociaux agente technique telecommunication tunisie telecom 2018 hammamet exploitation reseaux telecommunications developpeur web booster bc 2017 hammamet developpement site web www flyaway pro projet fin etudes bank econseil 2017 hammamet conception realisation application mobile comparateur cours change toutes banques competences techniques comportementales sql server data tools power bi talend ssis sql server management studio mysql oracle gestion projet ms project gantt project uml scrum gimsi java sql html php css eclipse android studio visual studio linux travail collaboratif capacite negociation esprit critique communication dynamisme ponctualite certifications attestations microsoft power bi desktop business intelligence 02 2021 present udemy power bi visualisations avancees notions cles dax 02 2021 linkedin learning microsoft power bi guide complet 04 2020 alphorm microsoft power bi fondamentaux 04 2020 alphorm microsoft sql server 2016 ssis implementer solution etl 04 2020 alphorm software development fundamentals 07 2019 java programming final exam 01 2019 database administaration fundamentals 06 2018 langues francais capacite professionnelle complete anglais competence professionnelle centres interets sport reseaux sociaux piano mailto rimaennour gmail com https linkedin com rim ennour http www clicktout com https www flyaway pro
+mobile_number: 2971828
+email: rimaennour@gmail.com
+skills: ['Php', 'Transport', 'Tableau', 'Android', 'Html', 'Mysql', 'Plan', 'Mobile', 'Telecom', 'Oracle', 'Communication', 'Etl', 'Sql', 'Database', 'Css', 'Business intelligence', 'Visual', 'Sql server', 'Linux', 'Scrum', 'Programming', 'C', 'Ms project', 'Java']
+skills_text: Php Transport Tableau Android Html Mysql Plan Mobile Telecom Oracle Communication Etl Sql Database Css Business intelligence Visual Sql server Linux Scrum Programming C Ms project Java
+Category: IT

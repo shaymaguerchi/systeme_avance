@@ -1,0 +1,8 @@
+=== CV 592 ===
+text: Nadia Lambert
+cleaned_text: nadia lambert cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 83713774
+email: nadia.lambert@example.com
+skills: ['Marketing', 'C++', 'CSS']
+skills_text: Marketing C++ CSS
+Category: IT

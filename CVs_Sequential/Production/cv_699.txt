@@ -1,0 +1,8 @@
+=== CV 699 ===
+text: Fatima Boussaid
+cleaned_text: fatima boussaid cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 46868073
+email: fatima.boussaid@example.com
+skills: ['Management', 'Python', 'Linux', 'Adobe']
+skills_text: Management Python Linux Adobe
+Category: Production

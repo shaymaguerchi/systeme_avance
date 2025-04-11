@@ -1,0 +1,180 @@
+=== CV 313 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+Mohamed Ali Omrani
+Recherche d'un stage
+
+omranimed97@gmail.com
+Tunis Bab El Khadhra
+55832602
+
+Contact
+
+Diplômes et Formations
+
+Baccalauréat Chedhli Khazndar Téboursouk
+
+De 2018 à 2019
+
+*Spécialité : Informatique 
+*Moyenne : 14.41 
+
+Licence Institut Supérieur de Gestion Tunis Tunisia
+
+Depuis 2019
+
+Business computing 
+Business Information System Student
+
+Compétences Téchniques
+
+Django
+
+Spring Boot
+
+Angular
+
+Java
+
+C
+
+SQL
+
+HTML CSS JavaScript PHP
+
+Python
+
+C#
+
+Expériences associatives
+
+Responsable logistique Croissant rouge Nouvelle dougga
+
+Depuis février 2021
+
+Membre IEEE PES Chapter - FST Student Branch FST Tunis
+
+Depuis octobre 2021
+
+Membre du conseil Scouts Tunisien Téboursouk
+
+D'avril 2016 à juillet 2018
+
+Réseaux sociaux
+
+Rigoureux
+
+Travail en équipe
+
+Résistance au stress
+
+Dévelopement web
+
+Dévelopement mobile
+
+Expériences professionnelles
+
+Stagiaire La Poste Tunisien Manouba, Tunisie
+
+De juillet 2021 à août 2021
+
+Découverte du mécanisme général du fonctionnement des entreprises
+Intégration dans le monde professionnel .
+Exploration des sections des bases et les fonctions essentielles de
+ cette entreprise 
+
+Langues
+
+Français
+
+Anglais
+
+Arabe
+
+Allemand
+
+Atouts
+
+Formations complémentaires
+
+Full stack Developement track Udacity 1 milion arab coders
+
+2021
+
+Verified Certificate of completion 
+
+Android Development Track Udacity 1 milion arab coders intiative
+
+2021
+
+verified certificate of participation
+
+Complete python bootcamp Udemy
+
+2021
+
+Microsoft excel from basic to avanced Udemy
+
+2021
+
+Centres d'intérêt
+
+Né le 22/12/2000
+Tunisien
+Tunis
+
+@mohamed-ali-omrani-900b821ba/
+
+@mohamed_ali
+
+mailto:omranimed97@gmail.com
+https://www.linkedin.com/in/mohamed-ali-omrani-900b821ba/
+https://www.facebook.com/profile.php?id=100010535917025
+
+
+cleaned_text: mohamed ali omrani recherche stage omranimed97 gmail com tunis bab el khadhra 55832602 contact diplomes formations baccalaureat chedhli khazndar teboursouk 2018 2019 specialite informatique moyenne 14 41 licence institut superieur gestion tunis tunisia depuis 2019 business computing business information system student competences techniques django spring boot angular java sql html css javascript php python experiences associatives responsable logistique croissant rouge nouvelle dougga depuis fevrier 2021 membre ieee pes chapter fst student branch fst tunis depuis octobre 2021 membre conseil scouts tunisien teboursouk avril 2016 juillet 2018 reseaux sociaux rigoureux travail equipe resistance stress developement web developement mobile experiences professionnelles stagiaire poste tunisien manouba tunisie juillet 2021 aout 2021 decouverte mecanisme general fonctionnement entreprises integration monde professionnel exploration sections bases fonctions essentielles cette entreprise langues francais anglais arabe allemand atouts formations complementaires full stack developement track udacity 1 milion arab coders 2021 verified certificate completion android development track udacity 1 milion arab coders intiative 2021 verified certificate participation complete python bootcamp udemy 2021 microsoft excel basic avanced udemy 2021 centres interet 22 12 2000 tunisien tunis mohamed ali omrani 900b821ba mohamed ali mailto omranimed97 gmail com https www linkedin com mohamed ali omrani 900b821ba https www facebook com profile php id 100010535917025
+mobile_number: 5583260
+email: omranimed97@gmail.com
+skills: ['Php', 'Excel', 'Javascript', 'Android', 'Sql', 'Html', 'Mobile', 'Python', 'Django', 'Css', 'C', 'System', 'Java']
+skills_text: Php Excel Javascript Android Sql Html Mobile Python Django Css C System Java
+Category: IT

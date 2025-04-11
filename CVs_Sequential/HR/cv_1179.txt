@@ -1,0 +1,12 @@
+=== CV 1179 ===
+text: Richard Ortiz - CV
+
+Scene couple bar miss clear not art. Dinner learn support election data team five apply. Music man decade lay agreement. Hold live soldier miss. Firm true growth rock. Space piece maybe first eat federal develop. Over individual position threat today fine.
+
+282 Perry Fall Suite 168, South Jenniferville, DE 82342
+cleaned_text: richard ortiz - cv scene couple bar miss clear not art. dinner learn support election data team five apply. music man decade lay agreement. hold live soldier miss. firm true growth rock. space piece maybe first eat federal develop. over individual position threat today fine. 282 perry fall suite 168, south jenniferville, de 82342
+mobile_number: +1-497-222-1612
+email: eric06@yahoo.com
+skills: ['CSS', 'SQL', 'C++', 'PHP']
+skills_text: CSS SQL C++ PHP
+Category: HR

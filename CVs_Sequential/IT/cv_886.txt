@@ -1,0 +1,8 @@
+=== CV 886 ===
+text: Ahmed Mokhtar
+cleaned_text: ahmed mokhtar cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 88076734
+email: ahmed.mokhtar@example.com
+skills: ['Marketing', 'HTML', 'Finance', 'Linux', 'Management', 'Java']
+skills_text: Marketing HTML Finance Linux Management Java
+Category: IT

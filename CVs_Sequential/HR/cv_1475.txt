@@ -1,0 +1,12 @@
+=== CV 1475 ===
+text: John Sampson - CV
+
+Least science term. Save very would certain. Find standard society lot wide five executive. Free serious present audience do they any. Memory talk music everyone effect enter sometimes. Customer respond interest. Music test player pick light. Speak parent data suddenly along I glass discussion. Writer per commercial book lot. Reality green pick receive. Hair degree fire guy technology few water reason. Act early forward friend president break. The eye line evening catch present. Upon result politics activity.
+
+USS Watkins, FPO AE 43150
+cleaned_text: john sampson - cv least science term. save very would certain. find standard society lot wide five executive. free serious present audience do they any. memory talk music everyone effect enter sometimes. customer respond interest. music test player pick light. speak parent data suddenly along i glass discussion. writer per commercial book lot. reality green pick receive. hair degree fire guy technology few water reason. act early forward friend president break. the eye line evening catch present. upon result politics activity. uss watkins, fpo ae 43150
+mobile_number: 432-070-4782x0166
+email: lanejoseph@gmail.com
+skills: ['SQL', 'C++', 'CSS']
+skills_text: SQL C++ CSS
+Category: HR

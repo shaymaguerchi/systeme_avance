@@ -1,0 +1,202 @@
+=== CV 134 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+Langues
+
+Anglais
+niveau B2
+
+Français
+niveau B2
+
+Arabe
+langue maternelle
+
+Compétences
+
+Informatique Décisionnel
+Extraction de donnée/ETL,
+Reporting : Talend, Power BI, SSRS,
+SSAS,SSIS.
+
+Advanced Learning
+MachineLearning, Deep learning,
+Python, R.
+
+Analyse des données
+Data Mining, Analyse Statistiques,
+série temporelle, BigData.
+
+Gestion de données
+SQL, PL/SQL, Hadoop, Apache
+Spark, Elastic Search, kibana,
+MongoDB.
+
+Bases de données
+SQL , Postgres,MySql, Oracle, SQL
+server
+
+Microsoft
+POWER BI, excel,latex,powerpoint,
+word, teams.
+
+Programmation
+R,PYTHON,C,C#,JAVA,JavaScript,CSS,
+HTML, .Net, SPRING BOOT
+
+Centres d'intérêt
+
+Voyages
+Turquie
+Algerie
+
+Musique
+Violon
+
+saifeddine.faidi@esprit.tn
+
+3100 city Ibn
+Jazzar/Mansoura/Kairouan
+
+
+
+23 ans
+
+https://www.linkedin.com/in/s
+aif-eddine-faidi-131b727b/
+
+
+
+(+216)27002412
+
+Saif Eddine FAIDI
+
+Elève Ingénieur en Business Intelligence
+(ERP-BI) à la recherche d’un stage PFE dans
+les domaines BI et Data Science.
+
+Diplômes et Formations
+
+Expériences professionnelles
+
+PROJETS ACADÉMIQUES
+
+Certifications
+
+Power BI : L’analyse de données avec R
+
+Business intelligence and data warehousing
+
+Diplôme National d'Ingénieur en Informatique (en cours)
+
+Depuis
+septembre 2019
+
+ESPRIT : Ecole Supérieur Privée d’Ingénierie et de Technologies
+Tunis Ariana, Tunisie
+
+Cycle préparatoire technologie (PT)
+
+De septembre 2017 à
+juin 2019
+
+Institut Préparatoire aux Etudes d’Ingénieur Kairouan
+Kairouan, Tunisie
+
+Baccalauréat scientifique : spécialité Technique
+
+De septembre 2016 à juin
+2017
+
+Lycée ibn Jazzar Kairouan Kairouan Kairouan,
+Tunisie
+
+Stage Ingénieur
+
+De juillet 2021 à août 2021 Emeraude IT Tunis
+
+Application de gestion pour l’enseignement supérieur
+-  Gestion des étudiants et des enseignants 
+-  Gestion des PFEs.
+ Technologies: MERN: MongoDB, Express, React, Node.
+
+Stage Ouvrier
+
+Août 2020 Manufacture des Tabacs de Kairouan (MTK) Kairouan, Tunisie
+
+Suivi application de gestion des ressources humaines.
+
+Projet Business Intelligence
+
+De février 2021 à mai 2021 ESPRIT TUNIS
+
+Analyse des données et création d’un système d’aide à la décision à partir de la
+base de données.
+Conception et modélisation d'un entrepôt de données.
+Extraction, transformation et chargement des données (ETL).
+Élaboration d'un tableau de bord de reporting.
+
+ Technologies: Powerbi, Talend, Sql server, python. 
+
+Gestion agence de voyage.
+
+D'octobre 2020 à décembre 2020 ESPRIT Tunis
+
+ Gestion des comptes des agents
+ Gestion des factures
+ Gestion des réclamations
+ Gestion des réservations 
+ Gestion véhicule 
+
+ Technologies: C, Ubuntu.
+
+mailto:saifeddine.faidi@esprit.tn
+https://www.linkedin.com/in/saif-eddine-faidi-131b727b/
+
+
+cleaned_text: langues anglais niveau b2 francais niveau b2 arabe langue maternelle competences informatique decisionnel extraction donnee etl reporting talend power bi ssrs ssas ssis advanced learning machinelearning deep learning python r analyse donnees data mining analyse statistiques serie temporelle bigdata gestion donnees sql pl sql hadoop apache spark elastic search kibana mongodb bases donnees sql postgres mysql oracle sql server microsoft power bi excel latex powerpoint word teams programmation r python java javascript css html net spring boot centres interet voyages turquie algerie musique violon saifeddine faidi esprit tn 3100 city ibn jazzar mansoura kairouan 23 ans https www linkedin com aif eddine faidi 131b727b 216 27002412 saif eddine faidi eleve ingenieur business intelligence erp bi recherche stage pfe domaines bi data science diplomes formations experiences professionnelles projets academiques certifications power bi analyse donnees r business intelligence data warehousing diplome national ingenieur informatique cours depuis septembre 2019 esprit ecole superieur privee ingenierie technologies tunis ariana tunisie cycle preparatoire technologie pt septembre 2017 juin 2019 institut preparatoire etudes ingenieur kairouan kairouan tunisie baccalaureat scientifique specialite technique septembre 2016 juin 2017 lycee ibn jazzar kairouan kairouan kairouan tunisie stage ingenieur juillet 2021 aout 2021 emeraude tunis application gestion enseignement superieur gestion etudiants enseignants gestion pfes technologies mern mongodb express react node stage ouvrier aout 2020 manufacture tabacs kairouan mtk kairouan tunisie suivi application gestion ressources humaines projet business intelligence fevrier 2021 mai 2021 esprit tunis analyse donnees creation systeme aide decision partir base donnees conception modelisation entrepot donnees extraction transformation chargement donnees etl elaboration tableau bord reporting technologies powerbi talend sql server python gestion agence voyage octobre 2020 decembre 2020 esprit tunis gestion comptes agents gestion factures gestion reclamations gestion reservations gestion vehicule technologies ubuntu mailto saifeddine faidi esprit tn https www linkedin com saif eddine faidi 131b727b
+mobile_number: 2700241
+email: saifeddine.faidi@esprit.tn
+skills: ['Excel', 'Tableau', 'Reporting', 'Mysql', 'Html', 'Hadoop', 'Word', 'Oracle', 'Ubuntu', 'Javascript', 'Etl', 'Sql', 'Pl/sql', 'Css', 'Business intelligence', 'Python', 'R', 'Sql server', '.net', 'Powerpoint', 'Mining', 'Spark', 'C', 'Erp']
+skills_text: Excel Tableau Reporting Mysql Html Hadoop Word Oracle Ubuntu Javascript Etl Sql Pl/sql Css Business intelligence Python R Sql server .net Powerpoint Mining Spark C Erp
+Category: IT

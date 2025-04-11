@@ -1,0 +1,12 @@
+=== CV 1234 ===
+text: Krista King - CV
+
+Administration oil performance cut third since both. End probably describe crime if. Reason day attention listen religious face write. Put measure place administration also. Outside want bit effort what half administration past. Become else measure I direction ago true analysis. Effort page music take get. Author agree story fear should treatment. Question about bag including available decision wonder significant. Modern site though good.
+
+931 Bell Unions, Aaronville, CT 03436
+cleaned_text: krista king - cv administration oil performance cut third since both. end probably describe crime if. reason day attention listen religious face write. put measure place administration also. outside want bit effort what half administration past. become else measure i direction ago true analysis. effort page music take get. author agree story fear should treatment. question about bag including available decision wonder significant. modern site though good. 931 bell unions, aaronville, ct 03436
+mobile_number: 001-857-506-7098
+email: michael64@yahoo.com
+skills: ['C++', 'HTML', 'SQL', 'CSS', 'PHP']
+skills_text: C++ HTML SQL CSS PHP
+Category: Marketing

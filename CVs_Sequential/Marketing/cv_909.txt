@@ -1,0 +1,8 @@
+=== CV 909 ===
+text: Sophie Mokhtar
+cleaned_text: sophie mokhtar cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 22934978
+email: sophie.mokhtar@example.com
+skills: ['Java', 'Finance', 'Marketing']
+skills_text: Java Finance Marketing
+Category: Marketing

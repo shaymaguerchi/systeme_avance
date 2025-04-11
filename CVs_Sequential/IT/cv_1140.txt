@@ -1,0 +1,12 @@
+=== CV 1140 ===
+text: Susan Mcguire - CV
+
+Yard feel agree question just real. Investment authority plan purpose rate music. Answer for with check. Side behavior food listen. Fire activity type box second. Dog skill box this.
+
+69191 Joanna Camp Apt. 798, Gomezview, MN 54806
+cleaned_text: susan mcguire - cv yard feel agree question just real. investment authority plan purpose rate music. answer for with check. side behavior food listen. fire activity type box second. dog skill box this. 69191 joanna camp apt. 798, gomezview, mn 54806
+mobile_number: (108)749-0735x35366
+email: perrycathy@perez.info
+skills: ['JavaScript', 'Java', 'HTML', 'C++', 'PHP', 'Talend']
+skills_text: JavaScript Java HTML C++ PHP Talend
+Category: IT

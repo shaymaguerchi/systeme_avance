@@ -1,0 +1,197 @@
+=== CV 135 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jihen Bargaoui 
+
+Brik street, El Battan, Manouba,Tunis 
+
+(+216) 28 028 146 
+
+jjihen89@gmail.com 
+
+EDUCATION  
+
+National Institute of Agronomy of Tunisia                                                                 Tunis, Tunisia 
+
+Engineering in Crop production                                                                                         2019-2021 
+
+Higher Institute of  Preparatory Studies in Biology and Geology                     La Soukra, Tunisia 
+
+Pre-engineering                                                                                                                  2017-2019 
+
+Bachelor's degree                                                                                                    Manouba , Tunisia  
+
+Experimental sciences                                                                                                          2016-2017 
+
+ 
+
+PROFESSIONAL EXPERIENCE AND PROJECS 
+
+Intern 
+
+Interprofessional grouping of vegetables                                                                Manouba, Tunisia 
+
+July 2021-August 2021 
+
+ Make the official Tunisian catalog of market garden varieties in collaboration with the 
+
+Tunisian Ministry of Agriculture 
+
+ Characterization of new varieties of chilli, melon and watermelon 
+
+ Analyze and interpret the results 
+
+ Composting 
+
+Private farm : Organic agriculture farm                                                                    Tebourba, Tunisia 
+
+                                                                                                                           July 2020-August 2020 
+
+ Permaculture 
+
+ Collecting eggs 
+
+ Irrigation of young olive trees 
+
+ produce organic plant products 
+
+ Phytosanitary treatmenent 
+
+Project chef : Effect of growth regulators on improving yield of doubled haploid plants 
+
+                                                                                                                                                Juin 2021 
+
+Project chef : Contribution of biotechnologies to the improvement of species fruit trees   
+
+                                                                                                                                                May 2021     
+
+ 
+
+mailto:jjihen89@gmail.com
+
+
+Project chef : Effect of natural mycorrhization on plant development                           
+
+Mars 2021 
+
+Project chef : Agrotourism                                                                                    Manouba , Tunisia     
+
+July 2020 
+
+Young International Chamber Organization (JCI)                                                      
+
+ Valorisation of peasant seeds 
+
+ Product packaging 
+
+Project Member                                                                                                                  Juin 2020 
+
+ENACTUS INAT « Doulicha project » in agriculture area 
+
+Institute of Electrical and Electronics Engineers «  IEEE » INAT Member                Juin 2020 
+
+Voluntary internship with AIESEC                                                                Juin2019-August2019 
+
+Teaching english to young people                                                                              Kocoeli, Turkey 
+
+Project Member                                                                                                     Manouba , Tunisia 
+
+Young International Chamber Organization (JCI)                                                         January 2019 
+
+                                                   
+
+                
+
+SKILLS 
+
+Computer Skills  
+
+ Microsoft Office  
+
+ Database management 
+
+ Geographic Information Systems (ArcGIS and QGIS) 
+
+ Teledetection system 
+
+Languages 
+
+ Arabic : Fluent 
+
+ French : Very advanced  
+
+ English : Moderately 
+
+ 
+
+  
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+cleaned_text: jihen bargaoui brik street el battan manouba tunis 216 28 028 146 jjihen89 gmail com education national institute agronomy tunisia tunis tunisia engineering crop production 2019 2021 higher institute preparatory studies biology geology soukra tunisia pre engineering 2017 2019 bachelor degree manouba tunisia experimental sciences 2016 2017 professional experience projecs intern interprofessional grouping vegetables manouba tunisia july 2021 august 2021 make official tunisian catalog market garden varieties collaboration tunisian ministry agriculture characterization new varieties chilli melon watermelon analyze interpret results composting private farm organic agriculture farm tebourba tunisia july 2020 august 2020 permaculture collecting eggs irrigation young olive trees produce organic plant products phytosanitary treatmenent project chef effect growth regulators improving yield doubled haploid plants juin 2021 project chef contribution biotechnologies improvement species fruit trees may 2021 mailto jjihen89 gmail com project chef effect natural mycorrhization plant development mars 2021 project chef agrotourism manouba tunisia july 2020 young international chamber organization jci valorisation peasant seeds product packaging project member juin 2020 enactus inat doulicha project agriculture area institute electrical electronics engineers ieee inat member juin 2020 voluntary internship aiesec juin2019 august2019 teaching english young people kocoeli turkey project member manouba tunisia young international chamber organization jci january 2019 skills computer skills microsoft office database management geographic information systems arcgis qgis teledetection system languages arabic fluent french advanced english moderately
+mobile_number: 019-2021
+email: jjihen89@gmail.com
+skills: ['Analyze', 'Improvement', 'Teaching', 'English', 'Database', 'Experimental', 'Microsoft office', 'Biology', 'International', 'System', 'French', 'Engineering', 'Electrical', 'Electronics']
+skills_text: Analyze Improvement Teaching English Database Experimental Microsoft office Biology International System French Engineering Electrical Electronics
+Category: Technique

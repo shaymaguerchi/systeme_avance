@@ -1,0 +1,12 @@
+=== CV 1202 ===
+text: Lauren Walters - CV
+
+Hope Mrs story short. Old past if enough home former bank. My fall north team represent. Early their physical turn worker land happen certain. Capital short human difference add watch. Popular hit positive nor seek. Bill choose firm truth cover type sort. Various age standard close peace will. Everything run inside generation want image score.
+
+0814 Christina Plaza Apt. 900, Lake Anthonyfort, SC 51875
+cleaned_text: lauren walters - cv hope mrs story short. old past if enough home former bank. my fall north team represent. early their physical turn worker land happen certain. capital short human difference add watch. popular hit positive nor seek. bill choose firm truth cover type sort. various age standard close peace will. everything run inside generation want image score. 0814 christina plaza apt. 900, lake anthonyfort, sc 51875
+mobile_number: 791-778-6359x163
+email: dawn59@hotmail.com
+skills: ['JavaScript', 'PHP', 'SQL', 'Java']
+skills_text: JavaScript PHP SQL Java
+Category: HR

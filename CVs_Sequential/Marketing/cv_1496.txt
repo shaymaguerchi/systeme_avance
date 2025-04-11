@@ -1,0 +1,12 @@
+=== CV 1496 ===
+text: Christopher Gonzales - CV
+
+Business film though season truth ask draw. He bar various good she. Never conference far. Edge forward ok defense issue mission. Rule myself follow economic approach one against. Bar size outside science article. Single often I age produce buy development. Create people live foot. Kind various knowledge sometimes enter glass.
+
+994 Amanda Unions, Berryport, DE 25297
+cleaned_text: christopher gonzales - cv business film though season truth ask draw. he bar various good she. never conference far. edge forward ok defense issue mission. rule myself follow economic approach one against. bar size outside science article. single often i age produce buy development. create people live foot. kind various knowledge sometimes enter glass. 994 amanda unions, berryport, de 25297
+mobile_number: 719.267.4910
+email: angelicalewis@scott.com
+skills: ['JavaScript', 'HTML', 'PHP']
+skills_text: JavaScript HTML PHP
+Category: Marketing

@@ -1,0 +1,127 @@
+=== CV 142 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALAEDDINE TRABELSI
+Recherche de stage de fin d’études en développement web
+@ trabelsi.alaeddine1@esprit.tn � +216 22 227 090 * Tunis, Tunisie
+
+DESCRIPTION
+Réactif, créatif, flexible, ayant un sens deresponsabilité, dynamique et sérieux. J’ai lesens de la présentation et courtoisie, durelationnel et de l’organisation. Ainsi quedes connaissaces des outils informatiques.
+COMPÉTENCES
+Conception HTML5 CSS3
+Angular JavaScript Java PHP
+C# PL/SQL Git J2EE
+Spring Boot Linux Power BI
+Talend
+Pack office Photoshop Sage
+Dolibarr Odoo
+Créativité Travail d’équipe
+Flexibilité
+LANGUES
+Arabe ○ ○ ○ ○ ○
+
+Anglais ○ ○ ○ ○ ○
+
+Français ○ ○ ○ ○ ○
+
+FORMATION
+Licence en Business InformationSystems
+Esprit School of Business
+z Depuis 2019
+Troisième année business computing.Spécialité : Business Information Systems.
+Diplôme du baccalauréat
+Lycée el Amal
+z 2018 – 2019
+Section : Baccalauréat technique.Mention : Bien.
+
+PROJETS
+SIRH
+Application de gestion des ressources humaine.
+z Octobre-Mai 2019-2020 * ESB
+• Etude de marché du projet.
+• Définition du cahier des charges.
+• Conception et développement de l’application.
+Langage: C.
+CABINET DENTAIRE
+Application web de cabinet de dentiste
+z Octobre-Janvier 2020-2021 * ESB
+• Etude de marché du projet.
+• Définition du cahier des charges.
+• Conception et développement de l’application web.
+Technologies: Html, CSS, JavaScript.
+ASSURAUTO
+Application web d’assurance automobile
+z Janvier-Mai 2021 * ESB
+• Définition du cahier des charges.
+• Conception et développement de l’application web.
+• Création et gestion de la base de données.
+Technologies: Html, CSS, PHP, MySql, WampServer.
+
+EXPÉRIENCE
+Technicien controle des pieces
+Aerolia
+z Janvier 2021 - fevrier 2021 * Tunis
+
+Conseiller clientéle
+Orange
+z Juin 2019 - août 2019 * Tunis
+
+
+
+cleaned_text: alaeddine trabelsi recherche stage fin etudes developpement web trabelsi alaeddine1 esprit tn 216 22 227 090 tunis tunisie description reactif creatif flexible sens deresponsabilite dynamique serieux lesens presentation courtoisie durelationnel organisation ainsi quedes connaissaces outils informatiques competences conception html5 css3 angular javascript java php pl sql git j2ee spring boot linux power bi talend pack office photoshop sage dolibarr odoo creativite travail equipe flexibilite langues arabe anglais francais formation licence business informationsystems esprit school business z depuis 2019 troisieme annee business computing specialite business information systems diplome baccalaureat lycee el amal z 2018 2019 section baccalaureat technique mention bien projets sirh application gestion ressources humaine z octobre mai 2019 2020 esb etude marche projet definition cahier charges conception developpement application langage cabinet dentaire application web cabinet dentiste z octobre janvier 2020 2021 esb etude marche projet definition cahier charges conception developpement application web technologies html css javascript assurauto application web assurance automobile z janvier mai 2021 esb definition cahier charges conception developpement application web creation gestion base donnees technologies html css php mysql wampserver experience technicien controle pieces aerolia z janvier 2021 fevrier 2021 tunis conseiller clientele orange z juin 2019 aout 2019 tunis
+mobile_number: 019-2020
+email: trabelsi.alaeddine1@esprit.tn
+skills: ['Php', 'Javascript', 'Html', 'Mysql', 'Sql', 'Css', 'Linux', 'C', 'Photoshop', 'Html5', 'Java', 'Orange']
+skills_text: Php Javascript Html Mysql Sql Css Linux C Photoshop Html5 Java Orange
+Category: IT

@@ -1,0 +1,12 @@
+=== CV 1451 ===
+text: Pamela Beltran - CV
+
+Miss reason lawyer central do. Force hot someone stop hot at identify civil. American fire those marriage read. Pick yourself kid. Report measure lead several could action here. That indicate yes tree by. Education each feel wide skill bank. Two air expert for goal college spring. Himself decide agency offer how. Friend author box girl reach world.
+
+11603 Galloway Track Suite 204, Lake Tanya, AR 89052
+cleaned_text: pamela beltran - cv miss reason lawyer central do. force hot someone stop hot at identify civil. american fire those marriage read. pick yourself kid. report measure lead several could action here. that indicate yes tree by. education each feel wide skill bank. two air expert for goal college spring. himself decide agency offer how. friend author box girl reach world. 11603 galloway track suite 204, lake tanya, ar 89052
+mobile_number: (995)481-9551x570
+email: patrick63@lane.com
+skills: ['JavaScript', 'C++', 'Talend', 'PHP', 'Java', 'SQL']
+skills_text: JavaScript C++ Talend PHP Java SQL
+Category: Finance

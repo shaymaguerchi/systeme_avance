@@ -1,0 +1,12 @@
+=== CV 1177 ===
+text: Jennifer Klein - CV
+
+Type star movement crime seem listen. Thing agency voice. Value available behind building strategy foot water. Us rest loss contain game career. Collection process guy special probably. Number wind away unit military professional almost. Region structure thousand build.
+
+47855 James Union, South Cindychester, CO 68516
+cleaned_text: jennifer klein - cv type star movement crime seem listen. thing agency voice. value available behind building strategy foot water. us rest loss contain game career. collection process guy special probably. number wind away unit military professional almost. region structure thousand build. 47855 james union, south cindychester, co 68516
+mobile_number: 207-859-1842x7561
+email: emilyjohnson@rice.biz
+skills: ['JavaScript', 'HTML', 'CSS', 'SQL', 'PHP']
+skills_text: JavaScript HTML CSS SQL PHP
+Category: Marketing

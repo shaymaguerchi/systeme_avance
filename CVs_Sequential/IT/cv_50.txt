@@ -1,0 +1,101 @@
+=== CV 50 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marwa Amdouni 
+
+ 
+
+Riadh-8090-kelibia 
+
+ 
+
+Tel   : 22209281 
+
+Mail : marwaamdouni785@gmail.com 
+
+ 
+
+ 
+
+• Formation 
+
+ 
+
+Licence en informatique appliquée 
+
+ 
+
+• Expérience professionnelle 
+
+ 
+
+-2013-2014 : agent commercial, assurances maghrebia 
+
+-2014-2021 : agent back office, téléperformance 
+
+ 
+
+• Compétences 
+
+ 
+
+Langues : français courant 
+
+                  anglais niveau universitaire 
+
+ 
+
+Logiciels : word, excel, html, c++. 
+
+
+
+cleaned_text: marwa amdouni riadh 8090 kelibia tel 22209281 mail marwaamdouni785 gmail com formation licence informatique appliquee experience professionnelle 2013 2014 agent commercial assurances maghrebia 2014 2021 agent back office teleperformance competences langues francais courant anglais niveau universitaire logiciels word excel html
+mobile_number: 2220928
+email: marwaamdouni785@gmail.com
+skills: ['Excel', 'Word', 'Html', 'C++']
+skills_text: Excel Word Html C++
+Category: IT

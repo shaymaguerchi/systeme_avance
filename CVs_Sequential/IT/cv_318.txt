@@ -1,0 +1,132 @@
+=== CV 318 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Faouzi Amamou
+Je suis un jeune étudiant ambitieux , énergique et motivé.Je suis à la recherche d'un projet de fin d'étude . J'ai
+également de l'expérience dans le travail d'équipe et individuel.
+
+faouziamamou4@gmail.com +216 29679695
+
+1 Rue El-houtaya 1164 Hamem-Chatt, Hammam Chatt,
+Tunisia
+
+18 June, 2000
+
+EDUCATION
+
+Licence en système embarqué et IOT
+Faculté des sciences de Tunis
+11/2020 - Present, 
+
+Baccalauréat (Mathématiques)
+Lycée Hammam Lif, Tunisie
+09/2016 - 06/2019, 
+
+PROJETS PERSONNELS
+
+"Pong" (jeux vidéo) (03/2021 - 06/2021)
+Pong game codé en VHDL et implémenté sur une carte
+FPGA. (Quartus II Web 13.1, Cyclone ® II)
+
+Création d'un signal vidéo à partir du FPGA (affichage via
+le port VGA)
+
+Application mobile d'une bibliothèque en ligne
+ (03/2021 - 05/2021)
+
+Développement d'une application android (Android
+Studio,XML,JAVA)
+
+Gestion des livres
+(ajout,modification,suppression,recherche)
+
+Présentation de livres à l'aide SQLite database.
+
+Création Siteweb (12/2020 - 02/2021)
+Technologie utilisé (HTML,CSS)
+
+Application (calculatrice) (10/2020 - 12/2020)
+Projet personnel JAVA ( JavaFX )
+
+Emulation d'une calculatrice avec une interface grafique.
+
+COMPÉTENCES
+
+Développement web : HTML, CSS, JS.
+
+langages de programmation : Python, C, Java.
+
+gestion de base de données : SQL, PL/SQL, NoSQL.
+
+Cartes programmables: Raspberry Pi , STM32 ,
+Arduino, FPGA.
+
+ACTIVITÉS EXTRASCOLAIRES
+
+IEEE FST Student Branch (2020 - Present)
+Faculté des sciences de Tunis
+
+Association tunisienne pour la culture des concours
+mathématiques (2013 - 2018)
+2 médailles au concours du Rubik's cube (or en 2013 et argent en
+2014) et une médaille d'argent à une épreuve de mathématiques et
+de logique
+
+Membre de l'Interact club Hammem-lif
+ (04/2016 - 07/2018)
+Meilleur membre en septembre 2017
+
+LANGUES
+
+Arabe
+
+Français
+
+Anglais
+
+CENTRES D'INTÉRÊT
+
+Sport Cinema Gaming Astronomie
+
+mailto:faouziamamou4@gmail.com
+
+
+cleaned_text: faouzi amamou jeune etudiant ambitieux energique motive recherche projet fin etude egalement experience travail equipe individuel faouziamamou4 gmail com 216 29679695 1 rue el houtaya 1164 hamem chatt hammam chatt tunisia 18 june 2000 education licence systeme embarque iot faculte sciences tunis 11 2020 present baccalaureat mathematiques lycee hammam lif tunisie 09 2016 06 2019 projets personnels pong jeux video 03 2021 06 2021 pong game code vhdl implemente carte fpga quartus ii web 13 1 cyclone r ii creation signal video partir fpga affichage via port vga application mobile bibliotheque ligne 03 2021 05 2021 developpement application android android studio xml java gestion livres ajout modification suppression recherche presentation livres aide sqlite database creation siteweb 12 2020 02 2021 technologie utilise html css application calculatrice 10 2020 12 2020 projet personnel java javafx emulation calculatrice interface grafique competences developpement web html css js langages programmation python java gestion base donnees sql pl sql nosql cartes programmables raspberry pi stm32 arduino fpga activites extrascolaires ieee fst student branch 2020 present faculte sciences tunis association tunisienne culture concours mathematiques 2013 2018 2 medailles concours rubik cube 2013 argent 2014 medaille argent epreuve mathematiques logique membre interact club hammem lif 04 2016 07 2018 meilleur membre septembre 2017 langues arabe francais anglais centres interet sport cinema gaming astronomie mailto faouziamamou4 gmail com
+mobile_number: 216 2967969
+email: faouziamamou4@gmail.com
+skills: ['Js', 'Android', 'Html', 'Sql', 'Mobile', 'Python', 'Database', 'Css', 'Pl/sql', 'Xml', 'Nosql', 'C', 'Java']
+skills_text: Js Android Html Sql Mobile Python Database Css Pl/sql Xml Nosql C Java
+Category: IT

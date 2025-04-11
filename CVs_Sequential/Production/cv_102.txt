@@ -1,0 +1,189 @@
+=== CV 102 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2019 - 2019
+
+2020 - 2020
+
+2019 - 2019
+
+2015 - 2019
+
+2019 - 2019
+
+2021 - 2021
+
+2020 - 2020
+
+2022 - 2022
+
+2020 - 2020
+
+2020 - 2020
+
+2013
+
+2015
+
+2021
+
+
+
+
+
+
+
+saideneahmed.1993@gmail.com
+
+29102200
+
+19 rue el aghlb bosten soukra
+
+
+
+Un bon esprit pour travailler en d'équipe.
+
+La rapidité d'apprendre. Ouvert pour des
+
+nouveaux challenges.
+
+Un bon gestion de stress et de travailler sous
+
+pression.
+
+
+
+Sport Musculation Fitness
+
+Cuisine
+
+Écouter de la musique
+
+
+
+Français
+
+English
+
+Arabe
+
+SAIDENE AHMED 
+
+
+
+Améliorer mes expériences et apprendre des nouveaux skills.
+
+
+
+The first cafe
+Serveur
+
+Serveur à first café pendant 4 mois
+
+Sigma conseil
+Téléopérateur
+Téléopérateur a sigma conseil pendant 5 mois
+
+Kims cafe menzah 6
+Caissier
+Caissier a kim's café pendant 6
+
+Chaufclimat
+Technicien
+Technicien plomberie pendant 5ans 
+
+Kims cafe menzah 6
+Gérant
+Gérant de kim's café pendant 3 mois
+
+Chaufclimat
+
+Chef d'équipe
+Chef d'équipe a chaufclimat pendant 6 mois
+
+Mezzo Tunis
+Conseiller clients
+
+Business communication
+Agent de prise de rendez-vous
+
+Titans team
+Accueillir les clients
+Accueillir les clients 
+
+Sam gym
+Accueillir les clients et coach sportif
+
+
+
+Lycée Dar elMaaref
+Bac+2 
+
+ 
+Cft Ariana
+Formation multimédia 
+
+ 
+Unitek Formation
+Soudure 
+
+ 
+
+SKILLS
+
+ACTIVITIES
+
+LANGUAGES
+
+OBJECTIVE
+
+EXPERIENCE
+
+EDUCATION
+
+
+
+cleaned_text: 2019 2019 2020 2020 2019 2019 2015 2019 2019 2019 2021 2021 2020 2020 2022 2022 2020 2020 2020 2020 2013 2015 2021 saideneahmed 1993 gmail com 29102200 19 rue el aghlb bosten soukra bon esprit travailler equipe rapidite apprendre ouvert nouveaux challenges bon gestion stress travailler sous pression sport musculation fitness cuisine ecouter musique francais english arabe saidene ahmed ameliorer experiences apprendre nouveaux skills first cafe serveur serveur first cafe pendant 4 mois sigma conseil teleoperateur teleoperateur sigma conseil pendant 5 mois kims cafe menzah 6 caissier caissier kim cafe pendant 6 chaufclimat technicien technicien plomberie pendant 5ans kims cafe menzah 6 gerant gerant kim cafe pendant 3 mois chaufclimat chef equipe chef equipe chaufclimat pendant 6 mois mezzo tunis conseiller clients business communication agent prise rendez titans team accueillir clients accueillir clients sam gym accueillir clients coach sportif lycee dar elmaaref bac 2 cft ariana formation multimedia unitek formation soudure skills activities languages objective experience education
+mobile_number: 2910220
+email: saideneahmed.1993@gmail.com
+skills: ['Communication', 'Fitness', 'English', 'Cuisine']
+skills_text: Communication Fitness English Cuisine
+Category: Production

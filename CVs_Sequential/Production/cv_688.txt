@@ -1,0 +1,8 @@
+=== CV 688 ===
+text: Ahmed Moreau
+cleaned_text: ahmed moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 96951406
+email: ahmed.moreau@example.com
+skills: ['Marketing', 'Python', 'Windows']
+skills_text: Marketing Python Windows
+Category: Production

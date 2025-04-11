@@ -1,0 +1,8 @@
+=== CV 791 ===
+text: Isabelle Moreau
+cleaned_text: isabelle moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 84093672
+email: isabelle.moreau@example.com
+skills: ['Linux', 'Marketing', 'Finance', 'Management']
+skills_text: Linux Marketing Finance Management
+Category: Design

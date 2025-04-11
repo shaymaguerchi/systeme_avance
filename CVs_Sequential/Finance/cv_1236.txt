@@ -1,0 +1,12 @@
+=== CV 1236 ===
+text: Kathleen Wheeler - CV
+
+From national research support me. Number company dream military. Window night happen east but. Two method must rise. Three source how full. City cost mean cost than grow. Factor enter into them. Over middle decade look debate debate message.
+
+751 Hill Isle Suite 731, Gonzalezstad, CT 39777
+cleaned_text: kathleen wheeler - cv from national research support me. number company dream military. window night happen east but. two method must rise. three source how full. city cost mean cost than grow. factor enter into them. over middle decade look debate debate message. 751 hill isle suite 731, gonzalezstad, ct 39777
+mobile_number: 013-117-2994x84508
+email: uallen@yahoo.com
+skills: ['CSS', 'Power BI', 'HTML', 'Python', 'Talend']
+skills_text: CSS Power BI HTML Python Talend
+Category: Finance

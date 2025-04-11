@@ -1,0 +1,130 @@
+=== CV 389 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Green and Black Minimalist Resume
+
+
+Nawres TAJOURI
+
+Formation
+
+Élève ingénieur en informatique appliquée
+
+Sahline 5012,Monastir,Tunisie
+naourestajouri@gmail.com
+53335563
+
+2019-2021 Cycle d'ingénieur , École Nationale d'Ingénieurs de Sousse.
+2016-2019 Cycle préparatoire aux études d'ingénieurs , Faculté des Sciences de Monastir.
+2015-2016 Baccalauréat,section Mathématiques , Lycée Secondaire de Sahline.
+
+Projets
+Un site web statique Création d'un site web de jeux. 
+
+Compétences acquises: HTML5 , CSS3 et JavaScript.
+
+Application web pour
+la gestion des
+données des
+associations
+
+Une application web dynamique qui offre des espaces extranet pour l'inscription et l'authentification
+des associations , faciliter le traitement des données comme l'édition des rapports financiers et le
+contrôle.
+
+Compétences acquises: Spring Boot , Java , MySQL , Postman , GitLab.
+
+Création un cluster
+Hadoop avec Spark
+
+Création une seule image docker qui contient un système distribué Hadoop et un micro-service
+Spark pour exécuter des noeuds et assurer la communication entre eux.
+
+Compétences acquises: Docker , Docker compose, Hadoop , Spark , Jupyter .
+
+Compétences
+
+Langages de 
+programmation
+
+C ,  Java , HTML5 , CSS3 , JavaScript , PHP , C# .
+
+Développement 
+embarqué 
+
+Arduino , VHDL.
+
+Frameworks SpringBoot, AngularJS ,  Laravel , Spark 
+
+Outils Eclipse , Netbeans , Dev C , Postman , Android Studio, Visual Studio Code , Visual Studio 2019.
+
+Langues Français : Courant
+Anglais : Courant
+Espagnol : Courant
+
+Platforme de
+gestion de
+
+rendement des
+supermarchés
+
+Une application web qui permet de gérer le stock  des produits des supermarchés et les contrôler
+en terme de quantité et de prix en développant une base de donnée.
+
+Compétences acquises: Laravel , PHP , PHPMydmin. .
+
+
+
+cleaned_text: green black minimalist resume nawres tajouri formation eleve ingenieur informatique appliquee sahline 5012 monastir tunisie naourestajouri gmail com 53335563 2019 2021 cycle ingenieur ecole nationale ingenieurs sousse 2016 2019 cycle preparatoire etudes ingenieurs faculte sciences monastir 2015 2016 baccalaureat section mathematiques lycee secondaire sahline projets site web statique creation site web jeux competences acquises html5 css3 javascript application web gestion donnees associations application web dynamique offre espaces extranet inscription authentification associations faciliter traitement donnees comme edition rapports financiers controle competences acquises spring boot java mysql postman gitlab creation cluster hadoop spark creation seule image docker contient systeme distribue hadoop micro service spark executer noeuds assurer communication entre competences acquises docker docker compose hadoop spark jupyter competences langages programmation java html5 css3 javascript php developpement embarque arduino vhdl frameworks springboot angularjs laravel spark outils eclipse netbeans dev postman android studio visual studio code visual studio 2019 langues francais courant anglais courant espagnol courant platforme gestion rendement supermarches application web permet gerer stock produits supermarches controler terme quantite prix developpant base donnee competences acquises laravel php phpmydmin
+mobile_number: 5333556
+email: naourestajouri@gmail.com
+skills: ['Php', 'Communication', 'Javascript', 'Android', 'Mysql', 'Jupyter', 'Hadoop', 'Spark', 'C', 'Html5', 'Visual', 'Java', 'Docker']
+skills_text: Php Communication Javascript Android Mysql Jupyter Hadoop Spark C Html5 Visual Java Docker
+Category: IT

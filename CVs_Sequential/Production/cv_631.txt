@@ -1,0 +1,8 @@
+=== CV 631 ===
+text: Nadia Roche
+cleaned_text: nadia roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 78723049
+email: nadia.roche@example.com
+skills: ['Marketing', 'Python', 'C++', 'Java', 'Finance']
+skills_text: Marketing Python C++ Java Finance
+Category: Production

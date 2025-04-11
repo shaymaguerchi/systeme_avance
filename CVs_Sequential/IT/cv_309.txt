@@ -1,0 +1,338 @@
+=== CV 309 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IHSSEN ROUAHI 
+ 
+
+ ihssen.rouahi@etudiant-enit.utm.tn            Issy les Moulineaux, France 
+
+    06 67 61 96 39                                                        
+
+    Date de naissance 30/05/1994 
+
+EXPERIENCE 
+ 
+
+ ComThings : Ingénieur systèmes embarqués  
+
+Mars 2020 – Sept 2020 (6 mois)           Nice, France 
+
+• Développement sur microcontrôleur Intel 8051 et Nordic nrf51 : 
+
+- Développement du Firmware d’un SoC Intel 8051  
+
+- Développement des fonctionnalités d’émission et réception RF grâce 
+
+à un transceiver embarqué  
+
+- Développement du Firmware sur ARM Cortex M0 et gérer la 
+
+communication UART avec le microcontrôleur Intel 8051 
+
+- Développement des drivers (UART, SPI, I2C). 
+
+- Débogage Hardware ( CC debugger, JTAG, Logical Analyser…)  
+
+- Développement des tests unitaires en Python 
+
+  
+
+4MOD Technology : Ingénieur Développement logiciel embarqué 
+
+   Mars 2019 – Aout 2019 (6 mois)             Bordeaux, France  
+
+• Développement d’une solution de communication embarquée permettant 
+
+de connecter un système de géolocalisation au Cloud via MQTT : 
+
+-  Développement du Firmware temps-réel d’un SoC ESP-WROOM-02 
+
+- Gérer la communication UART du SoC ESP-WROOM-02 avec un 
+
+microcontrôleur Nordic nrf52 
+
+-  Développement d’une application de test sous Windows  
+
+-  Conception et développement de son architecture SaaS   
+
+ 
+
+PROJETS 
+ 
+
+•  IoT : 
+
+- La conception d’un système de conditionnement de température    connecté 
+
+pour un magasin de composants CMS 
+
+• Ordonnancement temps réel sous LITMUS-RT(extension de Linux) : 
+
+- Développement d’un noyau temps-réel pour le faire supporter un 
+
+ordonnancement global basé sur la réservation des tables 
+
+  • Traitement de signal : 
+
+- Développer et implémenter un détecteur oculaire sur une carte Raspberry Pi 
+
+pour estimer l'état d'ouverture des yeux 
+
+•  Systèmes d’exploitation : 
+
+- Implémentation d'un émetteur-récepteur de code Morse dans le noyau Linux 
+
+-                                                                    
+
+ 
+ 
+
+SOFT SKILLS 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+
+  
+
+COMPETENCES 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+                                                       
+ 
+
+   
+ 
+ 
+ 
+
+EDUCATION 
+ 
+
+Master 2 Systèmes embarqués et 
+traitement de l’information 
+
+Université Paris Sud 
+       2019 – 2020   
+ 
+
+Diplôme National d’Ingénieur en 
+Génie Electrique  
+
+Ecole National d’Ingénieurs de Tunis  
+(ENIT) 
+
+       2016 – 2019  
+ 
+
+Cycle préparatoire  
+
+Institut Préparatoire aux Etudes 
+d’Ingénieurs de Monastir 
+
+   2014 – 2016 
+
+ 
+
+Diplôme de Baccalauréat   
+
+Lycée Khair-Eddine bacha Ariana  
+
+   2014 
+
+INTERESTS 
+ 
+
+Astronomie 
+
+Ancien vice-président du club AstroENIT 
+
+•   Organiser des évènements pour observer les 
+
+phénomènes astronomiques  
+
+• Vulgariser les notions d’astronomie et 
+
+d’astrophysique  
+
+LANGUES 
+ 
+
+Français      Bilingue  
+
+Anglais  Courant
+
+ 
+
+C Python RF Intel 8051 nRF51 UART SPI I2C 
+
+IoT C FREE RTOS Temps-réel  UART MQTT HTML 
+
+Node-RED Eclipse Cloud C# JavaScript PostgreSQL CSS 
+
+Travail en équipe Créativité 
+
+Autonomie  Capacité d’adaptation  
+
+Motivation  Capacité d’apprentissage  
+
+C C++ Python PostgreSQL MySQL 
+
+Linux Node-RED PIC STM32 IoT 
+
+FREE RTOS Microcontrôleur Matlab 
+
+linkedin.com/in/ihssenrouahi/ 
+
+mailto:ihssen.rouahi@
+https://www.linkedin.com/in/ihssen-rouahi-8a73b7145?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BykEAZHn6TZ2uPz20tWwicw%3D%3D
+
+	EXPERIENCE
+	ComThings : Ingénieur systèmes embarqués
+	4MOD Technology : Ingénieur Développement logiciel embarqué
+
+	PROJETS
+	•  IoT :
+	- La conception d’un système de conditionnement de température    connecté pour un magasin de composants CMS
+	• Ordonnancement temps réel sous LITMUS-RT(extension de Linux) :
+	- Développement d’un noyau temps-réel pour le faire supporter un ordonnancement global basé sur la réservation des tables
+	• Traitement de signal :
+	- Développer et implémenter un détecteur oculaire sur une carte Raspberry Pi pour estimer l'état d'ouverture des yeux
+	•  Systèmes d’exploitation :
+	- Implémentation d'un émetteur-récepteur de code Morse dans le noyau Linux
+	-
+
+	SOFT SKILLS
+	EDUCATION
+	Master 2 Systèmes embarqués et traitement de l’information
+	Université Paris Sud
+
+	Diplôme National d’Ingénieur en Génie Electrique
+	Ecole National d’Ingénieurs de Tunis  (ENIT)
+
+	Cycle préparatoire
+	Institut Préparatoire aux Etudes d’Ingénieurs de Monastir
+	   2014 – 2016
+
+	Diplôme de Baccalauréat
+	Lycée Khair-Eddine bacha Ariana
+	   2014
+
+	Astronomie
+	Ancien vice-président du club AstroENIT
+	•   Organiser des évènements pour observer les phénomènes astronomiques
+	• Vulgariser les notions d’astronomie et d’astrophysique
+	Français      Bilingue
+	Anglais  Courant
+
+
+
+
+cleaned_text: ihssen rouahi ihssen rouahi etudiant enit utm tn issy moulineaux france 06 67 61 96 39 date naissance 30 05 1994 experience comthings ingenieur systemes embarques mars 2020 sept 2020 6 mois nice france developpement microcontroleur intel 8051 nordic nrf51 developpement firmware soc intel 8051 developpement fonctionnalites emission reception rf grace transceiver embarque developpement firmware arm cortex m0 gerer communication uart microcontroleur intel 8051 developpement drivers uart spi i2c debogage hardware cc debugger jtag logical analyser developpement tests unitaires python 4mod technology ingenieur developpement logiciel embarque mars 2019 aout 2019 6 mois bordeaux france developpement solution communication embarquee permettant connecter systeme geolocalisation cloud via mqtt developpement firmware temps reel soc esp wroom 02 gerer communication uart soc esp wroom 02 microcontroleur nordic nrf52 developpement application test sous windows conception developpement architecture saas projets iot conception systeme conditionnement temperature connecte magasin composants cms ordonnancement temps reel sous litmus rt extension linux developpement noyau temps reel faire supporter ordonnancement global base reservation tables traitement signal developper implementer detecteur oculaire carte raspberry pi estimer etat ouverture yeux systemes exploitation implementation emetteur recepteur code morse noyau linux soft skills competences education master 2 systemes embarques traitement information universite paris sud 2019 2020 diplome national ingenieur genie electrique ecole national ingenieurs tunis enit 2016 2019 cycle preparatoire institut preparatoire etudes ingenieurs monastir 2014 2016 diplome baccalaureat lycee khair eddine bacha ariana 2014 interests astronomie ancien vice president club astroenit organiser evenements observer phenomenes astronomiques vulgariser notions astronomie astrophysique langues francais bilingue anglais courant python rf intel 8051 nrf51 uart spi i2c iot free rtos temps reel uart mqtt html node red eclipse cloud javascript postgresql css travail equipe creativite autonomie capacite adaptation motivation capacite apprentissage python postgresql mysql linux node red pic stm32 iot free rtos microcontroleur matlab linkedin com ihssenrouahi mailto ihssen rouahi https www linkedin com ihssen rouahi 8a73b7145 lipi urn 3ali 3apage 3ad flagship3 profile view base contact details 3bykeazhn6tz2upz20twwicw 3d 3d experience comthings ingenieur systemes embarques 4mod technology ingenieur developpement logiciel embarque projets iot conception systeme conditionnement temperature connecte magasin composants cms ordonnancement temps reel sous litmus rt extension linux developpement noyau temps reel faire supporter ordonnancement global base reservation tables traitement signal developper implementer detecteur oculaire carte raspberry pi estimer etat ouverture yeux systemes exploitation implementation emetteur recepteur code morse noyau linux soft skills education master 2 systemes embarques traitement information universite paris sud diplome national ingenieur genie electrique ecole national ingenieurs tunis enit cycle preparatoire institut preparatoire etudes ingenieurs monastir 2014 2016 diplome baccalaureat lycee khair eddine bacha ariana 2014 astronomie ancien vice president club astroenit organiser evenements observer phenomenes astronomiques vulgariser notions astronomie astrophysique francais bilingue anglais courant
+mobile_number: 0
+email: ihssen.rouahi@etudiant-enit.utm.tn
+skills: ['Communication', 'Javascript', 'Matlab', 'Html', 'Cms', 'Mysql', 'Python', 'Css', 'Architecture', 'Saas', 'Linux', 'Cloud', 'C', 'Postgresql', 'Windows', 'C++', 'Hardware']
+skills_text: Communication Javascript Matlab Html Cms Mysql Python Css Architecture Saas Linux Cloud C Postgresql Windows C++ Hardware
+Category: IT

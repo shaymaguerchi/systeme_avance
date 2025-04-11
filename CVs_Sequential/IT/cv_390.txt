@@ -1,0 +1,201 @@
+=== CV 390 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+C ertification�
+
+Foundations for big data analysis with sql
+
+Coursera
+
+HTML & Css
+
+SoloLearn
+
+Data Base Fundamentals
+
+Microsoft
+
+Machine Learning with python
+
+IBM
+
+Langu�
+
+Anglais
+
+Intermédiaire
+
+Français
+
+Bilingue
+
+Arabe
+
+Langue maternelle
+
+VIE � S S O C I� TIVE
+
+Membre du club Python FSEGS
+
+Membre association magnolia
+
+Membre AIESEC Tunisia
+
+Membre MTC FSEGS
+
+C entr� �'intérê �
+
+Workout
+
+Théâtre
+
+Bénévole dans des associations
+
+Oumaima Souid
+
+Data Analyst
+Passionné par le développement web et analyse des données
+
+Diplôm� e � Formation�
+
+Mastère en sciences et ingénieries des données FSEG Sfax / Depuis 2019
+
+Licence fondamentale en informatique de gestion FSEG Sfax / De 2016 à 2019
+
+Expérienc� prof�sionne ll�
+
+Formatrice Association Magnolia Sfax / Depuis septembre 2020
+
+Enseigner des technologies  web 
+
+Stagiaire Développeur IT Trained Eye Sfax / De mars 2019 à juin 2019
+
+Développement un logiciel bureautique attachée a un réfectoire dans un lycée
+secondaire "Gestion des mouvements des stocks"
+
+Technologies : Sql server / Entity Framework / C#
+
+Stagiaire Développeur CREFOC Sfax / D'août 2018 à septembre 2018
+
+Conception et développement une application bureautique "gestion des formations".
+
+P roje t� académiqu�
+
+Data Analyst Data Mining FSEGS / Depuis novembre 2020
+
+Scraping des données de la chaine  YouTube de mercedes
+
+Analyse sentimental ,  prétraitement des données 
+
+Développeur Web FSEGS / Depuis novembre 2020
+
+Conception et développement un site  web " gestion des formations en ligne"
+
+Technologies : Django /Bootstrap /Sql server 
+
+Data Analyst Machine Learning FSEGS / D'avril 2020 à mai 2020
+
+Analyse dataset "covid 19" avec l'apprentissage  automatique supervisé 
+
+Manipuler et traiter les données en utilisant spyder
+
+Développeur JEE - / De mars 2020 à mai 2020
+
+Conception et développement d’une application web " gestion de stock"
+
+Technologies : Java EE / Spring boot(MVC) /Bootstrap /Sql server 
+
+C ompétenc�
+
+SI Data :
+
+Data Mining : scraping , visualisation , prétraitement ,  vectorisation ,évaluation
+
+Machine Learning : supervisé , non supervisé
+
+Business intelligence :  Ssas ,Ssis
+
+Big Data :  Hadoop, Hive , impalat , Flume ,NoSql ,Hbase ,Sqoop
+
+Langage de programmation :
+
+Java EE, Python, C, C#
+
+Technologie web :
+
+JQuery, HTML, Ajax, PHP, Css3, BootStrap ,Django
+
+Outils base de donnée :
+
+Oracle, SQL Server, MySQL, SQLite
+
+Outils développement :
+
+Microsoft Visual Studio, Eclipse,Dreamweaver , Spring Boot ,Pycharm 
+
+oumaima.souid16@gmail.com
+
+Permis de conduire
+
+0021627467259
+
+Tunisienne
+
+Sfax Tunis
+
+24 ans
+
+Oumaima_Souid Oumaima Souid software.engineer
+
+mailto:oumaima.souid16@gmail.com
+https://plus.google.com/sites.google.com/view/oumaima-souid/
+https://www.linkedin.com/in/oumaima-souid-8949371a2/
+https://www.instagram.com/oumaima.souid/
+
+
+cleaned_text: ertification foundations big data analysis sql coursera html css sololearn data base fundamentals microsoft machine learning python ibm langu anglais intermediaire francais bilingue arabe langue maternelle vie tive membre club python fsegs membre association magnolia membre aiesec tunisia membre mtc fsegs entr intere workout theatre benevole associations oumaima souid data analyst passionne developpement web analyse donnees diplom e formation mastere sciences ingenieries donnees fseg sfax depuis 2019 licence fondamentale informatique gestion fseg sfax 2016 2019 experienc profsionne formatrice association magnolia sfax depuis septembre 2020 enseigner technologies web stagiaire developpeur trained eye sfax mars 2019 juin 2019 developpement logiciel bureautique attachee refectoire lycee secondaire gestion mouvements stocks technologies sql server entity framework stagiaire developpeur crefoc sfax aout 2018 septembre 2018 conception developpement application bureautique gestion formations p roje academiqu data analyst data mining fsegs depuis novembre 2020 scraping donnees chaine youtube mercedes analyse sentimental pretraitement donnees developpeur web fsegs depuis novembre 2020 conception developpement site web gestion formations ligne technologies django bootstrap sql server data analyst machine learning fsegs avril 2020 mai 2020 analyse dataset covid 19 apprentissage automatique supervise manipuler traiter donnees utilisant spyder developpeur jee mars 2020 mai 2020 conception developpement application web gestion stock technologies java ee spring boot mvc bootstrap sql server ompetenc si data data mining scraping visualisation pretraitement vectorisation evaluation machine learning supervise non supervise business intelligence ssas ssis big data hadoop hive impalat flume nosql hbase sqoop langage programmation java ee python technologie web jquery html ajax php css3 bootstrap django outils base donnee oracle sql server mysql sqlite outils developpement microsoft visual studio eclipse dreamweaver spring boot pycharm oumaima souid16 gmail com permis conduire 0021627467259 tunisienne sfax tunis 24 ans oumaima souid oumaima souid software engineer mailto oumaima souid16 gmail com https plus google com sites google com view oumaima souid https www linkedin com oumaima souid 8949371a2 https www instagram com oumaima souid
+mobile_number: 0021627467
+email: oumaima.souid16@gmail.com
+skills: ['Php', 'Ibm', 'Html', 'Mysql', 'Hadoop', 'Oracle', 'Sql', 'Django', 'Css', 'P', 'Nosql', 'Hbase', 'Visual', 'Pycharm', 'Python', 'Analysis', 'Sql server', 'Hive', 'Spyder', 'Mining', 'C', 'Java']
+skills_text: Php Ibm Html Mysql Hadoop Oracle Sql Django Css P Nosql Hbase Visual Pycharm Python Analysis Sql server Hive Spyder Mining C Java
+Category: IT

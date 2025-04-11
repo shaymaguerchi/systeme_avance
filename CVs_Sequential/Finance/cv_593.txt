@@ -1,0 +1,8 @@
+=== CV 593 ===
+text: Mohamed Lefevre
+cleaned_text: mohamed lefevre cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 66498134
+email: mohamed.lefevre@example.com
+skills: ['CSS', 'Finance', 'Python']
+skills_text: CSS Finance Python
+Category: Finance

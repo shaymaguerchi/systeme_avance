@@ -1,0 +1,181 @@
+=== CV 216 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resume_RAHMA_BENSEGHAIER
+
+
+PROFESSIONAL EXPERIENCE
+
+Septembre-Decembre2021 BIG data Project:BI
+
+Fevrier-Avril2021:Conception and development of an 
+
+Septembre-Décembre 2020 Conception and development 
+
+Janvier-Fevrier2020 Conception and development of carpooling
+
+Septembre-Décembre 2019 Conception and programming of a
+
+Data analysis and modeling for restaurants and consumersin
+
+ Presence system for Students with RFID.
+
+Account managementsystem
+
+Technologie and Tools:Power_BI,Hbase.
+
+e-commerce site with an  admin and user dachboard.
+Technologie and tools:React,NodeJS,NextJS,MongoDB.
+
+of an e-commerce site for online sales.
+Technologies and tools: SYMFONY, MySQL.
+
+website.
+Technologies and tools: HTML,CSS, Bootstrap, PHP, MySQL.
+
+Java application for managing sales and purchasing.
+Technologies and tools: Java, StarUML,Eclipse,Netbeans.
+
+USA.
+Technologies andtools:Kaggle,ETL,MYSQL,Talend,data preparation
+,Tableau.
+
+ Technologies and tools: Raspberry Pi 3,RFID .
+
+Technologies and tools: Spring JBA Hibernate.
+
+Expert Skills
+
+Education History
+Engineering degree in computer science |2019 - 2022
+Polytechnique University of Sousse, Tunisia.
+Engineering degree in Mecatronique |2011 - 2012
+ENICAR tunis ,Tunisia.
+Bachelor's degree in Electrical Engineering : Automation and
+Industrial Computing | 2008 - 2011
+Higher Institute of Technological Studies Tunis.
+Technical Baccalaureate Mathematique |2008 
+High School Taher Sfar ,Sousse
+
+Rahma Ben Seghaier
+Computer engineering student looking for a end-
+of-study project internship from February 2022.
+
++216 56540106
++216 93969959
+
+Sousse-Tunisie
+
+Work Experience
+
+Contact
+
+SOFTWARE ENGINEER
+
+Establishment of containerization services and development
+of micro-services adapted and relevant for our partners
+(Docker, APIManagement).
+Implementation of a continuous integration and management
+platform configuration with tools (Git, Ansible).
+conception,production and maintenance of applications
+intended for datawarehouses of customers (PowerBi,Tableau,
+Talend, jupiter , Orange ).
+conception and development of WEBsites (HTML, CSS,
+Angular10,PHP).
+
+ACADEMIC PROJECTS
+
+GPRO CONSULTING | 2013 - 2018
+
+Languages and Frameworks Python,JavaScript,Java, C,PHP,
+Angular, ReactJs ,Laravel, Hadoop, JEE, Spring Boot.
+Operating System : Windows, Linux(Ubuntu)
+Conception : UML
+Data Base: MySQL, MongoDB, Firebase , Oracle
+Project Management Tools: Git, GitHub
+Electronic Cart: Arduino, Raspberry PI,ESP32
+Software : Android studio ,Power Bi , Talend, Pentaho ,Tableau
+,Jupiter Notebook, SWI-Prolog , Arduino cloud.
+
+GPRO Consulting | Summer Internship full-stack developer 
+Juilllet 2021 - Septembre 2021
+ • Conception and development Website e-commerce.
+Technologies and tools: Angular9 ,NodeJS , MongoDB, ExpressJS .
+Tunisian Electricity and Gaz company STEG | End of studies internship
+January 2011. 
+• Etude, Conception and implementation of a prototype of the
+emergency turning system. 
+Technologies and tools: Arduino Méga, sensors ,DC Motor 
+
+Social Life
+Member | Club Microsoft Polytechnique 2021.
+Member | Club NATEG Polytechnique 2020.
+Member | Club Robotique ENICAR 2012.
+
+LANGUAGES
+English :Upper Intermediate 
+French : Current (Diploma DELF B2) 
+Deutsch: skills B1 
+
+CENTRE OF INTEREST
+Reading ,Gym and Travel
+
+rahmabenseghaier@gmail.com
+
+
+
+cleaned_text: resume rahma benseghaier professional experience septembre decembre2021 big data project bi fevrier avril2021 conception development septembre decembre 2020 conception development janvier fevrier2020 conception development carpooling septembre decembre 2019 conception programming data analysis modeling restaurants consumersin presence system students rfid account managementsystem technologie tools power bi hbase e commerce site admin user dachboard technologie tools react nodejs nextjs mongodb e commerce site online sales technologies tools symfony mysql website technologies tools html css bootstrap php mysql java application managing sales purchasing technologies tools java staruml eclipse netbeans usa technologies andtools kaggle etl mysql talend data preparation tableau technologies tools raspberry pi 3 rfid technologies tools spring jba hibernate expert skills education history engineering degree computer science 2019 2022 polytechnique university sousse tunisia engineering degree mecatronique 2011 2012 enicar tunis tunisia bachelor degree electrical engineering automation industrial computing 2008 2011 higher institute technological studies tunis technical baccalaureate mathematique 2008 high school taher sfar sousse rahma ben seghaier computer engineering student looking end study project internship february 2022 216 56540106 216 93969959 sousse tunisie work experience contact software engineer establishment containerization services development micro services adapted relevant partners docker apimanagement implementation continuous integration management platform configuration tools git ansible conception production maintenance applications intended datawarehouses customers powerbi tableau talend jupiter orange conception development websites html css angular10 php academic projects gpro consulting 2013 2018 languages frameworks python javascript java php angular reactjs laravel hadoop jee spring boot operating system windows linux ubuntu conception uml data base mysql mongodb firebase oracle project management tools git github electronic cart arduino raspberry pi esp32 software android studio power bi talend pentaho tableau jupiter notebook swi prolog arduino cloud gpro consulting summer internship full stack developer juilllet 2021 septembre 2021 conception development website e commerce technologies tools angular9 nodejs mongodb expressjs tunisian electricity gaz company steg end studies internship january 2011 etude conception implementation prototype emergency turning system technologies tools arduino mega sensors dc motor social life member club microsoft polytechnique 2021 member club nateg polytechnique 2020 member club robotique enicar 2012 languages english upper intermediate french current diploma delf b2 deutsch skills b1 centre interest reading gym travel rahmabenseghaier gmail com
+mobile_number: 216 5654010
+email: rahmabenseghaier@gmail.com
+skills: ['Php', 'Tableau', 'Android', 'Html', 'Mysql', 'Github', 'English', 'Hadoop', 'Consulting', 'Cloud', 'System', 'Oracle', 'Electrical engineering', 'Ansible', 'Javascript', 'Etl', 'Css', 'Modeling', 'Hbase', 'Data analysis', 'French', 'Engineering', 'Automation', 'Python', 'Analysis', 'Travel', 'Electrical', 'Website', 'Orange', 'Sales', 'Programming', 'Prototype', 'Purchasing', 'C', 'Windows', 'Computer science', 'Java', 'Docker', 'Technical']
+skills_text: Php Tableau Android Html Mysql Github English Hadoop Consulting Cloud System Oracle Electrical engineering Ansible Javascript Etl Css Modeling Hbase Data analysis French Engineering Automation Python Analysis Travel Electrical Website Orange Sales Programming Prototype Purchasing C Windows Computer science Java Docker Technical
+Category: IT

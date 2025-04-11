@@ -1,0 +1,8 @@
+=== CV 768 ===
+text: Hugo Dupont
+cleaned_text: hugo dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 51756418
+email: hugo.dupont@example.com
+skills: ['CSS', 'Linux', 'Windows', 'Python', 'HTML']
+skills_text: CSS Linux Windows Python HTML
+Category: IT

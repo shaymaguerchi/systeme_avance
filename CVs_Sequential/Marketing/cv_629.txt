@@ -1,0 +1,8 @@
+=== CV 629 ===
+text: Fatima Moreau
+cleaned_text: fatima moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 31064266
+email: fatima.moreau@example.com
+skills: ['Java', 'SQL', 'HTML', 'Finance', 'Windows', 'C++']
+skills_text: Java SQL HTML Finance Windows C++
+Category: Marketing

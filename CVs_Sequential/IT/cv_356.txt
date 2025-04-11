@@ -1,0 +1,115 @@
+=== CV 356 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ihsen DRINE
+5, Quai Blanqui – 94140 Alfortville
+
+ (+33) 7 58 41 31 18 |  ihsen.drine@etu.u-pec.fr |  ihssenedr |  drineih
+
+“Be the change that you want to see in the world.”
+
+À propos demoi
+Ouvert d’esprit Sociable Dynamique Polyvalent Organisé Motivé Sens de l’écoute
+
+Formations et Diplômes
+Université Paris‑Est Créteil (UPEC) Paris, France
+MASTER EN INTELLiGENCE ARTiFiCiELLE, SCiENCES DES DONNÉES ET SYSTÈMES CYBERPHYSiQUES Octobre. 2020 ‑ Septembre. 2021
+
+Faculté des Sciences Economiques et de Gestion (FSEG) Sfax, Tunisie
+MASTER EN SCiENCE ET iNGÉNiERiE DES DONNÉES Septembre. 2018 ‑ Juilet. 2020
+
+Faculté des Sciences Economiques et de Gestion (FSEG) Sfax, Tunisie
+LiCENCE EN INFORMATiQUE APPLiQUÉE À LA GESTiON Septembre. 2015 ‑ Juilet. 2018
+
+Experience
+ALL SOFT MULTIMEDIA Sfax, Tunisia
+DÉVELOPPEUR MOBiLE Février. 2020 ‑ Octobre. 2020 (9 mois)
+• Conception, développement et intégration d’applications mobiles
+
+Magicmirror : est une applicationmobile sous android enmode plein écran dans unemirror. Elle permet de visualiser l’horloge ,conditions
+météorologiques, aussi faire le video streaming avec une application mobile
+Cover Mobile : Cette application mobile qui est destinée aux vendeurs de menuiserie extérieure pour gérer leurs prospects, clients, offres et
+
+devis avec la possibilité de l’utiliser en mode hors ligne.
+
+Android Gitlab Ci/CD Jira Git
+
+ALL SOFT MULTIMEDIA Sfax, Tunisia
+STAGAiRE PFE MASTER Février. 2020 – May. 2020 (4 mois)
+• Conception et développement d’un systéme de detection automatique des produits du point vente par la vision de l’ordinateur
+
+Python TensorFlow YOLO Darknet Flask Rest Api Ionic 4 Angular 8
+
+DSO Services Sfax,Tunisie
+DÉVELOPPEUR MOBiLE Avril. 2019 – Février. 2020 (11 mois)
+• Conception, développement et intégration d’applications mobiles
+
+Feamzy : Cette application mobile qui est destinée aux parents pour l’organisation scolaire des enfants.
+YWP Football : une application mobile permet aux joueurs junior de créer leurs CV et participer au test technique organisé par les clubs.
+
+Android Android Gitlab Ci/CD Jira Git Ionic Angular NodeJS Graphql Postgres
+
+Skills
+DATA SCIENCE Hadoop, hive, hbase, flume, Spark,Scikit‑learn, Python, Tensorflow, Keras
+
+Back‑end SpringBoot, Nestjs, Django, REST API, Graphql
+Front‑end Angular, Android, Ionic, NGRX, DJANGO
+
+Programming TypeScript, Python, JAVA, JavaScript, PHP
+SGBD Mysql, Postgres, Oracle, mongodb
+
+OUTIL DE DÉVELOPPEMENT AndroidStudio, WebStorm, IntelliJIdea,PyCharm, Git, Git Extensions,Jira
+Languages Arabe, Français, Anglais
+
+JANUARY 4, 2021 IHSEN DRiNE · CURRiCULUM ViTAE 1
+
+mailto:ihsen.drine@etu.u-pec.fr
+https://github.com/ihssenedr
+https://www.linkedin.com/in/drineih
+
+
+VIE ASSOCIATIVE
+2019 TEDxSfaxUniversity, Membre organisateur Sfax, Tunisie
+2018 BILFSEGS, Membre organisateur Sfax, Tunisie
+
+JANUARY 4, 2021 IHSEN DRiNE · CURRiCULUM ViTAE 2
+
+
+
+cleaned_text: ihsen drine 5 quai blanqui 94140 alfortville 33 7 58 41 31 18 ihsen drine etu u pec fr ihssenedr drineih change want see world propos demoi ouvert esprit sociable dynamique polyvalent organise motive sens ecoute formations diplomes universite paris creteil upec paris france master intelligence artificielle sciences donnees systemes cyberphysiques octobre 2020 septembre 2021 faculte sciences economiques gestion fseg sfax tunisie master science ingenierie donnees septembre 2018 juilet 2020 faculte sciences economiques gestion fseg sfax tunisie licence informatique appliquee gestion septembre 2015 juilet 2018 experience soft multimedia sfax tunisia developpeur mobile fevrier 2020 octobre 2020 9 mois conception developpement integration applications mobiles magicmirror applicationmobile sous android enmode plein ecran unemirror permet visualiser horloge conditions meteorologiques aussi faire video streaming application mobile cover mobile cette application mobile destinee vendeurs menuiserie exterieure gerer leurs prospects clients offres devis possibilite utiliser mode hors ligne android gitlab ci cd jira git soft multimedia sfax tunisia stagaire pfe master fevrier 2020 may 2020 4 mois conception developpement systeme detection automatique produits point vente vision ordinateur python tensorflow yolo darknet flask rest api ionic 4 angular 8 dso services sfax tunisie developpeur mobile avril 2019 fevrier 2020 11 mois conception developpement integration applications mobiles feamzy cette application mobile destinee parents organisation scolaire enfants ywp football application mobile permet joueurs junior creer leurs cv participer test technique organise clubs android android gitlab ci cd jira git ionic angular nodejs graphql postgres skills data science hadoop hive hbase flume spark scikit learn python tensorflow keras back end springboot nestjs django rest api graphql front end angular android ionic ngrx django programming typescript python java javascript php sgbd mysql postgres oracle mongodb outil developpement androidstudio webstorm intellijidea pycharm git git extensions jira languages arabe francais anglais january 4 2021 ihsen drine curriculum vitae 1 mailto ihsen drine etu u pec fr https github com ihssenedr https www linkedin com drineih vie associative 2019 tedxsfaxuniversity membre organisateur sfax tunisie 2018 bilfsegs membre organisateur sfax tunisie january 4 2021 ihsen drine curriculum vitae 2
+mobile_number: 019 2018
+email: ihsen.drine@etu.u-pec.fr
+skills: ['Php', 'Tensorflow', 'Android', 'Mobile', 'Mysql', 'Hadoop', 'Oracle', 'Magic', 'Video', 'Javascript', 'Django', 'Hbase', 'Pycharm', 'Python', 'Keras', 'Hive', 'Jira', 'Rest', 'Programming', 'Spark', 'Java', 'Api', 'Flask']
+skills_text: Php Tensorflow Android Mobile Mysql Hadoop Oracle Magic Video Javascript Django Hbase Pycharm Python Keras Hive Jira Rest Programming Spark Java Api Flask
+Category: IT

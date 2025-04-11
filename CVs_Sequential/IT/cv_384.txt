@@ -1,0 +1,195 @@
+=== CV 384 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MARWA ZAHAR
+Développeur Javascript Full Stack
+[ zahar.marwa.13@gmail.com Ó +216 22905539
+¯ MarwaZhr � MarwaZhr
+
+MA PHILOSOPHIE
+“La recette magique du succès : Un peu
+de motivation + Beaucoup de
+persévérance.”
+
+SOFT SKILLS
+3
+
+Être persévéranteJe n’abandonne jamais dans une tâchedonnée.
+`
+
+S’adapter aux changementsChanger de carrière a été un granddéfi pour moi et je suis fière de ne pasavoir abandonné.
+
+ÉDUCATION
+Ingénieur en Biologie Industrielle
+Institut national des sciences appliquées et
+de technologie (INSAT), TUNISIE
+� 2018
+
+CERTIFICATIONS
+Full Stack Javascript
+RBK- HACK REACTOR - cours immersif
+� Mars-Août 2021
+
+TECHNICAL SKILLS
+Langage et frameworks : Javascript,Typescript, Next js, Ionic, Express jsBootstrap, tailwinds
+Databases : MySQL, MongoDB, Mongoose
+Libraries : React, jQUERY
+Autres : HTML, CSS, Nodejs, axios, Git,
+Heroku
+
+EXPERIENCE
+Développeur Front-End et Testeur QA
+Chambi Eagle Technology
+� Janvier 2022 - en cours ½ Tunis
+• Faire des meetings avec le client et définir ses besoins.
+• Expliquer les fonctionnalités à l’équipe.
+• Rédaction du cahier des charges et des case scenario.
+• Gestion des tickets Gitlab.
+• Rédaction des tests plans.
+• Tester les services back-End et les fonctionnalités du CRM.
+• Développement d’une section du CRM.
+
+Développeur Front-End
+Freelance
+� Durée: 3 semaines, Équipe: 2 membres, Rôle: scrum master
+• Création du front-end d’un site e-commerce.
+• Utilisation d’un template pour le css. .
+• Création de la section chariot.
+• Création de la page d’accueil.
+• Création de la section boutique.
+• Création de la section ajout d’article.
+• Création de la section notification.
+Technologies: Javascript, Next js, React js
+Agent administratif
+Esprit School of business
+� Août 2020 - Mars 2021 ½ Tunis
+• Planification des emplois du temps des élèves et des enseignants.
+• Gestion de l’inscription des étudiants.
+• Analyses statistiques des données.
+• Contrôle des absences des élèves et des enseignants.
+• Validation des heures de travail des enseignants.
+
+Coordinatrice
+Re-searchlight
+� Sept 2018 - Sept 2019 ½ Tunis
+• Pharmacovigilance : J’informe le laboratoire des événementsindésirables déclarés par les patients.
+• Suivi du patient : Je fais un suivi des patients tout au long de leurtraitement et je les sensibilise sur la manière d’administration dutraitement.
+• Planning terrain : Je planifie les sorties terrain des éducateurs.
+• Gestion des stocks et gestion des rapports.
+
+
+
+EXPERIENCE
+PERSONNELLE
+National Robotics Day
+Member de l’équipe EXPOSITION
+� 2017
+Middle East SYP Congress
+Participante
+� 2017
+IEEE’s On Energy
+Membre de l’équipe Media
+� 2016
+National Aeronautics Day
+Membre
+� 2016
+
+LANGUES
+Anglais : IntermédiaireFrançais : IntermédiaireArabe : Native
+
+PROJETS
+PROJET-CHEERS
+Une application mobile qui pemret aux utilisateurs de créer et de
+participer à des événements.
+� Durée: 1 mois, Équipe: 4 membres, Rôle: développeur
+• Utilisation de la méthodologie Agile (Scrum master et project owner).
+• Conception de UI de l’application mobile.
+• Ajout du paiement en ligne avec l’API Konnect. .
+• Création de la partie Admin de l’application mobile.
+• Création de la section ajout d’événement.
+• Création de la section favoris.
+• Utilisation de l’opération CRUD dans le back end.
+Technologies: Ionic, Javascript, Typescript, MySQL, Nodejs, express,axios, React
+PROJET-FIC
+Projet E-commerce.
+� Durée: 2 semaines, Équipe: 3 membres, Rôle: Scrum master
+• Être le Scrum master de l’équipe.
+• Rédaction des user stories et des critères d’acceptation.
+• Création de la section Rating Reviews.
+• Déploiement de la page sur Heroku.
+Technologies: React, Javascript, axios, Heroku, firebase, tailwinds
+PROJET-ESCAPE
+Une platforme web qui permet aux campeurs d’acheter ou de vendre
+des équipements de camping.
+� Durée: 1 semaine, Équipe: 4 membres, Rôle: Project owner
+• Être le project owner de l’équipe.
+• Création de la page d’accueil.
+• Création de la section chariot.
+• Création de la section store avec un filtre et une barre de recherche.
+• Ajout du paiement en ligne avec stripe.
+Technologies: React, Javascript, MySQL, Nodejs, express, axios,Bootstrap
+
+
+
+cleaned_text: marwa zahar developpeur javascript full stack zahar marwa 13 gmail com 216 22905539 marwazhr marwazhr philosophie recette magique succes peu motivation beaucoup perseverance soft skills 3 etre perseveranteje abandonne jamais tachedonnee adapter changementschanger carriere ete granddefi fiere pasavoir abandonne education ingenieur biologie industrielle institut national sciences appliquees technologie insat tunisie 2018 certifications full stack javascript rbk hack reactor cours immersif mars aout 2021 technical skills langage frameworks javascript typescript next js ionic express jsbootstrap tailwinds databases mysql mongodb mongoose libraries react jquery autres html css nodejs axios git heroku experience developpeur front end testeur qa chambi eagle technology janvier 2022 cours 1 2 tunis faire meetings client definir besoins expliquer fonctionnalites equipe redaction cahier charges case scenario gestion tickets gitlab redaction tests plans tester services back end fonctionnalites crm developpement section crm developpeur front end freelance duree 3 semaines equipe 2 membres role scrum master creation front end site e commerce utilisation template css creation section chariot creation page accueil creation section boutique creation section ajout article creation section notification technologies javascript next js react js agent administratif esprit school business aout 2020 mars 2021 1 2 tunis planification emplois temps eleves enseignants gestion inscription etudiants analyses statistiques donnees controle absences eleves enseignants validation heures travail enseignants coordinatrice searchlight sept 2018 sept 2019 1 2 tunis pharmacovigilance informe laboratoire evenementsindesirables declares patients suivi patient fais suivi patients tout long leurtraitement sensibilise maniere administration dutraitement planning terrain planifie sorties terrain educateurs gestion stocks gestion rapports experience personnelle national robotics day member equipe exposition 2017 middle east syp congress participante 2017 ieee energy membre equipe media 2016 national aeronautics day membre 2016 langues anglais intermediairefrancais intermediairearabe native projets projet cheers application mobile pemret utilisateurs creer participer evenements duree 1 mois equipe 4 membres role developpeur utilisation methodologie agile scrum master project owner conception ui application mobile ajout paiement ligne api konnect creation partie admin application mobile creation section ajout evenement creation section favoris utilisation operation crud back end technologies ionic javascript typescript mysql nodejs express axios react projet fic projet e commerce duree 2 semaines equipe 3 membres role scrum master etre scrum master equipe redaction user stories criteres acceptation creation section rating reviews deploiement page heroku technologies react javascript axios heroku firebase tailwinds projet escape platforme web permet campeurs acheter vendre equipements camping duree 1 semaine equipe 4 membres role project owner etre project owner equipe creation page accueil creation section chariot creation section store filtre barre recherche ajout paiement ligne stripe technologies react javascript mysql nodejs express axios bootstrap
+mobile_number: 216 2290553
+email: zahar.marwa.13@gmail.com
+skills: ['Js', 'Javascript', 'Html', 'Mysql', 'Mobile', 'Scrum', 'Agile', 'Css', 'Ui', 'Crm', 'Technical']
+skills_text: Js Javascript Html Mysql Mobile Scrum Agile Css Ui Crm Technical
+Category: IT

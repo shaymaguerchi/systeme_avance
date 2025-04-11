@@ -1,0 +1,203 @@
+=== CV 407 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cvexemple.com © Tous droits réservés
+
+
+A PROPOS DE MOI 
+
+Linkedin.com/ nour-ben-
+
+masseoud
+
++216 50 097 972
+
+benmasseoudnour@gmail.com
+
+kelibia, Nabeul
+
+Consultante en Informatique Décisionnelle,
+
+motivée et dotée d'une expérience dans le domaine IT et spécialisée
+
+dans les solutions Business Intelligence. Je suis impatiente d‘être mis
+
+au défi et d'acquérir de l'expérience afin de développer
+
+continuellement mes compétences professionnelles et aussi de
+
+contribuer à la réussite des tâches qui me seront confiées.
+
+Je suis à la recherche d'un CDI ASAP.
+
+EXPERIENCES PROFESSIONNELLES 
+
+FORMATIONS ET PERFECTIONNEMENTS
+
+COMPÉTENCES
+
+LANGUES
+• Arabe : Maternelle
+
+• Français : Courant
+
+• Anglais : Notion de base
+
+CENTRES D’INTERET
+
+Février – Juin 2019
+
+PROJET DE FIN D’ETUDES MASTER| Ooredoo Tunisie, Direction
+
+Marketing, Equipe DataMining
+
+« La mise en place des solutions décisionnelles pour la collecte des données 
+
+digitales de l’appli MyOoredoo » :
+
+• Concevoir, implémenter et optimiser l'intégration des flux dans  le 
+
+datamart.
+
+• Exploitation des données issues de la base de données de l’application
+
+MyOoredoo.
+
+• Développement des flux ETL.
+
+• Développement des Dashboard et rapports.
+
+Compétences acquises : SQL | Tableau Software| SAS Entreprise 
+
+Guide.
+
+Janvier-Avril 2016 
+
+PROJET DE FIN D’ETUDES | Boite de développements "Best Web“
+
+« Développement d’une application web de gestion d'une recette de cuisine »
+
+Compétences acquises : PHP | HTML | CSS | JS | WampServer | 
+
+StarUML.
+
+Juillet 2015
+
+Stage PFA (Projet Fin D’Année) | Tunisie Télécom
+
+• Maintenance des lignes des abonnés : Test, mesure surveillance 
+
+des lignes.
+
+2013-2016: Licence Fondamentale en Science de l'Informatique, Institut 
+
+Supérieur D’Informatique du Kef
+
+2017-2020: Master professionnel en ingénierie des systèmes 
+
+d’information et des connaissances, Faculté des Sciences Economiques et 
+
+de Gestion de Nabeul (FSEG).
+
+• Outils ETL : SSIS, Talend, SAS 
+Entreprise Guide
+
+• Outils Reporting : Power BI, Qlick
+View, Tableau software
+
+• SGBD : SQLServer, PostgreSQL,  
+
+• MongoDB, MySQL, Oracle 
+Database
+
+• PROGRAMMATION ORIENTE OBJET 
+:  Java, PHP, XML 
+
+• FRAMEWORKS :  Symfony
+
+• Lecture
+
+• Voyage
+
+• Sport
+
+Juillet 2014
+
+Stage D’ETE| La poste Tunisienne
+
+BEN MASSEOUD 
+
+Nour
+Consultante en Business 
+
+Intelligence Junior
+
+PROJETS ACADEMIQUES 
+Projet Business Intelligence:
+
+• Processus ETL
+
+• Modélisation et création d’un DataMart
+
+• Construction des reporting et des tableaux de bord 
+
+Mots-clés : PostgreSQL,Talend, Microsoft Power BI
+
+mailto:benmasseoudnour@gmail.com
+
+
+cleaned_text: cvexemple com tous droits reserves propos linkedin com nour ben masseoud 216 50 097 972 benmasseoudnour gmail com kelibia nabeul consultante informatique decisionnelle motivee dotee experience domaine specialisee solutions business intelligence impatiente etre mis defi acquerir experience afin developper continuellement competences professionnelles aussi contribuer reussite taches confiees recherche cdi asap experiences professionnelles formations perfectionnements competences langues arabe maternelle francais courant anglais notion base centres interet fevrier juin 2019 projet fin etudes master ooredoo tunisie direction marketing equipe datamining mise place solutions decisionnelles collecte donnees digitales appli myooredoo concevoir implementer optimiser integration flux datamart exploitation donnees issues base donnees application myooredoo developpement flux etl developpement dashboard rapports competences acquises sql tableau software sas entreprise guide janvier avril 2016 projet fin etudes boite developpements best web developpement application web gestion recette cuisine competences acquises php html css js wampserver staruml juillet 2015 stage pfa projet fin annee tunisie telecom maintenance lignes abonnes test mesure surveillance lignes 2013 2016 licence fondamentale science informatique institut superieur informatique kef 2017 2020 master professionnel ingenierie systemes information connaissances faculte sciences economiques gestion nabeul fseg outils etl ssis talend sas entreprise guide outils reporting power bi qlick view tableau software sgbd sqlserver postgresql mongodb mysql oracle database programmation oriente objet java php xml frameworks symfony lecture voyage sport juillet 2014 stage ete poste tunisienne ben masseoud nour consultante business intelligence junior projets academiques projet business intelligence processus etl modelisation creation datamart construction reporting tableaux bord mots cles postgresql talend microsoft power bi mailto benmasseoudnour gmail com
+mobile_number: 013-2016
+email: benmasseoudnour@gmail.com
+skills: ['Php', 'Tableau', 'Reporting', 'Mysql', 'Html', 'Marketing', 'Oracle', 'Etl', 'Database', 'Sql', 'Css', 'Xml', 'Construction', 'Mis', 'Postgresql', 'Cuisine', 'Js', 'Java', 'Sas']
+skills_text: Php Tableau Reporting Mysql Html Marketing Oracle Etl Database Sql Css Xml Construction Mis Postgresql Cuisine Js Java Sas
+Category: IT

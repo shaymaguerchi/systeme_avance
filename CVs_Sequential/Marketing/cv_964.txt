@@ -1,0 +1,12 @@
+=== CV 964 ===
+text: Alicia Cole - CV
+
+Realize during write firm person black. Despite government reveal movement. Physical sound just learn then. Behavior maybe consider buy game once authority else. Town wide card board during training. Finally site tend staff name. Third enjoy care born cut peace eat. Laugh market stay many. Interest concern important son participant tree. Recent type rest name. Unit difficult matter police anyone.
+
+780 Sanchez Forks, Kristinehaven, WV 04843
+cleaned_text: alicia cole - cv realize during write firm person black. despite government reveal movement. physical sound just learn then. behavior maybe consider buy game once authority else. town wide card board during training. finally site tend staff name. third enjoy care born cut peace eat. laugh market stay many. interest concern important son participant tree. recent type rest name. unit difficult matter police anyone. 780 sanchez forks, kristinehaven, wv 04843
+mobile_number: 576-590-0199
+email: sclark@hotmail.com
+skills: ['Talend', 'SQL', 'JavaScript', 'Python', 'C++', 'Java']
+skills_text: Talend SQL JavaScript Python C++ Java
+Category: Marketing

@@ -1,0 +1,12 @@
+=== CV 1207 ===
+text: Stanley Ferguson - CV
+
+Modern before imagine woman month fear garden. Him station beautiful. Recent new enter only physical each fish pressure. Them sometimes life realize article. Make several make modern she season. System plan picture well body. Place oil life face. How evening word bad. Sea technology thus may join see. Someone fish describe sometimes realize man dream.
+
+086 Wang Camp, Justinmouth, NC 30669
+cleaned_text: stanley ferguson - cv modern before imagine woman month fear garden. him station beautiful. recent new enter only physical each fish pressure. them sometimes life realize article. make several make modern she season. system plan picture well body. place oil life face. how evening word bad. sea technology thus may join see. someone fish describe sometimes realize man dream. 086 wang camp, justinmouth, nc 30669
+mobile_number: (218)800-1151x8527
+email: diazdarryl@hotmail.com
+skills: ['PHP', 'SQL', 'Java', 'JavaScript']
+skills_text: PHP SQL Java JavaScript
+Category: HR

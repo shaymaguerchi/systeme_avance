@@ -1,0 +1,8 @@
+=== CV 611 ===
+text: Jean Dupont
+cleaned_text: jean dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 27122020
+email: jean.dupont@example.com
+skills: ['Windows', 'Linux', 'CSS']
+skills_text: Windows Linux CSS
+Category: Finance

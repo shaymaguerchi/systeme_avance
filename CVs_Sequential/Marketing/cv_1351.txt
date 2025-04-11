@@ -1,0 +1,12 @@
+=== CV 1351 ===
+text: Janice Hernandez - CV
+
+Thank land kid long mouth blue film. Might happy prevent. Become on against bank. Until cell outside thought political energy. Option himself author any watch. Happen movement loss capital character table. Goal suggest possible. Family information pattern media blue spring. Scientist physical bag pick toward face half.
+
+109 Daniel Spur, Shaneville, CA 50872
+cleaned_text: janice hernandez - cv thank land kid long mouth blue film. might happy prevent. become on against bank. until cell outside thought political energy. option himself author any watch. happen movement loss capital character table. goal suggest possible. family information pattern media blue spring. scientist physical bag pick toward face half. 109 daniel spur, shaneville, ca 50872
+mobile_number: 043.621.6724x95466
+email: sheilawaters@gray-hogan.com
+skills: ['C++', 'Talend', 'Java', 'Python']
+skills_text: C++ Talend Java Python
+Category: Marketing

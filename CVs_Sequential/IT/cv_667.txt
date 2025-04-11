@@ -1,0 +1,8 @@
+=== CV 667 ===
+text: Hugo Roche
+cleaned_text: hugo roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 49194467
+email: hugo.roche@example.com
+skills: ['Windows', 'Marketing', 'SQL', 'Python', 'Adobe']
+skills_text: Windows Marketing SQL Python Adobe
+Category: IT

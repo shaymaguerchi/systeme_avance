@@ -1,0 +1,280 @@
+=== CV 295 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+Prénom NOM : Riahi Nizar 
+ 
+
+Date de Naissance   : 19-07-1981 Tunis 
+
+Adresse                    : BP45 Tunis Rp1000 Tunis 
+
+Ville-Pays                 : Ariana – Tunisie  
+
+Tél                            : 98 69 76 24 
+
+Situation Familiale   : Marié  
+ 
+
+ 
+ 
+ 
+
+ 
+
+Années                 :    Diplôme 1er cycle en Droit Privé 
+Ville-Pays             : Faculté des sciences politique de Tunis  
+ 
+
+ 
+ 
+Logiciels maîtrisés: Word, Excel, Word, Excel , Power Print  , Macro ,  
+ERP SAP   
+
+                                             
+NOM DE L’ENTREPRISE : SMA 
+Secteur : Automobile  
+Poste occupé : Agent Commercial 
+Missions ou tâches réalisés : Vente et distribution des accessoires des voitures. 
+ 
+ 
+ 
+ 
+ 
+                                      
+
+NOM DE L’ENTREPRISE : Global Network 
+ Secteur : Informatique 
+Poste occupé : Agent Commercial  
+Missions ou tâches réalisés : Vente et approvisionnement de matériels informatique. 
+ 
+ 
+ 
+ 
+ 
+                                          
+
+NOM DE L’ENTREPRISE : Tunisie Telecom  
+Secteur : télécommunication  
+Poste occupé : Téléopérateur au service 1198 
+Missions ou tâches réalisés : récolté et diffuser les informations aux Clients . 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+LANGUES 
+ 
+Anglais: Bilingue 7/10 
+Français:Bilingue 8/10 
+Italien    : courant 5/10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date début-fin (2010-
+2011 ) 
+Ville-Pays : Tunis - 
+Tunisie 
+ 
+
+ 
+ 
+ 
+Date début-fin (2009-
+2010) 
+Ville-Pays : Ariana - 
+Tunisie 
+ 
+
+ 
+ 
+ 
+Date début-fin (2007-
+2009 ) 
+Ville-Pays : Sokra -  
+Tunisie 
+ 
+ 
+ 
+ 
+ 
+
+FORMATIONS 
+ 
+
+EXPERIENCES PROFESSIONNELLES 
+ 
+
+ 
+
+
+
+ 
+Dat 
+             
+                                          
+
+NOM DE L’ENTREPRISE : Ste COTUPLAST  
+Secteur : Industriel  
+Poste occupé : Chef de Vente 
+Missions ou tâches réalisés : Responsable de vente et coordinateur de flux de livraison 
+& d’expédition . 
+
+ 
+ 
+ 
+ 
+ 
+                                          
+
+NOM DE L’ENTREPRISE : Ste SERICOM ( TEXACO )  
+Secteur : Industriel & Automobile  
+Poste occupé : Chef de Centre 
+Missions ou tâches réalisés : Responsable de point de vente et de service Texaco . 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+✓ Formation italien. 
+
+o *Gestion d’inventaire. 
+
+o *Gestion de Temps. 
+
+o *Programmation à partir d’un ERP SAP . 
+
+✓ *Excel avancé  
+ 
+ 
+
+ 
+                              Le sport (foot Ball, …), les jeux vidéo, ,le cinéma, la pêche à la canne , randonné .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Cordialement  
+
+ 
+ 
+ 
+ 
+ 
+Date début-fin (2011-
+2012) 
+Ville-Pays : El Kram - 
+Tunisie 
+ 
+
+ 
+ 
+ 
+Date début-fin (2012-
+jusqu’à aujourd’hui) 
+Ville-Pays : Ariana - 
+Tunisie 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+Centre d'intérêt  
+
+Formation Profesional  
+ 
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+cleaned_text: prenom nom riahi nizar date naissance 19 07 1981 tunis adresse bp45 tunis rp1000 tunis ville pays ariana tunisie tel 98 69 76 24 situation familiale marie annees diplome 1er cycle droit prive ville pays faculte sciences politique tunis logiciels maitrises word excel word excel power print macro erp sap nom entreprise sma secteur automobile poste occupe agent commercial missions taches realises vente distribution accessoires voitures nom entreprise global network secteur informatique poste occupe agent commercial missions taches realises vente approvisionnement materiels informatique nom entreprise tunisie telecom secteur telecommunication poste occupe teleoperateur service 1198 missions taches realises recolte diffuser informations clients langues anglais bilingue 7 10 francais bilingue 8 10 italien courant 5 10 date debut fin 2010 2011 ville pays tunis tunisie date debut fin 2009 2010 ville pays ariana tunisie date debut fin 2007 2009 ville pays sokra tunisie formations experiences professionnelles dat nom entreprise ste cotuplast secteur industriel poste occupe chef vente missions taches realises responsable vente coordinateur flux livraison expedition nom entreprise ste sericom texaco secteur industriel automobile poste occupe chef centre missions taches realises responsable point vente service texaco formation italien gestion inventaire gestion temps programmation partir erp sap excel avance sport foot ball jeux video cinema peche canne randonne cordialement date debut fin 2011 2012 ville pays el kram tunisie date debut fin 2012 jusqu aujourd hui ville pays ariana tunisie centre interet formation profesional
+mobile_number: 0
+email: UNKNOWN
+skills: ['Excel', 'Distribution', 'Telecom', 'Word', 'Sap', 'Erp']
+skills_text: Excel Distribution Telecom Word Sap Erp
+Category: Administratif

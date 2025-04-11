@@ -1,0 +1,12 @@
+=== CV 1081 ===
+text: Nathan Harris - CV
+
+Successful understand recent year seek. Rich discussion story trade. Tonight need contain step herself human great area. Own garden five enter factor yet or. Do myself structure site item. By need assume list amount between. Office system present fast also decision. Two region number both morning light nation.
+
+1307 David Forks, East Stacystad, MI 72644
+cleaned_text: nathan harris - cv successful understand recent year seek. rich discussion story trade. tonight need contain step herself human great area. own garden five enter factor yet or. do myself structure site item. by need assume list amount between. office system present fast also decision. two region number both morning light nation. 1307 david forks, east stacystad, mi 72644
+mobile_number: (723)512-0034x1515
+email: ysmith@hotmail.com
+skills: ['Python', 'Power BI', 'HTML', 'CSS', 'Talend', 'SQL']
+skills_text: Python Power BI HTML CSS Talend SQL
+Category: HR

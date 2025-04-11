@@ -1,0 +1,12 @@
+=== CV 1229 ===
+text: Stephen Massey - CV
+
+Ever economic kitchen. Commercial appear take enter thousand common trade. Beat today kitchen ago ten. Wall mouth large wait both gas husband treat. Choose recognize change list. Mission off popular success remember. Oil where read. Station all allow. Ground those many start class too must she. Else firm example girl. Cause matter process tend kitchen picture lot.
+
+4117 Amanda Orchard, Schmidtborough, MT 94950
+cleaned_text: stephen massey - cv ever economic kitchen. commercial appear take enter thousand common trade. beat today kitchen ago ten. wall mouth large wait both gas husband treat. choose recognize change list. mission off popular success remember. oil where read. station all allow. ground those many start class too must she. else firm example girl. cause matter process tend kitchen picture lot. 4117 amanda orchard, schmidtborough, mt 94950
+mobile_number: 001-250-831-7843x616
+email: pooleedward@yahoo.com
+skills: ['C++', 'HTML', 'CSS', 'Power BI', 'Java']
+skills_text: C++ HTML CSS Power BI Java
+Category: Finance

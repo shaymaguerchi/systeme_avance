@@ -1,0 +1,8 @@
+=== CV 871 ===
+text: Laura Moreau
+cleaned_text: laura moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 96404148
+email: laura.moreau@example.com
+skills: ['Finance', 'Windows', 'SQL', 'HTML', 'Java', 'Adobe']
+skills_text: Finance Windows SQL HTML Java Adobe
+Category: Design

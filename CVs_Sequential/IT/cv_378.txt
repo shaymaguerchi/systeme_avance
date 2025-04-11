@@ -1,0 +1,209 @@
+=== CV 378 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+À propos de moi
+
+Je suis une étudiante en 3ème
+
+année licence en ingénierie des
+
+systèmes informatiques motivée
+
+et laborieuse à la recherche d'un
+
+stage de fin d'étude.
+
+SKILLS
+
+ 
+
+LANGAGES
+
+C++
+
+C
+
+PYTHON
+
+JAVA
+
+VHDL
+
+DEVELOPPEMENT WEB
+
+JavaScript
+
+PHP
+
+HTML
+
+CSS
+
+BASE DE  DONNEES
+
+SQL
+
+Pl-SQL
+
+Oracle SQL
+
+MySQL
+
+DEVELOPPEMENT MOBILE
+
+ANDROID STUDIO
+
+NADA AISSAOUI
+Etudiante en ingénierie des systèmes informatiques
+licence fondamentale en ingénierie des systèmes informatiques
+
+Diplômes et Formations
+
+PROJETS REALISES
+
+LANGUES
+
+ARABE
+
+Native
+
+FRANCAIS
+
+Avancé
+
+ANGLAIS
+
+Avancé
+
+ESPAGNOL
+
+Débutante
+
+VIE ASSOCIATIVE
+
+2017-2018 : Youth Club
+
+Team leader.
+
+2021-2022: IEEE RAS Chapter
+
+Membre active Pole organisation.
+
+nada.aissaoui@gmail.com
+
+Née le 22/04/2000
+
++216 21601920
+
+LinkedIn
+
+https://www.linkedin.com/in/
+
+nada-aissaoui-1a028720
+
+
+
+Licence fondamentale en systèmes informatiques et systèmes
+
+embarqués
+
+D'octobre 2019 à mai 2022 faculté des sciences tunisie tunis
+
+Baccalauréat en sciences expérimentales.
+
+De septembre 2015 à juin 2019 Lycée pilote menzah8. tunis,tunisie
+
+Projet Tcp/socket
+
+De mars 2020 à avril 2020 Communication par tcp socket.
+
+-Création d'une connexion entre client et serveur
+
+-Utilisation TCP(Serveur-client implémentation en C, systéme Linux)
+
+PFA (projet fin d'année)
+
+De 2020 à
+
+2021
+
+Conception et réalisation d'un projet Systeme Tracking
+
+GPS voiture .
+
+-Codage avec C
+
+-La configuration de la carte Arduino
+
+-UML design
+
+-Connection de la carte avec l'application mobile avec Firebase.
+
+Projet WEB
+
+De 2020 à 2021 Création d'un site web : en utilisant HTML et CSS. .
+
+Application Mobile
+
+2021 Réalisation d'une application mobile pour gérer une bibliothéque
+
+en ligne. .
+
+-Développement d'une application android (Android Studio, XML,Java)
+
+-Donner la permission de la gestion (ajouter, modifier, supprimer,
+
+recherche)
+
+-L'exposition des livres en utilisant SQLite database.
+
+mailto:nada.aissaoui@gmail.com
+https://linkedin%20%20%20https//www.linkedin.com/in/nada-aissaoui-1a028720
+
+
+cleaned_text: propos etudiante 3eme annee licence ingenierie systemes informatiques motivee laborieuse recherche stage fin etude skills langages python java vhdl developpement web javascript php html css base donnees sql pl sql oracle sql mysql developpement mobile android studio nada aissaoui etudiante ingenierie systemes informatiques licence fondamentale ingenierie systemes informatiques diplomes formations projets realises langues arabe native francais avance anglais avance espagnol debutante vie associative 2017 2018 youth club team leader 2021 2022 ieee ras chapter membre active pole organisation nada aissaoui gmail com nee 22 04 2000 216 21601920 linkedin https www linkedin com nada aissaoui 1a028720 licence fondamentale systemes informatiques systemes embarques octobre 2019 mai 2022 faculte sciences tunisie tunis baccalaureat sciences experimentales septembre 2015 juin 2019 lycee pilote menzah8 tunis tunisie projet tcp socket mars 2020 avril 2020 communication tcp socket creation connexion entre client serveur utilisation tcp serveur client implementation systeme linux pfa projet fin annee 2020 2021 conception realisation projet systeme tracking gps voiture codage configuration carte arduino uml design connection carte application mobile firebase projet web 2020 2021 creation site web utilisant html css application mobile 2021 realisation application mobile gerer bibliotheque ligne developpement application android android studio xml java donner permission gestion ajouter modifier supprimer recherche exposition livres utilisant sqlite database mailto nada aissaoui gmail com https linkedin 20 20 20https www linkedin com nada aissaoui 1a028720
+mobile_number: 216 2160192
+email: nada.aissaoui@gmail.com
+skills: ['Php', 'Communication', 'Javascript', 'Android', 'Mobile', 'Html', 'Sql', 'Python', 'Mysql', 'Css', 'Database', 'Xml', 'Linux', 'C', 'Oracle', 'C++', 'Java', 'Design']
+skills_text: Php Communication Javascript Android Mobile Html Sql Python Mysql Css Database Xml Linux C Oracle C++ Java Design
+Category: IT

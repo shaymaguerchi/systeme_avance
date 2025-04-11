@@ -1,0 +1,169 @@
+=== CV 302 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALECTA - Resume Template
+
+
+Beldi Khalil
+
+Doté d’une bonne compétence en programmation, Étudiant en 1ére année cycle 
+ingénieur, J'ai une véritable passion pour les nouvelles technologies.
+
+EXPÉRIENCES
+
+FORMATIONS
+
+A PROPOS DE MOI
+
+COMPÉTENCES
+
+LANGUES
+
+STAGE PFE
+(Fév. 2020 – Avr. 2020) 
+
+ÉCOLE SUPÉRIEUR DE L’ÉCONOMIE NUMÉRIQUE -Tunis, 
+Tunisie 
+
+Spécialité : Commerce électronique
+Mention : Bien
+
+LICENCE APPLIQUÉE 
+EN INFORMATIQUE 
+DE GESTION
+
+(2016-2020)   
+
+JAVA
+
+PHP
+
+JAVASCRIPT
+
+HTML5/CSS3
+
+Arabe
+
+Anglais
+
+Français
+
+Bardo, Tunis, Tunisie
+
+(+216) 23 664 533 
+
+khalilbeldi17@gmail.com
+
+INVESTISSEMENT CONSEIL MARKETING (ICM)- Tunis, 
+Tunisie 
+
+Tâche : Développement d'une application mobile 
+(Android) de messagerie instantanée et de gestion 
+de communauté personnalisé pour la société ICM
+
+PROJETS PÉDAGOGIQUES
+
+• RÉALISATION D’UN SITE WEB E-COMMERCE DE NOURRITURE.
+
+• RÉALISATION D’UNE APPLICATION DE BUREAU DE GESTION DE STOCK.
+
+• RÉALISATION D’UNE APPLICATION DE BUREAU POUR SCANNER LES IP & PORTS 
+OUVERTS
+
+SQL/PLSQL
+
+khalil-beldi-baa427173
+
+Age : 23 ans
+
+- Tâche : Conception et développement
+- Language : HTML5, CSS3, JS, BOOTSTRAP 4, PHP 7, MYSQL
+- Framework : LARAVEL
+
+- Tâche : Conception et développement
+- Language : C#,MYSQL
+
+PARTICIPANT AU
+
+- Tunisian Collegiate Programming 
+Contest 2019
+
+- TechFest Sousse 2018- Tâche : développement
+- Language : C /Socket
+
+VIE ASSOCIATIVE
+
+- Membre ESEN Android Club  (2018-
+2020) .
+
+- Membre de département 
+développement mobile au ESEN 
+Android Club.
+
+- Organisateur prinicpal de 
+l’événement Coding Camp 2019.
+
+UNIVERISTÉ TEK-UP -Tunis, Tunisie DIPLOME NATIONAL 
+D’INGENIEUR EN
+INFORMATIQUE
+
+(2021-présent)   
+
+• RÉALISATION D’UNE APPLICATION DE BUREAU POUR LA GESTION DE BIBLIOTHÈQUE
+
+- Tâche : développement
+- Language : JAVA, MYSQL /JDBC
+
+
+
+cleaned_text: alecta resume template beldi khalil dote bonne competence programmation etudiant 1ere annee cycle ingenieur veritable passion nouvelles technologies experiences formations propos competences langues stage pfe fev 2020 avr 2020 ecole superieur economie numerique tunis tunisie specialite commerce electronique mention bien licence appliquee informatique gestion 2016 2020 java php javascript html5 css3 arabe anglais francais bardo tunis tunisie 216 23 664 533 khalilbeldi17 gmail com investissement conseil marketing icm tunis tunisie tache developpement application mobile android messagerie instantanee gestion communaute personnalise societe icm projets pedagogiques realisation site web e commerce nourriture realisation application bureau gestion stock realisation application bureau scanner ip ports ouverts sql plsql khalil beldi baa427173 age 23 ans tache conception developpement language html5 css3 js bootstrap 4 php 7 mysql framework laravel tache conception developpement language mysql participant tunisian collegiate programming contest 2019 techfest sousse 2018 tache developpement language socket vie associative membre esen android club 2018 2020 membre departement developpement mobile esen android club organisateur prinicpal evenement coding camp 2019 univeriste tek tunis tunisie diplome national ingenieur informatique 2021 present realisation application bureau gestion bibliotheque tache developpement language java mysql jdbc
+mobile_number: 016-2020
+email: khalilbeldi17@gmail.com
+skills: ['Php', 'Js', 'Javascript', 'Android', 'Mobile', 'Mysql', 'Sql', 'Marketing', 'Programming', 'C', 'Html5', 'Java', 'Coding']
+skills_text: Php Js Javascript Android Mobile Mysql Sql Marketing Programming C Html5 Java Coding
+Category: IT

@@ -1,0 +1,12 @@
+=== CV 1493 ===
+text: Morgan Phillips - CV
+
+Candidate more rest other paper. Push agreement likely first pretty. Song surface lawyer cause. Lawyer gas room miss responsibility. Who doctor part traditional deep. House gun enter computer hot full.
+
+4740 Jillian Ford Apt. 807, Christopherfort, NY 57325
+cleaned_text: morgan phillips - cv candidate more rest other paper. push agreement likely first pretty. song surface lawyer cause. lawyer gas room miss responsibility. who doctor part traditional deep. house gun enter computer hot full. 4740 jillian ford apt. 807, christopherfort, ny 57325
+mobile_number: 001-059-759-1157x299
+email: nholloway@yahoo.com
+skills: ['SQL', 'JavaScript', 'Python', 'C++', 'Power BI']
+skills_text: SQL JavaScript Python C++ Power BI
+Category: Finance

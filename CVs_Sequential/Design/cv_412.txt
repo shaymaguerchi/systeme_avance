@@ -1,0 +1,8 @@
+=== CV 412 ===
+text: Sophie Girard
+cleaned_text: sophie girard cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 69133309
+email: sophie.girard@example.com
+skills: ['Management', 'Finance', 'CSS']
+skills_text: Management Finance CSS
+Category: Design

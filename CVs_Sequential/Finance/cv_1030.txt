@@ -1,0 +1,12 @@
+=== CV 1030 ===
+text: Ashley Weaver - CV
+
+We after record call remember. Result those do lot sit. Per stuff memory theory fire growth onto. Keep forget build. Window contain office you nearly. Exist not relationship step almost generation.
+
+993 Khan Mills, North Adam, OH 82853
+cleaned_text: ashley weaver - cv we after record call remember. result those do lot sit. per stuff memory theory fire growth onto. keep forget build. window contain office you nearly. exist not relationship step almost generation. 993 khan mills, north adam, oh 82853
+mobile_number: 021.879.6725
+email: wyang@strong.com
+skills: ['CSS', 'JavaScript', 'C++', 'PHP', 'SQL', 'Talend']
+skills_text: CSS JavaScript C++ PHP SQL Talend
+Category: Finance

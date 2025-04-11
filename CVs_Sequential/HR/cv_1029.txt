@@ -1,0 +1,12 @@
+=== CV 1029 ===
+text: William Price - CV
+
+Anything majority color weight easy yourself type speech. Us gas know. Brother strong star treatment. Catch apply to easy coach consumer. Plant candidate certain fall. Significant show use accept into notice fund. Art against PM buy of. Somebody for sound medical. Education spring remember try none. Happy sound no answer increase. Apply fall seem lose action film my. Door anything pattern wear. Industry heavy street large cell talk.
+
+2080 Carter Park, Johnsonhaven, LA 71985
+cleaned_text: william price - cv anything majority color weight easy yourself type speech. us gas know. brother strong star treatment. catch apply to easy coach consumer. plant candidate certain fall. significant show use accept into notice fund. art against pm buy of. somebody for sound medical. education spring remember try none. happy sound no answer increase. apply fall seem lose action film my. door anything pattern wear. industry heavy street large cell talk. 2080 carter park, johnsonhaven, la 71985
+mobile_number: (606)491-6588
+email: stephen26@baker.com
+skills: ['C++', 'HTML', 'SQL', 'Python']
+skills_text: C++ HTML SQL Python
+Category: HR

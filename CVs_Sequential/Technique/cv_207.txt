@@ -1,0 +1,131 @@
+=== CV 207 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mon CV
+
+
+:Adresse email
+ouelhaziabderrahim@gmail.com
+
+:Téléphone +216 28 107 923
+:Adresse
+
+1 street 42162, zahrouni, Tunisia, Tunis
+
+MYTEK september 2016 — june 2018
+
+convergys february 2019 — october 2109
+
+Teleperformance Tunisie 03 March 2020 — Today
+
+Baccalaureate Letter september 2012 — june 2013
+
+english language,literature and civilisation september 2014 — june 2017
+
+Ouelhazi Abderrahim
+
+Expérience professionnelle
+
+salesman/cashier
+salesman 
+ cashier 
+
+client advisor
+technical service Bouygue Telecom
+
+Client Advisor
+ENGIE billing service
+
+Compétences
+Good knowledge of IT.
+Being able to work in a team.
+Patience.
+Ability to remain calm under pressure.
+Friendly and tactful personality.
+Good timekeeping 
+Open minded attitude.
+Being able to handle complaints and difficult situations.
+Good knowledge to satisfy clients. 
+good knowledge of IT
+
+Formation
+
+LE BARDO
+
+university of Manouba
+
+Ouelhazi Abderrahim 1
+
+
+
+Centre d'intêret
+Playing Soccer
+Watching Soccer with friends
+Going out with friends
+
+Références
+AOUN Nouha : Trainer at Teleperformance Tunisie(Le Kram) 
+ZGHONDA Sami : Team manager at Teleperformance Tunisie (Le Kram)
+HABOUBI Ali : Colleague at Teleperformance Tunisie (Le Kram)
+
+Language
+English : speaking, writing, reading
+French : speaking, writing, reading
+Arabic : speaking, writing, reading
+
+Ouelhazi Abderrahim 2
+
+
+	Ouelhazi Abderrahim
+	Expérience professionnelle
+	MYTEKseptember 2016 — june 2018
+	convergysfebruary 2019 — october 2109
+	Teleperformance Tunisie03 March 2020 — Today
+
+	Compétences
+	Formation
+	Baccalaureate Letterseptember 2012 — june 2013
+	english language,literature and civilisationseptember 2014 — june 2017
+
+	Centre d'intêret
+	Références
+	Language
+
+
+
+cleaned_text: cv adresse email ouelhaziabderrahim gmail com telephone 216 28 107 923 adresse 1 street 42162 zahrouni tunisia tunis mytek september 2016 june 2018 convergys february 2019 october 2109 teleperformance tunisie 03 march 2020 today baccalaureate letter september 2012 june 2013 english language literature civilisation september 2014 june 2017 ouelhazi abderrahim experience professionnelle salesman cashier salesman cashier client advisor technical service bouygue telecom client advisor engie billing service competences good knowledge able work team patience ability remain calm pressure friendly tactful personality good timekeeping open minded attitude able handle complaints difficult situations good knowledge satisfy clients good knowledge formation bardo university manouba ouelhazi abderrahim 1 centre interet playing soccer watching soccer friends going friends references aoun nouha trainer teleperformance tunisie kram zghonda sami team manager teleperformance tunisie kram haboubi ali colleague teleperformance tunisie kram language english speaking writing reading french speaking writing reading arabic speaking writing reading ouelhazi abderrahim 2 ouelhazi abderrahim experience professionnelle mytekseptember 2016 june 2018 convergysfebruary 2019 october 2109 teleperformance tunisie03 march 2020 today competences formation baccalaureate letterseptember 2012 june 2013 english language literature civilisationseptember 2014 june 2017 centre interet references language
+mobile_number: 0
+email: ouelhaziabderrahim@gmail.com
+skills: ['English', 'Email', 'Telecom', 'Writing', 'French', 'Technical', 'Billing']
+skills_text: English Email Telecom Writing French Technical Billing
+Category: Technique

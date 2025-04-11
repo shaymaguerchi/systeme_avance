@@ -1,0 +1,8 @@
+=== CV 663 ===
+text: Hugo Roche
+cleaned_text: hugo roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 40207077
+email: hugo.roche@example.com
+skills: ['Management', 'Java', 'C++', 'Windows']
+skills_text: Management Java C++ Windows
+Category: IT

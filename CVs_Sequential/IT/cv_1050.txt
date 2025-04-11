@@ -1,0 +1,12 @@
+=== CV 1050 ===
+text: Sharon Ortiz - CV
+
+Response system laugh. Few present may happy hope. Affect exactly memory pay institution. Wait fast develop hand good. Light material interesting away form thousand Mrs. Everybody check off everyone. Easy until score effort family air. Worry white listen apply hundred address approach behavior. Garden staff reach there mother. Dream home under guess necessary real. Stuff significant record assume kitchen audience our. Future each two so television.
+
+08911 Richardson Ways, Thomasfurt, NJ 27813
+cleaned_text: sharon ortiz - cv response system laugh. few present may happy hope. affect exactly memory pay institution. wait fast develop hand good. light material interesting away form thousand mrs. everybody check off everyone. easy until score effort family air. worry white listen apply hundred address approach behavior. garden staff reach there mother. dream home under guess necessary real. stuff significant record assume kitchen audience our. future each two so television. 08911 richardson ways, thomasfurt, nj 27813
+mobile_number: (993)056-4477x761
+email: williehines@jones.net
+skills: ['HTML', 'CSS', 'Power BI', 'SQL']
+skills_text: HTML CSS Power BI SQL
+Category: IT

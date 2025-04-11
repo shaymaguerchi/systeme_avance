@@ -1,0 +1,8 @@
+=== CV 543 ===
+text: Laura Ben Ali
+cleaned_text: laura ben ali cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 95247588
+email: laura.ben ali@example.com
+skills: ['SQL', 'Finance', 'Java', 'Windows']
+skills_text: SQL Finance Java Windows
+Category: Finance

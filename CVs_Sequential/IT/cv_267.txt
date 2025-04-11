@@ -1,0 +1,143 @@
+=== CV 267 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+souhir jaafra
+Data scientist
+
+Diplômes et Formations
+
+Analyzing Big Data with SQL / FSEGS Sfax
+
+2021
+
+Un cours en ligne non crédité autorisé par Cloudera et offert par
+Coursera
+
+MASTERE PROFESSIONNEL SCIENCES ET INGENIERIE DES DONNEES /
+Faculté des Sciences Economiques et de Gestion Sfax
+
+Depuis 2020
+
+LICENCE APPLIQUE EN INFORMATIQUE DE GESTION / Institut
+Supérieur d'Administration des Affaires de Sfax Sfax
+
+De 2017 à 2020
+
+Option : E-service
+
+Expériences professionnelles
+
+Projet De Fin d’étude (PFE) / Info Tik Sousse
+
+De février 2020 à mai 2020
+
+Développement d’une application web et mobile Android de Réservation
+des services en ligne
+Durée: 4 mois
+Outils : IDE : Visual studio code
+              Framework: Cordova, Phone Gap, JavaScript6, HTML5, CSS3.
+
+Responsable logistiques du Club Python Fsegs / FSEGS Sfax
+
+De 2020 à 2021
+
+Compétences
+
+Programmation: Pascal, CC++, Assembleur, Java, SQL, PL /SQL, VB,
+Android, Phone Gap, Hadoop, Python.
+
+Logiciels : Eclipse, Visual Studio, MongoDB, Packet Tracer, Photoshop,
+NetBeans, Weka, Anaconda, R, Visual Studio, Microsoft SQL Server.
+
+Développement Web: HTML5, PHP, CSS3, JavaScript, XML, jQuery, Spring
+Boot.
+
+Environnement de travail: Windows, Linux, Cloudera,
+
+Bases de données: Oracle, MySQL., NoSQL,
+
+Langues
+
+Arabe
+
+Français
+
+Anglais
+
+Atouts
+
+L’esprit d’équipe
+
+La motivation
+
+Centres d'intérêt
+
+jeux de réflexions
+
+Internet et actualité
+
+Sport
+
+jaafrasouhir@gmail.com
+
+Avenue 14 Janvier
+Korba,Nabeul
+
+
+
+Née le 31/08/1997
+
+25840468
+
+@souhir-jaafra
+
+mailto:jaafrasouhir@gmail.com
+https://www.linkedin.com/in/souhir-jaafra
+
+
+cleaned_text: souhir jaafra data scientist diplomes formations analyzing big data sql fsegs sfax 2021 cours ligne non credite autorise cloudera offert coursera mastere professionnel sciences ingenierie donnees faculte sciences economiques gestion sfax depuis 2020 licence applique informatique gestion institut superieur administration affaires sfax sfax 2017 2020 option e service experiences professionnelles projet fin etude pfe info tik sousse fevrier 2020 mai 2020 developpement application web mobile android reservation services ligne duree 4 mois outils ide visual studio code framework cordova phone gap javascript6 html5 css3 responsable logistiques club python fsegs fsegs sfax 2020 2021 competences programmation pascal cc assembleur java sql pl sql vb android phone gap hadoop python logiciels eclipse visual studio mongodb packet tracer photoshop netbeans weka anaconda r visual studio microsoft sql server developpement web html5 php css3 javascript xml jquery spring boot environnement travail windows linux cloudera bases donnees oracle mysql nosql langues arabe francais anglais atouts esprit equipe motivation centres interet jeux reflexions internet actualite sport jaafrasouhir gmail com avenue 14 janvier korba nabeul nee 31 08 1997 25840468 souhir jaafra mailto jaafrasouhir gmail com https www linkedin com souhir jaafra
+mobile_number: 997 2584046
+email: jaafrasouhir@gmail.com
+skills: ['Php', 'Big data', 'Android', 'Mobile', 'Mysql', 'Hadoop', 'Oracle', 'Javascript', 'Sql', 'Xml', 'Nosql', 'Html5', 'Visual', 'Python', 'R', 'Linux', 'Photoshop', 'Anaconda', 'Windows', 'Java']
+skills_text: Php Big data Android Mobile Mysql Hadoop Oracle Javascript Sql Xml Nosql Html5 Visual Python R Linux Photoshop Anaconda Windows Java
+Category: IT

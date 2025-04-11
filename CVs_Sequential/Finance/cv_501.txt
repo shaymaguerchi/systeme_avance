@@ -1,0 +1,8 @@
+=== CV 501 ===
+text: Sophie Ben Ali
+cleaned_text: sophie ben ali cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 64699008
+email: sophie.ben ali@example.com
+skills: ['Adobe', 'Finance', 'C++']
+skills_text: Adobe Finance C++
+Category: Finance

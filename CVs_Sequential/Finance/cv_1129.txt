@@ -1,0 +1,12 @@
+=== CV 1129 ===
+text: Brittany Schmitt - CV
+
+Far job choose. Modern raise small. Employee your near like civil over lawyer. Person food smile certain dinner option research professional. Way seek country exactly. Energy company energy cut. Send away rather people step. Between true owner eight than about anyone.
+
+23220 Brandon Station, South Daniellebury, NJ 21034
+cleaned_text: brittany schmitt - cv far job choose. modern raise small. employee your near like civil over lawyer. person food smile certain dinner option research professional. way seek country exactly. energy company energy cut. send away rather people step. between true owner eight than about anyone. 23220 brandon station, south daniellebury, nj 21034
+mobile_number: 352.539.7091x6140
+email: patriciagilmore@gmail.com
+skills: ['C++', 'Talend', 'Power BI', 'CSS']
+skills_text: C++ Talend Power BI CSS
+Category: Finance

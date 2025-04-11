@@ -1,0 +1,12 @@
+=== CV 1077 ===
+text: Kayla Mcfarland - CV
+
+Technology stop address should individual save sport. Thank Mrs mission something country include good. Thing program everyone large close far college. North far practice law wish. Be before machine. Official decade business. Learn anything budget. North can yeah project. Speak space personal buy vote even direction. Score official create chance police. Compare movie eye play. Second top raise cover box sometimes.
+
+975 Myers Fall Apt. 832, New Robinville, ND 03955
+cleaned_text: kayla mcfarland - cv technology stop address should individual save sport. thank mrs mission something country include good. thing program everyone large close far college. north far practice law wish. be before machine. official decade business. learn anything budget. north can yeah project. speak space personal buy vote even direction. score official create chance police. compare movie eye play. second top raise cover box sometimes. 975 myers fall apt. 832, new robinville, nd 03955
+mobile_number: (390)390-1816x171
+email: aperez@bell.net
+skills: ['CSS', 'JavaScript', 'Python', 'Talend', 'PHP']
+skills_text: CSS JavaScript Python Talend PHP
+Category: HR

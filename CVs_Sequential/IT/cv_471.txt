@@ -1,0 +1,8 @@
+=== CV 471 ===
+text: Fatima Dupont
+cleaned_text: fatima dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 70742894
+email: fatima.dupont@example.com
+skills: ['Management', 'CSS', 'Linux', 'Windows', 'HTML', 'SQL']
+skills_text: Management CSS Linux Windows HTML SQL
+Category: IT

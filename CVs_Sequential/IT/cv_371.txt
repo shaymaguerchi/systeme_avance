@@ -1,0 +1,369 @@
+=== CV 371 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+➢ Création des mini projets (voir gitlab) : 
+
+- Machine Learning prédiction de la pluie en Australie 
+
+- NLP : creation de resumés d’un text donnée 
+
+- NLP: création du chatbot (Python) et DialogFlow API 
+
+- Création d’outil de Scraping  
+ 
+
+ 
+
+ 
+
+ 
+111 
+
+  PROFIL     
+
+Mon parcours universitaire m’a 
+
+doté de bonnes compétences 
+
+théoriques accompagnées d’une 
+
+bonne expérience pratique dans le 
+
+domaine du data science, ainsi que 
+
+des expériences professionnelles 
+
+que j’ai acquises par la création des 
+
+mini projets, et  lors de mes stages 
+
+au sein de la société ‘Alfa Conseil’ 
+
+en tant que développeur ma aider à 
+
+découvrir l’environnement du 
+
+travail, à bien gérer le temps afin 
+
+de finir les taches dans leur délai, 
+
+de m’adapter et à apprendre les 
+
+technologies utilise. En fin, j’ai 
+
+l’honneur de mettre mes 
+
+différentes compétences à votre 
+
+disposition. 
+
+00216 52 389 916 
+
+Sousse, Tunisie 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LOISIRS          
+
+• IA 
+
+• Jeux vidéo    
+
+• Film 
+
+• Journal d’information 
+
+ 
+
+Mastère (en cours) en Science et ingénierie de données 
+
+à FSEGS (Faculté de Science économique et de gestion 
+
+de Sfax) 
+
+Formation en prise de parole en public et communication 
+
+Skills, gestion de Stress 
+
+Deep Learning with TensorFlow 2 
+
+Machine Learning in Python 
+
+Introduction to Data and Data Science 
+
+Certificat Cloudera (Analysing Big Data with SQL) 
+
+Licence en développement informatique de l’ISCAE 
+
+(Institut Supérieur de Comptabilité et Administration des 
+
+entreprises). 
+
+Baccalauréat scientifique (D) de Lycée d’Excellence 2. 
+
+ 
+
+      
+
+Mohamed  BAKAR 
+Data Scientist 
+
+➢ Stagiaire dans la société de développement Alfa Conseil, 
+
+chargé par la maintenance et l’amélioration d’une 
+
+application web de gestion de scolarité universitaire en 
+
+utilisant le Framework Codeigniter. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+De 08/2019 
+
+jusqu’au 
+
+07/2020 
+
+  
+
+Python DataScience: Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, NLTK, 
+
+             Spacy, TenserFlow 2 (débutant) 
+
+ML:  K-means, KNN, Arbre de décision, Régression linéaire et logistique… 
+
+DL:   RNN (débutant) , CNN (débutant)              |   NLP 
+
+Big data:  Hadoop (en plus hive et impala)  |    BI:   SSIS/SSAS/SSRS 
+
+Scrapping:  Scrapy, Tweepy, Youtube API, Google API 
+
+Conteneur:  Docker (débutant) 
+
+Langages de programmation: C, C#, JAVA, JavaScript, PHP, SQL, Python  
+
+Technologie Web : HTML/CSS/JS/PHP, nodeJS, JEE + CMS  
+
+Bases des données: MySQL, Oracle, MongoDB, Cassandra, MS SQL Server 
+
+Framework : CodeIgniter, Bootstrap, Spring boot, Django (débutant) 
+
+Système d'exploitation: windows, linux(ubuntu, centos) 
+ 
+
+FORMATION  &  CERTIFICATION    
+
+     
+
+2020  
+
+Nouakchott-
+
+Mauritanie 
+
+ 
+
+ 
+
+EXPERIENCES PROFESSIONNELLES     
+
+ 
+
+2017 
+
+Nouakchott-
+
+Mauritanie 
+
+ 
+
+ 
+
+COMPETENCES            
+
+ 
+
+CONTACT   
+
+   +216 509 978 74 
+
+ MedAmarBakar@gmail.com  
+
+ Gitlab 
+
+   Sfax - Tunisie 
+
+LANGUAGES   
+
+Arabe :        Langue Natal  
+
+Français :    Bien 
+
+Englais :     Assez bien 
+
+LOGICIEL   
+
+Word             
+
+Excel             
+
+PowerPoint    
+
+ 
+
+Curieux, Sérieux, Responsable et à l’esprit d’équipe  
+
+ainsi que le sens des affaires. 
+
+ 
+
+2021 - 2022 
+
+Sfax-Tunisie 
+
+ 
+
+2021 
+
+Coursera 
+
+2021 
+
+365 dataScience 
+
+2021 
+
+365 dataScience 
+
+2021 
+
+365 dataScience 
+
+De 08/2021 
+
+jusqu’au 
+
+09/2021  
+
+En M1 et M2  
+
+➢ Création des scrypts python pour faire la mise à jour du 
+
+codeigniter du version 2 vers 4, pour le profil d’une 
+
+application base sur ce Framework a la société Alfa 
+
+(Conseil. 
+
+ 
+
+ 
+ 
+
+2021 
+
+FSEGS 
+
+https://gitlab.com/medamarbakar/myportfolio
+https://www.facebook.com/Alfa8Conseil/
+http://www.fsegs.rnu.tn/
+https://learn.365datascience.com/c/21f1e0d160/
+https://learn.365datascience.com/c/e1b001fde7/
+https://learn.365datascience.com/c/ab15b58b72/
+https://coursera.org/share/19e6a11ae965f3d3c9b1ad72239ac2af
+http://www.iscae.mr/
+https://www.facebook.com/Alfa8Conseil/
+mailto:MedAmarBakar@gmail.com
+https://gitlab.com/medamarbakar/myportfolio
+https://www.coursera.org/
+https://365datascience.com/
+https://365datascience.com/
+https://365datascience.com/
+https://www.facebook.com/Alfa8Conseil/
+
+
+cleaned_text: creation mini projets voir gitlab machine learning prediction pluie australie nlp creation resumes text donnee nlp creation chatbot python dialogflow api creation outil scraping 111 profil parcours universitaire dote bonnes competences theoriques accompagnees bonne experience pratique domaine data science ainsi experiences professionnelles acquises creation mini projets lors stages sein societe alfa conseil tant developpeur aider decouvrir environnement travail bien gerer temps afin finir taches delai adapter apprendre technologies utilise fin honneur mettre differentes competences disposition 00216 52 389 916 sousse tunisie loisirs ia jeux video film journal information mastere cours science ingenierie donnees fsegs faculte science economique gestion sfax formation prise parole public communication skills gestion stress deep learning tensorflow 2 machine learning python introduction data data science certificat cloudera analysing big data sql licence developpement informatique iscae institut superieur comptabilite administration entreprises baccalaureat scientifique lycee excellence 2 mohamed bakar data scientist stagiaire societe developpement alfa conseil charge maintenance amelioration application web gestion scolarite universitaire utilisant framework codeigniter 08 2019 jusqu 07 2020 python datascience numpy pandas matplotlib seaborn scikit learn nltk spacy tenserflow 2 debutant ml k means knn arbre decision regression lineaire logistique dl rnn debutant cnn debutant nlp big data hadoop plus hive impala bi ssis ssas ssrs scrapping scrapy tweepy youtube api google api conteneur docker debutant langages programmation java javascript php sql python technologie web html css js php nodejs jee cms bases donnees mysql oracle mongodb cassandra ms sql server framework codeigniter bootstrap spring boot django debutant systeme exploitation windows linux ubuntu centos formation certification 2020 nouakchott mauritanie experiences professionnelles 2017 nouakchott mauritanie competences contact 216 509 978 74 medamarbakar gmail com gitlab sfax tunisie languages arabe langue natal francais bien englais assez bien logiciel word excel powerpoint curieux serieux responsable esprit equipe ainsi sens affaires 2021 2022 sfax tunisie 2021 coursera 2021 365 datascience 2021 365 datascience 2021 365 datascience 08 2021 jusqu 09 2021 m1 m2 creation scrypts python faire mise jour codeigniter version 2 vers 4 profil application base framework societe alfa conseil 2021 fsegs https gitlab com medamarbakar myportfolio https www facebook com alfa8conseil http www fsegs rnu tn https learn 365datascience com 21f1e0d160 https learn 365datascience com e1b001fde7 https learn 365datascience com ab15b58b72 https coursera org share 19e6a11ae965f3d3c9b1ad72239ac2af http www iscae mr https www facebook com alfa8conseil mailto medamarbakar gmail com https gitlab com medamarbakar myportfolio https www coursera org https 365datascience com https 365datascience com https 365datascience com https www facebook com alfa8conseil
+mobile_number: 0
+email: MedAmarBakar@gmail.com
+skills: ['Php', 'Tensorflow', 'Numpy', 'Excel', 'Big data', 'Html', 'Cms', 'Mysql', 'Seaborn', 'Administration', 'Matplotlib', 'Hadoop', 'Word', 'Oracle', 'Communication', 'Javascript', 'C#', 'Sql', 'Django', 'Css', 'Docker', 'Pandas', 'Python', 'Hive', 'Certification', 'Scrapy', 'Js', 'Spacy', 'Powerpoint', 'Nltk', 'C', 'Windows', 'Java', 'Api']
+skills_text: Php Tensorflow Numpy Excel Big data Html Cms Mysql Seaborn Administration Matplotlib Hadoop Word Oracle Communication Javascript C# Sql Django Css Docker Pandas Python Hive Certification Scrapy Js Spacy Powerpoint Nltk C Windows Java Api
+Category: IT

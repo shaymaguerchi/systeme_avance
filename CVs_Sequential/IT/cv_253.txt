@@ -1,0 +1,170 @@
+=== CV 253 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+916-555-0165hello@abbieaustin.comwww.abbieaustin.comLos Angeles, California
+
+
+C O N T A C T
+
+M E S  C O M P E T E N C E S
+
+S T A T U S
+
++216 93 795 910  
+
+rimgarali24@gmail.com  
+
+Tunis -Tunisie
+
+Système d'exploitation: 
+Linux  
+
+(debutante) 
+
+langages: 
+ c / c++ (avancée) 
+ c#  (debutante) 
+JAVA (avancée) 
+
+JavaScript (debutante) 
+J2EE (debutante) 
+Python (avancée)
+
+Tunisienne 
+
+Date d'anniversaire : 24/12/1997  
+
+La langue mère : Arabe 
+
+Autre langues:  
+
+Anglais / Français /Allemend 
+
+Juniper Network: 
+Connaissance basique en
+
+JNCIA JUNOS OS
+
+Framework: 
+Spring (debutante)  
+
+ 
+- HTML5 -CSS3 (avancée) 
+
+-UML  
+-Unity (debutante) 
+-MySQL (avancée) 
+
+-Matlab 
+
+GARAALI  RIM 
+E L E V E  I N G E N I E U R  E N  R E S E A U X
+
+I N F O R M A T I Q U E S  E T
+T E L E C O M M U N I C A T I O N S  A
+
+L ' I N S A T
+
+T R A V A I L L E U S E  -      D Y N A M I Q U E      -      M O T I V É E  
+ 
+E D U C A T I O N  :  
+
+2018-Present: 
+
+première année en ingénierie réseaux informatiques et telecommunication  
+
+2017 - 2018:  
+
+ classe préparatoire en réseaux informatiques et telecommunucations 
+
+2016-2017 :  
+
+classe préparatoire integrée maths,physiques et informatiques   
+
+2012-2016 : 
+
+ baccalaureat en mathematiques avec mentien tres bien  
+
+E X P E R I E N C E S
+
+septembre 2018-janvier 2019: 
+Travail a temps partiel a GoMyCode: 
+       -Instructrice en développement des jeux vidéo et créatrice du contenu  
+vie associative: 
+* VICE PRESIDENTE AU DEPARTEMENT RELATIONS EXTERNES IYCF ASSOCIATION  
+* RESSOURCES HUMAINES  A IEEE INSAT Computer Society STUDENT BRANCH  
+* VICE PRESIDENTE  A National Information Technology  Day 2018  
+ 
+2017-2018: 
+Stage d'été a GOMYCODE : 
+        -Instructrice  en developpement  des jeux vidéo   en utilisant c# et unity  
+ 
+
+ 
+* Un projet en machine learning de detection des spam en boite mail  en utilisant
+Python et les libraiaries de machine learning  
+-connaissance basique de machine learning et el langage python 
+* création d'une application JAVA de localisation de voiture en utilisant MySQL  
+*utilisation de c# pour créer une mini-application de reconnaissance faciale 
+                 
+                    
+           
+ 
+
+Mini-Projects
+
+
+
+cleaned_text: 916 555 0165hello abbieaustin comwww abbieaustin comlos angeles california e p e e e u 216 93 795 910 rimgarali24 gmail com tunis tunisie systeme exploitation linux debutante langages avancee debutante java avancee javascript debutante j2ee debutante python avancee tunisienne date anniversaire 24 12 1997 langue mere arabe autre langues anglais francais allemend juniper network connaissance basique jncia junos os framework spring debutante html5 css3 avancee uml unity debutante mysql avancee matlab garaali rim e e v e g e e u r e r e e u x f r q u e e e e u r v e u e q u e v e e e u 2018 present premiere annee ingenierie reseaux informatiques telecommunication 2017 2018 classe preparatoire reseaux informatiques telecommunucations 2016 2017 classe preparatoire integree maths physiques informatiques 2012 2016 baccalaureat mathematiques mentien tres bien e x p e r e e septembre 2018 janvier 2019 travail temps partiel gomycode instructrice developpement jeux video creatrice contenu vie associative vice presidente departement relations externes iycf association ressources humaines ieee insat computer society student branch vice presidente national information technology day 2018 2017 2018 stage ete gomycode instructrice developpement jeux video utilisant unity projet machine learning detection spam boite mail utilisant python libraiaries machine learning connaissance basique machine learning el langage python creation application java localisation voiture utilisant mysql utilisation creer mini application reconnaissance faciale mini projects
+mobile_number: 016-2017
+email: rimgarali24@gmail.com
+skills: ['Javascript', 'Mysql', 'Python', 'R', 'Os', 'Linux', 'P', 'Machine learning', 'C', 'Html5', 'C++', 'Java']
+skills_text: Javascript Mysql Python R Os Linux P Machine learning C Html5 C++ Java
+Category: IT

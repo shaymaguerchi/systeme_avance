@@ -1,0 +1,66 @@
+=== CV 167 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slim Boussaid CV
+
+
+
+
+cleaned_text: slim boussaid cv
+mobile_number: 0
+email: UNKNOWN
+skills: []
+skills_text: nan
+Category: Autres

@@ -1,0 +1,193 @@
+=== CV 387 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blue Sidebar Scholarship Resume
+
+
+FORMATION 
+
+        CONTACT
+
++21625551013
+
+ melek.khabou@enis.tn
+        
+ Melek-Khabou
+
+ melek-khabou
+
+À PROPOS DE MOI 
+
+Je suis dynamique , motivé par mon domaine
+,organisé ,rigoureux , je m'intègre
+parfaitement à un groupe de travail , curieux
+et ayant un sens de l'écoute, je suis toujours
+prêt a lever de nouveaux défis et doté d'une
+bonne énergie.
+
+Melek KHABOU
+
+Développement d'une application web de gestion du stock  : 
+
+Développement d'un site E-commerce avec une partie admin et une
+autre pour l' utilisateur  : 
+
+Développement l’application Check My Health contrôle du poids par
+rapport à la taille avec AndroidStudio .
+
+Développement de site Web statique qui présente la ville du
+Kerkennah :
+
+             environnement technique :Angular 9,SpringBoot , MongoDb.
+
+       environnement technique: PHP, HTML, CSS, Bootstrap 4 , MySql.
+
+        environnement technique: HTML, CSS , Javascript 
+
+COMPÉTENCES TECHNIQUE
+
+HTML 5, CSS3 , Javascript , PHP, JEE,ASP.NET
+Frameworks et Librairies : 
+
+SQL: MySQL
+No-SQl :MongoDB
+
+Langages de programmations: 
+         Java , Python , C, C++,C#
+
+Langages programmation Web:
+
+      Angular9 , REACTJS , NODEJS ,SpringBoot 
+
+Conception:
+        les patrons de conception , UML
+
+SGBD:
+
+ Gestion de versions:
+         Git 
+ 
+                        
+
+ 
+
+2019                    ECOLE NATIONALE D'INGENIEURS DE SFAX
+                                 GÉNIE INFORMATIQUE 
+2016-2019           FACULTÉ DES SCIENCES SFAX 
+                                 CYCLE PRÉPARATOIRE MATH-PHYSIQUE 
+2016                    LYCÉE ASAD IBN FOURAT (TUNIS)
+
+                   BACCALAURÉAT EN MATHEMATHIQUE
+
+CERTIFICATIONS
+Cyber security and its ten domains (coursera)
+Blockchain Baisics (Coursera)
+Introduction to Cybersecurity (Cisco)
+Digital Marketing (Google)
+Introduction to Programming using Python (Microsoft)
+
+VIE ASSOSIATIVE
+
+ 
+
+Responsable de l’équipe médias (PYFAC 6.0)
+IEEE Cyber Security Unit Enis Sb Président.
+Modérateur à PYFAC 5.0 (Pitch Your-self for a career)
+Membre de l’équipe de communication PYFAC  5.0
+
+ÉXPÉRIENCES PROFESSIONELLES 
+Stage d'été chez Zeta-box : Développement d'un service
+d'analyse d'audience d'un site WEB 
+environnement technique : React.Js - Node.Js - Strapi - Next.Js
+
+Stage d’été chez le gouvernorat de Sfax: Développement d'un
+site web qui présente la ville de SFAX
+environnement technique : WordPress
+      https://gov.smart-sfax.org
+
+            LANGUES
+français : bilingue
+Arabe : langue maternelle
+Anglais : courant
+Espagnol : débutant
+Allemand : débutant
+
+SOFT SKILLS
+Leadership , communication
+Gestion du temps et du stress 
+Gestion d’équipe 
+créativité
+
+élève ingénieur en informatique
+stage de fin d'étude d'une durée de 6 mois
+
+PROJETS Académiques
+
+CENTRE D'INTÉRÊT
+
+La pêche                              Football                             Natation 
+
+2021 
+
+2020 
+
+2020 
+
+2019
+
+https://ssl.microsofttranslator.com/bv.aspx?ref=TAns&from=&to=fr&a=https%3A%2F%2Fgov.smart-sfax.org
+
+
+cleaned_text: blue sidebar scholarship resume formation contact 21625551013 melek khabou enis tn melek khabou melek khabou propos dynamique motive domaine organise rigoureux integre parfaitement groupe travail curieux sens ecoute toujours pret lever nouveaux defis dote bonne energie melek khabou developpement application web gestion stock developpement site e commerce partie admin autre utilisateur developpement application check health controle poids rapport taille androidstudio developpement site web statique presente ville kerkennah environnement technique angular 9 springboot mongodb environnement technique php html css bootstrap 4 mysql environnement technique html css javascript competences technique html 5 css3 javascript php jee asp net frameworks librairies sql mysql sql mongodb langages programmations java python langages programmation web angular9 reactjs nodejs springboot conception patrons conception uml sgbd gestion versions git 2019 ecole nationale ingenieurs sfax genie informatique 2016 2019 faculte sciences sfax cycle preparatoire math physique 2016 lycee asad ibn fourat tunis baccalaureat mathemathique certifications cyber security ten domains coursera blockchain baisics coursera introduction cybersecurity cisco digital marketing google introduction programming using python microsoft vie assosiative responsable equipe medias pyfac 6 0 ieee cyber security unit enis sb president moderateur pyfac 5 0 pitch self career membre equipe communication pyfac 5 0 experiences professionelles stage ete chez zeta box developpement service analyse audience site web environnement technique react js node js strapi next js stage ete chez gouvernorat sfax developpement site web presente ville sfax environnement technique wordpress https gov smart sfax org langues francais bilingue arabe langue maternelle anglais courant espagnol debutant allemand debutant soft skills leadership communication gestion temps stress gestion equipe creativite eleve ingenieur informatique stage fin etude duree 6 mois projets academiques centre interet peche football natation 2021 2020 2020 2019 https ssl microsofttranslator com bv aspx ref tans fr https 3a 2f 2fgov smart sfax org
+mobile_number: 016-2019
+email: melek.khabou@enis.tn
+skills: ['Php', 'Html', 'Mysql', 'Digital marketing', 'Marketing', 'Communication', 'Javascript', 'Sql', 'Security', 'Css', 'Wordpress', 'Python', 'R', 'Math', 'Js', 'Health', 'Programming', 'C', 'Java', 'Cisco']
+skills_text: Php Html Mysql Digital marketing Marketing Communication Javascript Sql Security Css Wordpress Python R Math Js Health Programming C Java Cisco
+Category: IT

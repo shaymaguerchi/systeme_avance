@@ -1,0 +1,8 @@
+=== CV 648 ===
+text: Ahmed Fontaine
+cleaned_text: ahmed fontaine cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 58450914
+email: ahmed.fontaine@example.com
+skills: ['Linux', 'Management', 'SQL']
+skills_text: Linux Management SQL
+Category: Finance

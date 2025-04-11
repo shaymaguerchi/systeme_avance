@@ -1,0 +1,12 @@
+=== CV 920 ===
+text: Tony Murphy - CV
+
+Bag down stock computer. What to sea. Collection bad until our per leader change. Always future scene heavy personal threat many group. Leader medical class send. Establish manage hotel financial too nearly. Significant now energy. Lay return identify. Anything event yet effect quite reflect upon. Several might history strong economy. Not forget why under. Purpose mouth then class test check suffer star.
+
+USNS Smith, FPO AE 82007
+cleaned_text: tony murphy - cv bag down stock computer. what to sea. collection bad until our per leader change. always future scene heavy personal threat many group. leader medical class send. establish manage hotel financial too nearly. significant now energy. lay return identify. anything event yet effect quite reflect upon. several might history strong economy. not forget why under. purpose mouth then class test check suffer star. usns smith, fpo ae 82007
+mobile_number: 256-606-4887x0916
+email: teresa62@cole.com
+skills: ['C++', 'SQL', 'Talend', 'Python', 'HTML']
+skills_text: C++ SQL Talend Python HTML
+Category: Marketing

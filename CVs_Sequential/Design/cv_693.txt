@@ -1,0 +1,8 @@
+=== CV 693 ===
+text: Nadia Girard
+cleaned_text: nadia girard cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 69329544
+email: nadia.girard@example.com
+skills: ['Adobe', 'Python', 'Java']
+skills_text: Adobe Python Java
+Category: Design

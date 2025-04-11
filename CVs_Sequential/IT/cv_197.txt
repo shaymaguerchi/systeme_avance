@@ -1,0 +1,195 @@
+=== CV 197 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CV
+
+
+MOHAMED
+BEN HADID
+
+WEB & MOBILE
+DEVELOPER
+
+CONTACT
+Téléphone: 
++21621820764
+
+Email:
+mohamed.benhadid@esprit.tn
+
+GitHub:
+https://github.com/
+
+MedBenHadid
+
+EDUCATION
+
+Freelance (2016-2017)
+Développement d'application web
+
+Stage au sein de Tunisair (Janvier 2017)
+Développement d'application web (Synfony)
+
+Stage au sein de Tunisair (Janvier 2018)
+Développement d'application web (Laravel, vue)
+
+-institut superieur de technologie 
+
+informatique kelibia
+
+-Lycée rue Attarine Ariena, Tunis
+
+Arabe
+
+Fançais
+
+Anglais
+
+Mon parcours, complété par ma
+
+passion pour le développement
+
+et l'informatique, m'a permis
+
+d'acquérir les connaissances
+
+techniques et pratiques
+
+indispensables à l'exercice de ce
+
+domaine. 
+
+PROFIL EXPERIENCE
+
+Bac informatique 2016 Certificat de formation (Java/JEE) (TekUp)
+
+licence en développement  système
+d'information (2018-2019)
+
+LANGUE
+
+CERTIFICATE
+
+Certificat de formation (Java/Android)  N: 11-2\949\10
+
+Certificat de formation GOMYCODE (Summer academy)  
+~Parcours Web Niveau 2 (JavaScript ES6, ReactJs ,Redox
+,FireBase ,API)
+
+Certificat de formation GOMYCODE (Part time coding) 
+~ Parcours Web Niveau 3 (NodeJS, ExpressJS, MongoDB)
+
+Stage PFE au sein de Lezard-com(février au mai 2019)
+Développement d'application web et mobile                     
+(Laravel , VueJs, React Native)
+
+(instructeur web (ReactJs, NodeJs)
+INSTRUCTEUR WEB  À GOMYCODE (JUIN 2018 - PRESENT) 
+
+Ingénierie informatique (en cours)
+
+-ESPRIT
+
+LinkedIn :
+https://www.linkedin.com/in/
+
+med-benhadid/
+
+SKILLS
+Back-end
+NodeJs ~ ExpressJs ~ PHP ~
+
+Symfony  3 ~ Laravel ~ Java ~
+
+Spring ~ .NET ~ python ~
+
+Django ~ SQL~ Restfull API &
+
+SOA
+
+Front-end
+HTML5/CSS ~ Bootstrap ~
+
+jQuery ~ VueJs~ ReactJs ~
+
+React Native (Mobile)~
+
+Angular ~ SEO
+
+SE
+Linux , SEA
+
+DataBase
+MySQL ~ PL/SQL ~      
+
+MongoDB ~ Firebase
+
+Outils
+Git ~ Trello ~ Slack 
+
+1st place IEEE Extrem Hackathon (ESPRIT)
+
+projet en internat (2021)
+Virtuel Dress Room (MERN js)
+
+projet en internat (2020)
+Reactors (Synfony , codename one, javaFX)
+
+Freelance  (2020)
+Ektisadia.tn (Laravel , VueJs)
+
+
+
+cleaned_text: cv mohamed ben hadid web mobile developer contact telephone 21621820764 email mohamed benhadid esprit tn github https github com medbenhadid education freelance 2016 2017 developpement application web stage sein tunisair janvier 2017 developpement application web synfony stage sein tunisair janvier 2018 developpement application web laravel vue institut superieur technologie informatique kelibia lycee rue attarine ariena tunis arabe fancais anglais parcours complete passion developpement informatique permis acquerir connaissances techniques pratiques indispensables exercice domaine profil experience bac informatique 2016 certificat formation java jee tekup licence developpement systeme information 2018 2019 langue certificate certificat formation java android 11 2 949 10 certificat formation gomycode summer academy parcours web niveau 2 javascript es6 reactjs redox firebase api certificat formation gomycode part time coding parcours web niveau 3 nodejs expressjs mongodb stage pfe sein lezard com fevrier mai 2019 developpement application web mobile laravel vuejs react native instructeur web reactjs nodejs instructeur web gomycode juin 2018 present ingenierie informatique cours esprit linkedin https www linkedin com med benhadid skills back end nodejs expressjs php symfony 3 laravel java spring net python django sql restfull api soa front end html5 css bootstrap jquery vuejs reactjs react native mobile angular seo linux sea database mysql pl sql mongodb firebase outils git trello slack 1st place ieee extrem hackathon esprit projet internat 2021 virtuel dress room mern js projet internat 2020 reactors synfony codename one javafx freelance 2020 ektisadia tn laravel vuejs
+mobile_number: 2162182076
+email: mohamed.benhadid@esprit.tn
+skills: ['Php', 'Android', 'Mobile', 'Github', 'Mysql', 'Javascript', 'Email', 'Database', 'Sql', 'Django', 'Css', 'Html5', 'Python', 'Linux', 'Seo', 'Coding', '.net', 'Js', 'Java', 'Api']
+skills_text: Php Android Mobile Github Mysql Javascript Email Database Sql Django Css Html5 Python Linux Seo Coding .net Js Java Api
+Category: IT

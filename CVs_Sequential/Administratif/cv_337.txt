@@ -1,0 +1,135 @@
+=== CV 337 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WAFA REBHI
+Ingénieur mécanique
+
+[ wafarebhi2@gmail.com
+Ó +216 58 692 859
+½ Kairouan
+¯ www.linkedin.com/in/wafa-rebhi-947372162/
+
+PROJETS
+Projet SPC
+� 2019 – 2020
+Gage RR,Analyse de capabillité.
+Projet VBA
+� 2019 – 2020
+Programmation VBA pour CATIA V5.
+Projet Plasturgie
+� 2019 – 2020
+Conception d’un moule d’injection plastique avecSOLIDWORKS-IMOLD.
+COMPÉTENCES
+• Outils de qualité
+SPC AMDEC MSA DOE VSM Pareto TPM
+QRQC
+
+• Logiciels
+Minitab SOLIDWORKS Catia V5 Siemens NX
+Abaqus
+
+• Office
+Word Excel Power point
+
+• Autres
+Lean manufacturing Project management
+Analyse de capabilité Analyse de corrélation régression
+5S
+
+ACTIVITÉS
+• club ESPOIR ENSIT
+Organisation et participation à des événements
+CERTIFICATIONS
+• Six Sigma Black Belt
+En cours
+• Lean Six Sigma Green Belt
+Octobre 2020
+• SOLIDWORKS-CSWP
+CODE : C-KRMZXDHQMA
+• TOEIC
+B1 Level
+LANGAGES
+Arabe ○○○○○
+Français ○○○○○
+Anglais ○○○○○
+
+EXPÉRIENCE PROFESSIONNELLE
+Amélioration de l’efficience d’une ligned’assemblage
+Projet de fin d’études chez Yura Corporation Tunisie
+� Février – août 2020 ½ Kairouan
+• Un diagnostic de l’état actuel en utilisant les outils Leanmanufacturing,le management visuel (VSM)
+• Identification des causes de gaspillages en ayant recoursaux diagrammes d’Ishikawa et celui de Pareto
+• Un rééquilibrage des postes de travail de la chaine demontage en se basant sur l’approche CIP (classement parimportance de position) pour achever le Takt Time souhaité.
+• L’application de la méthode 5S
+• Une procédure de suivi en se référant aux indicateurs deperformance(Takt Time , Lead Time , Ratio d’efficacité)
+
+Stage d’Ingénieur
+SAFAC Tunisie (Société Afrique Acier )
+� Eté 2019 ½ Kairouan
+• Etude et dimentionnement d’une trappe hydraulique.
+
+Stage d’Initiation
+MTK (Manufacture de Tabac de Kairouan )
+� Eté 2018 ½ Kairouan
+• Elaboration des gamme d’usinage des pièces de rechange
+• Conception des pièces de rechange sur CATIA
+CURSUS UNIVERSITAIRE
+Ingénierie en génie Mécanique, spécialité CFAO(Conception et Fabrication Assistée par Ordinateur)
+École nationale Supérieure d’ingénieurs de Tunis - ENSIT
+� 2017 –2020 ½ Tunis
+
+Cycle préparatoire aux études d’ingénieurs,spécialité Math Physique
+Institut Préparatoire aux Études d’Ingénieurs de
+Kairouan-IPEIK
+� 2014 – 2017 ½ Kairouan
+
+
+
+cleaned_text: wafa rebhi ingenieur mecanique wafarebhi2 gmail com 216 58 692 859 1 2 kairouan www linkedin com wafa rebhi 947372162 projets projet spc 2019 2020 gage rr analyse capabillite projet vba 2019 2020 programmation vba catia v5 projet plasturgie 2019 2020 conception moule injection plastique avecsolidworks imold competences outils qualite spc amdec msa doe vsm pareto tpm qrqc logiciels minitab solidworks catia v5 siemens nx abaqus office word excel power point autres lean manufacturing project management analyse capabilite analyse correlation regression 5s activites club espoir ensit organisation participation evenements certifications six sigma black belt cours lean six sigma green belt octobre 2020 solidworks cswp code krmzxdhqma toeic b1 level langages arabe francais anglais experience professionnelle amelioration efficience ligned assemblage projet fin etudes chez yura corporation tunisie fevrier aout 2020 1 2 kairouan diagnostic etat actuel utilisant outils leanmanufacturing management visuel vsm identification causes gaspillages recoursaux diagrammes ishikawa celui pareto reequilibrage postes travail chaine demontage basant approche cip classement parimportance position achever takt time souhaite application methode 5s procedure suivi referant indicateurs deperformance takt time lead time ratio efficacite stage ingenieur safac tunisie societe afrique acier ete 2019 1 2 kairouan etude dimentionnement trappe hydraulique stage initiation mtk manufacture tabac kairouan ete 2018 1 2 kairouan elaboration gamme usinage pieces rechange conception pieces rechange catia cursus universitaire ingenierie genie mecanique specialite cfao conception fabrication assistee ordinateur ecole nationale superieure ingenieurs tunis ensit 2017 2020 1 2 tunis cycle preparatoire etudes ingenieurs specialite math physique institut preparatoire etudes ingenieurs kairouan ipeik 2014 2017 1 2 kairouan
+mobile_number: 9473721
+email: wafarebhi2@gmail.com
+skills: ['Excel', 'Word', 'Lean', 'Green', 'Solidworks', 'Fabrication', 'C', 'Math']
+skills_text: Excel Word Lean Green Solidworks Fabrication C Math
+Category: Administratif

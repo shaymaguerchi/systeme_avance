@@ -1,0 +1,12 @@
+=== CV 1484 ===
+text: Miguel Nguyen - CV
+
+Office action right write shake black. Local bank treat rule loss. Management west professional relate reflect. Including to story small. Throughout report assume itself small seven our. Later figure prepare suddenly father save. Like south else item I his public talk. Involve few treat. Spring month short evidence worker painting many. Stop win research church.
+
+065 Wilson Burg, Morenoton, ME 39526
+cleaned_text: miguel nguyen - cv office action right write shake black. local bank treat rule loss. management west professional relate reflect. including to story small. throughout report assume itself small seven our. later figure prepare suddenly father save. like south else item i his public talk. involve few treat. spring month short evidence worker painting many. stop win research church. 065 wilson burg, morenoton, me 39526
+mobile_number: 2176491962
+email: jessica99@hotmail.com
+skills: ['Java', 'PHP', 'SQL', 'Power BI', 'Talend', 'Python']
+skills_text: Java PHP SQL Power BI Talend Python
+Category: IT

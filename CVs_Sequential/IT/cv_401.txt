@@ -1,0 +1,186 @@
+=== CV 401 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OUM KELTHOUM SELMAN
+élève ingénieure en cybersécurité à la recherche d’un stage de fin
+d’études,rigoureuse, créative et motivée.
+@ oumkelthoum.selman@esprit.tn � +216 56991413
+( Rue Hbib chatti,Résidence Nejla,El menar1,Tunisie
+è https://www.linkedin.com/in/oum-kelthoum-selman-242a65177/
+
+EXPERIENCE
+Mise en place d’un serveur monitoring
+BFI(Banque de Financements Islamique)
+x Juillet 2021 – Aout 2021 ( Nouakchott,Mauritanie
+• Installation et configuration d’un outil opensource monitoring pour vi-
+
+sualiser les traffics de tous les utilisateurs dans la banque BFI, zabbix qui
+est permettant de surveiller l’état de divers services réseau, serveurs et
+autres matériels réseau et produisant des graphiques dynamiques de
+consommation des ressources.
+
+Conversion des specifiques rapports avec JasPerSoft
+BPM(Banque Populaire de Mauritanie
+x Aout 2021 ( Nouakchott,Mauritanie
+• Selection des rapportS utilisés dans les différents services de la banque.
+• Téléchargement des rapports avec IMAL.
+• Génération des rapports PBL en PBT avec PowerBuilder.
+• Génération des rapports PBT en JRXML avec DJConverter.
+• Visualisation des rapports avec JasPerSoft.
+
+Déploiement d’une solution de chasse aux menacespour une Infrastructure de cloud privé dédiée à l’éducation(EDUCLOUD)
+ESPRIT
+x Fév 2021 – Mai 2021 ( Tunis, Tunisie
+• Conception d’une architecture sécurisée pour les différentes zones (LAN
+
+,DMZ et SOC).
+• Configurer et Sécuriser les serveurs( FTP, Mail, LDAP, Data Base, web
+
+Server .....) .
+• Configuration de SOC (SIEM, OSSEC, Nagios, OpenVPN, MISP..).
+• Développement d’une application EDUCLOUDWeb sécurisée avec
+
+Spring boot Security.
+
+Projet industriel en entreprise
+Mattel
+x Déc 2019 – Juin 2020 ( Nouakchott,Mauritanie
+• Implémentation de l’ipv6 dans l’opérateur national Mattel en utilisant
+
+logiciel ENSP pour interconnecter les différents composants Huawei.
+
+Projets de développement
+ESP
+x 2018 – 2020 ( Nouakchott,Mauritanie
+
+FORMATION
+Double diplome(Esprit/Ecole supérieurepolytechnique de nouakchott)
+École Sup Privée d’Ingénierie et de Tech-
+nologies
+x Sept 2020 – Juin 2022( Tunis,Tunisie
+
+Élève ingénieure en IRT(Informatique,Réseaux et Télécommunication)
+École Supérieure Polytechnique
+x Sept 2018 – Juin 2020( Nouakchott,Mauritanie
+
+Classes préparatoires
+Institut préparatoire aux grandes écoles
+d’ingénieurs
+x Sept 2016 – Juin 2018( Nouakchott,Mauritanie
+• CNIM (Concours national des ingénieurs
+
+mauritaniens)
+
+Baccalauréat mathématique
+Lycée d’excellence 1
+x Sept 2015 – Juin 2016( Nouakchott,Mauritanie
+
+Diplôme d’étude en langue françaiseDELF B2
+Alliance française
+x 2019 ( Nouakchott,Mauritanie
+
+COMPETENCES
+Sécurité réseaux Linux C/C++ .Net
+SOAP Java EE HTML/CSS WebGoat
+SqlMap Matlab Oracle ENSP
+Packet Tracer Power BI Dolibarr
+MS Project Ofbiz Spring Security
+Administration Réseaux Lingo/Cplex
+Spring boot SQL, PL/SQL & MYSQL
+JasPerSoft
+
+mailto:oumkelthoum.selman@esprit.tn
+tel:+216 56991413
+https://linkedin.com/in/https://www.linkedin.com/in/oum-kelthoum-selman-242a65177/
+
+
+• Développement d’une application desktop de gestion des emplois du
+temps avec SWING.
+
+• Développement d’une application web de gestion bibliothèque en dévelop-
+pent avec Java EE ,Spring boot ,JPA , HTML5/CSS3 et JavaScript.
+
+Stage d’immersion en entreprise
+BFI (Banque de finance islamique)
+x Juillet 2019 – Aout 2019 ( Nouakchott,Mauritanie
+• Manipulation d’un logiciel bancaire T24 qui consiste à développer les
+
+menus entre les différents services
+
+LANGUES
+Arabic ○ ○ ○ ○ ○
+Francais ○ ○ ○ ○ ○
+Anglais ○ ○ ○ ○○ ○
+
+CERTIFICATIONS
+• Getting Started with Google Kubernetes
+
+Engine
+• CCNA 2 Routing and Switching
+• The Ultimate MySQL Crash Course 2021
+• Docker For Beginners (Practical Way)
+• Networking Essentials
+• Introduction to Cybersecurity
+
+CENTRE INTÉRET
+Lecture Sport
+
+
+
+cleaned_text: oum kelthoum selman eleve ingenieure cybersecurite recherche stage fin etudes rigoureuse creative motivee oumkelthoum selman esprit tn 216 56991413 rue hbib chatti residence nejla el menar1 tunisie e https www linkedin com oum kelthoum selman 242a65177 experience mise place serveur monitoring bfi banque financements islamique x juillet 2021 aout 2021 nouakchott mauritanie installation configuration outil opensource monitoring vi sualiser traffics tous utilisateurs banque bfi zabbix permettant surveiller etat divers services reseau serveurs autres materiels reseau produisant graphiques dynamiques consommation ressources conversion specifiques rapports jaspersoft bpm banque populaire mauritanie x aout 2021 nouakchott mauritanie selection rapports utilises differents services banque telechargement rapports imal generation rapports pbl pbt powerbuilder generation rapports pbt jrxml djconverter visualisation rapports jaspersoft deploiement solution chasse menacespour infrastructure cloud prive dediee education educloud esprit x fev 2021 mai 2021 tunis tunisie conception architecture securisee differentes zones lan dmz soc configurer securiser serveurs ftp mail ldap data base web server configuration soc siem ossec nagios openvpn misp developpement application educloudweb securisee spring boot security projet industriel entreprise mattel x dec 2019 juin 2020 nouakchott mauritanie implementation ipv6 operateur national mattel utilisant logiciel ensp interconnecter differents composants huawei projets developpement esp x 2018 2020 nouakchott mauritanie formation double diplome esprit ecole superieurepolytechnique nouakchott ecole sup privee ingenierie tech nologies x sept 2020 juin 2022 tunis tunisie eleve ingenieure irt informatique reseaux telecommunication ecole superieure polytechnique x sept 2018 juin 2020 nouakchott mauritanie classes preparatoires institut preparatoire grandes ecoles ingenieurs x sept 2016 juin 2018 nouakchott mauritanie cnim concours national ingenieurs mauritaniens baccalaureat mathematique lycee excellence 1 x sept 2015 juin 2016 nouakchott mauritanie diplome etude langue francaisedelf b2 alliance francaise x 2019 nouakchott mauritanie competences securite reseaux linux net soap java ee html css webgoat sqlmap matlab oracle ensp packet tracer power bi dolibarr ms project ofbiz spring security administration reseaux lingo cplex spring boot sql pl sql mysql jaspersoft mailto oumkelthoum selman esprit tn tel 216 56991413 https linkedin com https www linkedin com oum kelthoum selman 242a65177 developpement application desktop gestion emplois temps swing developpement application web gestion bibliotheque develop pent java ee spring boot jpa html5 css3 javascript stage immersion entreprise bfi banque finance islamique x juillet 2019 aout 2019 nouakchott mauritanie manipulation logiciel bancaire t24 consiste developper menus entre differents services langues arabic francais anglais certifications getting started google kubernetes engine ccna 2 routing switching ultimate mysql crash course 2021 docker beginners practical way networking essentials introduction cybersecurity centre interet lecture sport
+mobile_number: 216 5699141
+email: oumkelthoum.selman@esprit.tn
+skills: ['Html', 'Mysql', 'Conversion', 'Administration', 'Cloud', 'Oracle', 'C++', 'Soap', 'Javascript', 'Matlab', 'Sql', 'Pl/sql', 'Security', 'Css', 'Html5', 'Routing', 'Linux', 'Lan', 'Installation', '.net', 'Networking', 'Architecture', 'C', 'Java', 'Docker']
+skills_text: Html Mysql Conversion Administration Cloud Oracle C++ Soap Javascript Matlab Sql Pl/sql Security Css Html5 Routing Linux Lan Installation .net Networking Architecture C Java Docker
+Category: IT

@@ -1,0 +1,12 @@
+=== CV 1138 ===
+text: Timothy Russell - CV
+
+Weight quickly model amount population dinner. Avoid but to sit threat party himself. Bed true on decide poor happen social. Leader people very give ten whose PM. Suggest off box town they doctor. Much themselves in just light. Option those treat almost country. Media hit mission song red election six consider. Rise bring one western data cover news.
+
+4439 Lauren Via Apt. 396, South Michaeltown, AK 07652
+cleaned_text: timothy russell - cv weight quickly model amount population dinner. avoid but to sit threat party himself. bed true on decide poor happen social. leader people very give ten whose pm. suggest off box town they doctor. much themselves in just light. option those treat almost country. media hit mission song red election six consider. rise bring one western data cover news. 4439 lauren via apt. 396, south michaeltown, ak 07652
+mobile_number: 341.230.9944x68409
+email: roy16@hotmail.com
+skills: ['C++', 'JavaScript', 'CSS']
+skills_text: C++ JavaScript CSS
+Category: IT

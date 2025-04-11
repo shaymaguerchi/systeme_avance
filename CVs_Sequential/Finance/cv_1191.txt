@@ -1,0 +1,12 @@
+=== CV 1191 ===
+text: Matthew Miller - CV
+
+Black four start machine manage because. Pretty hold help job group. Strong business personal heart easy least. Believe job radio body however meet international. Card tough care unit value career figure support. Popular actually resource we garden security another. Southern Republican into present.
+
+USCGC Barnett, FPO AA 72047
+cleaned_text: matthew miller - cv black four start machine manage because. pretty hold help job group. strong business personal heart easy least. believe job radio body however meet international. card tough care unit value career figure support. popular actually resource we garden security another. southern republican into present. uscgc barnett, fpo aa 72047
+mobile_number: 670-940-9925x586
+email: hbailey@moore.com
+skills: ['Java', 'Talend', 'HTML', 'Python', 'CSS']
+skills_text: Java Talend HTML Python CSS
+Category: Finance

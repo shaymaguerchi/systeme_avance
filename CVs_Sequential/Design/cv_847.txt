@@ -1,0 +1,8 @@
+=== CV 847 ===
+text: Hugo Dupont
+cleaned_text: hugo dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 30231473
+email: hugo.dupont@example.com
+skills: ['Adobe', 'Java', 'Finance', 'Windows', 'Python', 'SQL']
+skills_text: Adobe Java Finance Windows Python SQL
+Category: Design

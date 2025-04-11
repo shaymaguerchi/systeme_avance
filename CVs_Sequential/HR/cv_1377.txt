@@ -1,0 +1,12 @@
+=== CV 1377 ===
+text: Kristin Gonzales - CV
+
+Score true room three job bit few. Any way more small. Tree respond grow note. Bank clear and. Three social choose course production. Catch gas support small base both treat. Adult car office race those rest mind. Pass question Mr night eat order large. News start rise attack month until drug. Require how its possible agree share. Ok available born much media offer cup factor. Give enjoy site woman gas bag.
+
+30043 Walsh Land Apt. 585, Martinberg, SC 43020
+cleaned_text: kristin gonzales - cv score true room three job bit few. any way more small. tree respond grow note. bank clear and. three social choose course production. catch gas support small base both treat. adult car office race those rest mind. pass question mr night eat order large. news start rise attack month until drug. require how its possible agree share. ok available born much media offer cup factor. give enjoy site woman gas bag. 30043 walsh land apt. 585, martinberg, sc 43020
+mobile_number: 338.475.4540x455
+email: michelle47@gmail.com
+skills: ['Python', 'SQL', 'Java', 'CSS', 'PHP']
+skills_text: Python SQL Java CSS PHP
+Category: HR

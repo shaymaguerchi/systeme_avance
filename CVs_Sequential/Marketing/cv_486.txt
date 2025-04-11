@@ -1,0 +1,8 @@
+=== CV 486 ===
+text: Nadia Dupont
+cleaned_text: nadia dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 83380490
+email: nadia.dupont@example.com
+skills: ['HTML', 'Windows', 'Marketing', 'SQL']
+skills_text: HTML Windows Marketing SQL
+Category: Marketing

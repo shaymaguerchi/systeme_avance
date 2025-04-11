@@ -1,0 +1,12 @@
+=== CV 931 ===
+text: Katrina Herrera - CV
+
+Model sing then. Choice cell seven care yet. According star study form seem beat. Effect forward magazine movie base. Keep since my necessary million trade. Popular stock memory challenge.
+
+6807 Ann Crossroad Apt. 921, Robertsview, MO 90238
+cleaned_text: katrina herrera - cv model sing then. choice cell seven care yet. according star study form seem beat. effect forward magazine movie base. keep since my necessary million trade. popular stock memory challenge. 6807 ann crossroad apt. 921, robertsview, mo 90238
+mobile_number: 052.169.3036x0096
+email: williamsalexis@beasley.biz
+skills: ['SQL', 'Java', 'HTML']
+skills_text: SQL Java HTML
+Category: Marketing

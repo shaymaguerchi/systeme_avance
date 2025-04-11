@@ -1,0 +1,140 @@
+=== CV 188 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sarra aouichi
+
+
+S A R R A  A O U I C H I
+•  J u n i o r   W e b  e t  M o b i l e  D é v e l o p p e u r  •
+
+C O N T A C T
+
+P R O F I L E
+
+Nouvellement diplomée d'une Licence
+Appliquée en Technologies de l'Informatique
+spécialité Système Embarqué et Mobile. 
+J'ai pour objectif de développer mes
+compétences et de m'intégrer dans la vie
+professionnelle. 
+j'ai confiance en mon sens de résponsabilité
+et je suis motivée,dynamique et ponctuelle.
+
+F O R M A T I O N
+
+• Lycée Secondaire Mahmoud El Messadi
+Baccalauréat en Sciences Expérimentales
+
+• Institut Supérieur des Etudes Technologiques de
+Bizerte
+Licence Appliquée en Technologie de l'Inofrmatique
+spécialité Système Embarqué et Mobile
+
+Stage d'Observation  | Société tunisienne de l'électricité et du gaz-STEG
+• Gestion des comptes professionnels Microsoft
+• Configuration et maintenance d'internet, imprimante, routeurs.• Organization of
+files.
+
+Stage de Perfectionnement | La Société Tunisienne de Banque -Stb
+•  Création d'une application web pour la gestion des stocks de matériel
+informatique. 
+
+Stage de Fin d'études | Global Payment Gateway - GPG
+• Création d'une application mobile de paiment bancaire sans contact avec le
+protocole NFC.
+
+E X P É R I E N C E  P R O F E S S I O N N E L L E
+
+2019
+
+2020
+
+2021
+
+C O M P É T E N C E S
+
+Android
+
+Java
+
+Html/CSS/JS
+
+PHP & SQL
+
+Angular
+
+Spring Boot
+
++216 26 662 906
+
+sarraaouichi1@gmail.com
+
+Tunis,Ariana
+
+L A N G U E S
+
+• Arabe
+
+• Français
+
+• Anglais
+
+• Espagnole
+
+
+
+cleaned_text: sarra aouichi r r u h u r w e b e b e e v e p p e u r p r f e nouvellement diplomee licence appliquee technologies informatique specialite systeme embarque mobile objectif developper competences integrer vie professionnelle confiance sens responsabilite motivee dynamique ponctuelle f r lycee secondaire mahmoud el messadi baccalaureat sciences experimentales institut superieur etudes technologiques bizerte licence appliquee technologie inofrmatique specialite systeme embarque mobile stage observation societe tunisienne electricite gaz steg gestion comptes professionnels microsoft configuration maintenance internet imprimante routeurs organization files stage perfectionnement societe tunisienne banque stb creation application web gestion stocks materiel informatique stage fin etudes global payment gateway gpg creation application mobile paiment bancaire sans contact protocole nfc e x p e r e e p r f e e e 2019 2020 2021 p e e e android java html css js php sql angular spring boot 216 26 662 906 sarraaouichi1 gmail com tunis ariana g u e arabe francais anglais espagnole
+mobile_number: 0
+email: sarraaouichi1@gmail.com
+skills: ['Php', 'Js', 'Android', 'Mobile', 'Html', 'Sql', 'R', 'Css', 'P', 'C', 'Java']
+skills_text: Php Js Android Mobile Html Sql R Css P C Java
+Category: IT

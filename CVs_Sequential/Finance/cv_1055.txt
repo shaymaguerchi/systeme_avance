@@ -1,0 +1,12 @@
+=== CV 1055 ===
+text: Zachary Knight - CV
+
+As down recognize. Laugh morning how ball. Charge true stand as opportunity. Process act small dinner. Environmental weight increase college evidence. Education who operation respond better.
+
+69382 Hoover Estate Suite 315, New Julie, NJ 49809
+cleaned_text: zachary knight - cv as down recognize. laugh morning how ball. charge true stand as opportunity. process act small dinner. environmental weight increase college evidence. education who operation respond better. 69382 hoover estate suite 315, new julie, nj 49809
+mobile_number: 295-145-2620
+email: angela54@gmail.com
+skills: ['Power BI', 'HTML', 'SQL', 'CSS']
+skills_text: Power BI HTML SQL CSS
+Category: Finance

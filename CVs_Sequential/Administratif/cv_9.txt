@@ -1,0 +1,181 @@
+=== CV 9 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DABOUSSI
+RAHMA
+
+
+
+
+
+
+
+rahmadaaboussi@gmail.com
+
+28676311
+
+Tunis
+
+ Rahma Daboussi
+
+
+
+
+
+
+
+
+
+
+
+OBJECTIF
+
+En tant que diplômée récent , je recherche un poste
+qui me permettre de continuer à apprendre et à
+perfectionner mes compétences tout en fournissant
+un travail de qualité ,et de m'encourage à
+m'épanouir
+
+INFORMATIONS PERSONNELLES
+
+Date De Naissance : 29/03/1998
+
+Nationalité : Tunisienne
+
+COMPÉTENCES
+
+Travail en équipe
+
+Résistance au stress
+
+Être organisée
+
+L'autonomie
+
+La polyvalence
+
+Capacité d'écoute
+
+INTÉRÊTS
+
+Les activités associatives
+
+Sport
+
+LA LANGUE
+
+Arabe
+
+Français
+
+Anglais
+
+Espanol
+
+1/07/2019 -
+31/07/2019
+
+01/08/2018 -
+31/09/2018
+
+
+
+2021
+
+2020
+
+2017
+
+
+
+
+
+EXPÉRIENCE PROFESSIONNELLE
+
+Banque Nationale Agricole
+Stagiaire
+Au cours de mon stage j'ai eu
+l'opportunité d'accomplir
+certaines tâches , et exporter
+certains services au sein de
+l'agence , tel que service
+guichet , service virement ,
+service portefeuille financièr ,
+service change et opération
+bancaire avec l'étranger et
+service monétique 
+
+Banque Nationale Agricole
+Stagiaire
+Chargée des opérations de
+guichetier encaissement et
+décaissement 
+
+ÉDUCATION
+
+FSEG Tunis Manar
+Diplôme : Mastère
+Professionnel en Comptabilité
+Financière 
+
+FSEG Tunis Manar
+Diplôme : Licence
+Fondamentale en
+comptabilité financière 
+
+Lycée Ain drahem
+Diplôme : Baccalauréat
+session principale en
+Économie gestion 
+
+INFORMATIQUE
+
+Microsoft Office Word, Excel et PowerPoint
+Photoshop
+
+
+
+cleaned_text: daboussi rahma rahmadaaboussi gmail com 28676311 tunis rahma daboussi objectif tant diplomee recent recherche poste permettre continuer apprendre perfectionner competences tout fournissant travail qualite encourage epanouir informations personnelles date naissance 29 03 1998 nationalite tunisienne competences travail equipe resistance stress etre organisee autonomie polyvalence capacite ecoute interets activites associatives sport langue arabe francais anglais espanol 1 07 2019 31 07 2019 01 08 2018 31 09 2018 2021 2020 2017 experience professionnelle banque nationale agricole stagiaire cours stage opportunite accomplir certaines taches exporter certains services sein agence tel service guichet service virement service portefeuille financier service change operation bancaire etranger service monetique banque nationale agricole stagiaire chargee operations guichetier encaissement decaissement education fseg tunis manar diplome mastere professionnel comptabilite financiere fseg tunis manar diplome licence fondamentale comptabilite financiere lycee drahem diplome baccalaureat session principale economie gestion informatique microsoft office word excel powerpoint photoshop
+mobile_number: 2867631
+email: rahmadaaboussi@gmail.com
+skills: ['Powerpoint', 'Excel', 'Word', 'Photoshop']
+skills_text: Powerpoint Excel Word Photoshop
+Category: Administratif

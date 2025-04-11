@@ -1,0 +1,8 @@
+=== CV 463 ===
+text: Ahmed Lambert
+cleaned_text: ahmed lambert cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 73994106
+email: ahmed.lambert@example.com
+skills: ['SQL', 'CSS', 'Adobe']
+skills_text: SQL CSS Adobe
+Category: IT

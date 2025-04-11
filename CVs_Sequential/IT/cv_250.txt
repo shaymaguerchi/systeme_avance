@@ -1,0 +1,211 @@
+=== CV 250 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+AYMEN LATRACH 
+Développeur Logiciel 
+Tél: +21627511567 
+
+Mail: aymen24727@gmail.com 
+
+Adresse: Siliana, Tunisie 
+
+   Linkedin: www.linkedin.com/in/latrach-aymen-a54617143 
+
+ 
+
+Expérience 
+
+ 
+ Centre Elife Siliana 
+ 
+
+Projet de Développement Architecture N-tiers 
+
+Application de Gestion Bancaire 
+Framework Spring Boot / java 11 
+
+ 
+
+Application de Gestion de Formation 
+Framework Symfony / PHP7, HTML5, CSS 
+
+ 
+
+  Centre IT LAND Ariana 
+    Application de Gestion des Employers 
+
+   Framework Angular JS/ javascript, HTML,CSS 
+
+ 
+Institut Supérieur des Etudes 
+Technologique du Kef 
+Projet Fin d’Etudes 
+
+2012 - 2013 
+
+Kef-Tunisie 
+
+Conception et Réalisation d’une Application 
+
+de Gestion de Scolarité. 
+
+PHP 5, JavaScript, HTML et CSS 
+
+ 
+
+  Tunisie Télécom du Kef 
+Stage technicien 
+
+2011 - 2012 Kef, Tunisie 
+
+Stage dans le centre de construction des lignes. 
+
+PHP 5, JavaScript, HTML et CSS 
+
+  Commune Rohia 
+Stage ouvrier 
+
+2010 - 2011 Siliana-Tunisie 
+
+ 
+
+   Langues: 
+Anglais: Intermédiaire 
+
+Français: Intermédiaire 
+
+Arabe: Langue maternelle 
+
+  Centres d'intérêts: 
+
+Football, Voyage, Music 
+
+Formation et diplômes 
+
+ 
+Centre Elife Siliana 
+Certificat de Qualification et de Compétences : Services du 
+
+numérique : TIC et TACT. 
+
+2020 – 2021 
+
+   Centre IT LAND Ariana 
+    Certificat de réussite  session de formation Angulr JS. 
+
+25  Décembre 2021 – 29 Décembre 2021 
+ 
+
+Formation en ligne: Sciences et Leadership 
+Développement de Jeu Unitaire. 
+
+23 Aout 2021 – 30 Aout 2021 
+
+ 
+
+Institut Supérieur des Etudes Technologique 
+
+du Kef 
+Diplôme de Licence Appliquée: 
+
+Domaine: Science et Technologie. 
+
+Sujet: Technologie de 
+
+l'informatique. 
+
+Spécialité: Développement des Systèmes 
+
+d'information. 
+
+2010 - 2013 Kef, Tunisie 
+
+ 
+
+Lycée Rohia 
+Baccalauréat en informatique 
+
+2009 - 2010 Siliana, Tunisie 
+
+ 
+
+Compétences techniques 
+
+ 
+Langages de programmation : 
+C#, C++, Java , PHP 7, JavaScript, Pascal 
+
+ 
+
+Développement web : 
+HTML, CSS, Bootstrap, jQuery, MySQL, 
+
+Framework: Spring Boot. 
+
+     Framework: Symfony 5. 
+
+     Framework: Angular JS. 
+
+ 
+
+Outils de développement : 
+NetBeans, PHPStorm, VS Code, Dreamweaver. 
+
+mailto:aymen24727@gmail.com
+
+
+cleaned_text: aymen latrach developpeur logiciel tel 21627511567 mail aymen24727 gmail com adresse siliana tunisie linkedin www linkedin com latrach aymen a54617143 experience centre elife siliana projet developpement architecture tiers application gestion bancaire framework spring boot java 11 application gestion formation framework symfony php7 html5 css centre land ariana application gestion employers framework angular js javascript html css institut superieur etudes technologique kef projet fin etudes 2012 2013 kef tunisie conception realisation application gestion scolarite php 5 javascript html css tunisie telecom kef stage technicien 2011 2012 kef tunisie stage centre construction lignes php 5 javascript html css commune rohia stage ouvrier 2010 2011 siliana tunisie langues anglais intermediaire francais intermediaire arabe langue maternelle centres interets football voyage music formation diplomes centre elife siliana certificat qualification competences services numerique tic tact 2020 2021 centre land ariana certificat reussite session formation angulr js 25 decembre 2021 29 decembre 2021 formation ligne sciences leadership developpement jeu unitaire 23 aout 2021 30 aout 2021 institut superieur etudes technologique kef diplome licence appliquee domaine science technologie sujet technologie informatique specialite developpement systemes information 2010 2013 kef tunisie lycee rohia baccalaureat informatique 2009 2010 siliana tunisie competences techniques langages programmation java php 7 javascript pascal developpement web html css bootstrap jquery mysql framework spring boot framework symfony 5 framework angular js outils developpement netbeans phpstorm vs code dreamweaver mailto aymen24727 gmail com
+mobile_number: 2162751156
+email: aymen24727@gmail.com
+skills: ['Php', 'Js', 'Javascript', 'Html', 'Mysql', 'Css', 'Architecture', 'C', 'Html5', 'C++', 'Construction', 'Java']
+skills_text: Php Js Javascript Html Mysql Css Architecture C Html5 C++ Construction Java
+Category: IT

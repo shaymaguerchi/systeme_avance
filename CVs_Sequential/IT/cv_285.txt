@@ -1,0 +1,170 @@
+=== CV 285 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HAMZA SAAFI
+Étudiant en 3ème année développement logiciel embarqué
+@ hamza.saafi@enis.tn � +21654430885 ( Zaghouan è Hamza Saafi
+
+EXPERIENCE
+Stage technicien
+TRIVAW
+x Juillet 2021 – Août 2021 ( Tunis,Tunisie
+Développement d’une solution embarquée
+pour les trottinettes électriques :
+• Développement d’une application IoT permettant la Géo-localisation
+
+des trottinettes électriques et la surveillance de l’état de charge de la
+batterie.
+
+• Développement d’un serveur REST HTTP API pour la gestion
+des utilisateurs.
+STM32U5 MQTT C/C++ Python FLASK/AIOHTTP
+Postman SQLAlchemy
+
+Stage ouvrier
+LACROIX ELECTRONICS
+x Juillet 2020 – Août 2020 ( Zaghouan,Tunisie
+• Etude des moyens de test existants.
+• Développement d’une application de test avec le service Test.
+
+Test in Situ Test fonctionnel Automatisation des tests
+
+PROJET
+Projet fin d’année 1
+Conception et Réalisation d’un ECG ( ELECTROCARDIOGRAM)
+x 2019 – 2020 ( Enis, Sfax
+• Conception et Réalisation d’une carte de mise en forme
+
+des signaux électrophysiologiques
+• La Surveillance du signal en temps réel se fait à l’aide
+
+d’une application conçue avec LabVIEW et Arduino.
+ISIS (ARRES) Electronique Arduino LINX LabVIEW
+
+Projet fin d’année 2
+Surveillance du signal ECG basée sur IoT (suite de PFA1 )
+x 2020 – 2021 ( Enis, Sfax
+• Interfaçage de ECG avec la carte Arduino et l’envoi de la forme d’onde
+
+à travers un module GSM sur la plateforme IoT Cloud (Ubidots).
+• S’il y a un dépassement de seuil bien précis, un message d’urgence sera
+
+envoyé à un numéro de téléphone.
+Arduino GSM MQTT Ubidots C/C++
+
+Projet fin d’année 3
+Surveillance des sols basé sur IA et l’IoT
+x 2021 – 2022 ( Enis, Sfax
+• Collection des données sur les précipitations, la température,
+
+les insectes et d’autres paramètres au fil du temps.
+• Suivre les tendances et prévoir les besoins en irrigation et en protection.
+
+Raspberry Pi Computer Vision MQTT Python
+
+Mini Projet 1
+Application de gestion de banque
+x 2020 – 2021 ( Enis, Sfax
+• Développement d’une Application pour
+
+la Gestion Bancaire avec C++
+C++ POO
+
+Mini Projet 2
+Exploitation du kit FPGA Zynq Z-7010 Ap
+Soc
+x 2021 – 2022 ( Enis, Sfax
+• Application de test sur l’ARM.
+• Dévéloppement d’archtecture SoC compléte .
+
+C/C++ ARM
+Mini Projet 3
+Graphical User Interface
+x 2021 – 2022 ( Enis, Sfax
+• Page d’authentification(Inscription et Login)
+
+permet de passer à une nouvelle page qui
+comporte plusieurs rubriques permettant
+l’accès à autres pages.
+Python Tkinter
+
+COMPETENCE
+C C++ Python Java Sql
+Vhdl Assembleur
+Arduino Raspberry Pi STM FPGA
+Proteus ISIS Labview Altium Designer
+Vivado Tia Portal Postman
+LANGUAGES
+Anglais Français Arabe
+
+EDUCATION
+Cycle ingénieurs en développementembarqué
+Ecole nationale d’ingénieurs de Sfax
+x 2019 – 2022
+Cycle préparatoire aux études d’ingénieur
+Institut preparatoire aux etudes d’ingénieurs
+El Manar
+x 2016 – 2019
+
+mailto:hamza.saafi@enis.tn 
+tel:+21654430885
+https://linkedin.com/in/Hamza Saafi 
+
+
+cleaned_text: hamza saafi etudiant 3eme annee developpement logiciel embarque hamza saafi enis tn 21654430885 zaghouan e hamza saafi experience stage technicien trivaw x juillet 2021 aout 2021 tunis tunisie developpement solution embarquee trottinettes electriques developpement application iot permettant geo localisation trottinettes electriques surveillance etat charge batterie developpement serveur rest http api gestion utilisateurs stm32u5 mqtt python flask aiohttp postman sqlalchemy stage ouvrier lacroix electronics x juillet 2020 aout 2020 zaghouan tunisie etude moyens test existants developpement application test service test test situ test fonctionnel automatisation tests projet projet fin annee 1 conception realisation ecg electrocardiogram x 2019 2020 enis sfax conception realisation carte mise forme signaux electrophysiologiques surveillance signal temps reel fait aide application concue labview arduino isis arres electronique arduino linx labview projet fin annee 2 surveillance signal ecg basee iot suite pfa1 x 2020 2021 enis sfax interfacage ecg carte arduino envoi forme onde travers module gsm plateforme iot cloud ubidots depassement seuil bien precis message urgence envoye numero telephone arduino gsm mqtt ubidots projet fin annee 3 surveillance sols base ia iot x 2021 2022 enis sfax collection donnees precipitations temperature insectes autres parametres fil temps suivre tendances prevoir besoins irrigation protection raspberry pi computer vision mqtt python mini projet 1 application gestion banque x 2020 2021 enis sfax developpement application gestion bancaire poo mini projet 2 exploitation kit fpga zynq z 7010 ap soc x 2021 2022 enis sfax application test arm developpement archtecture soc complete arm mini projet 3 graphical user interface x 2021 2022 enis sfax page authentification inscription login permet passer nouvelle page comporte plusieurs rubriques permettant acces autres pages python tkinter competence python java sql vhdl assembleur arduino raspberry pi stm fpga proteus isis labview altium designer vivado tia portal postman languages anglais francais arabe education cycle ingenieurs developpementembarque ecole nationale ingenieurs sfax x 2019 2022 cycle preparatoire etudes ingenieur institut preparatoire etudes ingenieurs el manar x 2016 2019 mailto hamza saafi enis tn tel 21654430885 https linkedin com hamza saafi
+mobile_number: 2165443088
+email: hamza.saaﬁ@enis.tn
+skills: ['Sqlalchemy', 'Tkinter', 'Sql', 'Rest', 'Python', 'Cloud', 'C', 'Electronics', 'C++', 'Java', 'Api', 'Flask']
+skills_text: Sqlalchemy Tkinter Sql Rest Python Cloud C Electronics C++ Java Api Flask
+Category: IT

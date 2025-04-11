@@ -1,0 +1,8 @@
+=== CV 449 ===
+text: Karim Moreau
+cleaned_text: karim moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 53897946
+email: karim.moreau@example.com
+skills: ['Windows', 'Management', 'HTML', 'Linux', 'SQL', 'Java']
+skills_text: Windows Management HTML Linux SQL Java
+Category: Administration

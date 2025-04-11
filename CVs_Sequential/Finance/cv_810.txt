@@ -1,0 +1,8 @@
+=== CV 810 ===
+text: Mohamed Fontaine
+cleaned_text: mohamed fontaine cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 46849360
+email: mohamed.fontaine@example.com
+skills: ['SQL', 'Windows', 'HTML', 'Finance']
+skills_text: SQL Windows HTML Finance
+Category: Finance

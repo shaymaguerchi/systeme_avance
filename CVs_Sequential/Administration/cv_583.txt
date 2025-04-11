@@ -1,0 +1,8 @@
+=== CV 583 ===
+text: Fatima Roche
+cleaned_text: fatima roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 53460274
+email: fatima.roche@example.com
+skills: ['Java', 'Adobe', 'CSS']
+skills_text: Java Adobe CSS
+Category: Administration

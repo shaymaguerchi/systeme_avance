@@ -1,0 +1,8 @@
+=== CV 802 ===
+text: Laura Girard
+cleaned_text: laura girard cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 71300325
+email: laura.girard@example.com
+skills: ['HTML', 'Adobe', 'C++', 'Management']
+skills_text: HTML Adobe C++ Management
+Category: Administration

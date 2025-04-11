@@ -1,0 +1,167 @@
+=== CV 403 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PowerPoint Presentation
+
+
+PROFIL
+
+je suis un Technicien supérieur en informatique
+doué par le domaine de développement web
+et motivé  pour la découverte des nouvelles 
+technologies .
+
+EXPERIENCE PROFESSIONNELLE
+
+2017-2018
+STICPA 
+Gestion de la base de données
+Gestion des tâches
+
+LOGO
+
+2014-2016
+
+Green Zone,  
+Projet publinet
+Maintenance informatique
+Installation des systèmes d’exploitation
+Vente de matériels et logiciels
+
+GREEN
+ZONE
+
+2013
+STEG,  
+Stagiaire
+Gestion de la base de données
+Gestion de système de mailings.
+
+LOGO
+
+CONTACT
+
+Mobile: +21624416146
+Adresse : El Battan 1114, Manouba
+Email:hmmadiouni@gmail.com
+linkedIn:Hamdamadiouni
+Github:HamdaMadiouni
+
+COMPETNECES
+
+Professionneles
+
+HTML5/CSS3
+
+BOOTSTRAP
+
+JavaSqript
+
+WordPress
+
+VueJs
+
+PHP MYSQL
+
+POO
+
+Personnelles
+
+Créatif
+
+Organisé
+
+Innovant
+
+Sérieux
+
+FORMATION
+
+2019/2020  Développeur Web Full-Stack
+Ariana-Tunis 3W Academy
+
+2009/2013 Technicien Supérieur en informatique
+Mahdia-Tunis ISI Mahdia
+
+2008-2009 Baccalauréat Mathématique 
+Jedeida - Manouba Lycée Secondaire Imtiez Jedeida
+
+Madiouni Hamda
+Developpeur web
+
+CERTIFICATIONS 
+
+ Certification TOSA PHP (533 / 1000)
+ 9 certificats d’openclassrooms :
+• Apprenez  a créer votre site web avec HTML5 et CSS3
+• Prenez en main bootstrap
+• Creez votre premier site avec WORDPRESS
+• Apprenez a coder avec JavaScript
+• Ecrivez du javascript pour le web
+• Apprenez a programmer avec JavaScript
+• Concevez voter site web avec PHP et MYSQL
+• Gérer votre projet avec une équipe Scrum
+• Utiliser Git et GitHUB pour vos projets de 
+
+développement
+
+LARAVEL
+
+GIT/GITHUB
+
+LANGUES
+
+Arabe Français Anglais Espagnol
+
+
+
+cleaned_text: powerpoint presentation profil technicien superieur informatique doue domaine developpement web motive decouverte nouvelles technologies experience professionnelle 2017 2018 sticpa gestion base donnees gestion taches logo 2014 2016 green zone projet publinet maintenance informatique installation systemes exploitation vente materiels logiciels green zone 2013 steg stagiaire gestion base donnees gestion systeme mailings logo contact mobile 21624416146 adresse el battan 1114 manouba email hmmadiouni gmail com linkedin hamdamadiouni github hamdamadiouni competneces professionneles html5 css3 bootstrap javasqript wordpress vuejs php mysql poo personnelles creatif organise innovant serieux formation 2019 2020 developpeur web full stack ariana tunis 3w academy 2009 2013 technicien superieur informatique mahdia tunis isi mahdia 2008 2009 baccalaureat mathematique jedeida manouba lycee secondaire imtiez jedeida madiouni hamda developpeur web certifications certification tosa php 533 1000 9 certificats openclassrooms apprenez creer site web html5 css3 prenez main bootstrap creez premier site wordpress apprenez coder javascript ecrivez javascript web apprenez programmer javascript concevez voter site web php mysql gerer projet equipe scrum utiliser git github projets developpement laravel git github langues arabe francais anglais espagnol
+mobile_number: 017-2018
+email: Email:hmmadiouni@gmail.com
+skills: ['Installation', 'Php', 'Javascript', 'Mobile', 'Github', 'Mysql', 'Scrum', 'Wordpress', 'Green', 'Html5', 'Certification']
+skills_text: Installation Php Javascript Mobile Github Mysql Scrum Wordpress Green Html5 Certification
+Category: IT

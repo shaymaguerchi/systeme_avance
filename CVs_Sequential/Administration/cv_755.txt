@@ -1,0 +1,8 @@
+=== CV 755 ===
+text: Hugo Boussaid
+cleaned_text: hugo boussaid cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 92661752
+email: hugo.boussaid@example.com
+skills: ['Management', 'HTML', 'Finance']
+skills_text: Management HTML Finance
+Category: Administration

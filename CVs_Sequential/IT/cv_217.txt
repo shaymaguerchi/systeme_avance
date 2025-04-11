@@ -1,0 +1,181 @@
+=== CV 217 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abid Eya
+
+
+Projets Personnels : 
+Application mobile: "covoiturage"
+Service de covoiturage flexible ,l'application s'adapte à vos contraintes pour vous
+trouver automatiquement les personnes qui partagent votre trajet autant qu'un
+chauffeur ou client.
+       - Android studio
+Site Web: 
+Nouvelle méthode de recherche en présentant les meilleurs liens des catégories
+      - HTML5/CSS3/JS/MYSQL
+
+Compétences :
+
+     Personnelles :
+
+- Langage de programmation :
+           C/Python/JS
+
+- Environnement de développement :
+           Labview/Modelsim/Mbed/Android studio/Eclipse
+
+- Microcontrôleur :
+           FPGA/Arduino/Raspberry pi/STM32
+
+-Système d'exploitation : 
+           Windows / Linux
+
+- conception :
+           UML/ Scrum
+
+ -Base de données:
+           MySQL / Oracle / Laragon
+ -Framework:
+            Spring Boot / Angular
+
+ -Librairie:    
+           React.js
+ -Langage de codage :
+           HTML /CSS
+
+  Responsabilité / Gestion de temps
+  Autonomie / Travail en équipe
+  Organisation / Motivée
+
+     Techniques :
+
+Abid Eya
+
+Langues :
+Arabe courant
+Français courant
+Anglais courant
+
+Étudiante
+
+Actuellement étudiante en troisième année spécialité IOT et
+système embarqué , à la recherche d'un stage de fin d'étude a
+partir de février 2022 dans le développement web , je suis 
+ responsable, créative, passionnée par l'innovation et les nouvelles
+technologies avec une connaissance au développement web et
+de la conception de logiciels.
+
+LinkedIn: 
+www.linkedin.com/in/eya-abid-
+29551a222
+GitHub:
+https://github.com/Eya-code-lab
+
+Phone: 
++216 51775436
+
+Email: 
+eyaabid76@gmail.com
+
+Date de naissance: 
+Née le 04/08/2000 Kef
+
+Adresse
+ Le Kef/Tunisie
+
+Expérience associatives
+
+-  Membre actif 
+Microsoft ISIMa Club ,Mahdia 2019/2020
+
+- Social Media Manager 
+ ISIMa Google Club, Mahdia     2020-présent 
+
+- Sponsoring
+ Try-IT                       , Mahdia    2020/2021
+
+Intérêts 
+Lecture 
+sports 
+Voyage
+Nouvelles Technologies
+
+Diplômes et formations
+
+Licence :
+Computer engineering | Septembre 2019 - Présent
+
+Lycée technique Sakiet Sidi Youssef , Kef 
+
+                     Spécialité IOT et système embarqué
+Institut supérieure d'informatique de Mahdia
+
+Baccalauréat
+Mathématique | 2018 - 2019
+
+Experience Professionnel
+
+Jeune Entrepreneuse chez Jeunesse Global
+Network Marketing \   09/2021
+
+ 
+
+https://fr.wikipedia.org/wiki/%C3%89tudiant
+https://fr.news.search.yahoo.com/search;_ylt=AwrP4o7HFBxhLhIAp2Ak24lQ;_ylu=Y29sbwNpcjIEcG9zAzEEdnRpZANEMTAxMl8xBHNlYwNzYw--?p=dipl%C3%B4me&fr=mcafee&fr2=p%3As%2Cv%3Aw%2Cm%3Anewsdd_sna_t%2Cct%3Avm
+
+
+cleaned_text: abid eya projets personnels application mobile covoiturage service covoiturage flexible application adapte contraintes trouver automatiquement personnes partagent trajet autant chauffeur client android studio site web nouvelle methode recherche presentant meilleurs liens categories html5 css3 js mysql competences personnelles langage programmation python js environnement developpement labview modelsim mbed android studio eclipse microcontroleur fpga arduino raspberry pi stm32 systeme exploitation windows linux conception uml scrum base donnees mysql oracle laragon framework spring boot angular librairie react js langage codage html css responsabilite gestion temps autonomie travail equipe organisation motivee techniques abid eya langues arabe courant francais courant anglais courant etudiante actuellement etudiante troisieme annee specialite iot systeme embarque recherche stage fin etude partir fevrier 2022 developpement web responsable creative passionnee innovation nouvelles technologies connaissance developpement web conception logiciels linkedin www linkedin com eya abid 29551a222 github https github com eya code lab phone 216 51775436 email eyaabid76 gmail com date naissance nee 04 08 2000 kef adresse kef tunisie experience associatives membre actif microsoft isima club mahdia 2019 2020 social media manager isima google club mahdia 2020 present sponsoring try mahdia 2020 2021 interets lecture sports voyage nouvelles technologies diplomes formations licence computer engineering septembre 2019 present lycee technique sakiet sidi youssef kef specialite iot systeme embarque institut superieure informatique mahdia baccalaureat mathematique 2018 2019 experience professionnel jeune entrepreneuse chez jeunesse global network marketing 09 2021 https fr wikipedia org wiki c3 89tudiant https fr news search yahoo com search ylt awrp4o7hfbxhlhiap2ak24lq ylu y29sbwnpcjiecg9zazeednrpzanemtaxml8xbhnlywnzyw p dipl c3 b4me fr mcafee fr2 p 3as 2cv 3aw 2cm 3anewsdd sna 2cct 3avm
+mobile_number: 216 5177543
+email: eyaabid76@gmail.com
+skills: ['Js', 'Android', 'Html', 'Mysql', 'Mobile', 'Python', 'Scrum', 'Github', 'Email', 'Marketing', 'Linux', 'C', 'Sports', 'Windows', 'Oracle', 'Html5', 'Engineering', 'Try']
+skills_text: Js Android Html Mysql Mobile Python Scrum Github Email Marketing Linux C Sports Windows Oracle Html5 Engineering Try
+Category: IT

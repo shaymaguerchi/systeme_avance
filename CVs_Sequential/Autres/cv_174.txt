@@ -1,0 +1,130 @@
+=== CV 174 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COORDONNÉES
+15 RUE FARHAT HACHED
+BAB BHAR, 1000 TUNIS
+
++21651160906
+
+ericmajambu@gmail.com
+
+COMPÉTENCES
+Rigueur•
+Aisance rédactionnelle•
+Conférences•
+Expérience de l'évaluation•
+Tenue des registres•
+Recherche scientifique•
+Conseils aux étudiants•
+Prise de parole en public•
+Publication académique•
+
+CENTRES D'INTÉRÊT
+Loisir;•
+Lecture;•
+Music•
+
+C1
+
+LANGUE
+Français : Langue maternelle
+
+Français :
+
+Avancé
+
+PROFIL PROFESSIONNEL
+Professionnel des soins infirmiers expérimenté doté d'une expertise clinique, de
+compétences en leadership et de connaissances techniques avérées. Maîtrise de la mise à
+jour des dossiers, du contrôle des médicaments et de la collaboration avec des équipes
+multidisciplinaires pour optimiser les soins des patients. Soucieux de la qualité et de
+l'efficacité grâce à de solides compétences interpersonnelles.
+
+PARCOURS PROFESSIONNEL
+Juin 2018 - Actuel
+Infirmier de bloc opératoire - les voies maritimes congolaise (CVM), Kinshasa
+
+Juin 2020 - Juil 2021
+Etudiant - Institut de management et des sciences économiques et commerciales, Tunis
+
+Janv 2020 - Mars 2020
+Conseiller clientèle - Cabinet Elyos santé, Tunis
+
+Mai 2017 - Mars 2018
+Assistant de recherche - Institut supérieur des Techniques Médicales de Kinshasa
+(ISTM-Kin), Kinshasa
+
+Gestion des dispositifs médicaux employés au bloc opératoire, vérification de leur état
+et de leur bon fonctionnement, transfert vers le service de stérilisation.
+
+•
+
+Connaissance approfondie des fonctionnalités de l'outil pour une utilisation optimale.•
+
+Prise en charge des appels téléphoniques entrants, identification du motif et de la
+demande, orientation des clients vers le service concerné le cas échéant, formalisation
+des échanges dans l'outil informatique.
+
+•
+
+Conception et réalisation d'études et connaissances sur le sujet, grâce à la diffusion des
+résultats dans des revues scientifiques spécialisées.
+
+•
+
+FORMATION
+2020
+Brevet : Informatique et Gestion
+Institut de Management et des sciences économiques, Tunis
+
+2016
+Diplôme de licence en santé communautaire : santé
+ISTM/Kinshasa, Kinshasa
+
+2013
+Diplôme de graduat en sciences infirmières : santé
+ISTM/Kinshasa, Kinshasa
+
+2008
+Baccalaureat : Biologie-Chimie
+Complexe scolaire Ngemba I, Kinshasa
+
+Eric Majambu
+
+CV
+
+
+
+cleaned_text: coordonnees 15 rue farhat hached bab bhar 1000 tunis 21651160906 ericmajambu gmail com competences rigueur aisance redactionnelle conferences experience evaluation tenue registres recherche scientifique conseils etudiants prise parole public publication academique centres interet loisir lecture music c1 langue francais langue maternelle francais avance profil professionnel professionnel soins infirmiers experimente dote expertise clinique competences leadership connaissances techniques averees maitrise mise jour dossiers controle medicaments collaboration equipes multidisciplinaires optimiser soins patients soucieux qualite efficacite grace solides competences interpersonnelles parcours professionnel juin 2018 actuel infirmier bloc operatoire voies maritimes congolaise cvm kinshasa juin 2020 juil 2021 etudiant institut management sciences economiques commerciales tunis janv 2020 mars 2020 conseiller clientele cabinet elyos sante tunis mai 2017 mars 2018 assistant recherche institut superieur techniques medicales kinshasa istm kin kinshasa gestion dispositifs medicaux employes bloc operatoire verification etat bon fonctionnement transfert vers service sterilisation connaissance approfondie fonctionnalites outil utilisation optimale prise charge appels telephoniques entrants identification motif demande orientation clients vers service concerne cas echeant formalisation echanges outil informatique conception realisation etudes connaissances sujet grace diffusion resultats revues scientifiques specialisees formation 2020 brevet informatique gestion institut management sciences economiques tunis 2016 diplome licence sante communautaire sante istm kinshasa kinshasa 2013 diplome graduat sciences infirmieres sante istm kinshasa kinshasa 2008 baccalaureat biologie chimie complexe scolaire ngemba kinshasa eric majambu cv
+mobile_number: 0
+email: UNKNOWN
+skills: []
+skills_text: nan
+Category: Autres

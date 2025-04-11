@@ -1,0 +1,8 @@
+=== CV 779 ===
+text: Isabelle Mokhtar
+cleaned_text: isabelle mokhtar cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 71451011
+email: isabelle.mokhtar@example.com
+skills: ['Management', 'C++', 'Finance', 'SQL']
+skills_text: Management C++ Finance SQL
+Category: IT

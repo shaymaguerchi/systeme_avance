@@ -1,0 +1,194 @@
+=== CV 242 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+Arabe
+
+Français
+
+Anglais
+
+Deep Learning , Machine Learning,Big
+
+Data, Business Intelligence
+
+Python, R,JAVA,HTML5,CSS3,PHP, Koltin
+
+SQL,NoSQL,UML,XML,MySQL
+
+Anaconda ,Power BI Desktop ,Google
+
+Colab ,Hadoop,Visual Studio , Visual
+
+Studio R
+
+Statistics 101
+
+IBM
+
+Introduction to Big Data
+
+Coursera
+
+Natural Language Processing
+
+ Coursera    
+
+Introduction to Programming using Python
+
+Mirosoft
+
+Coursera    
+
+Scrum Foundations Professional Certificat
+
+Certiprof
+
+HCIA Artificial Intelligence
+
+Huawei 
+
+Introduction to TensorFlow for Machine
+
+Learning and Deep Learning
+
+ Coursera 
+
+Convolutional Neural Network
+
+ Coursera 
+
+Membre au sein du club ENET’Com Junior
+Entreprise
+
+Membre au sein du Microsoft Tech Club
+
+N e sri n e  L A HI A N I
+Elève ingénieur en data science à la recherche d'un stage
+PFE à partir de février 2022
+
+nessrine.lahyani98@gmail.com
+
+Sfax, Tunisie
+
+Née le 11/09/1998
+
+22255151
+
+Réseaux sociaux
+@github.com/lahianinesrine1
+
+@www.linkedin.com/in/nessrine-lahyani
+
+
+
+Langues
+
+Compétences
+
+Certifications:
+
+Vie Associative:
+
+Diplômes et Formations
+Ingénierie des données et systèmes décisionnels (option: Big Data)
+École nationale d’électroniques et des télécommunications - Sfax / De 2019 à 2021
+
+Cycle préparatoire Physique-Chimie
+
+Faculté des sciences de Sfax - Sfax / De 2017 à 2019
+
+Baccalauréat en sciences expérimentales
+
+Lycée Gremda Sfax - Sfax / De 2016 à 2017
+
+Expériences professionnelles
+Stage d’été
+Djagora FabLab - Sfax / De juillet 2021 à août 2021
+
+Développement d’une application qui prend en charge l’état d’un enfant autiste et aide les
+médecins à suivre l’évolution de son cas.
+Technologies utilisées :
+Python,Dlib,Media Pipe, Numpy, OpenCV…
+
+Stage d’été
+DataSphera - Sfax / Août 2021
+
+Manipulation d'un modèle machine Learning qui estime la fidélité des clients.
+Technologies utilisées :
+ Python,mlflow,Numpy ..
+
+ 
+
+Stage d’été
+BIAT - Sfax / De juillet 2020 à août 2020
+
+Analyse et fiabilisation de la base de données.
+
+Technologies utilisées :
+R.
+
+Projets Académique:
+Projet fin d'année
+École nationale d’électroniques et des télécommunications - Sfax / De février 2021 à juin 2021
+
+Reconnaissance de visage masqués basée (CNN,GAN): application de contrôle d’accès .
+Technologies utilisées: Python,Keras,Numpy,OpenCV..
+
+Projet Business Intelligence
+
+École nationale d’électroniques et des télécommunications - Sfax /
+De novembre 2020 à décembre 2020
+
+Création d’un tableau de bord RH (Ressources Humaines)
+Technologies utilisées: Power BI
+  
+
+Projet Data Wrangling & Machine Learning
+
+École nationale d’électroniques et des télécommunications - Sfax /
+D'octobre 2020 à décembre 2020
+
+Prédiction des prix des voitures à l’aide d’un modèle de Regression Linéaire .
+Technologies utilisées: Python,Scikit-Learn,Numpy,Pandas..
+
+Projet Développement web
+
+École nationale d’électroniques et des télécommunications - Sfax /
+De novembre 2020 à janvier 2021
+
+Conception et réalisation d'une application web des ventes en ligne
+Technologies utilisées: HTML,JavaScript,CSS,MySQL,PHP
+
+
+
+cleaned_text: arabe francais anglais deep learning machine learning big data business intelligence python r java html5 css3 php koltin sql nosql uml xml mysql anaconda power bi desktop google colab hadoop visual studio visual studio r statistics 101 ibm introduction big data coursera natural language processing coursera introduction programming using python mirosoft coursera scrum foundations professional certificat certiprof hcia artificial intelligence huawei introduction tensorflow machine learning deep learning coursera convolutional neural network coursera membre sein club enet com junior entreprise membre sein microsoft tech club e sri e hi eleve ingenieur data science recherche stage pfe partir fevrier 2022 nessrine lahyani98 gmail com sfax tunisie nee 11 09 1998 22255151 reseaux sociaux github com lahianinesrine1 www linkedin com nessrine lahyani langues competences certifications vie associative diplomes formations ingenierie donnees systemes decisionnels option big data ecole nationale electroniques telecommunications sfax 2019 2021 cycle preparatoire physique chimie faculte sciences sfax sfax 2017 2019 baccalaureat sciences experimentales lycee gremda sfax sfax 2016 2017 experiences professionnelles stage ete djagora fablab sfax juillet 2021 aout 2021 developpement application prend charge etat enfant autiste aide medecins suivre evolution cas technologies utilisees python dlib media pipe numpy opencv stage ete datasphera sfax aout 2021 manipulation modele machine learning estime fidelite clients technologies utilisees python mlflow numpy stage ete biat sfax juillet 2020 aout 2020 analyse fiabilisation base donnees technologies utilisees r projets academique projet fin annee ecole nationale electroniques telecommunications sfax fevrier 2021 juin 2021 reconnaissance visage masques basee cnn gan application controle acces technologies utilisees python keras numpy opencv projet business intelligence ecole nationale electroniques telecommunications sfax novembre 2020 decembre 2020 creation tableau bord rh ressources humaines technologies utilisees power bi projet data wrangling machine learning ecole nationale electroniques telecommunications sfax octobre 2020 decembre 2020 prediction prix voitures aide modele regression lineaire technologies utilisees python scikit learn numpy pandas projet developpement web ecole nationale electroniques telecommunications sfax novembre 2020 janvier 2021 conception realisation application web ventes ligne technologies utilisees html javascript css mysql php
+mobile_number: 998 2225515
+email: nessrine.lahyani98@gmail.com
+skills: ['Ibm', 'Tensorflow', 'Numpy', 'Tableau', 'Php', 'Big data', 'Html', 'Mysql', 'Hadoop', 'Javascript', 'Sql', 'Css', 'Xml', 'Nosql', 'Visual', 'Scikit-learn', 'Opencv', 'Pandas', 'Python', 'R', 'Machine learning', 'Keras', 'Anaconda', 'Scrum', 'Programming', 'Java', 'Statistics']
+skills_text: Ibm Tensorflow Numpy Tableau Php Big data Html Mysql Hadoop Javascript Sql Css Xml Nosql Visual Scikit-learn Opencv Pandas Python R Machine learning Keras Anaconda Scrum Programming Java Statistics
+Category: IT

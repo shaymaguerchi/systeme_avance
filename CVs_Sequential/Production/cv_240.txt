@@ -1,0 +1,145 @@
+=== CV 240 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Navy Blue and Black Professional Resume
+
+
+Amel Labdelli
+ETUDIANTE  
+
+EXPÉRIENCE PROFESSIONNELLE
+
+EREVO SANTE  / MARS 2021 
+
+SEPHORA TERRASSES DU PORT  |
+DECEMBRE/JANVIER 2019/2020 
+
+TELECONSEILLER  
+
+CONSEILLERE DE VENTE STAGIAIRE 
+
+Prospection téléphonique  
+Gestion du CRM 
+Gestion d'appel sortant  
+
+Marchandising
+Étiquetage produit soldés 
+Gestion des stocks
+
+ÉCOLES FRÉQUENTÉES
+
+DUT TECHNIQUES DE COMMERCIALISATION |
+2019- 2022
+
+BAC STMG ASSEZ BIEN | OPTION MARKETING
+
+INSTITUT UNIVERSITAIRE SAINT JEROME
+
+LYCEE MONTGRAND
+
+Négociation 
+Communication commerciale 
+Marketing 
+
+Marketing
+Economie/Droit 
+Gestion
+
+SAVOIR ÊTRE
+
+Capacité d’adaptation
+Travail en équipe
+
+Autonome
+Rigoureuse
+Curieuse
+Joviale
+
+ 
+
+COMPÉTENCES 
+
+Certification PIX 
+Certification VOLTAIRE
+
+Maitrise du pack office  
+Anglais A2
+
+Arabe bilingue  
+
+PROJETS 
+
+BE STUDENT / Création d'application
+solidaire étudiante 
+
+Masters de la négociation/ organisation
+concours de négociation  
+
+Pré'Tea / Création de boisson pour
+femme enceinte  
+
+CONTACTEZ-MOI  :
+
+E-mail : amellabdelli27@gmail.com
+Téléphone : 07 67 73 62 81  
+
+Adresse : 52 avenue pasteur 13007
+MARSEILLE 
+
+Recherche de stage 
+
+
+
+cleaned_text: navy blue black professional resume amel labdelli etudiante experience professionnelle erevo sante mars 2021 sephora terrasses port decembre janvier 2019 2020 teleconseiller conseillere vente stagiaire prospection telephonique gestion crm gestion appel sortant marchandising etiquetage produit soldes gestion stocks ecoles frequentees dut techniques commercialisation 2019 2022 bac stmg assez bien option marketing institut universitaire saint jerome lycee montgrand negociation communication commerciale marketing marketing economie droit gestion savoir etre capacite adaptation travail equipe autonome rigoureuse curieuse joviale competences certification pix certification voltaire maitrise pack office anglais a2 arabe bilingue projets student creation application solidaire etudiante masters negociation organisation concours negociation pre tea creation boisson femme enceinte contactez e mail amellabdelli27 gmail com telephone 07 67 73 62 81 adresse 52 avenue pasteur 13007 marseille recherche stage
+mobile_number: 0
+email: amellabdelli27@gmail.com
+skills: ['Communication', 'Crm', 'Certification', 'Marketing']
+skills_text: Communication Crm Certification Marketing
+Category: Production

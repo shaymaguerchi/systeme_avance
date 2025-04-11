@@ -1,0 +1,8 @@
+=== CV 434 ===
+text: Laura Boussaid
+cleaned_text: laura boussaid cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 36310355
+email: laura.boussaid@example.com
+skills: ['Finance', 'Marketing', 'SQL']
+skills_text: Finance Marketing SQL
+Category: Administration

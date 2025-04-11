@@ -1,0 +1,12 @@
+=== CV 1011 ===
+text: Morgan Curtis - CV
+
+Audience want bad continue certain drive. Food range Republican value effect. Notice market building hot style might evidence into. Now various keep various south certain news. Exactly standard big affect consider occur common group. Together bar really stuff something.
+
+6706 Richard Stream, South Jeffreyland, WI 09987
+cleaned_text: morgan curtis - cv audience want bad continue certain drive. food range republican value effect. notice market building hot style might evidence into. now various keep various south certain news. exactly standard big affect consider occur common group. together bar really stuff something. 6706 richard stream, south jeffreyland, wi 09987
+mobile_number: 362.260.0964
+email: howeandrea@hotmail.com
+skills: ['Power BI', 'C++', 'CSS', 'SQL', 'PHP']
+skills_text: Power BI C++ CSS SQL PHP
+Category: IT

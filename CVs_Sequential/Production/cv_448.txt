@@ -1,0 +1,8 @@
+=== CV 448 ===
+text: Jean Lambert
+cleaned_text: jean lambert cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 98289470
+email: jean.lambert@example.com
+skills: ['HTML', 'Python', 'Java']
+skills_text: HTML Python Java
+Category: Production

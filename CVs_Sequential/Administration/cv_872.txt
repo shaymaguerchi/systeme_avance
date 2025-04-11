@@ -1,0 +1,8 @@
+=== CV 872 ===
+text: Jean Dupont
+cleaned_text: jean dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 79671735
+email: jean.dupont@example.com
+skills: ['Adobe', 'Windows', 'Python', 'HTML', 'Linux']
+skills_text: Adobe Windows Python HTML Linux
+Category: Administration

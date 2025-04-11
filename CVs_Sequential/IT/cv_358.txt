@@ -1,0 +1,178 @@
+=== CV 358 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hamza Mhadhbi
+Ingénieur en statistique et analyse de
+l'information
+
+Dynamique, curieux et motivé avec une solide
+formation en statistiques et en analyse de données,
+passionné par le domaine de l'intelligence artificielle.
+Fraîchement diplômé, à la recherche d'un premier
+challenge dans la vie professionnelle
+
+mhadhbi97@hotmail.com
+
++216 29 064 660
+
+linkedin.com/in/hamzamhadhbi
+
+github.com/MhadhbiHamza
+
+FORMATION
+Cycle d'ingénieur en statistiques et analyse de
+l'information
+Ecole Supérieure de la Statistique et de l’Analyse de
+l’Information de Tunis (ESSAIT)
+2018 - 2021, 
+
+Cycle préparatoire pour les études d'ingénieur
+Institut préparatoire aux études d'ingénieurs de
+Nabeul
+2016 - 2018, 
+
+EXPÉRIENCE
+Data science intern
+Wevioo
+02/2021 - 2021, 
+
+Création d'un système de recommandation qui identifie les clients cible
+d'un article donné en fonction de leurs historiques et de leurs tendances
+d'achat ainsi que de la similarité des articles.
+
+Créer et comparer les approches de systèmes de recommandation par
+apprentissage profond aux approches classiques en utilisant des
+bibliothèques python telles que Scikit learn, Tensorflow, Pytorch, FastAi.
+
+Déploiement de modèles avec Flask.
+
+Data science intern
+SAFRAN
+07/2020 - 09/2020, 
+
+Mise en place d’un simulateur de scénarios dédié au service de
+planification du Supply chain
+
+Analyse de l'origine des produits manquants.
+
+Prédiction de l'efficacité des employé
+
+Stagiaire d'été
+UNION KEY SOLUTIONS
+07/2019 - 08/2019, 
+
+Création d’un site web de E-commerce pour une entreprise
+commercialisant des outils de sport en outdoor.
+
+PROJETS
+Nix The chatbot (02/2021)
+Implémentation et déploiement d'un chatbot conversationnel intelligent
+
+What should I watch next ? (09/2020)
+Programmed a content-based movie recommendation system based on NLP techniques
+
+Credit default risk prediction (04/2020 - 05/2020)
+L'emploi de plusieurs modèles de Machine Learning (Knn, Decison tree, Logistic
+regression, SVM )dans la prédiction du risque de défaut de crédit au sein d'une banque
+
+Medical Diagnosis with a Convolutional Neural Network
+ (01/2020 - 02/2020)
+L’implémentation d'un modèle de Computer Vision pour la détection et la classification
+de l'état de la rétinopathie chez les personnes diabétiques
+
+COMPÉTENCES
+Statistiques Analyse de données
+
+Machine Learning Deep Learning Big Data
+
+Spark Hadoop Microsoft Azure Python
+
+R Java SQL MongoDB SAS C
+
+HTML CSS WordPress PowerBI
+
+Tableau Git ScikitLearn Flask
+
+TensorFlow Keras Pytorch Fastai
+
+CERTIFICATIONS
+Machine Learning with Python (IBM) (2020)
+
+Applied AI with DeepLearning (IBM) (2020)
+
+SQL for Data Science (University of California) (2020)
+
+VIE ASSOCIATIVE
+Président de l'association SSF (09/2019 - 10/2020)
+Statisticiens Sans Frontières (SSF)
+
+Bénévole à Sri Lanka (06/2019 - 07/2019)
+AIESEC
+
+Membre actif SSF (09/2018 - 09/2019)
+Statisticiens Sans Frontières
+
+LANGUES
+Français
+
+Anglais
+
+Espagnol
+
+Allemand
+
+INTÉRÊTS
+Sport Voyage Lecture Bénévolat
+
+Musique
+
+Achievements
+
+Achievements
+
+Achievements
+
+mailto:mhadhbi97@hotmail.com
+https://linkedin.com/in/hamzamhadhbi/
+https://github.com/MhadhbiHamza
+
+
+cleaned_text: hamza mhadhbi ingenieur statistique analyse information dynamique curieux motive solide formation statistiques analyse donnees passionne domaine intelligence artificielle fraichement diplome recherche premier challenge vie professionnelle mhadhbi97 hotmail com 216 29 064 660 linkedin com hamzamhadhbi github com mhadhbihamza formation cycle ingenieur statistiques analyse information ecole superieure statistique analyse information tunis essait 2018 2021 cycle preparatoire etudes ingenieur institut preparatoire etudes ingenieurs nabeul 2016 2018 experience data science intern wevioo 02 2021 2021 creation systeme recommandation identifie clients cible article donne fonction leurs historiques leurs tendances achat ainsi similarite articles creer comparer approches systemes recommandation apprentissage profond approches classiques utilisant bibliotheques python telles scikit learn tensorflow pytorch fastai deploiement modeles flask data science intern safran 07 2020 09 2020 mise place simulateur scenarios dedie service planification supply chain analyse origine produits manquants prediction efficacite employe stagiaire ete union key solutions 07 2019 08 2019 creation site web e commerce entreprise commercialisant outils sport outdoor projets nix chatbot 02 2021 implementation deploiement chatbot conversationnel intelligent watch next 09 2020 programmed content based movie recommendation system based nlp techniques credit default risk prediction 04 2020 05 2020 emploi plusieurs modeles machine learning knn decison tree logistic regression svm prediction risque defaut credit sein banque medical diagnosis convolutional neural network 01 2020 02 2020 implementation modele computer vision detection classification etat retinopathie chez personnes diabetiques competences statistiques analyse donnees machine learning deep learning big data spark hadoop microsoft azure python r java sql mongodb sas html css wordpress powerbi tableau git scikitlearn flask tensorflow keras pytorch fastai certifications machine learning python ibm 2020 applied deeplearning ibm 2020 sql data science university california 2020 vie associative president association ssf 09 2019 10 2020 statisticiens sans frontieres ssf benevole sri lanka 06 2019 07 2019 aiesec membre actif ssf 09 2018 09 2019 statisticiens sans frontieres langues francais anglais espagnol allemand interets sport voyage lecture benevolat musique achievements achievements achievements mailto mhadhbi97 hotmail com https linkedin com hamzamhadhbi https github com mhadhbihamza
+mobile_number: 0
+email: mhadhbi97@hotmail.com
+skills: ['Ibm', 'Tensorflow', 'Tableau', 'Html', 'Hadoop', 'Content', 'System', 'Ai', 'Sql', 'Css', 'Wordpress', 'Python', 'R', 'Keras', 'Pytorch', 'Spark', 'C', 'Java', 'Sas', 'Flask']
+skills_text: Ibm Tensorflow Tableau Html Hadoop Content System Ai Sql Css Wordpress Python R Keras Pytorch Spark C Java Sas Flask
+Category: IT

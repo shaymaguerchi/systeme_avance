@@ -1,0 +1,143 @@
+=== CV 297 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WIEM ZAHAR
+Recherche de stage de fin d’études en développement web
+@ zhr.wiem@gmail.com � +216 93 488 830 ( Ariana, Tunisie ¥ Wiemzhr
+è zahar-wiem-94248117b
+
+PROJETS
+INTIME-CREDIT
+Application de demande d’emprunt bancaire.
+x Octobre-Mai 2019-2020 ( ESB
+• Etude de marché du projet.
+• Définition du cahier des charges.
+• Conception et développement de l’application.
+Langage: C.
+YOURFUTURE
+Application web de recommandation pour l’orientation des étudi-
+ants à l’étranger
+x Janvier-Mai 2021 ( ESB
+• Définition du cahier des charges.
+• Conception et développement de l’application web.
+• Création et gestion de la base de données.
+Technologies: Html, CSS, PHP, MySql, WampServer.
+TELESCOPIUM
+Systéme d’information et organisation gestionnaire interne d’une
+société de vente de chaussures
+x Encours ( ESB
+• Rédaction du cahier de charge.
+• Modélisation du data warehouse.
+• Collection et préparation des données.
+• Visualisation des données.
+• Conception de l’application.
+• Développent de l’application.
+Technologies: Html, CSS, Angular, PostgreSQL, Power BI, Talend,Spring Boot.
+YALLAGO
+Un site pour un club d’enfants qui propose des clubs et des ateliers
+de coaching et développement personnel
+x Encours ( ESB
+• Rédaction du cahier de charge.
+• Création et gestion de la base de données.
+• Développent de l’application.
+Technologies: Html, CSS, PHP, MySql, WampServer
+
+PHILOSOPHIE DE VIE
+“What if I fall? oh but my darling, what
+if you fly.”
+
+FORMATION
+Licence en Business Computing
+Esprit School of Business
+x Depuis 2019
+Spécialité : Business Information Systems.
+Licence fondamentale en gestion
+Institut des Hautes Études Commerciales de
+Carthage
+x 2015 – Mai 2019
+Deuxiéme année.
+Diplôme du baccalauréat
+Lycée el Wafe
+x 2014 – 2015
+Section : Baccalauréat économie et gestion.Mention : Bien.
+COMPÉTENCES
+Conception HTML CSS JavaScript
+TypeScript Bootstrap C,C# Java
+PHP PL/SQL Git JavaEE Angular
+Spring Boot Android Studio MySQL
+PostgreSQL Linux Power BI Talend
+
+Pack office Photoshop Sage Dolibarr
+Odoo
+Sens de responsabilité Travail d’équipe
+Flexibilité
+
+LANGUES
+Français ○ ○ ○ ○ ○
+
+Anglais ○ ○ ○ ○ ○
+
+Arabe ○ ○ ○ ○ ○
+
+mailto:zhr.wiem@gmail.com
+https://github.com/Wiemzhr
+https://linkedin.com/in/zahar-wiem-94248117b
+
+
+cleaned_text: wiem zahar recherche stage fin etudes developpement web zhr wiem gmail com 216 93 488 830 ariana tunisie wiemzhr e zahar wiem 94248117b projets intime credit application demande emprunt bancaire x octobre mai 2019 2020 esb etude marche projet definition cahier charges conception developpement application langage yourfuture application web recommandation orientation etudi ants etranger x janvier mai 2021 esb definition cahier charges conception developpement application web creation gestion base donnees technologies html css php mysql wampserver telescopium systeme information organisation gestionnaire interne societe vente chaussures x encours esb redaction cahier charge modelisation data warehouse collection preparation donnees visualisation donnees conception application developpent application technologies html css angular postgresql power bi talend spring boot yallago site club enfants propose clubs ateliers coaching developpement personnel x encours esb redaction cahier charge creation gestion base donnees developpent application technologies html css php mysql wampserver philosophie vie fall oh darling fly formation licence business computing esprit school business x depuis 2019 specialite business information systems licence fondamentale gestion institut hautes etudes commerciales carthage x 2015 mai 2019 deuxieme annee diplome baccalaureat lycee el wafe x 2014 2015 section baccalaureat economie gestion mention bien competences conception html css javascript typescript bootstrap java php pl sql git javaee angular spring boot android studio mysql postgresql linux power bi talend pack office photoshop sage dolibarr odoo sens responsabilite travail equipe flexibilite langues francais anglais arabe mailto zhr wiem gmail com https github com wiemzhr https linkedin com zahar wiem 94248117b
+mobile_number: 9424811
+email: zhr.wiem@gmail.com
+skills: ['Php', 'Javascript', 'C#', 'Android', 'Html', 'Mysql', 'Coaching', 'Sql', 'Warehouse', 'Css', 'Linux', 'Postgresql', 'C', 'Photoshop', 'Java']
+skills_text: Php Javascript C# Android Html Mysql Coaching Sql Warehouse Css Linux Postgresql C Photoshop Java
+Category: IT

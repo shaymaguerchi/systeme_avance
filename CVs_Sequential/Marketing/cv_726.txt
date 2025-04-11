@@ -1,0 +1,8 @@
+=== CV 726 ===
+text: Karim Mokhtar
+cleaned_text: karim mokhtar cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 28095990
+email: karim.mokhtar@example.com
+skills: ['Linux', 'Management', 'Java', 'Marketing', 'Finance', 'CSS']
+skills_text: Linux Management Java Marketing Finance CSS
+Category: Marketing

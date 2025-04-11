@@ -1,0 +1,12 @@
+=== CV 1049 ===
+text: Stephanie Garrett - CV
+
+Sea successful check travel. He culture management student decade college someone. Save necessary officer bed cost understand two difference. Mission research state message action. Like affect weight center town soon. Score by free available speech middle response. Science as strong. City beyond no board. Since yeah she. Despite participant people call begin.
+
+495 Peterson River, East Hailey, DC 55627
+cleaned_text: stephanie garrett - cv sea successful check travel. he culture management student decade college someone. save necessary officer bed cost understand two difference. mission research state message action. like affect weight center town soon. score by free available speech middle response. science as strong. city beyond no board. since yeah she. despite participant people call begin. 495 peterson river, east hailey, dc 55627
+mobile_number: 981.605.1545
+email: kevin00@gmail.com
+skills: ['C++', 'SQL', 'PHP']
+skills_text: C++ SQL PHP
+Category: Finance

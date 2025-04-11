@@ -1,0 +1,12 @@
+=== CV 1340 ===
+text: Ashley Singleton - CV
+
+Only manager heavy. Identify enter strong top evening. Different generation front. History head purpose case his yes onto. I material do choose reflect. Option another again now strong.
+
+2317 White Hill Suite 374, Shortmouth, IL 26544
+cleaned_text: ashley singleton - cv only manager heavy. identify enter strong top evening. different generation front. history head purpose case his yes onto. i material do choose reflect. option another again now strong. 2317 white hill suite 374, shortmouth, il 26544
+mobile_number: 001-995-209-3305x6389
+email: johnrodriguez@hotmail.com
+skills: ['PHP', 'HTML', 'C++']
+skills_text: PHP HTML C++
+Category: Marketing

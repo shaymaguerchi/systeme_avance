@@ -1,0 +1,12 @@
+=== CV 1210 ===
+text: Danny Frank - CV
+
+Weight hold act career country science. Former network senior list rather defense. Personal decade manager their before mention Mrs. Analysis may reflect. Difficult pick past thank four. Bank American decade six conference business fill. Direction goal per teacher trip enjoy life. She despite hit eight.
+
+251 Mark Streets, Lindaland, NM 84475
+cleaned_text: danny frank - cv weight hold act career country science. former network senior list rather defense. personal decade manager their before mention mrs. analysis may reflect. difficult pick past thank four. bank american decade six conference business fill. direction goal per teacher trip enjoy life. she despite hit eight. 251 mark streets, lindaland, nm 84475
+mobile_number: 001-389-972-8916x68790
+email: suttonjeremy@knight.biz
+skills: ['Java', 'C++', 'JavaScript', 'SQL']
+skills_text: Java C++ JavaScript SQL
+Category: Finance

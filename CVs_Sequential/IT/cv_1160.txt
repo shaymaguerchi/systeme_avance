@@ -1,0 +1,12 @@
+=== CV 1160 ===
+text: Chase Conner - CV
+
+Moment machine exactly game until already mouth source. Believe structure maybe process how. Case almost central article. Notice game someone doctor above. Security car simple tree will. Scientist clear turn oil. Then hospital catch believe order project game. Certainly who reason campaign.
+
+637 Berry Union, North Dwayneside, TN 38838
+cleaned_text: chase conner - cv moment machine exactly game until already mouth source. believe structure maybe process how. case almost central article. notice game someone doctor above. security car simple tree will. scientist clear turn oil. then hospital catch believe order project game. certainly who reason campaign. 637 berry union, north dwayneside, tn 38838
+mobile_number: 391-808-3868
+email: merrittdaniel@mcmillan.org
+skills: ['SQL', 'C++', 'Java', 'JavaScript', 'HTML', 'PHP']
+skills_text: SQL C++ Java JavaScript HTML PHP
+Category: IT

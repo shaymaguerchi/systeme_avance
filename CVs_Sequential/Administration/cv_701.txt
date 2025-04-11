@@ -1,0 +1,8 @@
+=== CV 701 ===
+text: Fatima Dupont
+cleaned_text: fatima dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 28370116
+email: fatima.dupont@example.com
+skills: ['Adobe', 'Python', 'Marketing', 'HTML']
+skills_text: Adobe Python Marketing HTML
+Category: Administration

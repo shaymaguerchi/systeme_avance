@@ -1,0 +1,8 @@
+=== CV 521 ===
+text: Karim Ben Ali
+cleaned_text: karim ben ali cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 39003589
+email: karim.ben ali@example.com
+skills: ['Linux', 'Python', 'Management']
+skills_text: Linux Python Management
+Category: Finance

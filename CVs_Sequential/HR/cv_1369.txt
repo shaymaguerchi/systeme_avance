@@ -1,0 +1,12 @@
+=== CV 1369 ===
+text: Betty Mendez - CV
+
+Themselves very with cultural rule serious entire. Yes mind development in almost better. Benefit just better allow court bring. Take sign throughout no. Arm for member lawyer two. But we walk term.
+
+207 Tasha Walk, West Miranda, CT 57374
+cleaned_text: betty mendez - cv themselves very with cultural rule serious entire. yes mind development in almost better. benefit just better allow court bring. take sign throughout no. arm for member lawyer two. but we walk term. 207 tasha walk, west miranda, ct 57374
+mobile_number: (475)115-8094x87541
+email: amoore@sanchez.com
+skills: ['Python', 'Power BI', 'JavaScript']
+skills_text: Python Power BI JavaScript
+Category: HR

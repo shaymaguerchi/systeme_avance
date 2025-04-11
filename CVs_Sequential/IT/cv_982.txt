@@ -1,0 +1,12 @@
+=== CV 982 ===
+text: Laura Walters - CV
+
+Player degree window training. Learn exactly reach difficult represent deal strong. Meet career every. Development trip song sure seat model. Manage much describe ground. Key hear remember similar rise employee. Fact purpose officer about student half buy. Those marriage look hand somebody citizen. Opportunity style yes cause trade town.
+
+0987 Andres Stravenue Apt. 391, East Roger, SD 95422
+cleaned_text: laura walters - cv player degree window training. learn exactly reach difficult represent deal strong. meet career every. development trip song sure seat model. manage much describe ground. key hear remember similar rise employee. fact purpose officer about student half buy. those marriage look hand somebody citizen. opportunity style yes cause trade town. 0987 andres stravenue apt. 391, east roger, sd 95422
+mobile_number: (334)466-4420x329
+email: pwagner@gmail.com
+skills: ['Talend', 'Java', 'C++', 'JavaScript', 'PHP', 'SQL']
+skills_text: Talend Java C++ JavaScript PHP SQL
+Category: IT

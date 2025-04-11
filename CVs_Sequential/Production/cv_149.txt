@@ -1,0 +1,113 @@
+=== CV 149 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft Word - CV-marwa FR
+
+
+CURRICULUM VITAE 
+ 
+
+ 
+ 
+ 
+Nom:                                Bouraoui  
+ 
+
+Prénom :                          Marwa 
+ 
+
+Date et lieu de naissance : 25 Juin 1989 à Djeddah  Arabie Saoudite 
+ 
+
+Adresse :                       Cité Ezzouhour 3, rue 4005 n°709 
+ 
+
+Nationalité:                      Tunisienne       
+Situation familiale :    Mariée  
+ 
+
+Téléphone:                        +216 97 417 079  
+ 
+
+E-mail:    marwabouraoui89@ y mail.com 
+ 
+
+ Les diplomes: 
+ Master Professionnel marketing stratégique et communication à l’ULT en 2014 
+ License en Anglais des Affaires à l’ISEAHT en 2012 
+ Baccalauréat  lettres  en 2009 
+
+ Les outils informatiques : 
+ World, Excel, Power Point 
+
+ LANGUES: 
+ Français: parlé et écrit. 
+ Anglais: parlé et écrit. 
+
+ Expériences Professionnelle:  
+ Actuellement Assistante de direction STGO depuis 01 Avril 2016. 
+ Assistante commerciale dans la société SEVAC du 24 Mars 2015 jusqu’au 30 
+
+Semptembre 2015 
+ Attestation du stage au CEPEX  Maison de l’exportateur, au Centre Urban Nord 
+
+du ( 15.01.2014 au 31.05.2014) 
+ Assistante Personnel chez Dr Khlaed Mahmoud le Directeur de la Société 
+
+Tunisienne de Gynécologie et Obstétrique Pacha Centre-Montplaisir du (01-06-2013 au 
+30-09-2013) 
+
+ Attestation du stage à Attijari Bank AV Paris2, du ( 01.07.2011 au 30.09.2011). 
+ Permis de conduire délivré le 11/03/2011 
+
+ 
+ 
+
+
+
+cleaned_text: microsoft word cv marwa fr curriculum vitae nom bouraoui prenom marwa date lieu naissance 25 juin 1989 djeddah arabie saoudite adresse cite ezzouhour 3 rue 4005 ndeg709 nationalite tunisienne situation familiale mariee telephone 216 97 417 079 e mail marwabouraoui89 mail com diplomes master professionnel marketing strategique communication ult 2014 license anglais affaires iseaht 2012 baccalaureat lettres 2009 outils informatiques world excel power point langues francais parle ecrit anglais parle ecrit experiences professionnelle actuellement assistante direction stgo depuis 01 avril 2016 assistante commerciale societe sevac 24 mars 2015 jusqu 30 semptembre 2015 attestation stage cepex maison exportateur centre urban nord 15 01 2014 31 05 2014 assistante personnel chez dr khlaed mahmoud directeur societe tunisienne gynecologie obstetrique pacha centre montplaisir 01 06 2013 30 09 2013 attestation stage attijari bank av paris2 01 07 2011 30 09 2011 permis conduire delivre 11 03 2011
+mobile_number: 0
+email: marwabouraoui89@
+skills: ['Communication', 'Excel', 'Marketing']
+skills_text: Communication Excel Marketing
+Category: Production

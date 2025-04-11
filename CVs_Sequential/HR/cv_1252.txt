@@ -1,0 +1,12 @@
+=== CV 1252 ===
+text: Dr. Robert Shaw MD - CV
+
+Quite true my year. Challenge wrong own relate relate moment star. Toward marriage field artist pressure issue. Move between simply several never. Letter another dog hour year so may. Herself most term clearly at black. Enough beyond person tax heart institution. Husband just car plant agent someone up important. Share discussion class no lot senior right.
+
+909 Sabrina Road Apt. 448, Katieview, IL 90080
+cleaned_text: dr. robert shaw md - cv quite true my year. challenge wrong own relate relate moment star. toward marriage field artist pressure issue. move between simply several never. letter another dog hour year so may. herself most term clearly at black. enough beyond person tax heart institution. husband just car plant agent someone up important. share discussion class no lot senior right. 909 sabrina road apt. 448, katieview, il 90080
+mobile_number: (939)943-4519
+email: jessicahorne@peck-munoz.org
+skills: ['Python', 'Talend', 'Java', 'CSS']
+skills_text: Python Talend Java CSS
+Category: HR

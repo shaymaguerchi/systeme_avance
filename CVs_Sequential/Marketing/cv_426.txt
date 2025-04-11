@@ -1,0 +1,8 @@
+=== CV 426 ===
+text: Isabelle Mokhtar
+cleaned_text: isabelle mokhtar cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 81160485
+email: isabelle.mokhtar@example.com
+skills: ['Windows', 'Java', 'Linux', 'CSS']
+skills_text: Windows Java Linux CSS
+Category: Marketing

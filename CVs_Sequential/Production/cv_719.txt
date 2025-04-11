@@ -1,0 +1,8 @@
+=== CV 719 ===
+text: Isabelle Mokhtar
+cleaned_text: isabelle mokhtar cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 94986142
+email: isabelle.mokhtar@example.com
+skills: ['Python', 'CSS', 'SQL', 'Linux']
+skills_text: Python CSS SQL Linux
+Category: Production

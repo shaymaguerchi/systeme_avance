@@ -1,0 +1,8 @@
+=== CV 687 ===
+text: Isabelle Ben Ali
+cleaned_text: isabelle ben ali cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 20929991
+email: isabelle.ben ali@example.com
+skills: ['C++', 'Management', 'Marketing']
+skills_text: C++ Management Marketing
+Category: Finance

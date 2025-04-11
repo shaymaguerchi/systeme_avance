@@ -1,0 +1,8 @@
+=== CV 821 ===
+text: Jean Fontaine
+cleaned_text: jean fontaine cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 87109639
+email: jean.fontaine@example.com
+skills: ['CSS', 'SQL', 'Marketing']
+skills_text: CSS SQL Marketing
+Category: Production

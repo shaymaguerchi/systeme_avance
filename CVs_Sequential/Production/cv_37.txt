@@ -1,0 +1,135 @@
+=== CV 37 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nom: Ben Saleh 
+
+Prénom: Mohamed 
+
+Date de naissance : 25/11/1997
+
+Email: 
+bensalehmohamed28@gmail.com
+
+Téléphone: 50661178
+
+mailto:bensalehmohamed28@gmail.com
+
+
+Niveau d'éducation: Baccalauréat 2017 
+
+Baccalauréat +2 en faculté de séance économique et 
+gestion de Sfax  en l’essence fondamentale en 
+économie spécialité monnaie finance et banque 
+
+Formation en:
+ Communication sociale 
+
+ Communication de l’entreprise
+
+ Gestion de l’entreprise
+
+ Coaching humaine 
+
+ Leadership 
+
+ Econométrie
+
+
+
+Compétences:
+
+Maitrise les Langue Français
+
+Anglais
+
+Power point 
+
+Excel
+
+Microsoft office 
+
+Photoshop  
+
+Montage vidéo 
+
+Informatique 
+
+
+
+Expériences personnelles :  
+
+ assistant commercial  et manager d'équipe en magasin Heni 
+
+ assistant commercial  dans  magasin Existe 
+
+ caissier dans boutique Havana
+
+ caissier dans boutique happy- Ness
+
+ marketing digitale avec Phoenix Tunisie  
+
+ Travailler en  émission et réception  en création de trafic ( bond d'achat ; 
+voyance ;  étude financière )
+
+ Téléconseiller BTOC en PROCALL et prise de RDV opération  
+assurance FMA (mutuelle santé )  
+
+ Téléconseiller BTOB en prise de RDV opération création des sites 
+internet  ( Smartcom , dev future et Tricom )
+
+ Formateur en prise de RDV opération création des sites internet  ( 
+smartcom)
+
+ Maneger d'équipe en prise de RDV opération création des sites internet 
+(smartcom)
+
+ Chargé Communication en IBS outsourcing call centre 
+
+
+
+cleaned_text: nom ben saleh prenom mohamed date naissance 25 11 1997 email bensalehmohamed28 gmail com telephone 50661178 mailto bensalehmohamed28 gmail com niveau education baccalaureat 2017 baccalaureat 2 faculte seance economique gestion sfax essence fondamentale economie specialite monnaie finance banque formation communication sociale communication entreprise gestion entreprise coaching humaine leadership econometrie competences maitrise langue francais anglais power point excel microsoft office photoshop montage video informatique experiences personnelles assistant commercial manager equipe magasin heni assistant commercial magasin existe caissier boutique havana caissier boutique happy ness marketing digitale phoenix tunisie travailler emission reception creation trafic bond achat voyance etude financiere teleconseiller btoc procall prise rdv operation assurance fma mutuelle sante teleconseiller btob prise rdv operation creation sites internet smartcom dev future tricom formateur prise rdv operation creation sites internet smartcom maneger equipe prise rdv operation creation sites internet smartcom charge communication ibs outsourcing call centre
+mobile_number: 5066117
+email: bensalehmohamed28@gmail.com
+skills: ['Excel', 'Communication', 'Coaching', 'Email', 'Outsourcing', 'Finance', 'Marketing', 'Photoshop']
+skills_text: Excel Communication Coaching Email Outsourcing Finance Marketing Photoshop
+Category: Production

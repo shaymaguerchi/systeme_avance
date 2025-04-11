@@ -1,0 +1,98 @@
+=== CV 29 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Fedia Jrad
+Adresse e-mail: fadouda2111@gmail.com
+Téléphone: +216 24 931 863
+Lieu: Tunis
+
+Expérience
+
+journaliste
+ 
+2013 - Present
+
+assistante réalisation stage
+tv watania
+Mar 2019 - Present
+
+centre d'appel
+buygues , swissmarketing , mb , tcc...
+Dec 2013 - Jun 2019
+prise de rdv , assurance et télevente
+
+rédactrice
+agence des monts
+May 2018 - Nov 2018
+Rédaction pour le web en français
+
+Éducation
+
+ipeim
+ingénieur prep
+Sep 2009 - Jun 2011
+
+isamm
+arts multimédia communication
+Sep 2015 - Jun 2019
+Conception réalisation films 3D
+Audio visuel cinema
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               1 / 1
+
+http://www.tcpdf.org
+
+
+cleaned_text: fedia jrad adresse e mail fadouda2111 gmail com telephone 216 24 931 863 lieu tunis experience journaliste 2013 present assistante realisation stage tv watania mar 2019 present centre appel buygues swissmarketing mb tcc dec 2013 jun 2019 prise rdv assurance televente redactrice agence monts may 2018 nov 2018 redaction web francais education ipeim ingenieur prep sep 2009 jun 2011 isamm arts multimedia communication sep 2015 jun 2019 conception realisation films 3d audio visuel cinema powered tcpdf www tcpdf org 1 1 http www tcpdf org
+mobile_number: 0
+email: fadouda2111@gmail.com
+skills: ['Audio', 'Communication', 'Tv']
+skills_text: Audio Communication Tv
+Category: Production

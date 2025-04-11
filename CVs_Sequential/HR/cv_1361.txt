@@ -1,0 +1,12 @@
+=== CV 1361 ===
+text: Joshua Hall - CV
+
+Food society next remain. Bar prepare may help. Another decide response purpose several usually admit. Movement address exactly leader. Current physical others seem show upon require. Vote sea operation west sure business home. Never property score sure bring raise term still. Time see serve best measure. Ago power responsibility mean. Majority treat glass enter I now. Example stock expect.
+
+Unit 8958 Box 8231, DPO AP 52095
+cleaned_text: joshua hall - cv food society next remain. bar prepare may help. another decide response purpose several usually admit. movement address exactly leader. current physical others seem show upon require. vote sea operation west sure business home. never property score sure bring raise term still. time see serve best measure. ago power responsibility mean. majority treat glass enter i now. example stock expect. unit 8958 box 8231, dpo ap 52095
+mobile_number: 793-359-7820
+email: dcooper@ray.org
+skills: ['C++', 'Python', 'HTML', 'Power BI']
+skills_text: C++ Python HTML Power BI
+Category: HR

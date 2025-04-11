@@ -1,0 +1,8 @@
+=== CV 536 ===
+text: Karim Moreau
+cleaned_text: karim moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 94397576
+email: karim.moreau@example.com
+skills: ['Windows', 'Adobe', 'Marketing', 'Java', 'HTML']
+skills_text: Windows Adobe Marketing Java HTML
+Category: Design

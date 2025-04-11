@@ -1,0 +1,8 @@
+=== CV 905 ===
+text: Karim Girard
+cleaned_text: karim girard cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 89798399
+email: karim.girard@example.com
+skills: ['Adobe', 'CSS', 'Linux']
+skills_text: Adobe CSS Linux
+Category: Marketing

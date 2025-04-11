@@ -1,0 +1,183 @@
+=== CV 308 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Présentation PowerPoint
+
+
+in
+
+(+216) 20 759 232
+
+Bizerte, Tunisie
+
+mejri.marwen00@gmail.com
+
+Compétences Techniques :
+
+• Python, R, Neo4J , MongoDB, Spark, 
+Hadoop, SQL, ELK Stack.
+
+Data Engineering:
+
+• Traitement de données, Big 
+Data, Data Mining
+
+COMPETENCES
+
+LANGUES
+
+Arabe  
+
+Français 
+
+Anglais
+
+MARWEN MEJRI
+
+Elève Ingénieur en Data Science 
+
+Je suis très motivé pour développer mes compétences professionnelles 
+notamment dans le domaine de la data science, du machine Learning, du 
+business intelligence et du big data. 
+
+PROJETS ACADEMIQUES
+
+FORMATIONS
+
+2020-Présent-Elève Ingénieur en Informatique - TEK-UP University (Ingénieur
+
+en Data Science) Ariana - Tunisie
+
+2016-Diplôme National d’Ingénieur en Instrumentation et Maintenance
+
+Industrielle :
+
+Institut National des Sciences Appliquées et de Technologie - INSAT, Tunis,
+
+Tunisie : Mention Très Bien
+
+2010-Diplôme du Baccalauréat Tunisien
+
+Mathématiques – mention Bien
+
+CERTIFICATIONS
+
+PROJET DEEP LEARNING & BIG DATA : Conception d’un système de 
+reconnaissance  de langages de signes en temps réel:
+➢ 1 ère approche : Mediapipe , pandas, Keras, Open-cv
+➢ 2 ème approche : Transfert Learning : EfficientnetV0 ,PySpark,  Keras, 
+
+TensorFlow, Open-cv
+
+Coronavirus Web Scraper & Voice Assistant : Réaliser une 
+application d’assistance vocale auquel on peut poser des questions liées au 
+Corona virus
+➢ Python, Selenium, Json, pyttsx3, speech recognition , expressions 
+
+régulières..
+
+FACIAL RECOGNITION & ATTENDANCE PROJECT: Création d’une application 
+de reconnaissance faciale en temps réel et qui enregistre la présence des 
+personne dans un fichier csv. 
+➢ Python, face_recognition, Open-cv, Numpy, Datetime.
+
+linkedin.com/in/marwe
+n-mejri-313771215
+
+Informatique Décisionnelle:
+
+• Reporting(Datawarehouse, ETL, Power BI, 
+Tableau Desktop 
+
+Extraction des Données :
+
+• Selenium, Google API Client, Social Media 
+API 
+
+EXPERIENCES PROFESSIONNELLES
+
+C S A  I n t e r n a t i o n a l :  J u i l l e t  2 0 2 1 - S e p t e m b r e 2 0 2 1 :
+I n g é n i e u r  S t a g i a i r e
+PLATEFORME D’ANALYSE DES SENTIMENTS: SYSTÈME INTELLIGENT 
+D’EXPLORATION DES REVIEWS/COMMENTAIRES DES  UTILISATEURS  SUR 
+LES RÉSEAUX SOCIAUX
+➢ Selenium Web Scraping,
+➢ Social Media API (Facebook Graph API, LinkedIn API….)
+➢ Django  
+➢ MongoDB
+➢ Nature Language Processing 
+
+Data Science :
+
+• Machine Learning, Deep 
+
+Learning(TensorFlow),  Transfert Learning, 
+
+Computer Vision(Open-cv), Nature Language 
+
+Processing
+
+CENTRE D’INTERETS
+
+• Aviation
+• Musique  
+• Documentaires 
+
+• PCAP – Certified Associate in Python Programming
+
+• Python for Data Science and Machine Learning
+
+https://www.linkedin.com/in/marwen-mejri-313771215
+
+
+cleaned_text: presentation powerpoint 216 20 759 232 bizerte tunisie mejri marwen00 gmail com competences techniques python r neo4j mongodb spark hadoop sql elk stack data engineering traitement donnees big data data mining competences langues arabe francais anglais marwen mejri eleve ingenieur data science tres motive developper competences professionnelles notamment domaine data science machine learning business intelligence big data projets academiques formations 2020 present eleve ingenieur informatique tek university ingenieur data science ariana tunisie 2016 diplome national ingenieur instrumentation maintenance industrielle institut national sciences appliquees technologie insat tunis tunisie mention tres bien 2010 diplome baccalaureat tunisien mathematiques mention bien certifications projet deep learning big data conception systeme reconnaissance langages signes temps reel 1 ere approche mediapipe pandas keras open cv 2 eme approche transfert learning efficientnetv0 pyspark keras tensorflow open cv coronavirus web scraper voice assistant realiser application assistance vocale auquel peut poser questions liees corona virus python selenium json pyttsx3 speech recognition expressions regulieres facial recognition attendance project creation application reconnaissance faciale temps reel enregistre presence personne fichier csv python face recognition open cv numpy datetime linkedin com marwe mejri 313771215 informatique decisionnelle reporting datawarehouse etl power bi tableau desktop extraction donnees selenium google api client social media api experiences professionnelles e r u e 2 0 2 1 e p e b r e 2 0 2 1 g e e u r g r e plateforme analyse sentiments systeme intelligent exploration reviews commentaires utilisateurs reseaux sociaux selenium web scraping social media api facebook graph api linkedin api django mongodb nature language processing data science machine learning deep learning tensorflow transfert learning computer vision open cv nature language processing centre interets aviation musique documentaires pcap certified associate python programming python data science machine learning https www linkedin com marwen mejri 313771215
+mobile_number: 3137712
+email: mejri.marwen00@gmail.com
+skills: ['Big data', 'Tensorflow', 'Numpy', 'Tableau', 'Facebook', 'Selenium', 'Hadoop', 'Pyspark', 'Etl', 'Sql', 'Django', 'P', 'Json', 'Engineering', 'Pandas', 'Python', 'R', 'Machine learning', 'Keras', 'Instrumentation', 'Programming', 'Spark', 'Mining', 'C', 'Aviation', 'Api']
+skills_text: Big data Tensorflow Numpy Tableau Facebook Selenium Hadoop Pyspark Etl Sql Django P Json Engineering Pandas Python R Machine learning Keras Instrumentation Programming Spark Mining C Aviation Api
+Category: IT

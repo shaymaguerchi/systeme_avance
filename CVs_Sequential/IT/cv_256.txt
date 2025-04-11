@@ -1,0 +1,187 @@
+=== CV 256 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sirine elfidha
+
+
+PROFIL
+
+CERTIFICATS
+
+FORMATION
+
+COMPÉTENCES
+
+-Programming Foundations with JavaScript, HTML
+and CSS (22/10/2020)
+Coursera
+-Getting Started with Python (27/11/2020)
+ Coursera
+-The Fundamentals of Deep Learning (11/11/2021)
+NVIDIA
+
+ 
+
+PROJETS UNIVERSITAIRES
+
+CENTRES D’  INTÉRÊTS
+
+Stage Ingénieur:Juillet2021-Aout2021
+Esprit
+Modélisation et analyse des données collectées des
+entreprises cotés en bourse(outils utilisés:python)
+Stage Technicien:Février-Mai 2019 
+ Softic de Tunis 
+ Développement d'un site web de l'entreprise et
+d'une application de gestion des réclamations
+(outils utilisés :C# ,html5,css3, php , Visual Studio ) 
+Stage d'été: Aout 2018 
+ Tunisie Telecom de Siliana 
+Développement d’une application web de gestion
+de clients (outils utilisés: VB, Visual Studio ) 
+
+ELÈVE INGÉNIEUR EN INFORMATIQUE 
+
++216 95550675
+
+ sirine.elfidha@esprit.tn
+
+ Ariana ,Tunisie
+
+https://www.linkedin.com/in/elfidha-sirine-a14ab217a
+
+Étudiante en ingénierie informatique
+décisionnelle ERP_BI au sein de l'École
+supérieure privée d'ingénierie et de
+technologie.
+Ayant une bonne expérience dans le
+domaine du développement Web et
+analyse des données, visant à s'intégrer
+parfaitement dans une équipe et à
+délivrer un excellent travail.
+
+ 
+
+Projet Business Intelligence, Comité Générale des
+Assurances(CGA) 
+Février 2021-Mai 2021|ESPRIT
+-Modélisation et alimentation du Data Warehouse.
+-Visualisation des données via un Dashboard.
+-Visualisation des résultat sur une application web.
+Outils utilisés :Talend, Power BI, Python, Microsoft SQL
+Server, PostgreSQL.
+Projet de Développement
+Février 2020-Mai 2020|ESPRIT
+-Développement d'un site multiplateforme de covoiturage .
+Outils utilisés: JAVA,Symfony3.4,codenameone
+
+ 
+
+Cycle d'ingénieur en Informatique
+
+2019-Aujourd'hui                                     Esprit
+
+2016-2019 ISI KEF
+Licence Fondamentale en Sciences
+ de l'informatique
+
+2016 Lycée Monji Slim SIliana
+
+Baccalauréat sciences expérimentales.
+
+Internet et actualités, Jeux de réflexion
+
+java C# R Python html
+
+Css
+
+Power BI Talend SSAS SSRS SSIS
+
+PostgreSQL Oracle
+
+Spring boot .Net
+
+Microsoft SQL SERVER
+
+Symfony
+
+SCRUM CRISP
+
+• Français :Niveau intermédiaire (B2)
+• Anglais :Niveau intermédiaire (B2)
+
+EXPÉRIENCES PROFESSIONNELLES
+
+Microsoft Dynamics NAV
+ 
+
+Projet de Advanced Learning for Text and Graph Data 
+October 2021|ESPRIT
+ -Analyser de la qualité de service des livreurs de UberEats.  
+ -Analyse de la réputation d’UberEats évaluer par les      
+ clients.                        
+ -Analyser la satisfaction des clients à travers leurs   
+ commentaires.
+ Outils utilisés :Python ,NLTK
+
+• Arabe :Langue maternelle
+
+Sirine ELFIDHA
+
+
+
+cleaned_text: sirine elfidha profil certificats formation competences programming foundations javascript html css 22 10 2020 coursera getting started python 27 11 2020 coursera fundamentals deep learning 11 11 2021 nvidia projets universitaires centres interets stage ingenieur juillet2021 aout2021 esprit modelisation analyse donnees collectees entreprises cotes bourse outils utilises python stage technicien fevrier mai 2019 softic tunis developpement site web entreprise application gestion reclamations outils utilises html5 css3 php visual studio stage ete aout 2018 tunisie telecom siliana developpement application web gestion clients outils utilises vb visual studio eleve ingenieur informatique 216 95550675 sirine elfidha esprit tn ariana tunisie https www linkedin com elfidha sirine a14ab217a etudiante ingenierie informatique decisionnelle erp bi sein ecole superieure privee ingenierie technologie bonne experience domaine developpement web analyse donnees visant integrer parfaitement equipe delivrer excellent travail projet business intelligence comite generale assurances cga fevrier 2021 mai 2021 esprit modelisation alimentation data warehouse visualisation donnees via dashboard visualisation resultat application web outils utilises talend power bi python microsoft sql server postgresql projet developpement fevrier 2020 mai 2020 esprit developpement site multiplateforme covoiturage outils utilises java symfony3 4 codenameone cycle ingenieur informatique 2019 aujourd hui esprit 2016 2019 isi kef licence fondamentale sciences informatique 2016 lycee monji slim siliana baccalaureat sciences experimentales internet actualites jeux reflexion java r python html css power bi talend ssas ssrs ssis postgresql oracle spring boot net microsoft sql server symfony scrum crisp francais niveau intermediaire b2 anglais niveau intermediaire b2 experiences professionnelles microsoft dynamics nav projet advanced learning text graph data october 2021 esprit analyser qualite service livreurs ubereats analyse reputation ubereats evaluer clients analyser satisfaction clients travers leurs commentaires outils utilises python nltk arabe langue maternelle sirine elfidha
+mobile_number: 216 9555067
+email: sirine.elfidha@esprit.tn
+skills: ['Php', 'Html', 'Telecom', 'Oracle', 'Javascript', 'C#', 'Sql', 'Css', 'P', 'Visual', 'Python', 'R', 'Postgresql', '.net', 'Scrum', 'Warehouse', 'Nltk', 'C', 'Java']
+skills_text: Php Html Telecom Oracle Javascript C# Sql Css P Visual Python R Postgresql .net Scrum Warehouse Nltk C Java
+Category: IT

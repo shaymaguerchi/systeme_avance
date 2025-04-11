@@ -1,0 +1,284 @@
+=== CV 319 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+2013 Attestation en langue Française  
+Sfax – Tunisie Open School 
+ 
+
+2013-2014   baccalauréat en sciences informatiques 
+Sfax - TunisieLycée Majida Boulila 
+ 
+
+2015    Attestation en langue Anglaise 
+Sfax – Tunisie Crif AIESEC 
+ 
+
+2017    Attestation en Android et développement mobile  
+Sfax – Tunisie Best Professional Training Center 
+ 
+
+2014-2017     Licence Fondamentale en informatique de gestion 
+Sfax – Tunisie Faculté des sciences économiques et de gestion Sfax 
+J’ai continué mais études en mastère" audit et sécurité informatique" pour l'année 2017/2018 et j'ai 
+validé mon M1. 
+
+ 
+2018-2020    Diplôme en Génie Informatique  
+Sfax – Tunisie Institut International de Technologie Sfax 
+ 
+ 
+
+ 
+ 
+ 
+
+Février-2017 - Avril-2017 I2S, Société Informatique  
+Sfax – Tunisie développeur 
+ 
+
+J'ai fait mon stage de projet de la fin d'étude dans la société I2S pour une durée de 3 mois du début 
+février jusqu'à fin avril, et pendant cette durée j'ai développé une application en "c#" et "devExpress" 
+de gestion des projets informatiques qui permet de gérer les projets informatiques d'une boite de 
+
+développement en collaboration avec les différents personnels, j'ai développé aussi une application 
+mobile en "android " gestion de contacts pour faciliter la communication entre les différents 
+personnels. 
+
+ 
+ 
+
+  
+
+ 
+ 
+ 
+
+ Langage de programmation : 
+-JAVA, JEE, c#, HTML, CSS, JavaScript,  
+PHP, Ajax, JQuery, XML, Mobile, PL/SQL, 
+
+Assembleur 8086.  
+ 
+
+ Environnements : 
+
+-Windows XP, Vista, Seven ,8.1, 10  
+/ LINUX / KALI / UBUNTU. 
+ 
+
+ 
+ 
+ 
+
+ 
+  
+
+ 
+  
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+Alia Ben Abdallah 
+Age : 23 ans 
+
+Adr :Route Saltnia km 4 avenue Sousse 
+Sfax - Tunisie 
+Tél : +216 58690754 
+
+E-mail : alia.ba1916@gmail.com 
+ 
+
+EXPERIENCES PROFESSIONNELLES 
+ 
+
+ 
+
+Numéro CIN 11065883, étudiante 
+en 2 éme année génie logiciel 
+
+informatique décisionel à l'Institut 
+International de Technologie Sfax. 
+Studieuse, patiente et ponctuelle. 
+
+FORMATIONS  
+
+COMPETENCES  
+
+ Logiciels et SGBD : 
+-Microsoft Visuel studio, VMware Workstation, 
+
+Eclipse, IBMRational Software Architect, 
+NotePad++, NetBeans, Code Blocks, Oracle SQL 
+Developer, Office, Oracle SQL Server, Turbo Pascal, 
+
+, Oracle Ware House Builder 
+
+ Framework : 
+-Angular Js, Hiberanate  
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+COMPETIION ET EVENEMENTS : 
+
+ 
+   Participante                                      
+
+ 
+ DevFest 2018  
+ Xcoding 2019  
+
+ Hackathon hacking health 2018 
+ Be a starter be an entrepereneur « obtention de la 1er place et prix » 
+ I-Protect 2019 
+
+ 
+ 
+
+  Organisatrice 
+ 
+
+ HashCode 2019 
+ International Women’s Day 2019 
+
+ 
+ 
+
+VIE ASSOCIATIVE : 
+
+ IIT Google Club : 
+
+- Trésorerie  
+-  coordinatrice 
+
+ Elite IIT Club  
+ 
+
+
+
+cleaned_text: 2013 attestation langue francaise sfax tunisie open school 2013 2014 baccalaureat sciences informatiques sfax tunisielycee majida boulila 2015 attestation langue anglaise sfax tunisie crif aiesec 2017 attestation android developpement mobile sfax tunisie best professional training center 2014 2017 licence fondamentale informatique gestion sfax tunisie faculte sciences economiques gestion sfax continue etudes mastere audit securite informatique annee 2017 2018 valide m1 2018 2020 diplome genie informatique sfax tunisie institut international technologie sfax fevrier 2017 avril 2017 i2s societe informatique sfax tunisie developpeur fait stage projet fin etude societe i2s duree 3 mois debut fevrier jusqu fin avril pendant cette duree developpe application devexpress gestion projets informatiques permet gerer projets informatiques boite developpement collaboration differents personnels developpe aussi application mobile android gestion contacts faciliter communication entre differents personnels langage programmation java jee html css javascript php ajax jquery xml mobile pl sql assembleur 8086 environnements windows xp vista seven 8 1 10 linux kali ubuntu alia ben abdallah age 23 ans adr route saltnia km 4 avenue sousse sfax tunisie tel 216 58690754 e mail alia ba1916 gmail com experiences professionnelles numero cin 11065883 etudiante 2 eme annee genie logiciel informatique decisionel institut international technologie sfax studieuse patiente ponctuelle formations competences logiciels sgbd microsoft visuel studio vmware workstation eclipse ibmrational software architect notepad netbeans code blocks oracle sql developer office oracle sql server turbo pascal oracle ware house builder framework angular js hiberanate competiion evenements participante devfest 2018 xcoding 2019 hackathon hacking health 2018 starter entrepereneur obtention 1er place prix protect 2019 organisatrice hashcode 2019 international women day 2019 vie associative iit google club tresorerie coordinatrice elite iit club
+mobile_number: 216 5869075
+email: alia.ba1916@gmail.com
+skills: ['Php', 'Android', 'Mobile', 'Html', 'Oracle', 'Ubuntu', 'Communication', 'Javascript', 'C#', 'Sql', 'Pl/sql', 'Css', 'Xml', 'Linux', 'International', 'Training', 'Audit', 'Js', 'Health', 'Vmware', 'C']
+skills_text: Php Android Mobile Html Oracle Ubuntu Communication Javascript C# Sql Pl/sql Css Xml Linux International Training Audit Js Health Vmware C
+Category: IT

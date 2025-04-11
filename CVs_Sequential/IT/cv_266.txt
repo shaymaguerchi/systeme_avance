@@ -1,0 +1,291 @@
+=== CV 266 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yessine Farhat 
+
+ 
+
+Nom Yessine Farhat 
+
+Date de naissance 10/08/1995 
+
+Lieu de naissance Sfax, Tunisie 
+
+Téléphone +33 7 61 44 09 57 
+
+Adresse Bois-Colombes, France 
+
+Email yacine.farhat@gmail.com 
+
+Profile GitHub Farhatyacine 
+
+Profile LinkedIn Yessine Farhat 
+
+ 
+
+EXPÉRIENCE PROFESSIONNELLE : 
+ 
+
+03/2020 – Présent 
+
+Versailles, France 
+Développeur Full Stack à EWALIA  
+
+• Partager mes connaissances et mes idées avec le reste de l'équipe 
+
+• Améliorer les performances des applications et l'empreinte mémoire 
+
+• Analyser et implémenter de nouvelles fonctionnalités 
+
+• Prise en charge et aide à l'élimination progressive du code hérité de 
+
+l'ancienne application 
+
+• Améliorer les applications existantes et les maintenir 
+
+• Découvrir, évaluer et mettre en œuvre en permanence de nouvelles 
+
+technologies pour maximiser l'efficacité de l’application 
+ 
+
+Environnement technologique : TypeScript, Angular 2+, Ngrx, Java, Spring Boot, PostgreSQL 
+
+02/2019 – 09/2019 
+
+(Stagiaire) 
+
+10/2019 – 02/2020 
+
+Tunis, Tunisie 
+
+Développeur Front End à VAGANET 
+
+• Créer et mettre en place de nouvelles fonctionnalités sur l'application 
+
+• Assister aux réunions d'analyse des besoins et de la satisfaction des clients 
+
+• Lier les données entre l'application mobile et IBM Maximo 
+
+• Chercher et développer des solutions innovantes aux problèmes rencontrés 
+
+• Participer à la définition des fonctionnalités 
+ 
+
+Environnement technologique : JavaScript (ES5+), React Native, React, Redux, IBM Maximo 
+
+ 
+
+PROJETS : 
+  
+
+08/2018 – 09/2018 Projet Open Source « Mediun » 
+
+Un blog pour publier des articles construit sur l'édition de texte riche de Facebook. 
+
+Mots clés : React.JS, Redux.JS, GraphQL, Caching, Expres.JS, MongoDB. 
+
+mailto:yacine.farhat@gmail.com
+https://github.com/Farhatyacine
+https://fr.linkedin.com/in/yessine-farhat-a32997151
+
+
+03/2018 – 04/2018 Projet Open Source « CarShop » 
+
+Site e-commerce de voitures et pièces détachées automobiles. 
+
+Mots clés : React.JS, Redux.JS, Node.JS, Expres.JS, MongoDB. 
+
+02/2018 – 04/2018 Projet Académique « Casa De Fair » 
+
+Conception, développement et mise en œuvre d'une application Web et 
+
+bureautique pour les services en ligne axés sur l'emploi et la gestion d'événements. 
+
+Mots clés : JaveEE, EJB, JSF, JavaFX. 
+
+10/2017 – 01/2018 Projet Académique « Esprit For All » 
+
+Développement et implémentation d'une application Web, Mobile et Desktop visant 
+
+à faciliter la vie à l’université. 
+
+Mots clés : Web : Symfony, JavaScript, HTML, CSS / Desktop : Java, JavaFx /  
+
+Mobile : CodeName   One.  
+
+ 
+
+ÉDUCATION : 
+ 
+
+09/2016 – 10/2019 École Supérieure Privée d'Ingénierie et de Technologie (ESPRIT) 
+
+Diplôme d’ingénieur en informatique. 
+
+Accrédité au label européen d’ingénieur EUR-ACE.  
+
+09/2014 – 06/2016 École Préparatoire à la Faculité des sciences de Tunis (FST) 
+
+Spécialité : Math et Physique. 
+
+09/2010 – 06/2014 Baccalauréat au Lycée Cité El Khadra 
+
+Spécialité : Math et Physique. 
+
+Qualification : Bien. 
+
+ 
+
+ 
+
+COMPÉTENCES IT : 
+ 
+
+Langages : 
+
+JavaScript, ES6, TypeScript, C, C++, Java, PHP, HTML, CSS. 
+
+Librairies/Framework : 
+
+ReactJS, Angular 2+, React Native, Redux, Ngrx, JQuery. 
+
+Backend : 
+
+Spring Boot, Node.JS, Express.JS, JavaEE. 
+
+Bases de données : 
+
+PostgreSQL, MySQL, MongoDB, PL/SQL. 
+
+Web Services : 
+
+Rest, GraphQL. 
+
+Systèmes d’exploitation : 
+
+Windows, Linux. 
+
+Cloud Computing : 
+
+AWS 
+
+
+
+Outils de débogage : 
+
+Chrome Developer Tools. 
+
+Conception : 
+
+UML. 
+
+Gestion de projet : 
+
+Scrum. 
+
+IDE : 
+
+Intellij, Webstorm, VS code, Eclipse, Atom, Sublime. 
+
+ 
+
+LANGUES : 
+ 
+
+Arabe 
+
+Native 
+
+Français 
+
+Native 
+
+Anglais 
+
+Intermédiaire 
+
+ 
+
+COMPÉTITIONS : 
+ 
+
+Certificat de réussite 
+
+Résultat : Septième Place  
+
+Hash Code 
+
+Concours de codage de Google 
+
+ 
+
+VIE ASSOCIATIVE : 
+ 
+
+Responsable de communication à Inceptum Junior Entreprise (ESPRIT) 
+
+Membre de CCEPE (FST) 
+
+ 
+
+LOISIRS : 
+ 
+
+Musique Sport Cinéma 
+
+ 
+
+
+
+cleaned_text: yessine farhat nom yessine farhat date naissance 10 08 1995 lieu naissance sfax tunisie telephone 33 7 61 44 09 57 adresse bois colombes france email yacine farhat gmail com profile github farhatyacine profile linkedin yessine farhat experience professionnelle 03 2020 present versailles france developpeur full stack ewalia partager connaissances idees reste equipe ameliorer performances applications empreinte memoire analyser implementer nouvelles fonctionnalites prise charge aide elimination progressive code herite ancienne application ameliorer applications existantes maintenir decouvrir evaluer mettre oeuvre permanence nouvelles technologies maximiser efficacite application environnement technologique typescript angular 2 ngrx java spring boot postgresql 02 2019 09 2019 stagiaire 10 2019 02 2020 tunis tunisie developpeur front end vaganet creer mettre place nouvelles fonctionnalites application assister reunions analyse besoins satisfaction clients lier donnees entre application mobile ibm maximo chercher developper solutions innovantes problemes rencontres participer definition fonctionnalites environnement technologique javascript es5 react native react redux ibm maximo projets 08 2018 09 2018 projet open source mediun blog publier articles construit edition texte riche facebook mots cles react js redux js graphql caching expres js mongodb mailto yacine farhat gmail com https github com farhatyacine https fr linkedin com yessine farhat a32997151 03 2018 04 2018 projet open source carshop site e commerce voitures pieces detachees automobiles mots cles react js redux js node js expres js mongodb 02 2018 04 2018 projet academique casa fair conception developpement mise oeuvre application web bureautique services ligne axes emploi gestion evenements mots cles javeee ejb jsf javafx 10 2017 01 2018 projet academique esprit developpement implementation application web mobile desktop visant faciliter vie universite mots cles web symfony javascript html css desktop java javafx mobile codename one education 09 2016 10 2019 ecole superieure privee ingenierie technologie esprit diplome ingenieur informatique accredite label europeen ingenieur eur ace 09 2014 06 2016 ecole preparatoire faculite sciences tunis fst specialite math physique 09 2010 06 2014 baccalaureat lycee cite el khadra specialite math physique qualification bien competences langages javascript es6 typescript java php html css librairies framework reactjs angular 2 react native redux ngrx jquery backend spring boot node js express js javaee bases donnees postgresql mysql mongodb pl sql web services rest graphql systemes exploitation windows linux cloud computing aws outils debogage chrome developer tools conception uml gestion projet scrum ide intellij webstorm vs code eclipse atom sublime langues arabe native francais native anglais intermediaire competitions certificat reussite resultat septieme place hash code concours codage google vie associative responsable communication inceptum junior entreprise esprit membre ccepe fst loisirs musique sport cinema
+mobile_number: 0
+email: yacine.farhat@gmail.com
+skills: ['Ibm', 'Php', 'Facebook', 'Mobile', 'Github', 'Html', 'Mysql', 'Sublime', 'Cloud', 'C++', 'Communication', 'Javascript', 'Email', 'Sql', 'Css', 'Linux', 'Aws', 'Postgresql', 'Math', 'Js', 'Rest', 'Scrum', 'C', 'Windows', 'Java', 'Web services']
+skills_text: Ibm Php Facebook Mobile Github Html Mysql Sublime Cloud C++ Communication Javascript Email Sql Css Linux Aws Postgresql Math Js Rest Scrum C Windows Java Web services
+Category: IT

@@ -1,0 +1,129 @@
+=== CV 69 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Slide 1
+
+JAWEHER BOUAZZA
+
+
+
+
+ 	CONTACT	
+
++216 23 093 529
+ 	
+
+
+bouazza.jijitta@gmail.com
+
+
+
+17 Décembre1985, Tunis
+
+
+
+12 rue ibn jazar boukornine hammamm lif
+
+ 	COMPETENCES	
+Logiciels :
+· Word
+· Excel
+· PowerPoint
+· Google Drive
+· Google Sheet
+
+
+PROFIL
+
+
+Doté d'une grande aisance relationnelle, je suis à l'écoute des besoins des clients et j'offre des conseils adaptés sur les services et produits offerts pour répondre au mieux à leurs attentes. Je maîtrise également
+différents outils informatique
+
+
+EXPERIENCES PROFESSIONELLES
+
+
+Mars 2020 – Aujourd’hui| responsable chargée de clientele
+· LS CONSEIL
+
+2016 - 20120 | contrôle électrique des câblages
+· LEAR CORPORATION
+
+2009-2011 / Contrôle électrique
+· LEONI
+STAGE EFFECTUES
+
+
+
+Janvier 2006 – Fevrier 2007 | RNTA TRANSIT
+Stage d’apprentissage
+Avril 2007- Mai 2008 | SMIT TRANST
+Stage d’apprentissage
+Janvier 2009- Février 2010 | SNCFT TRANSIT
+Stage d’apprentissage
+Mars 2009- avril 2009 | IAS de Transit
+Stage d’apprentissage
+
+DIPLOMES
+
+ 	LANGUES	
+
+
+Arabe Français Anglais
+Allemand	
+
+Formation en transport multimodal : Technicien en transport multimodal
+Septembre 2006- Juillet 2008
+· Centre sectoriel à Borj Cédria
+
+Baccalauréat < niveau bac Lettres>
+Juin 2006
+· Lycée Boukornine
+
+
+
+
+
+ 	LOISIRS	
+Sport, Cinéma, Voyage, Théâtre, Musique
+
+VIE ASSOCIATIVE
+
+
+Membre dans l’instance supérieur indépendante pour les élections 2020
+
+cleaned_text: slide 1 jaweher bouazza contact 216 23 093 529 bouazza jijitta gmail com 17 decembre1985 tunis 12 rue ibn jazar boukornine hammamm lif competences logiciels word excel powerpoint google drive google sheet profil dote grande aisance relationnelle ecoute besoins clients offre conseils adaptes services produits offerts repondre mieux leurs attentes maitrise egalement differents outils informatique experiences professionelles mars 2020 aujourd hui responsable chargee clientele ls conseil 2016 20120 controle electrique cablages lear corporation 2009 2011 controle electrique leoni stage effectues janvier 2006 fevrier 2007 rnta transit stage apprentissage avril 2007 mai 2008 smit transt stage apprentissage janvier 2009 fevrier 2010 sncft transit stage apprentissage mars 2009 avril 2009 ias transit stage apprentissage diplomes langues arabe francais anglais allemand formation transport multimodal technicien transport multimodal septembre 2006 juillet 2008 centre sectoriel borj cedria baccalaureat niveau bac lettres juin 2006 lycee boukornine loisirs sport cinema voyage theatre musique vie associative membre instance superieur independante elections 2020
+mobile_number: 009-2011
+email: bouazza.jijitta@gmail.com
+skills: ['Powerpoint', 'Excel', 'Word', 'Transport']
+skills_text: Powerpoint Excel Word Transport
+Category: Administratif

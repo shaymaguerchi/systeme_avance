@@ -1,0 +1,54 @@
+=== CV 368 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pdfcv.pdf
+
+
+
+
+cleaned_text: pdfcv pdf
+mobile_number: 0
+email: UNKNOWN
+skills: []
+skills_text: nan
+Category: Autres

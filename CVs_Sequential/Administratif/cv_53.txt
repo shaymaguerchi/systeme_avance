@@ -1,0 +1,152 @@
+=== CV 53 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+  
+ Adresse mail : Rihabmfe@gmail.com 
+
+ Numéro tel : 54879678 
+
+ Adresse : 13bis Rue Somaa Dar fadhal La Soukra     
+Arianna 
+
+ 
+
+ 
+
+ 
+
+  
+Date De Naissance : 17/05/1999 
+
+Situation de famille : Célibataire 
+
+Nationalité                : Tunisienne 
+
+ 
+
+ 
+2018-2019 
+
+ 
+
+2019-2021 
+
+  
+
+Baccalauréat en sciences économiques et de gestion 
+
+Diplôme en Informatique de Gestion 
+
+Travail en équipe, être organisée, savoir s'adapter, prendre des initiatives.. 
+
+Informatique: Microsoft office (Word, Excel, Access, PowerPoint) Logiciel Ok- gestcom, 
+
+Programme CSharp... 
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+4 mois de stage (Juin2020 - sept2020)  
+
+Technicienne de Soutien en Informatique de Gestion 
+
+ 
+
+ 
+
+ 
+
+3 mois de stage (mars2021- mai2021) 
+
+Technicienne de Soutien en Informatique de Gestion 
+
+ 
+
+              Arabe  
+
+                                                  Français 
+
+                                                  Anglais 
+
+                                              
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+mailto:Rihabmfe@gmail.com
+mailto:e@gmail.com
+
+
+cleaned_text: adresse mail rihabmfe gmail com numero tel 54879678 adresse 13bis rue somaa dar fadhal soukra arianna date naissance 17 05 1999 situation famille celibataire nationalite tunisienne 2018 2019 2019 2021 baccalaureat sciences economiques gestion diplome informatique gestion travail equipe etre organisee savoir adapter prendre initiatives informatique microsoft office word excel access powerpoint logiciel ok gestcom programme csharp 4 mois stage juin2020 sept2020 technicienne soutien informatique gestion 3 mois stage mars2021 mai2021 technicienne soutien informatique gestion arabe francais anglais mailto rihabmfe gmail com mailto e gmail com
+mobile_number: 5487967
+email: Rihabmfe@gmail.com
+skills: ['Excel', 'Powerpoint', 'Microsoft office', 'Access', 'Word']
+skills_text: Excel Powerpoint Microsoft office Access Word
+Category: Administratif

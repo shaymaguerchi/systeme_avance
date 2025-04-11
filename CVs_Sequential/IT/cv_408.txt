@@ -1,0 +1,158 @@
+=== CV 408 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+Raghda Jellad
+ingénieur web
+
+Expériences professionnelles
+
+projet stage d'été / ARSII Sfax, Tunisie
+
+De septembre 2020 à octobre 2020
+
+Site e-commerce pour arsii en utilisant react js comme frontend et node js comme backend
+   
+
+Projet de fin d'année / École pluridisciplinaire internationale(EPI) sahloul,sousse,tunis
+
+De mai 2020 à juin 2020
+
+projet gestion des annonces immobilières avec laravel:Simple CRUD
+
+Projet de fin d'etude / Diginov Sahloul,Sousse,Tunis
+
+De mai 2018 à juin 2018
+
+SysAdmin(Mise en place d’une solution d’intégration continue avec gitlab ).Réaliser une
+solution d'intégration continue
+
+Projet technicien en réseau informatique / Tunisie telecome Moknine,Monastir,Tunis
+
+De janvier 2017 à février 2017
+
+Gestion des clients avec java :Simple CRUD
+
+projet d'initiation / MATISS khnis,monastir,tunis
+
+De janvier 2015 à février 2015
+
+Production des bases de données documentaires et électroniques et la valorisation
+del'information au sein des organisations, entreprises et administrations
+
+Autre projet / EPI sahloul,sousse,tunis
+
+Depuis 2018
+
+.Projet Android: Gestion de formulaire d'un client pour prendre un vol.Projet Angular:
+*Authentification d'un simple user
+.Projet Intelligence artificielle(python):Application intelligente pour l’aide à la décision
+dédiée pour les médecins
+.Projet ionic:Simple crud en utilisant Firebase
+
+Diplômes et Formations
+
+Ingénierie en génie logiciel / EPI sousse sahloul,sousse,tunis
+
+De 2018 à 2021
+
+Licence en Réseau Informatique / iset sousse riadh,monastir,sousse
+
+De 2014 à 2018
+
+Bac Informatique / Lycée Secondaire de Sayada sayada,monasti,tunis
+
+De 2011 à 2014
+
+Compétences
+
+Langage de Programmation: Javascript,Java,Php7,PL-
+SQL,HTML5,CSS,C#,C++,RESTAPI,Ionic,Android,JEE,React js,IOS,.NET
+
+Framework de Développement: Laravel,Symfony,Vuejs,Angular,React js,Node js
+
+IDE: Visual studio , Visual code, Microsoft Visual Studio, Postman, Eclipse, Netbeans,
+Packettracer,VirtualBox,Prolog,Power Amc
+
+Méthodologie & Modélisation de Développement: Scrum,Uml,Processus
+Unifié,DesignPattern
+
+Langues
+
+Arabe
+
+Français
+
+Anglais
+
+Espagnol
+
+Niveau scolaire
+
+Centres d'intérêt
+
+Dance
+
+Musique
+
+Tennis
+
+Lecture
+
+raghdajd13@gmail.com
+rue Carthage sayada 5035
+Née le 17/01/1995
+sayada,monastir,tunis
+50314831
+
+@Raghda jellad
+
+mailto:raghdajd13@gmail.com
+https://www.linkedin.com/in/Raghda%20jellad
+
+
+cleaned_text: raghda jellad ingenieur web experiences professionnelles projet stage ete arsii sfax tunisie septembre 2020 octobre 2020 site e commerce arsii utilisant react js comme frontend node js comme backend projet fin annee ecole pluridisciplinaire internationale epi sahloul sousse tunis mai 2020 juin 2020 projet gestion annonces immobilieres laravel simple crud projet fin etude diginov sahloul sousse tunis mai 2018 juin 2018 sysadmin mise place solution integration continue gitlab realiser solution integration continue projet technicien reseau informatique tunisie telecome moknine monastir tunis janvier 2017 fevrier 2017 gestion clients java simple crud projet initiation matiss khnis monastir tunis janvier 2015 fevrier 2015 production bases donnees documentaires electroniques valorisation del information sein organisations entreprises administrations autre projet epi sahloul sousse tunis depuis 2018 projet android gestion formulaire client prendre vol projet angular authentification simple user projet intelligence artificielle python application intelligente aide decision dediee medecins projet ionic simple crud utilisant firebase diplomes formations ingenierie genie logiciel epi sousse sahloul sousse tunis 2018 2021 licence reseau informatique iset sousse riadh monastir sousse 2014 2018 bac informatique lycee secondaire sayada sayada monasti tunis 2011 2014 competences langage programmation javascript java php7 pl sql html5 css restapi ionic android jee react js ios net framework developpement laravel symfony vuejs angular react js node js ide visual studio visual code microsoft visual studio postman eclipse netbeans packettracer virtualbox prolog power amc methodologie modelisation developpement scrum uml processus unifie designpattern langues arabe francais anglais espagnol niveau scolaire centres interet dance musique tennis lecture raghdajd13 gmail com rue carthage sayada 5035 nee 17 01 1995 sayada monastir tunis 50314831 raghda jellad mailto raghdajd13 gmail com https www linkedin com raghda 20jellad
+mobile_number: 5031483
+email: raghdajd13@gmail.com
+skills: ['Js', 'Javascript', 'Android', 'Sql', 'Scrum', 'Visual', 'Java']
+skills_text: Js Javascript Android Sql Scrum Visual Java
+Category: IT

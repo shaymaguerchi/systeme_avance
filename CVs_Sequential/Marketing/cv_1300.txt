@@ -1,0 +1,12 @@
+=== CV 1300 ===
+text: Thomas Macdonald DVM - CV
+
+Guy some learn final. Effect wonder free trial green soldier. Make growth today laugh attack. Special participant realize hair local. Age technology imagine name address bad respond. Goal choice person task nature.
+
+720 Marcus Station, Josephbury, ND 72397
+cleaned_text: thomas macdonald dvm - cv guy some learn final. effect wonder free trial green soldier. make growth today laugh attack. special participant realize hair local. age technology imagine name address bad respond. goal choice person task nature. 720 marcus station, josephbury, nd 72397
+mobile_number: 750-000-6478x2184
+email: amy01@yahoo.com
+skills: ['Talend', 'PHP', 'CSS', 'HTML']
+skills_text: Talend PHP CSS HTML
+Category: Marketing

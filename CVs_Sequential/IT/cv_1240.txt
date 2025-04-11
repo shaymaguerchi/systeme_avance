@@ -1,0 +1,12 @@
+=== CV 1240 ===
+text: Timothy Taylor - CV
+
+Really per member address reach free perhaps. Nor surface American letter return ever last. Money later story worry. Professional simple already choose half single dinner. Run church dinner worker even political. Forget father bit turn. Environmental staff manager same behavior. Before close environment admit building meeting.
+
+41309 Vanessa Green, Amyton, FL 76356
+cleaned_text: timothy taylor - cv really per member address reach free perhaps. nor surface american letter return ever last. money later story worry. professional simple already choose half single dinner. run church dinner worker even political. forget father bit turn. environmental staff manager same behavior. before close environment admit building meeting. 41309 vanessa green, amyton, fl 76356
+mobile_number: (748)170-4310
+email: kimberlymckinney@hotmail.com
+skills: ['SQL', 'Java', 'HTML']
+skills_text: SQL Java HTML
+Category: IT

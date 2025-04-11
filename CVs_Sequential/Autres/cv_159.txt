@@ -1,0 +1,50 @@
+=== CV 159 ===
+text: 
+
+
+
+
+
+
+
+Curriculum vitae
+
+
+Informations personnels : 
+Nom : Mtimet 
+Prénom : Radhwen 
+Date de naissance : 08/09/1999 
+Lieu de naissance : Tunis 
+Situation familiale : célibataire 
+Adresse : TUNIS , BARDO 
+N° Tel : 54003506 
+Adresse Email : Radhouane.chikh16@gmail.com 
+Ma formation :
+Baccalauréat lettres 2018 principale mention passable 
+Licence universitaire section philosophie mention bien 
+Formation en informatique 2017 
+Formation en bijouterie 2014(vente et achat) 
+Formation en langue française B2 2019   
+Bon niveau en anglais (pratique) 
+Permis de conduire : catégorie A1/B/D/D1/H
+Vie Associative et sport : 
+Active dans club : Cartago Re-art
+Active dans association : Zarzis Alghalia
+Un ancien joueur dans espérance sport de Zarzis 
+ 
+
+
+ 
+ 
+
+    
+
+
+
+
+cleaned_text: curriculum vitae informations personnels nom mtimet prenom radhwen date naissance 08 09 1999 lieu naissance tunis situation familiale celibataire adresse tunis bardo ndeg tel 54003506 adresse email radhouane chikh16 gmail com formation baccalaureat lettres 2018 principale mention passable licence universitaire section philosophie mention bien formation informatique 2017 formation bijouterie 2014 vente achat formation langue francaise b2 2019 bon niveau anglais pratique permis conduire categorie a1 b d1 h vie associative sport active club cartago art active association zarzis alghalia ancien joueur esperance sport zarzis
+mobile_number: 5400350
+email: Radhouane.chikh16@gmail.com
+skills: ['Email']
+skills_text: Email
+Category: Autres

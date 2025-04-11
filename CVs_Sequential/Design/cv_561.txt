@@ -1,0 +1,8 @@
+=== CV 561 ===
+text: Mohamed Moreau
+cleaned_text: mohamed moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 78588243
+email: mohamed.moreau@example.com
+skills: ['Marketing', 'Python', 'Linux', 'Management']
+skills_text: Marketing Python Linux Management
+Category: Design

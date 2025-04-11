@@ -1,0 +1,8 @@
+=== CV 438 ===
+text: Ahmed Dupont
+cleaned_text: ahmed dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 92119360
+email: ahmed.dupont@example.com
+skills: ['Finance', 'Marketing', 'SQL']
+skills_text: Finance Marketing SQL
+Category: Finance

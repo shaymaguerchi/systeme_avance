@@ -1,0 +1,8 @@
+=== CV 661 ===
+text: Fatima Lambert
+cleaned_text: fatima lambert cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 98605481
+email: fatima.lambert@example.com
+skills: ['C++', 'Python', 'SQL', 'Java']
+skills_text: C++ Python SQL Java
+Category: IT

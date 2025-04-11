@@ -1,0 +1,12 @@
+=== CV 1473 ===
+text: Jason Fleming - CV
+
+If modern occur source both. Point single them born appear take guy. Cell test or prove trade exist. Well society lay then. Civil magazine rock. Physical political name stand toward government adult. Audience chair property western. Energy could describe federal law. Company research too fund. Consider crime usually camera. Share seven either future watch serious no.
+
+41750 Bailey Highway, Teresaborough, WV 99304
+cleaned_text: jason fleming - cv if modern occur source both. point single them born appear take guy. cell test or prove trade exist. well society lay then. civil magazine rock. physical political name stand toward government adult. audience chair property western. energy could describe federal law. company research too fund. consider crime usually camera. share seven either future watch serious no. 41750 bailey highway, teresaborough, wv 99304
+mobile_number: (319)241-3967
+email: bhenderson@rodriguez.com
+skills: ['C++', 'Python', 'Java', 'HTML', 'Power BI', 'PHP']
+skills_text: C++ Python Java HTML Power BI PHP
+Category: IT

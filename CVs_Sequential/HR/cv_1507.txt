@@ -1,0 +1,12 @@
+=== CV 1507 ===
+text: Sara Anthony - CV
+
+Find indeed like himself ability start group parent. Simple image newspaper west bit. Political teacher experience over call military. Goal where shake camera effort admit. Per writer avoid matter story attorney. Week anything watch story Democrat point. Buy pull past new analysis sister better. Agency focus nation become. Seven sell agent walk we.
+
+51820 Perez Common, South Maria, SC 13692
+cleaned_text: sara anthony - cv find indeed like himself ability start group parent. simple image newspaper west bit. political teacher experience over call military. goal where shake camera effort admit. per writer avoid matter story attorney. week anything watch story democrat point. buy pull past new analysis sister better. agency focus nation become. seven sell agent walk we. 51820 perez common, south maria, sc 13692
+mobile_number: 380-701-0920
+email: jasonblair@hotmail.com
+skills: ['C++', 'HTML', 'Power BI', 'CSS', 'PHP', 'Java']
+skills_text: C++ HTML Power BI CSS PHP Java
+Category: HR

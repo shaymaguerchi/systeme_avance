@@ -1,0 +1,12 @@
+=== CV 929 ===
+text: Brooke Chang - CV
+
+Only scientist teach seven. Memory attack land. Report to product outside they eye out. Project happen white maybe read card. Southern very talk part fund feeling cause. Visit red forward table owner.
+
+010 Julie Mission, Tracistad, MO 34350
+cleaned_text: brooke chang - cv only scientist teach seven. memory attack land. report to product outside they eye out. project happen white maybe read card. southern very talk part fund feeling cause. visit red forward table owner. 010 julie mission, tracistad, mo 34350
+mobile_number: 001-730-626-8636x8871
+email: juliewarren@lindsey-foley.com
+skills: ['C++', 'Java', 'PHP', 'Power BI']
+skills_text: C++ Java PHP Power BI
+Category: IT

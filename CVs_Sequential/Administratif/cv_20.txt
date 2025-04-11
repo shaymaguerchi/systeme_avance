@@ -1,0 +1,204 @@
+=== CV 20 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+  
+
+2020        Diplôme Brevet de Technicien   Professionnelle 
+              En Préparateur Laboratoire 
+
+ 
+
+2017        Niveau Bac Science Expérimentale 
+
+FORMATION 
+
+ 
+
+ 
+
+Excel 
+
+PowerPoint 
+
+Word 
+
+ 
+
+ 
+
+LANGUES 
+
+ Arabe 
+
+ Français 
+
+ Anglais 
+
+ Rania 
+
+  
+
+ 
+
+LOGICIELS 
+
+ 
+
+Haj Hassine 
+ 
+ 
+
+EXPERIENCE PROFESSIONNELLE 
+
+ 
+
+ INSTITUT NATIONAL DE NEUROLOGIE 
+
+MONGIE BEN HMIDA  
+
+Poste occupé : 
+
+ Prélèvement (Avril 2018) 
+
+ Paillasse Hématologie Mai 2018 
+
+septembre  2018) 
+
+ 
+
+ Biochimie (Mars 2019- Avril 2020) 
+
+ 
+ Bactériologie (Février 2020) 
+
+ 
+
+ Paillasse Hématologie (Août 2020 
+
+Septembre 2020) 
+
+ 
+
+ 
+
+ Polivalente 
+
+ Positive 
+
+ Aimable 
+
+ Esprit comercial   
+
+ Sociable  
+
+ Ponctuelle  
+
+ Responsable 
+
+ 
+
+MON PROFIL 
+
+ 
+
+Hadjhacinerania@gmail.com 
+ 
++21653132488 
+
+ Cité Korbi Zahrouni  -CP 2051- Tunis  Du 2018-Au 2020 
+ 
+
+ 
+
+Centre d’intérêts: 
+
+ 
+ Sport 
+
+ théatre 
+
+ Cinéma 
+
+ 
+
+ 
+
+ 
+
+
+
+cleaned_text: 2020 diplome brevet technicien professionnelle preparateur laboratoire 2017 niveau bac science experimentale formation excel powerpoint word langues arabe francais anglais rania logiciels haj hassine experience professionnelle institut national neurologie mongie ben hmida poste occupe prelevement avril 2018 paillasse hematologie mai 2018 septembre 2018 biochimie mars 2019 avril 2020 bacteriologie fevrier 2020 paillasse hematologie aout 2020 septembre 2020 polivalente positive aimable esprit comercial sociable ponctuelle responsable profil hadjhacinerania gmail com 21653132488 cite korbi zahrouni cp 2051 tunis 2018 2020 centre interets sport theatre cinema
+mobile_number: 2165313248
+email: Hadjhacinerania@gmail.com
+skills: ['Powerpoint', 'Excel', 'Word']
+skills_text: Powerpoint Excel Word
+Category: Administratif

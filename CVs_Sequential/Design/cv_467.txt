@@ -1,0 +1,8 @@
+=== CV 467 ===
+text: Sophie Ben Ali
+cleaned_text: sophie ben ali cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 42321088
+email: sophie.ben ali@example.com
+skills: ['HTML', 'Python', 'Marketing']
+skills_text: HTML Python Marketing
+Category: Design

@@ -1,0 +1,129 @@
+=== CV 76 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mars-2021 - Juillet-2021
+
+Mars-2020 - Janvier-2021
+
+Avril-2018 - Février-2020
+
+Juin-2017 - Mars-2018
+
+-
+
+2015-2016
+
+2013-2014
+
+Brahmi Jihen
+Tunis Centre urbain nord 1082 
+
+96308555 | jahounabrahmi@gmail.com
+ 
+
+Objectif
+
+Travailler dans un environnement qui m'encourage à réussir et à évoluer professionnellement, où je peux utiliser
+mes compétences et mes connaissances de manière appropriée. Je suis dynamique, organisée, à l'écoute des
+autres, possédant l'esprit d'équipe.
+
+Expérience Professionnelle
+
+Aptiv (Mjez Elbeb)
+secrétaire
+Tâches: 
+Gérer les appels téléphoniques.
+Gérer l'agenda. 
+Renseigner. 
+
+IJH call centre (Jean D'arc)
+Télévendeuse
+Vente de l'assurance santé et prévoyance. 
+
+IJH call centre
+Téléconseillere
+prise des Rendez-vous des panneaux photovoltaïques et aérovoltaïque.
+
+Perfect call centre (Monplaisir)
+Téléconseillere
+Prise de rendez vous mutuelle santé 
+
+Cesar call centre
+Téléopératrice
+Voyance.
+Émission et réception des appels. 
+
+Éducation
+
+Université Centrale
+Anesthésie et réanimation 
+
+Lycée Ibn Mandhour Beja
+Baccalauréat en sciences expérimentales 
+
+Compétences
+
+Sens de la communication.
+
+Capacité d'adaptation.
+
+Travail en équipe
+
+Curiosité
+
+Autonomie
+
+Intérêts
+
+La musique
+
+Le sport
+
+Bénévole dans une association
+
+
+
+cleaned_text: mars 2021 juillet 2021 mars 2020 janvier 2021 avril 2018 fevrier 2020 juin 2017 mars 2018 2015 2016 2013 2014 brahmi jihen tunis centre urbain nord 1082 96308555 jahounabrahmi gmail com objectif travailler environnement encourage reussir evoluer professionnellement peux utiliser competences connaissances maniere appropriee dynamique organisee ecoute autres possedant esprit equipe experience professionnelle aptiv mjez elbeb secretaire taches gerer appels telephoniques gerer agenda renseigner ijh call centre jean arc televendeuse vente assurance sante prevoyance ijh call centre teleconseillere prise rendez panneaux photovoltaiques aerovoltaique perfect call centre monplaisir teleconseillere prise rendez mutuelle sante cesar call centre teleoperatrice voyance emission reception appels education universite centrale anesthesie reanimation lycee ibn mandhour beja baccalaureat sciences experimentales competences sens communication capacite adaptation travail equipe curiosite autonomie interets musique sport benevole association
+mobile_number: 082 9630855
+email: jahounabrahmi@gmail.com
+skills: ['Communication']
+skills_text: Communication
+Category: Production

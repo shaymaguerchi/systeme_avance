@@ -1,0 +1,12 @@
+=== CV 1394 ===
+text: John Alvarez - CV
+
+Population fish medical chair matter unit own. Mr necessary prevent skin draw herself. Law major gun blue health. Challenge real future establish suggest same tell. Development laugh goal pull. Position involve east rich worry their. Over keep establish.
+
+8740 Lauren Trail Suite 978, West Timothyfurt, AR 85406
+cleaned_text: john alvarez - cv population fish medical chair matter unit own. mr necessary prevent skin draw herself. law major gun blue health. challenge real future establish suggest same tell. development laugh goal pull. position involve east rich worry their. over keep establish. 8740 lauren trail suite 978, west timothyfurt, ar 85406
+mobile_number: +1-705-706-9511x2030
+email: james59@gmail.com
+skills: ['PHP', 'C++', 'JavaScript', 'CSS', 'SQL']
+skills_text: PHP C++ JavaScript CSS SQL
+Category: HR

@@ -1,0 +1,8 @@
+=== CV 766 ===
+text: Sophie Boussaid
+cleaned_text: sophie boussaid cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 80728426
+email: sophie.boussaid@example.com
+skills: ['Adobe', 'Windows', 'CSS']
+skills_text: Adobe Windows CSS
+Category: Administration

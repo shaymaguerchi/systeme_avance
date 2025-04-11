@@ -1,0 +1,271 @@
+=== CV 406 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+                                                                                   
+
+ 
+
+ 
+
+ 
+
+                                                                            
+
+ 
+
+ 
+
+ 
+
+Nessrine MAHJOUB 
+Élève ingénieur en  2ème année 
+
+Génie Télécommunications 
+embarquées 
+
+À la recherche d’un stage ingénieur   
+
+Détails personnels 
+
+Excel 
+
+CRM 
+
+LANGUES 
+
+Ecole Nationale d'ingénieurs de sousse 
+
+ 
+
+Ingénieur en Génie Télécommunications embarquées                     2019-présent 
+
+ 
+
+Formation 
+
+ Français :Bilingue 
+
+ Anglais :Bien 
+
+ Espagnol: Moyen 
+
+Une plateforme destinée aux entreprises afin de les accompagner 
+dans le pilotage et le calcul des différents indicateurs de performances  
+
+ 
+
+ JEM : 
+ 
+
+Technologies : Angular et Laravel 
+
+- Feb. 2018 
+
+Développement Web 
+
+Angular , Html , CSS, JavaScript ,Wordpress 
+
+28232595 
+
+ 
+
+347 Rue Pakistan, Sahloul 1   
+
+Nessrine MAHJOUB 
+
+ 
+
+nessrine.mahjoub@eniso.u-sousse.tn 
+
+ 
+
+Centre d'intérêt 
+
+ Programmation 
+
+ Musique 
+
+ Sport 
+
+Cycle préparatoire Maths-Physique 2017-2019 
+
+ L’Ecole Supérieure des Sciences et de la Technologie de Hammam 
+
+Sousse   Baccalauréat Mathématiques 2017 
+
+ 
+Lycée Othman Chatti   
+
+Expérience professionnelle  
+
+Stage d'initiation effectué au sein  la société e-SAAD 
+
+juil.2020-août 2020 
+
+ Développement d'une application mobile CosyTable 
+
+ Application de gestion de reservations des restaurants 
+
+ Développement d'une interface utilisateur avec React Native 
+
+Projets 
+
+ Royal Golf Tunisia :  
+ Développement d'un site Web e-commerce 
+
+ Projet IoT :  
+ Systéme embarquée IoT  de détection de température et 
+
+humidité puis visualitation des données sur cloud . 
+
+Compétences 
+
+Développement Mobile 
+
+Android , React Native   
+
+Langage de programmation 
+
+Java , C , C++, Python , Kotlin ,Langage VHDL, systéme 
+
+embarquée (Raspberry) 
+
+Logiciel 
+Matlab ,  Cisco Packet Tracer, Wireshark 
+
+Savoir-faire 
+Compétences organisationnelles (Leadership, Respect des 
+
+engagements, Gestion Multi-projets, planning et suivi des projets), 
+
+Autonomie et Créativité 
+Vie Associative 
+
+ Junior Entreprise Eniso (2019) 
+ -Business Unit Manager : Gestion de l'équipe  et répartition  des tâches 
+
+-Team Leader : Encadrement des membres dans le lancement d’une 
+startup. 
+-Organisation de la « Journée de l’Entrepreneur 6.0»  . 
+
+ 
+
+ Preventsy : 
+ *Un modéle Machine Learning qui prédit la maladie à travers les 
+symptôme entrés par l’utilisateur . 
+
+ *Le deploiment du modéle  sur une interface (page web )   
+
+Machine Learning  
+
+Pandas , SciKit Learn , Numpy , Regression , Classification , 
+
+Clustering , Natural Language Procesing  
+
+Certificats  
+
+ Intro to Machine Learning : Kaggle  
+
+ Machine Learning A-Z : Hands-On 
+
+Python In Data Science : Udemy  
+
+ Artificial Intelligence Intro : IBM 
+
+Mots clés  : KNN , DecisionTree , Django  
+
+- Feb. 2018 
+
+
+
+cleaned_text: nessrine mahjoub eleve ingenieur 2eme annee genie telecommunications embarquees recherche stage ingenieur details personnels excel crm langues ecole nationale ingenieurs sousse ingenieur genie telecommunications embarquees 2019 present formation francais bilingue anglais bien espagnol moyen plateforme destinee entreprises afin accompagner pilotage calcul differents indicateurs performances jem technologies angular laravel feb 2018 developpement web angular html css javascript wordpress 28232595 347 rue pakistan sahloul 1 nessrine mahjoub nessrine mahjoub eniso u sousse tn centre interet programmation musique sport cycle preparatoire maths physique 2017 2019 ecole superieure sciences technologie hammam sousse baccalaureat mathematiques 2017 lycee othman chatti experience professionnelle stage initiation effectue sein societe e saad juil 2020 aout 2020 developpement application mobile cosytable application gestion reservations restaurants developpement interface utilisateur react native projets royal golf tunisia developpement site web e commerce projet iot systeme embarquee iot detection temperature humidite puis visualitation donnees cloud competences developpement mobile android react native langage programmation java python kotlin langage vhdl systeme embarquee raspberry logiciel matlab cisco packet tracer wireshark savoir faire competences organisationnelles leadership respect engagements gestion multi projets planning suivi projets autonomie creativite vie associative junior entreprise eniso 2019 business unit manager gestion equipe repartition taches team leader encadrement membres lancement startup organisation journee entrepreneur 6 0 preventsy modele machine learning predit maladie travers symptome entres utilisateur deploiment modele interface page web machine learning pandas scikit learn numpy regression classification clustering natural language procesing certificats intro machine learning kaggle machine learning z hands python data science udemy artificial intelligence intro ibm mots cles knn decisiontree django feb 2018
+mobile_number: 017-2019
+email: nessrine.mahjoub@eniso.u-sousse.tn
+skills: ['Ibm', 'Excel', 'Numpy', 'Android', 'Mobile', 'Html', 'Cloud', 'C++', 'Crm', 'Javascript', 'Matlab', 'Django', 'Css', 'Wordpress', 'Startup', 'Pandas', 'Python', 'Machine learning', 'C', 'Java', 'Cisco']
+skills_text: Ibm Excel Numpy Android Mobile Html Cloud C++ Crm Javascript Matlab Django Css Wordpress Startup Pandas Python Machine learning C Java Cisco
+Category: IT

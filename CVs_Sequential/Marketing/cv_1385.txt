@@ -1,0 +1,12 @@
+=== CV 1385 ===
+text: Tiffany Estrada - CV
+
+Start really benefit risk. Arrive space inside top. Begin future Mr benefit. Character eat expect every candidate shake. Many weight government south detail energy somebody. Little establish four sea. Country special among these.
+
+97837 Ballard Estate Suite 519, Lake Kimberly, DC 64250
+cleaned_text: tiffany estrada - cv start really benefit risk. arrive space inside top. begin future mr benefit. character eat expect every candidate shake. many weight government south detail energy somebody. little establish four sea. country special among these. 97837 ballard estate suite 519, lake kimberly, dc 64250
+mobile_number: 684-069-6644x8204
+email: kcarpenter@gmail.com
+skills: ['Python', 'CSS', 'PHP', 'HTML', 'Power BI']
+skills_text: Python CSS PHP HTML Power BI
+Category: Marketing

@@ -1,0 +1,204 @@
+=== CV 391 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modele CV - SImple BASIQUE
+
+
+EYA BEN AJJEL
+Ingénieur en Électronique
+
+Industrielle
+Systèmes embarqués
+
+COMPÉTENCES
+
+CENTRES D’INTÉRÊT
+
++216 92 663 352
+
+benajjeleya2@gmail.com
+
+Kalaa Sghira, Sousse, Tunisie
+
+linkedin.com/in/eyabenajjel
+
+▪ Photographie
+
+▪ Sport
+
+Stage de fin d’études 
+Safran Tunisie  |  Avril 2021 – Septembre 2021 ( 6 mois)
+
+▪ Réalisation d’un système d’inspection des défauts du produit à l’aide 
+d’une caméra industrielle en développant un algorithme de détection 
+basé sur les CNN. Les résultats sont stockés dans une base de 
+données et affichés sur une interface de supervision.
+
+Mots clés : Python, VS Code, SQL, PhpMyAdmin, Tkinter, LabVIEW, Vision 
+par ordinateur, Détection d’objets, tracking temps réel
+
+Stage Ingénieur 
+MakerLab |  Août 2020 – Septembre 2020 (2 mois)
+
+▪ Développement d'une solution IOT ( un traqueur d’automobile ) basé 
+sur un microcontrôleur AVR, un module GPS basé sur la norme GPRS
+
+Mots clés : C, KiCad, ATmega328p, GPS, GPRS, Développement 
+Embarqué, Protocoles de Communication
+
+Stage d'initiation 
+SEA Group  |  Juillet 2019 ( 1 mois )
+
+▪ Conception et Réalisation d'une armoire électrique
+▪ Programmation d'une automate (TIA PORTAL)
+Mots clés : Conception électrique, EPLAN, TIA PORTAL
+
+EXPÉRIENCES PROFESSIONNELLES
+
+Logiciels de conception et simulation : 
+KiCad, EAGLE, EPLAN, LABVIEW
+
+Langage de programmation : C, C++, 
+Python, VHDL, SQL
+
+Automatisation : Tia Portal 
+
+Modélisation : UML
+
+Dynamique, autonome, curieuse et 
+passionnée par les nouvelles 
+technologies. Motivée pour avoir des 
+nouveaux défis et pour assurer mon 
+développement personnel et 
+professionnel.
+
+Outils de développement : Visual Studio 
+Code, ISE Design, Matlab Simulink, Xilinx
+
+Protocoles de Communication : UART, 
+I2C, SPI, CAN, LIN, MODBUS
+
+Cartes électroniques : Arduino,  
+Raspberry, FPGA, STM32
+
+Intelligence Artificielle : Machine 
+Learning, Deep Learning, CNN
+
+PROJETS
+
+2018 – 2021 | Cycle d’ingénieur en électronique industrielle
+École Nationale d’Ingénieur de Sousse
+
+FORMATION
+
+2016 – 2018 | Cycle préparatoire aux études d’ingénieur 
+Institut préparatoire aux études d’ingénieur de Monastir
+
+2016 | Baccalauréat en sciences techniques 
+Lycée 2 Mars 1934 Sousse
+
+Prototype d’une maison intelligente (2019)
+
+▪ Réalisation d’un prototype d'une maison intelligente à base des 
+microcontrôleurs et commandé par une interface sous Matlab
+
+Mots clés : Arduino, Matlab, C
+
+Carte de développement contrôle de température (2019)
+
+▪ Conception d’une carte électronique basée sur un µc PIC, permettant 
+la mesure et l’affichage en temps réel la température et le stockage 
+des valeurs sur une carte SD.
+
+Mots clés : Conception électronique, Pic16F877A, ISIS, C
+
+Système de vérification de présence des étudiants (2020)
+
+▪ Développement d’un algorithme en utilisant la reconnaissance faciale 
+et  les résultats sont envoyés vers une plateforme IOT.
+
+Mots clés : Python, Open CV, RaspberryPi3, Ubidots
+
+ACTIVITES ASSOCIATIVES
+
+Institute of Electrical and Electronic Engineers (IEEE) | Membre
+IEEE Robotics and Automation Society ENISo | Présidente
+Forum de Convergence des Entreprises ENISo 8' et 9'  édition |
+Organisatrice / Superviseur Stand
+
+Serre connecté (2021)
+
+▪ Réalisation d’un prototype intégrant une solution IOT qui permet 
+d’étudier les paramètres environnementaux de la serre, les envoyer à 
+un serveur distant et les afficher sur une application Android Cayenne
+
+Mots clés : Python, C , Raspberry, Intelligence Artificielle, IOT
+
+LANGUES
+
+▪ Arabe (Natale)
+
+▪ Français (Courant)
+
+▪ Anglais (Courant)
+
+
+
+cleaned_text: modele cv simple basique eya ben ajjel ingenieur electronique industrielle systemes embarques competences centres interet 216 92 663 352 benajjeleya2 gmail com kalaa sghira sousse tunisie linkedin com eyabenajjel photographie sport stage fin etudes safran tunisie avril 2021 septembre 2021 6 mois realisation systeme inspection defauts produit aide camera industrielle developpant algorithme detection base cnn resultats stockes base donnees affiches interface supervision mots cles python vs code sql phpmyadmin tkinter labview vision ordinateur detection objets tracking temps reel stage ingenieur makerlab aout 2020 septembre 2020 2 mois developpement solution iot traqueur automobile base microcontroleur avr module gps base norme gprs mots cles kicad atmega328p gps gprs developpement embarque protocoles communication stage initiation sea group juillet 2019 1 mois conception realisation armoire electrique programmation automate tia portal mots cles conception electrique eplan tia portal experiences professionnelles logiciels conception simulation kicad eagle eplan labview langage programmation python vhdl sql automatisation tia portal modelisation uml dynamique autonome curieuse passionnee nouvelles technologies motivee avoir nouveaux defis assurer developpement personnel professionnel outils developpement visual studio code ise design matlab simulink xilinx protocoles communication uart i2c spi lin modbus cartes electroniques arduino raspberry fpga stm32 intelligence artificielle machine learning deep learning cnn projets 2018 2021 cycle ingenieur electronique industrielle ecole nationale ingenieur sousse formation 2016 2018 cycle preparatoire etudes ingenieur institut preparatoire etudes ingenieur monastir 2016 baccalaureat sciences techniques lycee 2 mars 1934 sousse prototype maison intelligente 2019 realisation prototype maison intelligente base microcontroleurs commande interface sous matlab mots cles arduino matlab carte developpement controle temperature 2019 conception carte electronique basee uc pic permettant mesure affichage temps reel temperature stockage valeurs carte sd mots cles conception electronique pic16f877a isis systeme verification presence etudiants 2020 developpement algorithme utilisant reconnaissance faciale resultats envoyes vers plateforme iot mots cles python open cv raspberrypi3 ubidots activites associatives institute electrical electronic engineers ieee membre ieee robotics automation society eniso presidente forum convergence entreprises eniso 8 9 edition organisatrice superviseur stand serre connecte 2021 realisation prototype integrant solution iot permet etudier parametres environnementaux serre envoyer serveur distant afficher application android cayenne mots cles python raspberry intelligence artificielle iot langues arabe natale francais courant anglais courant
+mobile_number: 0
+email: benajjeleya2@gmail.com
+skills: ['Communication', 'Matlab', 'Android', 'Sql', 'Automation', 'Python', 'Prototype', 'Machine learning', 'C', 'C++', 'Visual', 'Design', 'Electrical', 'Tkinter']
+skills_text: Communication Matlab Android Sql Automation Python Prototype Machine learning C C++ Visual Design Electrical Tkinter
+Category: IT

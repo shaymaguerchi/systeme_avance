@@ -1,0 +1,150 @@
+=== CV 362 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Microsoft PowerPoint - NV.pptx
+
+
+Tay s s i r B ouhd i d a
+E t u d i a n t e  e n  M 2  b i g  d a t a  i n  E - c o m m e r c e
+
+FORMATION
+
+2018 - 2020
+Mastère en Big Data en E-commerce
+
+2015 - 2018
+Licence appliqué en technologie de 
+l’information à l’IHEC Carthage. 
+
+2015 - 2016       
+
+Actuellement je suis une étudiante en M2 en big data in E-commerce , je 
+suis  titulaire d'une licence en informatique de gestion à l’IHEC Carthage .
+J’ai acquis de solides compétences dans le domaine et je suis à la 
+recherche d’un stage de fin d’étude pendant 6 mois.
+
+Janvier - Mai (5mois)
+
+• Enterprise:   AIVENTU lac1
+• Poste: Stagiaire
+• Affectation: Servicie Informatique
+• Outil de travail : MVC et C #
+
+Aout 2017(1 mois)
+
+Rue Mohamed elkhames Ras Jebel Bizerte
+
+(+216) 21850407
+
+bouhdidataysir@gmail.com
+
+Tayssir Bouhdida
+
+A propos de moi
+
+EXEPERIENCE PROFESIONNELLES
+
+2015 - 2016       
+Baccalauréat  Economie & gestion
+
+COMPETENCES
+
+ Java
+ Angular
+ Python
+ Html
+ Css
+ JavaScript
+ Spark
+ Hive
+ Pig
+ Scala
+ My SQL
+ MongoDB
+ UML
+ SCRUM
+
+• Enterprise:  ATB
+• Poste: Stagiaire
+• Affectation:  Guichet
+
+Juillet 2017(1 mois)
+
+• Enterprise: Denim Authority
+• Poste: Stagiaire
+• Affectation: Servicie Informatique
+• Outil de travail :  wamp Server et Sublime text
+
+Juin 2016(1 mois)
+
+• Enterprise: Denim Authority
+• Poste:   Stagiaire
+• Affectation: Service Financier
+• Outil de travail :  DIVALTO
+
+ Pycharm
+Wamp server
+ Visual studio code
+ Eclipse                     
+ Code blocks
+ Nodepad++
+ Sublime text
+
+Outils
+
+Langues
+
+Arabe     Français   Anglais   Espagnol
+
+Centres d’interets
+
+Lecture    Dessin    Recherche Cuisine   
+
+
+
+cleaned_text: microsoft powerpoint nv pptx tay r b ouhd e u e e 2 b g e e r e formation 2018 2020 mastere big data e commerce 2015 2018 licence applique technologie information ihec carthage 2015 2016 actuellement etudiante m2 big data e commerce titulaire licence informatique gestion ihec carthage acquis solides competences domaine recherche stage fin etude pendant 6 mois janvier mai 5mois enterprise aiventu lac1 poste stagiaire affectation servicie informatique outil travail mvc aout 2017 1 mois rue mohamed elkhames ras jebel bizerte 216 21850407 bouhdidataysir gmail com tayssir bouhdida propos exeperience profesionnelles 2015 2016 baccalaureat economie gestion competences java angular python html css javascript spark hive pig scala sql mongodb uml scrum enterprise atb poste stagiaire affectation guichet juillet 2017 1 mois enterprise denim authority poste stagiaire affectation servicie informatique outil travail wamp server sublime text juin 2016 1 mois enterprise denim authority poste stagiaire affectation service financier outil travail divalto pycharm wamp server visual studio code eclipse code blocks nodepad sublime text outils langues arabe francais anglais espagnol centres interets lecture dessin recherche cuisine
+mobile_number: 2185040
+email: bouhdidataysir@gmail.com
+skills: ['Big data', 'Javascript', 'Html', 'Sql', 'E-commerce', 'Python', 'R', 'Css', 'Scala', 'Scrum', 'Sublime', 'Cuisine', 'Spark', 'C', 'Hive', 'Visual', 'Java', 'Pycharm']
+skills_text: Big data Javascript Html Sql E-commerce Python R Css Scala Scrum Sublime Cuisine Spark C Hive Visual Java Pycharm
+Category: IT

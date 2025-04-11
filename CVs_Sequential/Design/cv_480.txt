@@ -1,0 +1,8 @@
+=== CV 480 ===
+text: Fatima Boussaid
+cleaned_text: fatima boussaid cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 70780194
+email: fatima.boussaid@example.com
+skills: ['Finance', 'CSS', 'Windows']
+skills_text: Finance CSS Windows
+Category: Design

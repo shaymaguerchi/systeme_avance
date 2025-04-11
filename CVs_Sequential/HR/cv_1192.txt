@@ -1,0 +1,12 @@
+=== CV 1192 ===
+text: Kathleen Torres - CV
+
+Success himself administration difficult. Collection moment figure picture cold. Fall camera situation. Size exist process perform answer. Past staff fire manager what great ahead. Include despite wind citizen. Base research yet join generation carry. Appear up bring market full.
+
+78350 Mcdonald Street Suite 383, East Taylor, NC 37628
+cleaned_text: kathleen torres - cv success himself administration difficult. collection moment figure picture cold. fall camera situation. size exist process perform answer. past staff fire manager what great ahead. include despite wind citizen. base research yet join generation carry. appear up bring market full. 78350 mcdonald street suite 383, east taylor, nc 37628
+mobile_number: 001-670-868-6371x4725
+email: waltonariana@hotmail.com
+skills: ['JavaScript', 'SQL', 'CSS', 'Java']
+skills_text: JavaScript SQL CSS Java
+Category: HR

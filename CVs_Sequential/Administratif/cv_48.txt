@@ -1,0 +1,210 @@
+=== CV 48 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+ 
+
+ 
+
+COMPETENCES 
+ 
+ Réseaux informatiques (installation des 
+
+systèmes de sécurité, des caméras de 
+
+surveillance, réseaux locaux, 
+
+configurations et sécurité des systèmes). 
+
+ Maintenance informatiques (hard et 
+
+soft) 
+
+ Gestion de parc informatique 
+
+ Commerce 
+
+ Gestion de stock 
+
+ Logiciels maîtrisés : [MS server, OFFICE ; 
+…] 
+
+ Les langues : Arabe ; Français ; Anglais : 
+parler et écrire 
+
+ 
+ Permis de conduit type B 
+
+ 
+
+ 
+
+Etudes et Formation : 
+ 
+
+ Formation scolaire :  
+
+2008 : le baccalauréat en technologie 
+
+ Formation Professionnel : 
+
+2012 : la licence appliquée en technologie 
+
+des réseaux informatique : 
+
+ Installation et configuration des 
+
+réseaux informatiques, systèmes 
+
+alarme, caméra de surveillance  
+
+ sécurité et maintenance des systèmes 
+
+informatiques 
+
+2015 : certificat de formation en 
+
+maintenance informatique : 
+
+ Maintenance  des machines 
+
+informatiques (hard et soft) 
+
+ 
+
+Galmemi Hamdi 
+ 
+
+Adresse : 6 Rue Soufia el mourouj 4 Ben arous 2074 
+
+N° tel : 97 558 450 OU 52 692 323 
+
+E-mail : hamdi_255@yahoo.fr  
+
+Date de naissance : le 18/03/1988 
+
+mailto:hamdi_255@yahoo.fr
+
+
+2 
+ 
+
+ 
+
+EXPERIENCES PROFESSIONNELLES 
+
+   
+
+ Stage professionnelles : 
+
+2012 : projet de fin d’étude ; élaboration d’une application web sous-titre : Gestion des 
+
+bureaux d’ordre au sein du Cimenterie d’Om elKlil 
+
+2011 : stage technicien au sein du Cimenterie d’Om elKlil 
+
+ Expérience professionnelle : 
+
+  technicien supérieur en informatique chez ibdesign  
+
+Durée de l'emploi : DE 10/01/2019 a 30/09/2021 
+
+Responsable du marketing numérique (site web, réseaux sociaux) 
+
+Responsabilité sur le matériel informatique (maintenance soft et hard) 
+
+Assurer la sécurité informatique et la maintenance préventive du réseau 
+
+informatique 
+
+ gestionnaire de stock et directeur du bureau (office manager) chez Lycamobile  
+
+Durée de l'emploi : de 12-04-2017 a 10/11/2017  
+
+Description : gestion de stock de carte SIM et de  cash du bureau de Tunis ainsi que le 
+
+contrôle totale des agents commerciaux et des cheffes d’équipe ; la responsabilité sur la vente 
+
+et le dépose de l’argent à la banque  
+
+ Agent Branding (publicité de la marque lycamobile)  
+
+Durée de l'emploi : de 01/01/2016 à 12/04/2017  
+
+Description : publicité de l'image, de la marque et du nom de Lycamobile 
+
+Comme cheffe d’équipe branding j’aie les tache suivantes : 
+
+ Préparer le modèle de l'affiche du locale choisi 
+
+ Imprimé l’affiche sur venyl ou one-way  
+
+ Posé le venyl avec l’équipe sur le pvc  
+
+ Déplacer avec l’équipe pour fixer l’habillage  
+
+ Agent commercial 
+
+Durée de l'emploi : de 29/11/2015 au 30/12/2015  
+
+Description : vente carte SIM lycamobile sur terrain  
+
+ Informaticien (volontaire) : à l’Association mechket pour la promotion familiale du 
+
+01.01.2014 à 20.06.2014  
+
+Responsabilités : Réparation et entretien de matériel informatique et réseaux. 
+
+
+
+cleaned_text: 1 competences reseaux informatiques installation systemes securite cameras surveillance reseaux locaux configurations securite systemes maintenance informatiques hard soft gestion parc informatique commerce gestion stock logiciels maitrises ms server office langues arabe francais anglais parler ecrire permis conduit type b etudes formation formation scolaire 2008 baccalaureat technologie formation professionnel 2012 licence appliquee technologie reseaux informatique installation configuration reseaux informatiques systemes alarme camera surveillance securite maintenance systemes informatiques 2015 certificat formation maintenance informatique maintenance machines informatiques hard soft galmemi hamdi adresse 6 rue soufia el mourouj 4 ben arous 2074 ndeg tel 97 558 450 52 692 323 e mail hamdi 255 yahoo fr date naissance 18 03 1988 mailto hamdi 255 yahoo fr 2 experiences professionnelles stage professionnelles 2012 projet fin etude elaboration application web sous titre gestion bureaux ordre sein cimenterie om elklil 2011 stage technicien sein cimenterie om elklil experience professionnelle technicien superieur informatique chez ibdesign duree emploi 10 01 2019 30 09 2021 responsable marketing numerique site web reseaux sociaux responsabilite materiel informatique maintenance soft hard assurer securite informatique maintenance preventive reseau informatique gestionnaire stock directeur bureau office manager chez lycamobile duree emploi 12 04 2017 10 11 2017 description gestion stock carte sim cash bureau tunis ainsi controle totale agents commerciaux cheffes equipe responsabilite vente depose argent banque agent branding publicite marque lycamobile duree emploi 01 01 2016 12 04 2017 description publicite image marque nom lycamobile comme cheffe equipe branding tache suivantes preparer modele affiche locale choisi imprime affiche venyl one way pose venyl equipe pvc deplacer equipe fixer habillage agent commercial duree emploi 29 11 2015 30 12 2015 description vente carte sim lycamobile terrain informaticien volontaire association mechket promotion familiale 01 01 2014 20 06 2014 responsabilites reparation entretien materiel informatique reseaux
+mobile_number: 0
+email: hamdi_255@yahoo.fr
+skills: ['Installation', 'Branding', 'Marketing']
+skills_text: Installation Branding Marketing
+Category: Administratif

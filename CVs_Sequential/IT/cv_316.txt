@@ -1,0 +1,166 @@
+=== CV 316 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARIJ NCIRI
+
+ OBJECTIVE
+Je suis étudiante en 3éme année Licence en sciences informatiques en Big Data
+et Analyses des Données , à l'Institut Supérieur d'Informatique et de Multimédia
+de Sfax. Interessée par la domaine de developpement ou de bigdata pour mettre
+en pratique mes connaissances et d'acquérir une expérience professionnelle.
+
+ EXPERIENCE
+
+Freelance Stage PFA
+Juillet 2021 - September 2021
+
+Developpement d'un site Web d'entreprise de construction (Back-end , Front-end)
+
+Conception: UML
+Technologies utilisées : Html ,Css ,JS ,Nodejs ,Express ,PHP ,MongoDB 
+
+Tunisie Telecom Gafsa
+Juillet 2020 - Aôut 2020
+
+Developpement d'une application mobile Android de reclamation
+
+Technologies utilisées : Java ,Xml
+
+ EDUCATION
+
+Lycée Ibno Rached Gafsa
+September 2018 - Juin 2019
+
+Baccalaureat en Sicences Exprimentales 
+
+Institut Superieur d'Informatique et Multimedia
+September 2019 / Present
+
+Licence en Sciences Informatiques: Analyse des données et BigDAta 
+
+ PROJECTS
+
+Application Web
+Developpement et Conception d'un site web de gestion administrative  des cours
+en ligne.
+
+Technologies utilisées: HTML ,CSS ,JS ,PHP ,UML ,Laravel, mySql
+
+Exploration de données
+Un mini-projet sur les methodes et les techniques d'analyse et d'exploitation de
+données consiste à étudier le comportement de ses employés dans une
+entreprise de services informatique .
+
+Méthodes utilisées: l'ACP et la classification ( k-means et CAH). 
+Technologiques utilisées: Python
+
+ERP Odoo
+Utilisation de l'ERP pour gerer les ventes et les achats d'un entreprise
+commerciale.
+
+
+
+
+
+
+
+
+
+ CONTACT
+
+arijnciri135@gmail.com
+
+21055730
+
+Tunisie ,Gafsa
+
+arij nciri
+
+ SKILLS
+
+• Langages de Programmations : C ,C++
+,Python, Java, PHP
+
+• Developpement Web: HTML, CSS, JS,
+Nodejs, Express
+
+• Developpement Mobile: Android ,Flutter
+
+• Base de données: Mysql, Nosql, Oracle
+
+• Conception: UML
+
+• Frameworks: MongoDB , Laravel ,Symfony
+
+• Gestion de Projet: Scrum
+
+• ERP: Odoo
+
+• Autres: XML, Data Mining, IA, BigData,
+Hadoop, Cloud, Visualisation de données
+,Talend
+
+ LANGUAGE
+
+Arabe
+
+Francais
+
+Anglais
+
+ ACTIVITIES
+
+• Membre dans Club Google ISIMS
+2019/2020
+
+• Membre dans Club Microsoft Tech ISIMS
+2019/2020
+
+• Membre dans Club AI ISIMS 2021/2022
+
+
+
+cleaned_text: arij nciri objective etudiante 3eme annee licence sciences informatiques big data analyses donnees institut superieur informatique multimedia sfax interessee domaine developpement bigdata mettre pratique connaissances acquerir experience professionnelle experience freelance stage pfa juillet 2021 september 2021 developpement site web entreprise construction back end front end conception uml technologies utilisees html css js nodejs express php mongodb tunisie telecom gafsa juillet 2020 aout 2020 developpement application mobile android reclamation technologies utilisees java xml education lycee ibno rached gafsa september 2018 juin 2019 baccalaureat sicences exprimentales institut superieur informatique multimedia september 2019 present licence sciences informatiques analyse donnees bigdata projects application web developpement conception site web gestion administrative cours ligne technologies utilisees html css js php uml laravel mysql exploration donnees mini projet methodes techniques analyse exploitation donnees consiste etudier comportement employes entreprise services informatique methodes utilisees acp classification k means cah technologiques utilisees python erp odoo utilisation erp gerer ventes achats entreprise commerciale contact arijnciri135 gmail com 21055730 tunisie gafsa arij nciri skills langages programmations python java php developpement web html css js nodejs express developpement mobile android flutter base donnees mysql nosql oracle conception uml frameworks mongodb laravel symfony gestion projet scrum erp odoo autres xml data mining ia bigdata hadoop cloud visualisation donnees talend language arabe francais anglais activities membre club google isims 2019 2020 membre club microsoft tech isims 2019 2020 membre club isims 2021 2022
+mobile_number: 2105573
+email: arijnciri135@gmail.com
+skills: ['Php', 'Big data', 'Android', 'Html', 'Mobile', 'Mysql', 'Telecom', 'Hadoop', 'Cloud', 'Oracle', 'C++', 'Ai', 'Css', 'Xml', 'Nosql', 'Construction', 'Python', 'Js', 'Scrum', 'Mining', 'C', 'Erp', 'Java']
+skills_text: Php Big data Android Html Mobile Mysql Telecom Hadoop Cloud Oracle C++ Ai Css Xml Nosql Construction Python Js Scrum Mining C Erp Java
+Category: IT

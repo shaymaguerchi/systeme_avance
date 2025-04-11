@@ -1,0 +1,8 @@
+=== CV 876 ===
+text: Mohamed Dupont
+cleaned_text: mohamed dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 95161260
+email: mohamed.dupont@example.com
+skills: ['Java', 'HTML', 'SQL', 'C++', 'Marketing']
+skills_text: Java HTML SQL C++ Marketing
+Category: Finance

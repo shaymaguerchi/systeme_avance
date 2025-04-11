@@ -1,0 +1,204 @@
+=== CV 199 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BIlel daoud
+
+
+0769033333
+
+www.linkedin.com/in/bileldaoud
+
+dawed.bilel@hotmail.com 
+
+Paris, Île-de-France, France
+
+C O N T A C T
+
+C O M P É T E N C E S
+
+MSBI (SSIS,SSAS,SSRS) ,
+Talend , Blueway
+
+SQL Server, MYSQL , PL SQL,
+Oracle Database, Mongodb
+
+C#, .NET, JavaScript, Agile
+Scrum, ReactJs, Python,
+Xampp
+
+Power BI , Qlik Sense,
+Power Query , DAX Studio
+
+É L È V E  I N G É N I E U R  E N  B U S I N E S S
+I N T E L L I G E N C E
+
+BILEL DAOUD
+
+F O R M A T I O N  A C A D É M I Q U E
+
+Ecole Supérieure Privée des Technologies
+d’Information et de Management.
+
+Cycle d'ingénieur
+Nabeul | De 2019 à 2022 
+
+Ecole Supérieure de l'Aéronautique et de la
+Technologie.
+
+Cycle Préparatoire Intégré 
+Tunis | De 2015 à 2017
+
+Institut supérieur des beaux-arts.
+
+Design et Audiovisuel
+Nabeul | De 2012 à 2014 
+
+Baccalauréat  Sciences de l'informatique.
+Nabeul |Juin 2012
+
+E X P É R I E N C E S  P R O F E S S I O N N E L L E S
+
+Contexte : -Obtenir des rapports concernant toutes les
+formations et les adhérents dans un menu unique.
+
+      -Mesurer l'efficacité des formations(perception, qualité..)
+     Outils et technologies : SSIS ,SQL server ,PowerBI . 
+
+Stage ingénieur 
+Nabeul  | De juillet 2020 à août 2020 Med Traning Center 
+
+Stage ingénieur 
+Paris  | De juin 2021 à juillet 2021 GoodFellas 
+
+Contexte : -Création d'un système décisionnel afin
+d'améliorer la qualité de données .
+
+     Outils et technologies : SQL server ,PowerBI , DAX Studio
+      
+
+A C T I V I T É S  A S S O C I A T I V E S
+
+Membre association ATLCR. Association
+Tunisienne de Lutte contre les
+Comportements à Risque: - Prévention
+et sensibilisation : visite de terrain.
+
+Membre association La Voix de
+L'enfant: Activité associative en faveur
+des enfants abandonnés. Organisations
+de vente et événements culturels pour
+collecter des dons aux profits de
+l'association.
+
+C E N T R E S  D ' I N T É R Ê T
+
+Cinéma, musique,
+Sport: Rugby , Tennis ,
+Football
+Jeux vidéo
+
+L A N G U E S
+
+Français : Avancé
+Anglais : Professionnel
+
+Les projets réalisés dans le domaine de la business intelligence
+ont renforcé mes capacités dans  l'analyse , la restitution des
+données et le reporting. 
+
+Oracle Academy Database programming with PL/SQL |
+2020
+
+C E R T I F I C A T I O N S
+
+Microsoft Technology Associate : Database
+Administration Fundamentals | 2020
+
+Python-Essentials | 2020
+
+Microsoft Business Intelligence: POWER BI ET SSAS | 2021
+
+Sujet : Création d'un rapport analytique de la situation
+covid-19. 
+
+     Outils et technologies : PowerBI , Power Query.
+
+P R O J E T S  A C A D É M I Q U E S
+
+Sujet : Réalisation d'un système de classification
+d'images.
+
+     Outils et technologies : TensorFlow, KNN, Keras, Pandas.
+
+Sujet : Synchronisation des fichiers de données du
+département ressources humaines. 
+
+     Outils et technologies : Talend  , Xampp.
+
+Sujet : Améliorer l'évaluation des données.   
+     Outils et technologies : Python,  numpy, Pandas, sklearn.
+
+Sujet : Gestion d'une école.
+     Outils et technologies : Visual Studio, Agile Scrum,Flutter 
+
+http://www.isban.rnu.tn/
+http://www.isban.rnu.tn/
+http://www.isban.rnu.tn/
+http://www.isban.rnu.tn/
+
+
+cleaned_text: bilel daoud 0769033333 www linkedin com bileldaoud dawed bilel hotmail com paris ile france france p e e e msbi ssis ssas ssrs talend blueway sql server mysql pl sql oracle database mongodb net javascript agile scrum reactjs python xampp power bi qlik sense power query dax studio e e v e g e e u r e b u e e g e e bilel daoud f r e q u e ecole superieure privee technologies information management cycle ingenieur nabeul 2019 2022 ecole superieure aeronautique technologie cycle preparatoire integre tunis 2015 2017 institut superieur beaux arts design audiovisuel nabeul 2012 2014 baccalaureat sciences informatique nabeul juin 2012 e x p e r e e p r f e e e contexte obtenir rapports concernant toutes formations adherents menu unique mesurer efficacite formations perception qualite outils technologies ssis sql server powerbi stage ingenieur nabeul juillet 2020 aout 2020 med traning center stage ingenieur paris juin 2021 juillet 2021 goodfellas contexte creation systeme decisionnel afin ameliorer qualite donnees outils technologies sql server powerbi dax studio v e v e membre association atlcr association tunisienne lutte contre comportements risque prevention sensibilisation visite terrain membre association voix enfant activite associative faveur enfants abandonnes organisations vente evenements culturels collecter dons profits association e r e e r e cinema musique sport rugby tennis football jeux video g u e francais avance anglais professionnel projets realises domaine business intelligence renforce capacites analyse restitution donnees reporting oracle academy database programming pl sql 2020 e r f microsoft technology associate database administration fundamentals 2020 python essentials 2020 microsoft business intelligence power bi ssas 2021 sujet creation rapport analytique situation covid 19 outils technologies powerbi power query p r e e q u e sujet realisation systeme classification images outils technologies tensorflow knn keras pandas sujet synchronisation fichiers donnees departement ressources humaines outils technologies talend xampp sujet ameliorer evaluation donnees outils technologies python numpy pandas sklearn sujet gestion ecole outils technologies visual studio agile scrum flutter http www isban rnu tn http www isban rnu tn http www isban rnu tn http www isban rnu tn
+mobile_number: 0769033333
+email: dawed.bilel@hotmail.com
+skills: ['Numpy', 'Tensorflow', 'Reporting', 'Mysql', 'Administration', 'Oracle', 'Javascript', 'Sql', 'Database', 'P', 'Visual', 'Agile', 'Pandas', 'Python', 'R', 'Sql server', 'Keras', '.net', 'Scrum', 'Programming', 'C', 'Design']
+skills_text: Numpy Tensorflow Reporting Mysql Administration Oracle Javascript Sql Database P Visual Agile Pandas Python R Sql server Keras .net Scrum Programming C Design
+Category: IT

@@ -1,0 +1,8 @@
+=== CV 623 ===
+text: Jean Lefevre
+cleaned_text: jean lefevre cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 27377556
+email: jean.lefevre@example.com
+skills: ['Java', 'Linux', 'HTML', 'Marketing', 'Finance']
+skills_text: Java Linux HTML Marketing Finance
+Category: Marketing

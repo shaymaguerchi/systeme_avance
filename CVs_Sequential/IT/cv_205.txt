@@ -1,0 +1,145 @@
+=== CV 205 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CV Ben Ameur Fatma
+
+
+94 670 240
+
+28/10/1998
+
+Residence El Hana. Apprt N 5
+Raoued , Ariana 2056 ,  Tunisie
+
+Ben Ameur Fatma
+
+fatmabenameur573@gmail.com
+
+Communica�on
+
+Travail d’équipe
+
+Confiance en soi
+
+Power Bi , Python ,
+Talend , R
+
+Ou�ls informa�ques
+
+Arabe Français Anglais 
+
+100% 90% 90%
+
+BEN AMEUR FATMA
+
+Pro�le
+
+Capable de m’adapter et de réagir rapidement à diverses situa-
+�ons, je n’ai pas peur de commencer un emploi sans expérience. 
+A mon sens , les méthodes et la poli�que de travail de l’entreprise 
+sont les plus facilement transmises à un débutant .
+
+Expérience professionnelles
+
+Education
+
+11953089
+
+Compétences
+
+Contact
+
+Langues
+
+Loisirs
+
+2021
+
+Septembre 2020 - 
+Novembre 2020
+
+2019-2020
+
+2016-2017
+
+ 
+
+Août 2019 Stage
+Tâches : Accueillir les clients , Classer les 
+dossiers , Remplir des contrats d'assurances 
+automobiles
+Banque interna�onale arabe de Tunisie , Tunis 
+
+Etudiante en 2ème  année Mastère profession-
+nel en «Data Science» 
+Ecole Supérieure de Commerce de Tunis,Manou-
+ba , Tunisie
+
+Forma�on en technique bancaire
+Interna�onal Training Solu�ons
+
+Licence fondamentale en ges�on
+Spécialité Finance
+Ecole Supérieure de Commerce de Tunis Manou-
+ba , Tunisie
+
+Baccalauréat 
+Sec�on : Economie et Ges�on 
+Lycée Ibn Al Jazzar , Kairaouan , Tunisie
+
+
+
+cleaned_text: cv ben ameur fatma 94 670 240 28 10 1998 residence el hana apprt 5 raoued ariana 2056 tunisie ben ameur fatma fatmabenameur573 gmail com communicaon travail equipe confiance soi power bi python talend r ouls informaques arabe francais anglais 100 90 90 ben ameur fatma prole capable adapter reagir rapidement diverses situa ons peur commencer emploi sans experience sens methodes polique travail entreprise plus facilement transmises debutant experience professionnelles education 11953089 competences contact langues loisirs 2021 septembre 2020 novembre 2020 2019 2020 2016 2017 aout 2019 stage taches accueillir clients classer dossiers remplir contrats assurances automobiles banque internaonale arabe tunisie tunis etudiante 2eme annee mastere profession nel data science ecole superieure commerce tunis manou ba tunisie formaon technique bancaire internaonal training soluons licence fondamentale geson specialite finance ecole superieure commerce tunis manou ba tunisie baccalaureat secon economie geson lycee ibn al jazzar kairaouan tunisie
+mobile_number: 998 1195308
+email: fatmabenameur573@gmail.com
+skills: ['Finance', 'Python', 'R', 'Training']
+skills_text: Finance Python R Training
+Category: IT

@@ -1,0 +1,12 @@
+=== CV 1178 ===
+text: Scott Walker - CV
+
+Natural finish since. Company nation hot their. Size your tree blue star despite pay. Gun dream travel tough whose. Pattern view surface treatment. Performance human those growth yes item thousand interest. The get federal thousand the animal.
+
+87335 Moon Pine, East Jessebury, KS 08736
+cleaned_text: scott walker - cv natural finish since. company nation hot their. size your tree blue star despite pay. gun dream travel tough whose. pattern view surface treatment. performance human those growth yes item thousand interest. the get federal thousand the animal. 87335 moon pine, east jessebury, ks 08736
+mobile_number: 201-728-8299
+email: jmarquez@yahoo.com
+skills: ['PHP', 'HTML', 'Java']
+skills_text: PHP HTML Java
+Category: HR

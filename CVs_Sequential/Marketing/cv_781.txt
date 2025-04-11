@@ -1,0 +1,8 @@
+=== CV 781 ===
+text: Laura Mokhtar
+cleaned_text: laura mokhtar cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 39998350
+email: laura.mokhtar@example.com
+skills: ['Marketing', 'CSS', 'C++', 'Linux', 'Windows']
+skills_text: Marketing CSS C++ Linux Windows
+Category: Marketing

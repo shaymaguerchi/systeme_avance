@@ -1,0 +1,196 @@
+=== CV 258 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nada Badreddine
+
+
+EXPERIENCE PROFESSIONELLE 
+
+Karwisoft , Canada  
+Stage d'été ,Développeuse web 
+Juillet 2021 - Septembre 2021
+ Participer au développement d'une platform "Smart
+Interact" qui s'intéresse à la gestion des offres de travail
+et les profils des clients et des consultants.  
+ReactJs, NodeJs, GraphQL,Apollo Client ,MongoDB 
+
+ADN Expertise , Sousse 
+Stage d'été ,Développeuse web 
+Juillet 2020-Septembre 2020
+ Création d'une application web qui permet de consulter et
+de réserver un séjour médical.
+ HTML,CSS , BOOTSTRAP  
+
+Draxlmaier , Eljem
+Stage de fin d'études, Technicienne
+Création d'un système  dans le domaine de l'informatique
+embarquée qui permet de suivre automatiquement les
+défauts de fabrication des câbles et envoyer les données.
+Python 3, Raspberry Pi
+
+FORMATION
+
+EPI,Ecole pluridisciplinaire internationale, Sousse
+Septembre 2019,Present 
+Diplôme ingénieur informatique ,Génie Logiciel 
+
+ISSAT, Institut Supérieur des sciences Appliquées et de
+technologie de Sousse
+Septembre 2016,Juin 2019 
+Licence appliqué en électronique  électrotechnique et
+automatique 
+
+Lycée Hay Jadid ,Eljem
+2014-2015
+Baccalauréat en sciences expérimentale 
+
+PROFIL
+
+Développeur Full Stack : JavaScript,
+TypeScript, ReactJs, NodeJs,
+GraphQL,Apollo Client ,Redux .
+Je suis actuellement étudiante en 5ème
+année de classe terminale à l'Ecole
+Internationale Pluridisciplinaire de
+Sousse Tunisie (EPI), Je suis très
+motivée pour commencer des nouveaux
+projets, et d'élargir mes compétences.
+
+COMPÉTENCES
+
+JavaScript 
+ReactJS   
+NodeJS 
+GraphQL
+Apollo Client
+AngularJS
+
+Téléphone: +216 25956078
+Adresse Email:
+badreddine.nada18@gmail.com
+LinkedIn : 
+ https://www.linkedin.com/in/nada-
+badreddine-3822a317b/
+
+Nada Badreddine
+Etudiante en génie logiciel 
+à la recherche d'un stage PFE dans
+le domaine du développement web.
+
+HTML
+CSS
+MongoDB
+Java
+Symfony
+SQL
+
+Application web de gestion des immobilisations (2021)
+Dans le contexte de projet de fin d'année ,création d’un site web
+ qui permet d'améliorer la gestion des immobilisations et
+ le calcul des amortissements.
+JavaScript, ReactJs , NodeJs, GraphQL,Apollo Client,MongoDB 
+
+Application web E-commerce (2021)
+Création d'une application web qui permet de vendre des produits 
+électroniques.
+Angular, NodeJs, SQL
+
+Application Mobile de gestion des employés  (2020)
+Création d'une application web qui permet  de gérer les employés
+Ionic , TypeScript
+ 
+ Application web de gestion des produit (2020)
+Création d'une application web qui permet de vendre des
+ produits électroniques 
+Symphony4, Php, Sql
+
+PROJETS ACADÉMIQUES
+
+https://www.raspberrypi.org/
+
+
+CERTIFICATION 
+
+Udemy React Certifcat 
+
+Nuit de l'info  Certifcat
+Participer avec un groupe dans la nuit
+international du compétition de développement
+(web et mobile) et relever plusieurs défis tout au
+long d'une nuit.
+
+ACTIVITÉS ASSOCIATIVES 
+
+Membre, JCI Jeune Chambre Internationale
+Eljem 
+Membre, Festival International de la musique
+symphonique
+d’Eljem
+
+Arabe : langue maternelle
+Français : Courant 
+Anglais : Courant
+Allemand : Scolaire
+
+LANGUAGES
+CENTRES D'INTERET 
+
+Sport - Musique 
+
+
+
+cleaned_text: nada badreddine experience professionelle karwisoft canada stage ete developpeuse web juillet 2021 septembre 2021 participer developpement platform smart interact interesse gestion offres travail profils clients consultants reactjs nodejs graphql apollo client mongodb adn expertise sousse stage ete developpeuse web juillet 2020 septembre 2020 creation application web permet consulter reserver sejour medical html css bootstrap draxlmaier eljem stage fin etudes technicienne creation systeme domaine informatique embarquee permet suivre automatiquement defauts fabrication cables envoyer donnees python 3 raspberry pi formation epi ecole pluridisciplinaire internationale sousse septembre 2019 present diplome ingenieur informatique genie logiciel issat institut superieur sciences appliquees technologie sousse septembre 2016 juin 2019 licence applique electronique electrotechnique automatique lycee hay jadid eljem 2014 2015 baccalaureat sciences experimentale profil developpeur full stack javascript typescript reactjs nodejs graphql apollo client redux actuellement etudiante 5eme annee classe terminale ecole internationale pluridisciplinaire sousse tunisie epi tres motivee commencer nouveaux projets elargir competences competences javascript reactjs nodejs graphql apollo client angularjs telephone 216 25956078 adresse email badreddine nada18 gmail com linkedin https www linkedin com nada badreddine 3822a317b nada badreddine etudiante genie logiciel recherche stage pfe domaine developpement web html css mongodb java symfony sql application web gestion immobilisations 2021 contexte projet fin annee creation site web permet ameliorer gestion immobilisations calcul amortissements javascript reactjs nodejs graphql apollo client mongodb application web e commerce 2021 creation application web permet vendre produits electroniques angular nodejs sql application mobile gestion employes 2020 creation application web permet gerer employes ionic typescript application web gestion produit 2020 creation application web permet vendre produits electroniques symphony4 php sql projets academiques https www raspberrypi org certification udemy react certifcat nuit info certifcat participer groupe nuit international competition developpement web mobile relever plusieurs defis tout long nuit activites associatives membre jci jeune chambre internationale eljem membre festival international musique symphonique eljem arabe langue maternelle francais courant anglais courant allemand scolaire languages centres interet sport musique
+mobile_number: 216 2595607
+email: badreddine.nada18@gmail.com
+skills: ['Php', 'Javascript', 'Email', 'Html', 'Sql', 'Python', 'Mobile', 'Css', 'International', 'Fabrication', 'Certification', 'Java']
+skills_text: Php Javascript Email Html Sql Python Mobile Css International Fabrication Certification Java
+Category: IT

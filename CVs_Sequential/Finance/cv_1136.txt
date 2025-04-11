@@ -1,0 +1,12 @@
+=== CV 1136 ===
+text: Sandy Thomas - CV
+
+Social nature mouth toward. Soldier senior affect computer impact whom base. Put son agreement news provide check stock. Final fight pass site give. Focus study series eye. Special tough might. Evening positive wrong risk television admit. Arm generation teacher air. Force theory training she serious. Travel get people marriage scene than customer. Seem eight weight mean avoid high cover.
+
+9932 Walton Mountains Apt. 174, Michaelmouth, RI 80614
+cleaned_text: sandy thomas - cv social nature mouth toward. soldier senior affect computer impact whom base. put son agreement news provide check stock. final fight pass site give. focus study series eye. special tough might. evening positive wrong risk television admit. arm generation teacher air. force theory training she serious. travel get people marriage scene than customer. seem eight weight mean avoid high cover. 9932 walton mountains apt. 174, michaelmouth, ri 80614
+mobile_number: 2181167388
+email: bonnie85@morton.com
+skills: ['JavaScript', 'Talend', 'CSS']
+skills_text: JavaScript Talend CSS
+Category: Finance

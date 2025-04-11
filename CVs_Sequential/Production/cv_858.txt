@@ -1,0 +1,8 @@
+=== CV 858 ===
+text: Laura Roche
+cleaned_text: laura roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 48269749
+email: laura.roche@example.com
+skills: ['Management', 'Adobe', 'Marketing', 'Linux']
+skills_text: Management Adobe Marketing Linux
+Category: Production

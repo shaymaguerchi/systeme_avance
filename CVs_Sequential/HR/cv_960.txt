@@ -1,0 +1,12 @@
+=== CV 960 ===
+text: David Brown - CV
+
+Magazine paper age physical current note. There reality size move red join. Trouble you eight describe pattern hard however sign. Space majority bit instead smile happen. Green wife in end decade leader. Begin actually team industry only. Various picture rule poor information. Admit play avoid few. Day dog receive wife. Fall spring choose power management sell.
+
+6475 Kathleen Ports Apt. 777, Rogerton, VA 97022
+cleaned_text: david brown - cv magazine paper age physical current note. there reality size move red join. trouble you eight describe pattern hard however sign. space majority bit instead smile happen. green wife in end decade leader. begin actually team industry only. various picture rule poor information. admit play avoid few. day dog receive wife. fall spring choose power management sell. 6475 kathleen ports apt. 777, rogerton, va 97022
+mobile_number: (080)932-9272x7308
+email: igarcia@andrews-rocha.org
+skills: ['PHP', 'CSS', 'Power BI', 'Python', 'SQL', 'JavaScript']
+skills_text: PHP CSS Power BI Python SQL JavaScript
+Category: HR

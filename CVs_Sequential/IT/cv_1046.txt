@@ -1,0 +1,12 @@
+=== CV 1046 ===
+text: Cassie Martinez - CV
+
+Until rock moment find assume. Action fall class manager travel use change. Owner red have I meet. Action budget rock. Side today enjoy instead indeed. Their month cup early. Available idea anything discuss.
+
+497 Cook Place, Wigginsfurt, WI 23906
+cleaned_text: cassie martinez - cv until rock moment find assume. action fall class manager travel use change. owner red have i meet. action budget rock. side today enjoy instead indeed. their month cup early. available idea anything discuss. 497 cook place, wigginsfurt, wi 23906
+mobile_number: 001-816-492-6004
+email: lkim@hotmail.com
+skills: ['PHP', 'Python', 'JavaScript', 'SQL', 'Talend', 'CSS']
+skills_text: PHP Python JavaScript SQL Talend CSS
+Category: IT

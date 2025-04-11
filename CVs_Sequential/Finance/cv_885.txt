@@ -1,0 +1,8 @@
+=== CV 885 ===
+text: Nadia Dupont
+cleaned_text: nadia dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 24213756
+email: nadia.dupont@example.com
+skills: ['Marketing', 'Linux', 'Windows', 'Finance', 'HTML', 'CSS']
+skills_text: Marketing Linux Windows Finance HTML CSS
+Category: Finance

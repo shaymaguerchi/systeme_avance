@@ -1,0 +1,306 @@
+=== CV 346 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gsouma-3b5a14160/ 
+
+ 
+ 
+
+JE SUIS UN : 
+Ingénieur Génie Logiciel 
+
+ 
+
+ÉDUCATION ET FORMATION 
+ 
+
+ 
+Koussai 
+
+Gsouma 
+DATE DE NAISSANCE: 
+
+26 mars 1996 
+
+ 
+ 
+ 
+
+CONTACT 
+
+Nationalité: Tunisienne 
+
+Sexe: Masculin 
+
+Sousse, Tunisie 
+
+koussai.gs@gmail.com 
+
+(+216) 26249650 
+
+LinkedIn: https:// 
+
+www.linkedin.com/in/koussai- 
+
+-Ancien Membre au Club 
+
+Electro_Dev 
+
+à issatSo 
+
+-Ancien Membre au Club 
+
+Scientifique 
+
+Microsoft à issatSo 
+
+-Ancien Membre au club sportif 
+
+à issatSo 
+
+-Membre au association 
+
+annimaux_100 toi(t) 
+
+-Membre au Club 
+
+Culturel 
+
+Tunivisions à issatSo 
+
+-Membre au club CodeGo 
+
+2015 – 2019 – Sousse, Tunisie 
+
+Diplôme National de Licence Fondamentale en Sciences de 
+l’Informatiques 
+
+Institut Supérieur des Sciences Appliquées et de Technologie de 
+Sousse 
+
+ 
+2019 – EN COURS – Sousse, Tunisie 
+
+4ème année Ingénierie Génie Logiciel 
+
+EPI-Polytechnique Sousse 
+
+ 
+
+EXPÉRIENCE PROFESSIONNELLE 
+JUIL. 2018 – AOÛT 2018 – Sousse, Tunisie 
+
+Stage d’été  
+
+Tunisie Télécom 
+
+Participation aux phases : d’analyse, de conception, de développement 
+et de test dans le cadre de la réalisation ou du pilotage des projets 
+informatiques, « Datacenter ». 
+
+ 
+FÉVR. 2019 – JUIN 2019 – Sousse, Tunisie 
+
+Développeur Web : Stage Fin d'Etudes 
+
+Tweet Design 
+
+Conception et développement d’une application web pour la gestion des 
+événements avec Laravel et Angular. 
+
+ 
+JUIL. 2019 – Septembre 2019 – Sousse, Tunisie 
+
+Formateur JAVA 
+
+Centre de formation Infolangue 
+
+ 
+JUIL. 2020 – AOÛT 2020 – Sousse, Tunisie 
+
+Développeur Web 
+
+ADN-Expertise (siège Sousse) 
+
+Développement des modules avec loopback pour la gestion des 
+établissements d'enseignement supérieur. 
+
+Méthodologie adoptée : Scrum. 
+
+ 
+Développeur Web 
+
+EPI-Polytechnique 
+
+Développement d’une application web de bricolages avec SpringBoot et 
+
+Angular. 
+
+Méthodologie adoptée : Processus Unifié . 
+
+https://www.linkedin.com/in/koussai-gsouma-3b5a14160/
+mailto:koussai.gs@gmail.com
+https://www.linkedin.com/in/koussai-gsouma-3b5a14160/
+https://www.linkedin.com/in/koussai-gsouma-3b5a14160/
+https://www.linkedin.com/in/koussai-gsouma-3b5a14160/
+
+
+ 
+
+COMPÉTENCES TECHNIQUES 
+Langages de programmation 
+
+JAVA, JEE, HTML, CSS, PHP, JavaScript, VB, C#, C++ 
+
+Framework 
+
+Symfony, Spring Boot, Angular, Ionic, Laravel, ReactJS, Wordpress, 
+Prestashop 
+
+Conception 
+
+UML 
+
+Base de données 
+
+Oracle database, Microsoft Access, MySQL, Microsoft SQL Server 
+
+ 
+
+CERTIFICATS 
+Certificat en JEE 
+
+Centre de formation Kaizen Sousse, Tunis 
+
+Certificat en Symfony 
+
+Formation interne au sein de l'Institut Supérieur des Sciences 
+Appliquées et de Technologie de Sousse, Tunis. 
+
+Certificat de participation à la compétition de la Nuit d'Info 
+
+2019 
+
+ 
+
+LANGUES 
+Langue maternelle 
+
+Arabe 
+
+AutresLangues 
+
+Français 
+
+Anglais 
+
+ 
+
+PERSONNALITE 
+
+Leader 
+
+Créatif 
+
+Organisé 
+
+Autonome 
+
+
+	JE SUIS UN :
+	ÉDUCATION ET FORMATION
+	-Ancien Membre au Club Electro_Dev
+	-Ancien Membre au Club Scientifique
+	-Ancien Membre au club sportif à issatSo
+	-Membre au Club Culturel
+	-Membre au club CodeGo
+	Diplôme National de Licence Fondamentale en Sciences de
+	Institut Supérieur des Sciences Appliquées et de Technologie de Sousse
+
+	4ème année Ingénierie Génie Logiciel
+
+
+	EXPÉRIENCE PROFESSIONNELLE
+	Stage d’été
+	Tunisie Télécom
+
+	Développeur Web : Stage Fin d'Etudes
+	Tweet Design
+
+	Formateur JAVA
+	Centre de formation Infolangue
+
+	Développeur Web
+	ADN-Expertise (siège Sousse)
+
+	Développeur Web (1)
+	EPI-Polytechnique
+
+
+	COMPÉTENCES TECHNIQUES
+	Langages de programmation
+	Framework
+	Conception
+	Base de données
+
+	CERTIFICATS
+	Certiﬁcat en JEE
+	Certiﬁcat en Symfony
+
+	LANGUES
+	Langue maternelle Arabe AutresLangues
+
+	PERSONNALITE
+
+
+cleaned_text: gsouma 3b5a14160 ingenieur genie logiciel education formation koussai gsouma date naissance 26 mars 1996 contact nationalite tunisienne sexe masculin sousse tunisie koussai gs gmail com 216 26249650 linkedin https www linkedin com koussai ancien membre club electro dev issatso ancien membre club scientifique microsoft issatso ancien membre club sportif issatso membre association annimaux 100 membre club culturel tunivisions issatso membre club codego 2015 2019 sousse tunisie diplome national licence fondamentale sciences informatiques institut superieur sciences appliquees technologie sousse 2019 cours sousse tunisie 4eme annee ingenierie genie logiciel epi polytechnique sousse experience professionnelle juil 2018 aout 2018 sousse tunisie stage ete tunisie telecom participation phases analyse conception developpement test cadre realisation pilotage projets informatiques datacenter fevr 2019 juin 2019 sousse tunisie developpeur web stage fin etudes tweet design conception developpement application web gestion evenements laravel angular juil 2019 septembre 2019 sousse tunisie formateur java centre formation infolangue juil 2020 aout 2020 sousse tunisie developpeur web adn expertise siege sousse developpement modules loopback gestion etablissements enseignement superieur methodologie adoptee scrum developpeur web epi polytechnique developpement application web bricolages springboot angular methodologie adoptee processus unifie https www linkedin com koussai gsouma 3b5a14160 mailto koussai gs gmail com https www linkedin com koussai gsouma 3b5a14160 https www linkedin com koussai gsouma 3b5a14160 https www linkedin com koussai gsouma 3b5a14160 competences techniques langages programmation java jee html css php javascript vb framework symfony spring boot angular ionic laravel reactjs wordpress prestashop conception uml base donnees oracle database microsoft access mysql microsoft sql server certificats certificat jee centre formation kaizen sousse tunis certificat symfony formation interne sein institut superieur sciences appliquees technologie sousse tunis certificat participation competition nuit info 2019 langues langue maternelle arabe autreslangues francais anglais personnalite leader creatif organise autonome education formation ancien membre club electro dev ancien membre club scientifique ancien membre club sportif issatso membre club culturel membre club codego diplome national licence fondamentale sciences institut superieur sciences appliquees technologie sousse 4eme annee ingenierie genie logiciel experience professionnelle stage ete tunisie telecom developpeur web stage fin etudes tweet design formateur java centre formation infolangue developpeur web adn expertise siege sousse developpeur web 1 epi polytechnique competences techniques langages programmation framework conception base donnees certificats certificat jee certificat symfony langues langue maternelle arabe autreslangues personnalite
+mobile_number: 2624965
+email: koussai.gs@gmail.com
+skills: ['Php', 'Javascript', 'C#', 'Html', 'Database', 'Mysql', 'Scrum', 'Sql', 'Css', 'Wordpress', 'Access', 'C', 'Oracle', 'C++', 'Java', 'Design']
+skills_text: Php Javascript C# Html Database Mysql Scrum Sql Css Wordpress Access C Oracle C++ Java Design
+Category: IT

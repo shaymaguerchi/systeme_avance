@@ -1,0 +1,436 @@
+=== CV 109 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HAKIM BEN
+
+KHALFA
+
+SOC Expert
+
+CONTACT
+
+PRÉSENTATION
+
+J'ai plus que 10 ans
+
+d'expérience en tant qu'expert
+
+RAN / NSS / IT et marché DATA
+
+O&M sur les équipements
+
+Nokia (Flexi BSC, RNC2600,
+
+mcRNC, ex-Siemens cBSC),
+
+Huawei et Alcatel, supervision
+
+et exploitation de tous les
+
+équipements de
+
+télécommunications et
+
+réseaux.
+
+En e�et, je suis responsable
+
+des modi�cations apportées à
+
+l'implémentation du réseau
+
+(2G, 3G, 4G LTE et 5G) avec un
+
+support de premier et second
+
+niveau via des tickets d'incident
+
+envoyés par l'équipe qualité.
+
+(Enquête, dépannage et
+
+support pour les techniciens de
+
+terrain).
+
+J'ai travaillé en tant que
+
+support de niveau 1 et 2 pour
+
+les plateformes de trading au
+
+sein de QuantHouse, vendeur
+
+mondial de données de
+
+marché et je fais des échanges
+
+interbancaires et boursiers.
+
+Change Manger: Validation et
+
+véri�cation des opérations du
+
+week-end dans un point
+
+hebdomadaire (CAB), suivi et
+
+présence des usines Rollback
+
+sur le système de gestion du
+
+changement (Work�ow / SM)
+
+MES LIENS
+
+ LinkedIn  Facebook
+
+EXPÉRIENCES
+Bénévole en Coronavirus
+Ministère de la santé Publique Tunisienne - Depuis novembre 2020
+
+Administrateur Réseaux
+TSI NETWORK - Août 2020 à octobre 2020
+
+*Administration réseaux et support Level 3
+
+*Conversation clients et synthèse de leurs enjeux
+
+*Conception de scénarios
+
+Administrateur Réseaux et systèmes
+QuantHouse - Mars 2019 à juillet 2019 - CDI - Tunisie
+
+Principaux rôles et responsabilités:
+
+Expert SOC (Superviseur des réseaux informatiques et
+
+télécoms)
+Ooredoo - Avril 2010 à mars 2019 - CDI - Berges du Lac - Tunisie
+
+Principaux rôles et responsabilités:
+
+34 ans - Permis de conduire -
+
+63 Cité El Bokri Ariana (2032)
+
+Tunisie
+
+hakim.benkhalfa@gmail.com
+
+0021620174050
+
+hakim ben khalfa
+
+CV réalisé sur DoYouBuzz
+
+Suivi et support niveau 1 & 2 des plateformes de trading en collaboration avec les équipes
+
+Infra & Dev pour le niveau 3.
+
+Dépannage Feed Handlers, Front End, STF et VRF
+
+Con�guration de di�érents équipements de transmission optique, informatiques (Cisco
+
+ASR9001 / EDGE 7606)
+
+Analyse et
+
+le traitement des incidents est remonté à l'unité d'expertise technique.
+
+Mise en place de nouveaux clients, consommateurs pour les Bank et Exchange ...
+
+Surveillance des réseaux de données LTE 2G / 3G / 4G / 5G / FWBA / CPE (B2B), du
+
+backbone IP / MPLS / Trans et de parc informatique via Temip et les plateformes
+
+fournisseurs
+
+Gérer la fonction de surveillance de la maintenance de premier niveau 24 heures sur 24, 7
+
+jours sur 7 pour le NSN, ALU 2G (RAN, NSS) et 3G / 4G (MSS, MGW, BSC Flexi BTS EDGE
+
+Multi), ALU, NEC et Huawei) AMS et FWBA
+
+Coordonner toutes les activités du réseau, les bons de travail, les travaux préventifs et
+
+curatifs.
+
+Rassemblez et fournissez un soutien en dehors des heures administratives 24/7.
+
+Analyser et identi�er tous les rapports sur l'état du réseau, les statistiques de
+
+performance et les plaintes des clients, puis appliquer les correctifs appropriés en
+
+fonction des processus d'escalade dé�nis dans le SLA dé�ni.
+
+Analyse d'impact et priorisation en fonction de l'impact et de la criticité des incidents
+
+Coordination avec RAN, CS-Core, VAS, PS-CORE, performance réseau (KPI), transmission,
+
+OSS et divers opérateurs internationaux.
+
+Suivez Trouble Ticket TT.
+
+Mise en service et intégration de BTS / nodeB / eNodeB Nokia / Huawei / ALU
+
+Assure la mise en œuvre des nouveaux BTS / NodeB et eNodeB Nokia / Huawei / ALU
+
+Assistance et dépannage BTS / NodeB / eNodeB Nokia / Huawei / ALU
+
+Génération de rapports de performance d'indicateurs de performance clés de di�érents
+
+niveaux RAN (RNC / BSC, BTS / NodeB / EnodeB) en utilisant un OSS dédié (Nokia
+
+performance réputation - Netact, Huawei-U2000, OMCR ALU)
+
+Assurer la disponibilité réelle des composants matériels et logiciels du réseau IT LAN et
+
+Vlan, l'administration et la con�guration push.
+
+Suivi (pendant 3 ans) et acceptation du projet de mise en production de la solution
+
+"Genesys SIP Server"
+
+*Développement de téléphone IP avec de nouvelles fonctionnalités telles que la
+
+conférence multipoint (MCU), la convergence voix / données et Stream Manager.
+
+Gérer les di�érentes phases de la réalisation des projets Genesys (conception, réalisation,
+
+recette, préparation, production et suivi post-MEP) en collaboration avec les intégrateurs
+
+Gestion des interactions CTI
+
+Mettre en place les indicateurs nécessaires à la supervision applicative des services mis
+
+en œuvre (maintenance opérationnelle des services applicatifs (SLA)
+
+1 / 4CV créé sur 
+
+https://tn.linkedin.com/in/hakim-ben-khalfa-462b4571
+https://www.facebook.com/hakim.benkhalfa.7
+mailto:hakim.benkhalfa@gmail.com
+tel:0021620174050
+skype:hakim ben khalfa
+https://www.doyoubuzz.com/fr/
+https://www.doyoubuzz.com/fr/
+
+
+Conseiller clients support technique
+Téléperformance (bouygues telecom) - Août 2009 à mars 2010 -
+
+CDI - Tunisie
+
+Traitement des réclamations téléphoniques et mobiles et assistance technique à distance
+
+Projet de �n d'études
+ATFP - Décembre 2011 à mars 2012 - Stage - Tunisie - Tunisie
+
+Installation d'une plateforme de communication (réseaux téléphoniques et informatiques)
+
+Installation et programmation d'un LG PABX (ARIA SOHO) et de commutateurs D-Link dans
+
+les nouveaux locaux de l'Agence Tunisienne de la Formation Professionnelle
+
+Stage
+Société tunisienne de l'électricité et du gaz (STEG) - Mars 2011 à avril 2011
+
+- Stage - Tunisie - Tunisie
+
+*Supervision du réseau électrique avec le système SCADA.
+
+*Diagnostic des défauts majeurs et critiques.
+
+Assistance aux équipes travaillant sur le terrain.
+
+COMPÉTENCES
+Permis de conduire B
+
+Languages
+
+Compétences en informatique et télécommunications
+
+Connaissances en informatique
+
+INITIATION CLOUD
+
+Permis de conduire B
+
+Arabe
+
+Français: très bien parlé et écrit
+
+Anglais: très bien parlé et écrit
+
+Espagnol: très bien parlé et écrit
+
+Italien: école (niveau A2)
+
+Connaissance approfondie des réseaux mobiles (GSM, GPRS, UMTS et LTE)
+
+et �xes (RTC, DECT & FWBA): architecture, sous-système
+
+Connaissance dans la transmission: systèmes radio et satellite, transmission
+
+par �bre optique (U2000)
+
+PDH, technologie de transmission multiplexage SDH
+
+IPMPLS
+
+Routeurs Cisco (Cisco Nexus / Cisco ACI / Cisco ASR9001)
+
+Management d'équipe
+
+System (DOS, Windows, Linux Dubian...)
+
+Software (Excel, Word, Access, Power Point ...)
+
+Language Programs (Pascal, C ++, Java ...)
+
+The IP protocols and OSI model
+
+My SQL
+
+Cloud computing
+
+cloud vmware / hyperV server
+
+2 / 4CV créé sur 
+
+https://www.doyoubuzz.com/fr/
+
+
+FORMATIONS
+Troubleshooting
+OOREDOO ACADEMY
+Depuis mars 2016
+
+Netact NSS, BSS - Troubleshooting 2016
+
+Ré�exologie
+CULTURE ET FORMATION PARIS
+Janvier 2020 à juillet 2020
+
+Ingénieur système d'information
+CENTRAL UNIVERSITY
+Septembre 2015 à avril 2017
+
+MPR
+NOKIA ACADEMY
+Avril 2016
+
+9500 MPR, R5.1 ETSI Full Indoor Node (MSS-1 / MSS-4 / MSS-8) Fonctionnel et matériel
+
+9500 MPR, nœud de marché mondial R6.0 (MSS-0 / MSS-1 / MSS-4 / MSS-8)
+
+RAN
+OOREDOO ACADEMY
+Mars 2015 à 2015
+
+SingleRAN GU R15-R17.1 Delta for New Feature
+
+ITIL
+2014
+2014
+
+ITIL foundation V3
+
+IP/MPLS
+OOREDOO ACADEMY
+Mars 2014 à 2014
+
+Réseaux IP/MPLS et architecture de ligne �xe
+
+NSS
+OOREDOO ACADEMY
+2013
+
+R4 essentials and administration
+
+Senior Telecommunications Technician
+ISET'COM
+Septembre 2008 à juin 2011
+
+Technicien Supérieur en infrastructure et réseau d'accès
+
+Notez : Bien
+
+Baccalauréat (S)
+SECONDARY SCHOOL HANNIBAL ARIANA
+Septembre 2007 à juin 2008
+
+Bac (S) Mathematics
+
+CENTRES D'INTÉRÊT
+Sorties
+
+Red Cross Tunisia
+
+Sorties
+
+Health and Social Services
+
+3 / 4CV créé sur 
+
+https://www.doyoubuzz.com/fr/
+
+
+Sport
+
+Sport
+
+Voyages
+
+Travel
+
+4 / 4CV créé sur 
+
+https://www.doyoubuzz.com/fr/
+
+
+cleaned_text: hakim ben khalfa soc expert contact presentation plus 10 ans experience tant expert ran nss marche data equipements nokia flexi bsc rnc2600 mcrnc ex siemens cbsc huawei alcatel supervision exploitation tous equipements telecommunications reseaux eet responsable modications apportees implementation reseau 2g 3g 4g lte 5g support premier second niveau via tickets incident envoyes equipe qualite enquete depannage support techniciens terrain travaille tant support niveau 1 2 plateformes trading sein quanthouse vendeur mondial donnees marche fais echanges interbancaires boursiers change manger validation verication operations week end point hebdomadaire cab suivi presence usines rollback systeme gestion changement workow sm liens linkedin facebook experiences benevole coronavirus ministere sante publique tunisienne depuis novembre 2020 administrateur reseaux tsi network aout 2020 octobre 2020 administration reseaux support level 3 conversation clients synthese leurs enjeux conception scenarios administrateur reseaux systemes quanthouse mars 2019 juillet 2019 cdi tunisie principaux roles responsabilites expert soc superviseur reseaux informatiques telecoms ooredoo avril 2010 mars 2019 cdi berges lac tunisie principaux roles responsabilites 34 ans permis conduire 63 cite el bokri ariana 2032 tunisie hakim benkhalfa gmail com 0021620174050 hakim ben khalfa cv realise doyoubuzz suivi support niveau 1 2 plateformes trading collaboration equipes infra dev niveau 3 depannage feed handlers front end stf vrf conguration dierents equipements transmission optique informatiques cisco asr9001 edge 7606 analyse traitement incidents remonte unite expertise technique mise place nouveaux clients consommateurs bank exchange surveillance reseaux donnees lte 2g 3g 4g 5g fwba cpe b2b backbone ip mpls trans parc informatique via temip plateformes fournisseurs gerer fonction surveillance maintenance premier niveau 24 heures 24 7 jours 7 nsn alu 2g ran nss 3g 4g mss mgw bsc flexi bts edge multi alu nec huawei ams fwba coordonner toutes activites reseau bons travail travaux preventifs curatifs rassemblez fournissez soutien dehors heures administratives 24 7 analyser identier tous rapports etat reseau statistiques performance plaintes clients puis appliquer correctifs appropries fonction processus escalade denis sla deni analyse impact priorisation fonction impact criticite incidents coordination ran cs core vas ps core performance reseau kpi transmission oss divers operateurs internationaux suivez trouble ticket tt mise service integration bts nodeb enodeb nokia huawei alu assure mise oeuvre nouveaux bts nodeb enodeb nokia huawei alu assistance depannage bts nodeb enodeb nokia huawei alu generation rapports performance indicateurs performance cles dierents niveaux ran rnc bsc bts nodeb enodeb utilisant oss dedie nokia performance reputation netact huawei u2000 omcr alu assurer disponibilite reelle composants materiels logiciels reseau lan vlan administration conguration push suivi pendant 3 ans acceptation projet mise production solution genesys sip server developpement telephone ip nouvelles fonctionnalites telles conference multipoint mcu convergence voix donnees stream manager gerer dierentes phases realisation projets genesys conception realisation recette preparation production suivi post mep collaboration integrateurs gestion interactions cti mettre place indicateurs necessaires supervision applicative services mis oeuvre maintenance operationnelle services applicatifs sla 1 4cv cree https tn linkedin com hakim ben khalfa 462b4571 https www facebook com hakim benkhalfa 7 mailto hakim benkhalfa gmail com tel 0021620174050 skype hakim ben khalfa https www doyoubuzz com fr https www doyoubuzz com fr conseiller clients support technique teleperformance bouygues telecom aout 2009 mars 2010 cdi tunisie traitement reclamations telephoniques mobiles assistance technique distance projet etudes atfp decembre 2011 mars 2012 stage tunisie tunisie installation plateforme communication reseaux telephoniques informatiques installation programmation lg pabx aria soho commutateurs link nouveaux locaux agence tunisienne formation professionnelle stage societe tunisienne electricite gaz steg mars 2011 avril 2011 stage tunisie tunisie supervision reseau electrique systeme scada diagnostic defauts majeurs critiques assistance equipes travaillant terrain competences permis conduire b languages competences informatique telecommunications connaissances informatique initiation cloud permis conduire b arabe francais tres bien parle ecrit anglais tres bien parle ecrit espagnol tres bien parle ecrit italien ecole niveau a2 connaissance approfondie reseaux mobiles gsm gprs umts lte xes rtc dect fwba architecture sous systeme connaissance transmission systemes radio satellite transmission bre optique u2000 pdh technologie transmission multiplexage sdh ipmpls routeurs cisco cisco nexus cisco aci cisco asr9001 management equipe system dos windows linux dubian software excel word access power point language programs pascal java ip protocols osi model sql cloud computing cloud vmware hyperv server 2 4cv cree https www doyoubuzz com fr formations troubleshooting ooredoo academy depuis mars 2016 netact nss bss troubleshooting 2016 reexologie culture formation paris janvier 2020 juillet 2020 ingenieur systeme information central university septembre 2015 avril 2017 mpr nokia academy avril 2016 9500 mpr r5 1 etsi full indoor node mss 1 mss 4 mss 8 fonctionnel materiel 9500 mpr noeud marche mondial r6 0 mss 0 mss 1 mss 4 mss 8 ran ooredoo academy mars 2015 2015 singleran gu r15 r17 1 delta new feature itil 2014 2014 itil foundation v3 ip mpls ooredoo academy mars 2014 2014 reseaux ip mpls architecture ligne xe nss ooredoo academy 2013 r4 essentials administration senior telecommunications technician iset com septembre 2008 juin 2011 technicien superieur infrastructure reseau acces notez bien baccalaureat secondary school hannibal ariana septembre 2007 juin 2008 bac mathematics centres interet sorties red cross tunisia sorties health social services 3 4cv cree https www doyoubuzz com fr sport sport voyages travel 4 4cv cree https www doyoubuzz com fr
+mobile_number: 0021620174
+email: hakim.benkhalfa@gmail.com
+skills: ['Excel', 'Facebook', 'Administration', 'Telecom', 'Access', 'Cloud', 'Word', 'System', 'Itil', 'Communication', 'Sql', 'Troubleshooting', 'Mis', 'Linux', 'Travel', 'Lan', 'Installation', 'Protocols', 'Mathematics', 'Health', 'Architecture', 'Kpi', 'Vmware', 'C', 'Windows', 'Java', 'Cisco']
+skills_text: Excel Facebook Administration Telecom Access Cloud Word System Itil Communication Sql Troubleshooting Mis Linux Travel Lan Installation Protocols Mathematics Health Architecture Kpi Vmware C Windows Java Cisco
+Category: IT

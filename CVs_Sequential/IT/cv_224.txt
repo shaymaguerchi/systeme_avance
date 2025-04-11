@@ -1,0 +1,223 @@
+=== CV 224 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+High School Graduate, Class of 2011
+
+
+Amani Mhadhbi
+
+Comment me joindre ?
+
+Numéro télephone
+
+Email:
+
+Linkedin: 
+
+Adresse
+
+(+216)  94.609.674 
+
+amani.mhadhbi@esprit.tn
+
+https://www.linkedin.com/in/amani
+-mhadhbi-a569b8160/
+
+Bouargoub Nabeul – 8040 – Tunisie
+
+COMPETENCES
+
+Languages de Programmation
+
+Logiciels:
+
+C#, ASP.NET ,JavaScript, HTML/CSS,
+Python,R,JEE,Java,Symphony 3
+
+Visual Studio,Eclipse,Netbeans,Talend,
+Power BI,Rstudio,SQL Server Management
+Studio (SSIS,SSAS,SSRS) ,SQL Server Data
+Tools
+
+PROJETS ACADEMIQUES
+
+Janvier 2018 - Mai 2018
+
+October 2019- Décembre 2019
+
+Développement d'une plate-forme
+Web, bureautique et mobile appelée
+Techevent utilisant Symfony 3, Java 
+ et Codename One 
+
+EXPERIENCES PROFESSIONNELLES 
+
+FORMATIONS 
+2014 
+
+                2014 – 2018 
+
+l’Institut Supérieur des Technologies
+ de l’Information et de la 
+Communication à Borj Cédria
+
+Baccalauréat Sciences   
+ Informatique
+
+Licence Fondamentale en
+science de l’informatique 
+
+Lycée Secondaire Bouargoub 
+
+                2018 – 2020 
+Ingénieur Informatique, Business Intelligence
+
+Ecole Supérieure Privée d'Ingénierie
+et de Technologies - ESPRIT
+
+Emplois Saisonniers
+01/07/2016- 12/09/2016
+       Poste Tunisienne
+
+Effectuer tous les opérations du guichet
+
+Stage d'été
+01/08/2017-31/08/ 2017                     
+ Tunisie Télécom  
+
+Rattachements de nouvelles abonnées aux réglettes ADSL suite leurs
+abonnements au service internet. 
+Essais des abonnés ADSL, suite réclamation par FSI (fournisseurs
+d’accès internet) : débit, qualité ligne, synchronisation. 
+ Interventions rapide en cas d’anomalies dans le MSC ou les BSC en
+collaboration avec le centre OMC-Radio de Tunis –Nabeul. 
+Suivi de la mise en service et l’intégration de nouvelles stations BTS au
+niveau des BSC. 
+
+Développeur Web 
+01/01/2018- 30/04/2018 
+Smart e-Tech 
+
+Développement frontend + Backend d’un site ecommerce CMS: Magento
+/ ERP: ODOO
+Technologies principales: • HTML5, Python, php, CSS3, MySQL 
+
+Mise en place d'un réseau
+professionnel comportant une
+plateforme pour la gestion et suivi
+des entretiens d'embauche et
+recrutement utilisant ASP.NET et JEE
+
+Novembre 2017- Décembre 2017
+
+Développement d'une application
+Web J2EE pour Planification de
+mariage 
+
+SGBD 
+Oracle, SQL Server,
+MYSQL,PostGreSQL,MongoDB
+
+Languages:
+Script Shell, PL SQL, SQL,NoSQL
+
+BIG Data :
+Hadoop, HDFS, Hive, MapReduce, YARN
+
+Méthode d’analyse:
+UML
+
+IBM Africa Skills Academy
+Mai 2018 
+
+ BIGDATA DEVELOPER MASTERY AWARD CERTIFICATE 
+*Sens des responsabilités    *Goût du défi   *Ponctualité
+*Travail d’équipe ou coopération     *Capacité d’écoute
+et d'adaptation          *Esprit de synthèse       *Flexibilité
+
+CERTIFICATIONS COMPÉTENCES PERSONNELLES 
+
+   LANGUAGES
+*Français                 * Anglais                *Arabe native 
+
+Janvier 2020 -Mai 2020
+Projet proposé par MSSOLUTION :
+
+ Mise en place d'un systéme de
+classification des banques  par
+opération ,opérateur,fortune,les cartes
+monétiques de la banque...utilisant ETL
+(Talend),  Dashbording (Power BI), des
+algorithmes DATA MINING (ACP,
+kMEANS,CAH,kNN,SVM,Arbre de
+décision)
+
+Elève Ingénieur en Business Intelligence
+A la Recherche d'un stage d'été
+
+PROFIL
+   Bien que mon éveil technologique
+ne soit qu'à son aube, ma rigueur et
+ma curiosité ne cesse de me
+propulser vers de nouvelles
+découvertes. Mon esprit analytique
+font du Business Intelligence la
+meilleure parmi ces trouvailles et la
+vocation à laquelle je me voue avec
+tant d'enthousiasme.
+
+
+
+cleaned_text: high school graduate class 2011 amani mhadhbi comment joindre numero telephone email linkedin adresse 216 94 609 674 amani mhadhbi esprit tn https www linkedin com amani mhadhbi a569b8160 bouargoub nabeul 8040 tunisie competences languages programmation logiciels asp net javascript html css python r jee java symphony 3 visual studio eclipse netbeans talend power bi rstudio sql server management studio ssis ssas ssrs sql server data tools projets academiques janvier 2018 mai 2018 october 2019 decembre 2019 developpement plate forme web bureautique mobile appelee techevent utilisant symfony 3 java codename one experiences professionnelles formations 2014 2014 2018 institut superieur technologies information communication borj cedria baccalaureat sciences informatique licence fondamentale science informatique lycee secondaire bouargoub 2018 2020 ingenieur informatique business intelligence ecole superieure privee ingenierie technologies esprit emplois saisonniers 01 07 2016 12 09 2016 poste tunisienne effectuer tous operations guichet stage ete 01 08 2017 31 08 2017 tunisie telecom rattachements nouvelles abonnees reglettes adsl suite leurs abonnements service internet essais abonnes adsl suite reclamation fsi fournisseurs acces internet debit qualite ligne synchronisation interventions rapide cas anomalies msc bsc collaboration centre omc radio tunis nabeul suivi mise service integration nouvelles stations bts niveau bsc developpeur web 01 01 2018 30 04 2018 smart e tech developpement frontend backend site ecommerce cms magento erp odoo technologies principales html5 python php css3 mysql mise place reseau professionnel comportant plateforme gestion suivi entretiens embauche recrutement utilisant asp net jee novembre 2017 decembre 2017 developpement application web j2ee planification mariage sgbd oracle sql server mysql postgresql mongodb languages script shell pl sql sql nosql big data hadoop hdfs hive mapreduce yarn methode analyse uml ibm africa skills academy mai 2018 bigdata developer mastery award certificate sens responsabilites gout defi ponctualite travail equipe cooperation capacite ecoute adaptation esprit synthese flexibilite certifications competences personnelles languages francais anglais arabe native janvier 2020 mai 2020 projet propose mssolution mise place systeme classification banques operation operateur fortune cartes monetiques banque utilisant etl talend dashbording power bi algorithmes data mining acp kmeans cah knn svm arbre decision eleve ingenieur business intelligence recherche stage ete profil bien eveil technologique aube rigueur curiosite cesse propulser vers nouvelles decouvertes esprit analytique font business intelligence meilleure parmi trouvailles vocation laquelle voue tant enthousiasme
+mobile_number: 0
+email: amani.mhadhbi@esprit.tn
+skills: ['Php', 'Ibm', 'Big data', 'Mobile', 'Cms', 'Mysql', 'Html', 'Shell', 'Hadoop', 'Ecommerce', 'Oracle', 'Communication', 'Javascript', 'Etl', 'Email', 'Sql', 'Css', 'Nosql', 'Html5', 'Visual', 'Python', 'R', 'Sql server', 'Postgresql', 'Hive', 'Mining', 'C', 'Erp', 'Java']
+skills_text: Php Ibm Big data Mobile Cms Mysql Html Shell Hadoop Ecommerce Oracle Communication Javascript Etl Email Sql Css Nosql Html5 Visual Python R Sql server Postgresql Hive Mining C Erp Java
+Category: IT

@@ -1,0 +1,8 @@
+=== CV 894 ===
+text: Laura Fontaine
+cleaned_text: laura fontaine cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 23324329
+email: laura.fontaine@example.com
+skills: ['Linux', 'Adobe', 'Finance']
+skills_text: Linux Adobe Finance
+Category: Marketing

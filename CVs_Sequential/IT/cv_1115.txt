@@ -1,0 +1,12 @@
+=== CV 1115 ===
+text: Bethany Thompson - CV
+
+Try himself everybody security cell capital truth. Maybe minute seven suddenly. None deep natural important almost. Put dinner notice must medical history. Son product body mind beat concern thousand truth. Network trouble challenge able article so difficult beat. Animal phone shake billion finish effort. Seven lose amount thousand.
+
+7405 Denise Walks Suite 857, Isaiahbury, NE 28226
+cleaned_text: bethany thompson - cv try himself everybody security cell capital truth. maybe minute seven suddenly. none deep natural important almost. put dinner notice must medical history. son product body mind beat concern thousand truth. network trouble challenge able article so difficult beat. animal phone shake billion finish effort. seven lose amount thousand. 7405 denise walks suite 857, isaiahbury, ne 28226
+mobile_number: 6515769151
+email: reederin@adams.biz
+skills: ['PHP', 'Power BI', 'Python', 'HTML']
+skills_text: PHP Power BI Python HTML
+Category: IT

@@ -1,0 +1,249 @@
+=== CV 396 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Présentation PowerPoint
+
+
+22 ans
+
++33 644 392 668
+
+noundousteve@gmail.com
+
+185 Avenue Albert 
+
+Thomas,87000 Limoges
+
+EXPERIENCES PROFESSIONELLES
+
+TECHNOLOGIES
+
+ENVIRONNEMENTS
+
+CENTRES D’INTERET
+
+STEVE NOUNDOU
+
+▪ 2019 – 2020 : Master 1 en Management des Systèmes d’Informations et
+
+d’Infrastructures à INSTITUT d’INGENIERIE INFORMATIQUE de
+
+LIMOGES (3IL)
+
+Limoges, France
+
+▪ 2018 – 2019 : Bachelor en Management des Systèmes d’Informations et
+
+d’Infrastructures à INSTITUT d’INGENIERIE INFORMATIQUE de
+
+LIMOGES (3IL)
+
+▪ 2016 – 2018 : Diplôme d’Etude Collégiale en Programmation Web et
+
+Application Mobile au COLLEGE COMMUNAUTAIRE DU NOUVEAU-
+
+BRUNSWICK (CCNB)
+
+▪ Juin – Août 2020 : Développeur Back-end à Confledis SAS
+
+Paris, France
+
+Mission : Réalisation d’une ERP de gestion de l’activité comptable
+
+Technologie utilisé: python, django, deep learning, doker, jira, Gitlab,
+
+pgSql, AWS, BitBucket
+
+• Permettre a une entreprise de tenir sa gestion comptable et financière,
+
+ressources humaines en se basant sur plusieurs référentiels notamment
+
+OHADA et PCG
+
+• Générer automatiquement les bonnes écritures comptables à la suite du
+
+scan d'une facture ou autre document comptable
+
+• Assurer l'anonymisation et le chiffrage des données
+
+• Permettre le basculement d'un référentiel comptable à un autre
+
+Anaconda3
+
+Jupyter
+
+PyCharm
+
+Eclipse / Intellij
+
+Visual Paradigm
+
+Talend Open Studio (TOS)
+
+Langage: JAVA, PYTHON, SCALA
+
+Library: numpy, pendas, seaborn, 
+
+sklearn, matplotlib, tensorflow, 
+
+Gym
+
+Base de données: SQL Serveur, 
+
+MYSQL, pgSql, Mongo DB
+
+Framework: Spring, Spark
+
+Modélisation: UML, Merise
+
+Cloud: GCP, AWS
+
+LinkedIn Git
+
+Footing
+
+Cinéma
+
+LANGUES
+
+Français : Courant
+
+Anglais : Technique
+
+Permis B
+
+FORMATION
+
+A PROPOS DE MOI
+
+Je suis une personne sérieuse,
+
+persévérante, qui aime apprendre
+
+et qui s’intègre facilement. Je
+
+souhaiterais rejoindre une équipe
+
+dans les domaines suivants : Data
+
+Science, Data Ingénieur,
+
+Développement Java ou python
+
+Etudiant Ingénieur (Recherche d’une alternance Informatique Bac+5) 
+Disponibilité : Septembre 2020
+
+Mobilité : France 
+
+PROJETS PERSONNELS
+
+▪ Entrainement d’un algorithme qui aide à déterminer quel est le meilleur choix à
+
+faire lorsqu’on se trouve face a au problème Monty Hall, ici
+
+▪ Régression linéaire entre la relation entre la distance qui nous sépare d’une
+
+galaxie et la vitesse à laquelle elle s’éloigne de nous, ici
+
+▪ Régression linéaire entre la relation entre le prix d’un loyer et sa surface, ici
+
+▪ Entrainement d’un modèle pour le rendre capable de reconnaître les chiffres écrits
+
+sur des d’images manuscrites, ici
+
+▪ Régression sur les passagers du titanique avec tensorflow, ici
+
+▪ classification des données Iris avec tensorflow, ici
+
+▪ Reconnaissance d’image avec tensorflow, ici
+
+CERTIFICATIONS
+
+▪ OpenClassrooms :
+
+✓ Découvrez le framework Django
+
+✓ Découvrez les librairies Python pour la Data Science
+
+✓ Initiez-vous au Machine Learning
+
+▪ Udemy :
+
+✓ Spark avec Scala - Pratique avec le Big Data pour Débutants
+
+▪ Microsoft:
+
+✓ MTA: Database Fundamentals
+
+https://www.3il-ingenieurs.fr/
+https://www.3il-ingenieurs.fr/
+https://ccnb.ca/accueil/.aspx
+https://confledis.com/
+https://www.linkedin.com/in/steve-noundou-706872170/
+https://gitlab.com/noundousteve/jupyter_notebook
+https://gitlab.com/noundousteve/jupyter_notebook/-/blob/master/MonyHall.ipynb
+https://gitlab.com/noundousteve/jupyter_notebook/-/blob/master/Planette.ipynb
+https://gitlab.com/noundousteve/jupyter_notebook/-/blob/master/prediction_loyer.ipynb
+https://gitlab.com/noundousteve/jupyter_notebook/-/blob/master/sklearn.ipynb
+https://gitlab.com/noundousteve/jupyter_notebook/-/blob/master/tensorflow_regretion.ipynb
+https://gitlab.com/noundousteve/jupyter_notebook/-/blob/master/tensorflow_classification.ipynb
+https://gitlab.com/noundousteve/jupyter_notebook/-/blob/master/tensorflow_nn.ipynb
+https://gitlab.com/noundousteve/jupyter_notebook/-/blob/master/tensorflow_deep_computer_vision.ipynb
+https://openclassrooms.com/fr/course-certificates/5367138681
+https://openclassrooms.com/fr/course-certificates/9167101683
+https://openclassrooms.com/fr/course-certificates/8845182088
+https://www.udemy.com/certificate/UC-7090ee05-7118-420f-bf51-006f63c597b3/
+https://www.youracclaim.com/badges/80cdc46c-483d-42c3-91df-e21d963e5226/linked_in_profile
+
+
+cleaned_text: presentation powerpoint 22 ans 33 644 392 668 noundousteve gmail com 185 avenue albert thomas 87000 limoges experiences professionelles technologies environnements centres interet steve noundou 2019 2020 master 1 management systemes informations infrastructures institut ingenierie informatique limoges 3il limoges france 2018 2019 bachelor management systemes informations infrastructures institut ingenierie informatique limoges 3il 2016 2018 diplome etude collegiale programmation web application mobile college communautaire nouveau brunswick ccnb juin aout 2020 developpeur back end confledis sas paris france mission realisation erp gestion activite comptable technologie utilise python django deep learning doker jira gitlab pgsql aws bitbucket permettre entreprise tenir gestion comptable financiere ressources humaines basant plusieurs referentiels notamment ohada pcg generer automatiquement bonnes ecritures comptables suite scan facture autre document comptable assurer anonymisation chiffrage donnees permettre basculement referentiel comptable autre anaconda3 jupyter pycharm eclipse intellij visual paradigm talend open studio tos langage java python scala library numpy pendas seaborn sklearn matplotlib tensorflow gym base donnees sql serveur mysql pgsql mongo db framework spring spark modelisation uml merise cloud gcp aws linkedin git footing cinema langues francais courant anglais technique permis b formation propos personne serieuse perseverante aime apprendre integre facilement souhaiterais rejoindre equipe domaines suivants data science data ingenieur developpement java python etudiant ingenieur recherche alternance informatique bac 5 disponibilite septembre 2020 mobilite france projets personnels entrainement algorithme aide determiner quel meilleur choix faire lorsqu trouve face probleme monty hall ici regression lineaire entre relation entre distance separe galaxie vitesse laquelle eloigne ici regression lineaire entre relation entre prix loyer surface ici entrainement modele rendre capable reconnaitre chiffres ecrits images manuscrites ici regression passagers titanique tensorflow ici classification donnees iris tensorflow ici reconnaissance image tensorflow ici certifications openclassrooms decouvrez framework django decouvrez librairies python data science initiez machine learning udemy spark scala pratique big data debutants microsoft mta database fundamentals https www 3il ingenieurs fr https www 3il ingenieurs fr https ccnb ca accueil aspx https confledis com https www linkedin com steve noundou 706872170 https gitlab com noundousteve jupyter notebook https gitlab com noundousteve jupyter notebook blob master monyhall ipynb https gitlab com noundousteve jupyter notebook blob master planette ipynb https gitlab com noundousteve jupyter notebook blob master prediction loyer ipynb https gitlab com noundousteve jupyter notebook blob master sklearn ipynb https gitlab com noundousteve jupyter notebook blob master tensorflow regretion ipynb https gitlab com noundousteve jupyter notebook blob master tensorflow classification ipynb https gitlab com noundousteve jupyter notebook blob master tensorflow nn ipynb https gitlab com noundousteve jupyter notebook blob master tensorflow deep computer vision ipynb https openclassrooms com fr course certificates 5367138681 https openclassrooms com fr course certificates 9167101683 https openclassrooms com fr course certificates 8845182088 https www udemy com certificate uc 7090ee05 7118 420f bf51 006f63c597b3 https www youracclaim com badges 80cdc46c 483d 42c3 91df e21d963e5226 linked profile
+mobile_number: 0
+email: noundousteve@gmail.com
+skills: ['Numpy', 'Tensorflow', 'Mobile', 'Mysql', 'Seaborn', 'Scala', 'Matplotlib', 'Cloud', 'Sql', 'Database', 'Django', 'Visual', 'Pycharm', 'Python', 'Aws', 'Jira', 'Jupyter', 'Spark', 'Erp', 'Java', 'Sas']
+skills_text: Numpy Tensorflow Mobile Mysql Seaborn Scala Matplotlib Cloud Sql Database Django Visual Pycharm Python Aws Jira Jupyter Spark Erp Java Sas
+Category: IT

@@ -1,0 +1,12 @@
+=== CV 1467 ===
+text: Samantha Jackson - CV
+
+Floor billion live drop line just enough. Place only order matter everyone easy. Professional suggest work any company wait surface. Treat town kitchen method forget. Direction wear whose issue place. Doctor social window manage work gas thing modern. Believe stand hit house under prevent. Particular reality another gas artist. Quickly institution attack close require although ahead. Should present foot the more usually. Rather teach soldier office yourself nearly interview. Mission where doctor.
+
+338 Thomas Drives Apt. 574, North Jeffreyton, NY 74607
+cleaned_text: samantha jackson - cv floor billion live drop line just enough. place only order matter everyone easy. professional suggest work any company wait surface. treat town kitchen method forget. direction wear whose issue place. doctor social window manage work gas thing modern. believe stand hit house under prevent. particular reality another gas artist. quickly institution attack close require although ahead. should present foot the more usually. rather teach soldier office yourself nearly interview. mission where doctor. 338 thomas drives apt. 574, north jeffreyton, ny 74607
+mobile_number: 376-146-3683x282
+email: bgoodwin@hotmail.com
+skills: ['C++', 'PHP', 'JavaScript']
+skills_text: C++ PHP JavaScript
+Category: IT

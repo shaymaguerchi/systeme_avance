@@ -1,0 +1,8 @@
+=== CV 807 ===
+text: Laura Lambert
+cleaned_text: laura lambert cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 94910420
+email: laura.lambert@example.com
+skills: ['Marketing', 'CSS', 'Windows', 'Python', 'Adobe']
+skills_text: Marketing CSS Windows Python Adobe
+Category: Administration

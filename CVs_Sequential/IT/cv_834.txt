@@ -1,0 +1,8 @@
+=== CV 834 ===
+text: Mohamed Boussaid
+cleaned_text: mohamed boussaid cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 89649784
+email: mohamed.boussaid@example.com
+skills: ['Adobe', 'Java', 'Management', 'CSS']
+skills_text: Adobe Java Management CSS
+Category: IT

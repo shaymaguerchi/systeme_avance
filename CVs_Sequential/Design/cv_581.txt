@@ -1,0 +1,8 @@
+=== CV 581 ===
+text: Mohamed Dupont
+cleaned_text: mohamed dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 69935776
+email: mohamed.dupont@example.com
+skills: ['HTML', 'Management', 'Marketing']
+skills_text: HTML Management Marketing
+Category: Design

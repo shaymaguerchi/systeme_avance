@@ -1,0 +1,403 @@
+=== CV 130 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rapport Qaulité
+
+
+
+
+
+
+
+Liste De Qualités Par Agent
+
+Agent Operation Site Score Superviseur
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 0% Khaled ZIDI 
+
+Ahmed AYARI Affinicia Centre Urbain Nord 86.11% Hanen SELMI 
+
+Salma JERBI Affinicia Centre Urbain Nord 88.89% Hanen SELMI 
+
+Seif MESSAOUD Affinicia Centre Urbain Nord 88.89% Hanen SELMI 
+
+Arwa YOUNSI Affinicia Centre Urbain Nord 91.67% Khaled ZIDI 
+
+Aymen JABALLAH Affinicia Centre Urbain Nord 97.22% Ibtissem BELHEDI 
+
+MALEK RAIS Affinicia Centre Urbain Nord 94.44% Ibtissem BELHEDI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 82.35% Hanen SELMI 
+
+Safa SAID Affinicia Centre Urbain Nord 97.22% Khaled ZIDI 
+
+Ons AOUIDIDI Affinicia Centre Urbain Nord 80.56% Hanen SELMI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 85.29% Khaled ZIDI 
+
+Imen MAKHLOUF Affinicia Centre Urbain Nord 76.47% Hanen SELMI 
+
+Neyla FERCHICHI Affinicia Centre Urbain Nord 76.47% Hanen SELMI 
+
+Jihene BOUROUGAA Affinicia Centre Urbain Nord 86.11% Khaled ZIDI 
+
+Ons AOUIDIDI Affinicia Centre Urbain Nord 0% Ibtissem BELHEDI 
+
+
+
+Agent Operation Site Score Superviseur
+
+MALEK RAIS Affinicia Centre Urbain Nord 79.41% Hanen SELMI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 91.67% Khaled ZIDI 
+
+Rania MAMLOUK Affinicia Centre Urbain Nord 91.18% Ibtissem BELHEDI 
+
+Neyla FERCHICHI Affinicia Centre Urbain Nord 86.11% Khaled ZIDI 
+
+Aymen JABALLAH Affinicia Centre Urbain Nord 91.67% Hanen SELMI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 86.11% Khaled ZIDI 
+
+Safa SAID Affinicia Centre Urbain Nord 85.29% Hanen SELMI 
+
+Arwa YOUNSI Affinicia Centre Urbain Nord 88.24% Khaled ZIDI 
+
+Seif MESSAOUD Affinicia Centre Urbain Nord 97.22% Ibtissem BELHEDI 
+
+Arwa YOUNSI Affinicia Centre Urbain Nord 70.59% Hanen SELMI 
+
+MANEL NAWEL BOUZIDI Affinicia Centre Urbain Nord 80.56% Khaled ZIDI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 83.33% Khaled ZIDI 
+
+Darine BEN AISSA Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 91.67% Khaled ZIDI 
+
+Neyla FERCHICHI Affinicia Centre Urbain Nord 85.29% Hanen SELMI 
+
+Myriam STILI Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+Salma JERBI Affinicia Centre Urbain Nord 82.35% Hanen SELMI 
+
+
+
+Agent Operation Site Score Superviseur
+
+Imen MAKHLOUF Affinicia Centre Urbain Nord 0% Ibtissem BELHEDI 
+
+Neyla FERCHICHI Affinicia Centre Urbain Nord 91.67% Khaled ZIDI 
+
+Seif MESSAOUD Affinicia Centre Urbain Nord 97.22% Ibtissem BELHEDI 
+
+MANEL NAWEL BOUZIDI Affinicia Centre Urbain Nord 86.11% Khaled ZIDI 
+
+Myriam STILI Affinicia Centre Urbain Nord 88.24% Ibtissem BELHEDI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 91.67% Khaled ZIDI 
+
+Arwa YOUNSI Affinicia Centre Urbain Nord 73.53% Hanen SELMI 
+
+Safa SAID Affinicia Centre Urbain Nord 88.89% Khaled ZIDI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+MANEL NAWEL BOUZIDI Affinicia Centre Urbain Nord 66.67% Hanen SELMI 
+
+Rania MAMLOUK Affinicia Centre Urbain Nord 82.35% Hanen SELMI 
+
+Jihene BOUROUGAA Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+Arwa YOUNSI Affinicia Centre Urbain Nord 88.24% Khaled ZIDI 
+
+Darine BEN AISSA Affinicia Centre Urbain Nord 79.41% Khaled ZIDI 
+
+MALEK RAIS Affinicia Centre Urbain Nord 94.44% Ibtissem BELHEDI 
+
+MANEL NAWEL BOUZIDI Affinicia Centre Urbain Nord 85.29% Khaled ZIDI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 97.22% Khaled ZIDI 
+
+
+
+Agent Operation Site Score Superviseur
+
+Myriam STILI Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 91.67% Khaled ZIDI 
+
+Ibtissem BELHEDI Affinicia Centre Urbain Nord 83.33% Hanen SELMI 
+
+Ibtissem BELHEDI Affinicia Centre Urbain Nord 86.11% Hanen SELMI 
+
+Jihene BOUROUGAA Affinicia Centre Urbain Nord 72.22% Khaled ZIDI 
+
+Ibtissem BELHEDI Affinicia Centre Urbain Nord 91.67% Hanen SELMI 
+
+Ibtissem BELHEDI Affinicia Centre Urbain Nord 91.67% Hanen SELMI 
+
+Safa SAID Affinicia Centre Urbain Nord 88.89% Khaled ZIDI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 94.44% Khaled ZIDI 
+
+Neira ZOUARI Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+Myriam STILI Affinicia Centre Urbain Nord 61.11% Ibtissem BELHEDI 
+
+Arwa YOUNSI Affinicia Centre Urbain Nord 94.44% Khaled ZIDI 
+
+Jihene BOUROUGAA Affinicia Centre Urbain Nord 72.22% Khaled ZIDI 
+
+Safa SAID Affinicia Centre Urbain Nord 86.11% Hanen SELMI 
+
+Ons AOUIDIDI Affinicia Centre Urbain Nord 88.89% Hanen SELMI 
+
+Aymen ACHOURI Affinicia Centre Urbain Nord 85.29% Hanen SELMI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 86.11% Khaled ZIDI 
+
+
+
+Agent Operation Site Score Superviseur
+
+Darine BEN AISSA Affinicia Centre Urbain Nord 86.11% Khaled ZIDI 
+
+Souhé CHOUARI Affinicia Centre Urbain Nord 76.47% Hanen SELMI 
+
+Seif MESSAOUD Affinicia Centre Urbain Nord 82.35% Hanen SELMI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 86.11% Hanen SELMI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 0% Khaled ZIDI 
+
+MALEK RAIS Affinicia Centre Urbain Nord 97.22% Ibtissem BELHEDI 
+
+Imen MAKHLOUF Affinicia Centre Urbain Nord 79.41% Hanen SELMI 
+
+Aymen ACHOURI Affinicia Centre Urbain Nord 94.44% Ibtissem BELHEDI 
+
+Darine BEN AISSA Affinicia Centre Urbain Nord 82.35% Hanen SELMI 
+
+Ons AOUIDIDI Affinicia Centre Urbain Nord 86.11% Hanen SELMI 
+
+Seif MESSAOUD Affinicia Centre Urbain Nord 82.35% Hanen SELMI 
+
+Neira ZOUARI Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+Aymen JABALLAH Affinicia Centre Urbain Nord 88.89% Hanen SELMI 
+
+MALEK RAIS Affinicia Centre Urbain Nord 86.11% Hanen SELMI 
+
+Arwa YOUNSI Affinicia Centre Urbain Nord 91.67% Khaled ZIDI 
+
+Darine BEN AISSA Affinicia Centre Urbain Nord 85.29% Khaled ZIDI 
+
+
+
+Agent Operation Site Score Superviseur
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 94.44% Khaled ZIDI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 85.29% Khaled ZIDI 
+
+Safa SAID Affinicia Centre Urbain Nord 88.89% Khaled ZIDI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 100.00% Khaled ZIDI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 77.78% Khaled ZIDI 
+
+Ons AOUIDIDI Affinicia Centre Urbain Nord 0% Ibtissem BELHEDI 
+
+Arwa YOUNSI Affinicia Centre Urbain Nord 82.35% Khaled ZIDI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 85.29% Khaled ZIDI 
+
+Darine BEN AISSA Affinicia Centre Urbain Nord 73.53% Khaled ZIDI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 94.44% Khaled ZIDI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 79.41% Khaled ZIDI 
+
+Safa SAID Affinicia Centre Urbain Nord 88.89% Khaled ZIDI 
+
+Rania MAMLOUK Affinicia Centre Urbain Nord 97.22% Ibtissem BELHEDI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 91.67% Khaled ZIDI 
+
+Souhé CHOUARI Affinicia Centre Urbain Nord 85.29% Hanen SELMI 
+
+Safa SAID Affinicia Centre Urbain Nord 94.44% Khaled ZIDI 
+
+Aymen JABALLAH Affinicia Centre Urbain Nord 91.67% Ibtissem BELHEDI 
+
+
+
+Agent Operation Site Score Superviseur
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 0% Khaled ZIDI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 100.00% Khaled ZIDI 
+
+Safa SAID Affinicia Centre Urbain Nord 86.11% Khaled ZIDI 
+
+Arwa YOUNSI Affinicia Centre Urbain Nord 70.59% Hanen SELMI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 86.11% Khaled ZIDI 
+
+Myriam STILI Affinicia Centre Urbain Nord 76.47% Hanen SELMI 
+
+Darine BEN AISSA Affinicia Centre Urbain Nord 86.11% Hanen SELMI 
+
+Darine BEN AISSA Affinicia Centre Urbain Nord 82.35% Khaled ZIDI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 83.33% Khaled ZIDI 
+
+Seif MESSAOUD Affinicia Centre Urbain Nord 85.29% Hanen SELMI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 80.56% Khaled ZIDI 
+
+Imen MAKHLOUF Affinicia Centre Urbain Nord 91.67% Ibtissem BELHEDI 
+
+Arwa YOUNSI Affinicia Centre Urbain Nord 91.67% Khaled ZIDI 
+
+Safa SAID Affinicia Centre Urbain Nord 83.33% Hanen SELMI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+Aymen JABALLAH Affinicia Centre Urbain Nord 91.67% Hanen SELMI 
+
+Darine BEN AISSA Affinicia Centre Urbain Nord 83.33% Khaled ZIDI 
+
+
+
+Agent Operation Site Score Superviseur
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 0% Khaled ZIDI 
+
+Myriam STILI Affinicia Centre Urbain Nord 0% Ibtissem BELHEDI 
+
+Safa SAID Affinicia Centre Urbain Nord 76.47% Khaled ZIDI 
+
+Rania MAMLOUK Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 0% Khaled ZIDI 
+
+Darine BEN AISSA Affinicia Centre Urbain Nord 86.11% Khaled ZIDI 
+
+Seif MESSAOUD Affinicia Centre Urbain Nord 91.67% Hanen SELMI 
+
+Seif MESSAOUD Affinicia Centre Urbain Nord 0% Ibtissem BELHEDI 
+
+Safa SAID Affinicia Centre Urbain Nord 83.33% Hanen SELMI 
+
+Aymen JABALLAH Affinicia Centre Urbain Nord 94.44% Hanen SELMI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+Darine BEN AISSA Affinicia Centre Urbain Nord 82.35% Hanen SELMI 
+
+Arwa YOUNSI Affinicia Centre Urbain Nord 91.67% Khaled ZIDI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 100.00% Khaled ZIDI 
+
+Darine BEN AISSA Affinicia Centre Urbain Nord 85.29% Khaled ZIDI 
+
+Amani ZOUATNI Affinicia Centre Urbain Nord 91.67% Khaled ZIDI 
+
+
+
+Agent Operation Site Score Superviseur
+
+Safa SAID Affinicia Centre Urbain Nord 88.89% Khaled ZIDI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 94.44% Khaled ZIDI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 94.44% Khaled ZIDI 
+
+Aymen JABALLAH Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+Amani ZOUATNI Affinicia Centre Urbain Nord 0% Khaled ZIDI 
+
+Rania MAMLOUK Affinicia Centre Urbain Nord 91.67% Hanen SELMI 
+
+Arwa YOUNSI Affinicia Centre Urbain Nord 83.33% Khaled ZIDI 
+
+Safa SAID Affinicia Centre Urbain Nord 76.47% Hanen SELMI 
+
+Myriam STILI Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+Jihene JNAOUI Affinicia Centre Urbain Nord 86.11% Hanen SELMI 
+
+Arwa YOUNSI Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+Arwa YOUNSI Affinicia Centre Urbain Nord 86.11% Khaled ZIDI 
+
+Salma JERBI Affinicia Centre Urbain Nord 88.89% Hanen SELMI 
+
+Amani ZOUATNI Affinicia Centre Urbain Nord 86.11% Hanen SELMI 
+
+Ghada BELHEDI Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+CHEHIR TOUKABRI Affinicia Centre Urbain Nord 76.47% Hanen SELMI 
+
+Seif MESSAOUD Affinicia Centre Urbain Nord 86.11% Hanen SELMI 
+
+
+
+Agent Operation Site Score Superviseur
+
+Aymen JABALLAH Affinicia Centre Urbain Nord 91.67% Hanen SELMI 
+
+Rania MAMLOUK Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+Myriam STILI Affinicia Centre Urbain Nord 0% Hanen SELMI 
+
+
+
+cleaned_text: rapport qaulite liste qualites agent agent operation site score superviseur jihene jnaoui affinicia centre urbain nord 0 khaled zidi ahmed ayari affinicia centre urbain nord 86 11 hanen selmi salma jerbi affinicia centre urbain nord 88 89 hanen selmi seif messaoud affinicia centre urbain nord 88 89 hanen selmi arwa younsi affinicia centre urbain nord 91 67 khaled zidi aymen jaballah affinicia centre urbain nord 97 22 ibtissem belhedi malek rais affinicia centre urbain nord 94 44 ibtissem belhedi jihene jnaoui affinicia centre urbain nord 82 35 hanen selmi safa said affinicia centre urbain nord 97 22 khaled zidi ons aouididi affinicia centre urbain nord 80 56 hanen selmi jihene jnaoui affinicia centre urbain nord 85 29 khaled zidi imen makhlouf affinicia centre urbain nord 76 47 hanen selmi neyla ferchichi affinicia centre urbain nord 76 47 hanen selmi jihene bourougaa affinicia centre urbain nord 86 11 khaled zidi ons aouididi affinicia centre urbain nord 0 ibtissem belhedi agent operation site score superviseur malek rais affinicia centre urbain nord 79 41 hanen selmi ghada belhedi affinicia centre urbain nord 91 67 khaled zidi rania mamlouk affinicia centre urbain nord 91 18 ibtissem belhedi neyla ferchichi affinicia centre urbain nord 86 11 khaled zidi aymen jaballah affinicia centre urbain nord 91 67 hanen selmi jihene jnaoui affinicia centre urbain nord 86 11 khaled zidi safa said affinicia centre urbain nord 85 29 hanen selmi arwa younsi affinicia centre urbain nord 88 24 khaled zidi seif messaoud affinicia centre urbain nord 97 22 ibtissem belhedi arwa younsi affinicia centre urbain nord 70 59 hanen selmi manel nawel bouzidi affinicia centre urbain nord 80 56 khaled zidi jihene jnaoui affinicia centre urbain nord 83 33 khaled zidi darine ben aissa affinicia centre urbain nord 0 hanen selmi ghada belhedi affinicia centre urbain nord 91 67 khaled zidi neyla ferchichi affinicia centre urbain nord 85 29 hanen selmi myriam stili affinicia centre urbain nord 0 hanen selmi salma jerbi affinicia centre urbain nord 82 35 hanen selmi agent operation site score superviseur imen makhlouf affinicia centre urbain nord 0 ibtissem belhedi neyla ferchichi affinicia centre urbain nord 91 67 khaled zidi seif messaoud affinicia centre urbain nord 97 22 ibtissem belhedi manel nawel bouzidi affinicia centre urbain nord 86 11 khaled zidi myriam stili affinicia centre urbain nord 88 24 ibtissem belhedi jihene jnaoui affinicia centre urbain nord 91 67 khaled zidi arwa younsi affinicia centre urbain nord 73 53 hanen selmi safa said affinicia centre urbain nord 88 89 khaled zidi ghada belhedi affinicia centre urbain nord 0 hanen selmi manel nawel bouzidi affinicia centre urbain nord 66 67 hanen selmi rania mamlouk affinicia centre urbain nord 82 35 hanen selmi jihene bourougaa affinicia centre urbain nord 0 hanen selmi arwa younsi affinicia centre urbain nord 88 24 khaled zidi darine ben aissa affinicia centre urbain nord 79 41 khaled zidi malek rais affinicia centre urbain nord 94 44 ibtissem belhedi manel nawel bouzidi affinicia centre urbain nord 85 29 khaled zidi jihene jnaoui affinicia centre urbain nord 97 22 khaled zidi agent operation site score superviseur myriam stili affinicia centre urbain nord 0 hanen selmi jihene jnaoui affinicia centre urbain nord 91 67 khaled zidi ibtissem belhedi affinicia centre urbain nord 83 33 hanen selmi ibtissem belhedi affinicia centre urbain nord 86 11 hanen selmi jihene bourougaa affinicia centre urbain nord 72 22 khaled zidi ibtissem belhedi affinicia centre urbain nord 91 67 hanen selmi ibtissem belhedi affinicia centre urbain nord 91 67 hanen selmi safa said affinicia centre urbain nord 88 89 khaled zidi jihene jnaoui affinicia centre urbain nord 94 44 khaled zidi neira zouari affinicia centre urbain nord 0 hanen selmi myriam stili affinicia centre urbain nord 61 11 ibtissem belhedi arwa younsi affinicia centre urbain nord 94 44 khaled zidi jihene bourougaa affinicia centre urbain nord 72 22 khaled zidi safa said affinicia centre urbain nord 86 11 hanen selmi ons aouididi affinicia centre urbain nord 88 89 hanen selmi aymen achouri affinicia centre urbain nord 85 29 hanen selmi ghada belhedi affinicia centre urbain nord 86 11 khaled zidi agent operation site score superviseur darine ben aissa affinicia centre urbain nord 86 11 khaled zidi souhe chouari affinicia centre urbain nord 76 47 hanen selmi seif messaoud affinicia centre urbain nord 82 35 hanen selmi jihene jnaoui affinicia centre urbain nord 86 11 hanen selmi jihene jnaoui affinicia centre urbain nord 0 khaled zidi malek rais affinicia centre urbain nord 97 22 ibtissem belhedi imen makhlouf affinicia centre urbain nord 79 41 hanen selmi aymen achouri affinicia centre urbain nord 94 44 ibtissem belhedi darine ben aissa affinicia centre urbain nord 82 35 hanen selmi ons aouididi affinicia centre urbain nord 86 11 hanen selmi seif messaoud affinicia centre urbain nord 82 35 hanen selmi neira zouari affinicia centre urbain nord 0 hanen selmi ghada belhedi affinicia centre urbain nord 0 hanen selmi aymen jaballah affinicia centre urbain nord 88 89 hanen selmi malek rais affinicia centre urbain nord 86 11 hanen selmi arwa younsi affinicia centre urbain nord 91 67 khaled zidi darine ben aissa affinicia centre urbain nord 85 29 khaled zidi agent operation site score superviseur jihene jnaoui affinicia centre urbain nord 94 44 khaled zidi ghada belhedi affinicia centre urbain nord 85 29 khaled zidi safa said affinicia centre urbain nord 88 89 khaled zidi ghada belhedi affinicia centre urbain nord 100 00 khaled zidi jihene jnaoui affinicia centre urbain nord 77 78 khaled zidi ons aouididi affinicia centre urbain nord 0 ibtissem belhedi arwa younsi affinicia centre urbain nord 82 35 khaled zidi jihene jnaoui affinicia centre urbain nord 85 29 khaled zidi darine ben aissa affinicia centre urbain nord 73 53 khaled zidi ghada belhedi affinicia centre urbain nord 94 44 khaled zidi jihene jnaoui affinicia centre urbain nord 79 41 khaled zidi safa said affinicia centre urbain nord 88 89 khaled zidi rania mamlouk affinicia centre urbain nord 97 22 ibtissem belhedi ghada belhedi affinicia centre urbain nord 91 67 khaled zidi souhe chouari affinicia centre urbain nord 85 29 hanen selmi safa said affinicia centre urbain nord 94 44 khaled zidi aymen jaballah affinicia centre urbain nord 91 67 ibtissem belhedi agent operation site score superviseur jihene jnaoui affinicia centre urbain nord 0 khaled zidi ghada belhedi affinicia centre urbain nord 100 00 khaled zidi safa said affinicia centre urbain nord 86 11 khaled zidi arwa younsi affinicia centre urbain nord 70 59 hanen selmi jihene jnaoui affinicia centre urbain nord 86 11 khaled zidi myriam stili affinicia centre urbain nord 76 47 hanen selmi darine ben aissa affinicia centre urbain nord 86 11 hanen selmi darine ben aissa affinicia centre urbain nord 82 35 khaled zidi jihene jnaoui affinicia centre urbain nord 83 33 khaled zidi seif messaoud affinicia centre urbain nord 85 29 hanen selmi jihene jnaoui affinicia centre urbain nord 80 56 khaled zidi imen makhlouf affinicia centre urbain nord 91 67 ibtissem belhedi arwa younsi affinicia centre urbain nord 91 67 khaled zidi safa said affinicia centre urbain nord 83 33 hanen selmi ghada belhedi affinicia centre urbain nord 0 hanen selmi aymen jaballah affinicia centre urbain nord 91 67 hanen selmi darine ben aissa affinicia centre urbain nord 83 33 khaled zidi agent operation site score superviseur jihene jnaoui affinicia centre urbain nord 0 hanen selmi jihene jnaoui affinicia centre urbain nord 0 khaled zidi myriam stili affinicia centre urbain nord 0 ibtissem belhedi safa said affinicia centre urbain nord 76 47 khaled zidi rania mamlouk affinicia centre urbain nord 0 hanen selmi ghada belhedi affinicia centre urbain nord 0 khaled zidi darine ben aissa affinicia centre urbain nord 86 11 khaled zidi seif messaoud affinicia centre urbain nord 91 67 hanen selmi seif messaoud affinicia centre urbain nord 0 ibtissem belhedi safa said affinicia centre urbain nord 83 33 hanen selmi aymen jaballah affinicia centre urbain nord 94 44 hanen selmi ghada belhedi affinicia centre urbain nord 0 hanen selmi darine ben aissa affinicia centre urbain nord 82 35 hanen selmi arwa younsi affinicia centre urbain nord 91 67 khaled zidi ghada belhedi affinicia centre urbain nord 100 00 khaled zidi darine ben aissa affinicia centre urbain nord 85 29 khaled zidi amani zouatni affinicia centre urbain nord 91 67 khaled zidi agent operation site score superviseur safa said affinicia centre urbain nord 88 89 khaled zidi ghada belhedi affinicia centre urbain nord 94 44 khaled zidi jihene jnaoui affinicia centre urbain nord 94 44 khaled zidi aymen jaballah affinicia centre urbain nord 0 hanen selmi amani zouatni affinicia centre urbain nord 0 khaled zidi rania mamlouk affinicia centre urbain nord 91 67 hanen selmi arwa younsi affinicia centre urbain nord 83 33 khaled zidi safa said affinicia centre urbain nord 76 47 hanen selmi myriam stili affinicia centre urbain nord 0 hanen selmi jihene jnaoui affinicia centre urbain nord 86 11 hanen selmi arwa younsi affinicia centre urbain nord 0 hanen selmi arwa younsi affinicia centre urbain nord 86 11 khaled zidi salma jerbi affinicia centre urbain nord 88 89 hanen selmi amani zouatni affinicia centre urbain nord 86 11 hanen selmi ghada belhedi affinicia centre urbain nord 0 hanen selmi chehir toukabri affinicia centre urbain nord 76 47 hanen selmi seif messaoud affinicia centre urbain nord 86 11 hanen selmi agent operation site score superviseur aymen jaballah affinicia centre urbain nord 91 67 hanen selmi rania mamlouk affinicia centre urbain nord 0 hanen selmi myriam stili affinicia centre urbain nord 0 hanen selmi
+mobile_number: 0
+email: UNKNOWN
+skills: []
+skills_text: nan
+Category: Autres

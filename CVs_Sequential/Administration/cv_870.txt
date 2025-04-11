@@ -1,0 +1,8 @@
+=== CV 870 ===
+text: Karim Fontaine
+cleaned_text: karim fontaine cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 57514856
+email: karim.fontaine@example.com
+skills: ['Marketing', 'CSS', 'Windows', 'SQL']
+skills_text: Marketing CSS Windows SQL
+Category: Administration

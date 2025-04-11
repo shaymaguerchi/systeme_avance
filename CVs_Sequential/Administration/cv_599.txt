@@ -1,0 +1,8 @@
+=== CV 599 ===
+text: Hugo Moreau
+cleaned_text: hugo moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 34859022
+email: hugo.moreau@example.com
+skills: ['Adobe', 'Finance', 'CSS']
+skills_text: Adobe Finance CSS
+Category: Administration

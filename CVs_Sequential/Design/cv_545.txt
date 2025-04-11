@@ -1,0 +1,8 @@
+=== CV 545 ===
+text: Hugo Fontaine
+cleaned_text: hugo fontaine cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 64558094
+email: hugo.fontaine@example.com
+skills: ['CSS', 'C++', 'HTML', 'Finance', 'Linux']
+skills_text: CSS C++ HTML Finance Linux
+Category: Design

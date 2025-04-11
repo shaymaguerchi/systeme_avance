@@ -1,0 +1,8 @@
+=== CV 517 ===
+text: Isabelle Lefevre
+cleaned_text: isabelle lefevre cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 78961622
+email: isabelle.lefevre@example.com
+skills: ['Java', 'Finance', 'SQL', 'Marketing']
+skills_text: Java Finance SQL Marketing
+Category: IT

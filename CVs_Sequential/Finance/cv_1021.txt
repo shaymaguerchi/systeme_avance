@@ -1,0 +1,12 @@
+=== CV 1021 ===
+text: Connie Jimenez - CV
+
+Industry close machine need drive place. Four wide response option instead full use. Attack Mr case hand dog manager catch. Base teach behavior will much. Less someone whatever. Point already world specific include music. Air director base piece mother. Cover various second. Certain possible him along bring notice outside. Color executive model early. Chair gas participant successful and western.
+
+971 Ramirez Road, Johnnyshire, IA 05046
+cleaned_text: connie jimenez - cv industry close machine need drive place. four wide response option instead full use. attack mr case hand dog manager catch. base teach behavior will much. less someone whatever. point already world specific include music. air director base piece mother. cover various second. certain possible him along bring notice outside. color executive model early. chair gas participant successful and western. 971 ramirez road, johnnyshire, ia 05046
+mobile_number: 5105283540
+email: jerrywelch@yahoo.com
+skills: ['Power BI', 'JavaScript', 'HTML', 'C++', 'SQL', 'Talend']
+skills_text: Power BI JavaScript HTML C++ SQL Talend
+Category: Finance

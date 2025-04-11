@@ -1,0 +1,8 @@
+=== CV 542 ===
+text: Jean Roche
+cleaned_text: jean roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 95215618
+email: jean.roche@example.com
+skills: ['Marketing', 'C++', 'Windows', 'Java']
+skills_text: Marketing C++ Windows Java
+Category: Finance

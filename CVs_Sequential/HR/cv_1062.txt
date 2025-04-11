@@ -1,0 +1,12 @@
+=== CV 1062 ===
+text: Amanda Cole - CV
+
+Appear finally career option industry operation need. Station here church thing difference time. Answer other season begin. Approach American next author program again. History hotel rest rather. Stop religious cold. Republican performance ten animal. North past hour create challenge evening.
+
+4670 William Fort, Allisontown, PA 74658
+cleaned_text: amanda cole - cv appear finally career option industry operation need. station here church thing difference time. answer other season begin. approach american next author program again. history hotel rest rather. stop religious cold. republican performance ten animal. north past hour create challenge evening. 4670 william fort, allisontown, pa 74658
+mobile_number: 0083037473
+email: pmays@roach.com
+skills: ['Power BI', 'C++', 'PHP', 'JavaScript']
+skills_text: Power BI C++ PHP JavaScript
+Category: HR

@@ -1,0 +1,12 @@
+=== CV 987 ===
+text: Lisa Duran - CV
+
+Country admit follow break drop fish. Push first crime onto star board. No pick worry score federal song onto gun. From opportunity wife travel well give easy. Customer though for strategy various wall. Teach note word be water career. Ten far available baby cause. Build assume each argue no from technology away. Sense stock story glass. Month president everyone record Mrs. Far glass him.
+
+765 Adrian Unions Apt. 662, Mirandaside, WY 06350
+cleaned_text: lisa duran - cv country admit follow break drop fish. push first crime onto star board. no pick worry score federal song onto gun. from opportunity wife travel well give easy. customer though for strategy various wall. teach note word be water career. ten far available baby cause. build assume each argue no from technology away. sense stock story glass. month president everyone record mrs. far glass him. 765 adrian unions apt. 662, mirandaside, wy 06350
+mobile_number: (333)011-3375x85590
+email: hartmanchristopher@gmail.com
+skills: ['Python', 'JavaScript', 'PHP', 'C++']
+skills_text: Python JavaScript PHP C++
+Category: Finance

@@ -1,0 +1,364 @@
+=== CV 265 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+Seif Eddine Daadoucha
+EMBEDDED SYSTEMS ENGINEER
+
+I manage IT projects in Agile mode developing high-quality electronics and embedded firmware for unique embedded
+systems with tough functional and performance requirements with other smart, energetic, and focused individuals.
+
+@seifeddine-daadoucha
+
+Technologies/Programming
+language
+
+Boards/microprocessor: Raspberry Pi,
+Arduino, ESP32, Texas instrument DSP
+C6416, STM32 F401RE-NUCLEO.  
+
+Protocols: SPI, I2C, UART, CAN BUS,
+Ethernet, USB, TCP/IP, WIFI.
+
+Operating systems: Windows, Ubuntu,
+Raspbian, Kali Linux, Free RTOS.
+
+Embedded Programming Languages:
+Embedded C, C++, Python, JAVA, Bash.
+
+Embedded IDE: Arduino IDE, CCS(Code
+Composer Studio), CubeMX, IAR,
+Atollic, Circuit Wizard, LabVIEW,
+Proteus8.
+
+Software Development Life Cycle: Do-
+Act-Check-Plan/ Scrum/ Agile/
+V cycle.
+
+Development tools Jira, GIT, Jenkins,
+SYSUML.
+
+Libraries: Open CV (Python/C++).
+
+Other IDE: Eclipse, Visual studio code,
+Android Studio, Netbeans.
+
+Other softwares: Cisco Packet
+Tracer, Adobe Illustrator, Adobe
+Photoshop, Audacity, Filmora, MS
+Office, MS Power BI.
+
+Other Programming
+Languages/Frameworks : HTML 5, CSS
+3, JS, Symfony, Spring Boot, Angular,
+PHP, Flask.
+
+Certifications
+
+Scrum Foundation Professional
+Certificate.
+
+DevOps Certification Training.
+
+Cisco certificate: CCNA 1.
+
+02/2021
+
+09/2020
+
+07/2020 - 09/2020
+
+07/2019 - 08/2019
+
+02/2018 - 05/2018
+
+07/2017 - 08/2017
+
+Work experience
+
+Automotive diagnostic consultant
+IA Car Workshop Kairouan, Tunisia
+
+Remoted Part-Time job, where the diagnostic mechanic informs
+me the fault code to be analyzed to determine the cause of the
+vehicle breakdown.
+Technologies/languages used: Delphi Cars 2016, Tolerance
+Data 2009, ATris stahlgruber, Autodata.
+
+Embedded systems engineer
+GPRO Consulting SARL Sousse, Tunisia
+
+-Create, implement and coordinate engineering product
+development projects that will support the creation, design, and
+improvement of electronic product innovations.
+-Contribute to systems engineering projects developing new
+processes to improve and bring value to them.
+-Preparing the system, implementing it in the final product in
+order to be tested, validated, and put into production. 
+Technologies/languages used: GIT, JIRA, V Cycle, SCRUM,
+Jenkins, SYSUML, Raspberry Pi, Arduino, ESP32,
+STM32, FreeRTOS, Raspbian, Linux, Python, Embedded
+C/C++, Arduino IDE, CCS, CubeMX, IAR, Atollic, Circuit
+Wizard, LabVIEW, Proteus8, SPI, I2C, UART, CAN BUS,
+Ethernet, USB, Flask, HTML 5, CSS, JS.
+
+Summer internship
+GPRO Consulting SARL Sousse, Tunisie
+
+Creation of a semi-autonomous car prototype.
+Technologies/languages used: Raspberry pi 4, Raspbian,
+Python, CV2 Library, Arduino, Embedded C, C++, Pycham, V
+Cycle, UML.
+
+Summer internship
+IT development company (S.D.I.) Kairouan, Tunisia
+
+Design and development of a website for a real estate agency
+Technologies/languages used: HTML 5, CSS, Bootstrap, JS,
+Symfony, PHP, MY SQL.
+
+Internship project end of bachelor's degree
+Afar Market Kairouan, Tunisia
+
+Design and development of a website for a mini-market.
+Technologies/languages used : HTML 5, CSS, JS, Symfony, PHP,
+Bootsrap, MY SQL.
+
+Summer internship
+Arab Tunisian Bank(ATB) Kairouan, Tunisia
+
+Responsible for the maintenance of hardware and networks.
+
+seif.daadoucha@gmail.com
+
+daadouchaseif.fr.gd
+
+26 years old
+
+Tunisian
+
+Kairouan, Tunisia
+
++216 20 339 093
+
+https://www.linkedin.com/in/seifeddine-daadoucha
+mailto:seif.daadoucha@gmail.com
+https://daadouchaseif.fr.gd/
+
+
+/
+
+Languages
+
+English Professional practice, TOEIC
+2016.
+
+French Speak, write and read.
+
+Arabic (Native) Speak, write and read.
+
+Assets
+
+Adaptable.
+
+Collaborative.
+
+Confident.
+
+Creative.
+
+Decision-maker.
+
+Passionate.
+
+Problem solver.
+
+Skills
+
+Ambition.
+
+Communication.
+
+Leadership.
+
+Multitasking.
+
+Reliability.
+
+Time management.
+
+Team spirit.
+
+Interests
+
+Electronic  Robotics, Electronic and
+electricity maintenance.
+
+Mechanic  Car maintenance and
+diagnostic.
+
+Associative experiences  -I had the
+honor to teach children in the Socio-
+cultural project at Polytechnique Sousse.
+-I was a founding member of the digital
+culture association in Kairouan.
+
+Sports  Football, Basketball
+
+2018 - 2021
+
+2015 - 2018
+
+2011 - 2014
+
+Engineering end-of-
+study project
+internship 2021
+
+Internet of things
+2020
+
+Object-Oriented
+Programming-JEE
+2020
+
+Advanced
+Network-Security
+2020
+
+Business
+intelligence 2020
+
+Advanced
+architecture and
+programming of
+embedded
+processors 2019
+
+Advanced mobile
+development 2019
+
+Object-Oriented
+Programming-JAVA
+2019
+
+Advanced web
+programming 2019
+
+Multi-core multi-
+processor system
+engineering 2019
+
+Education
+
+Computer science engineering
+Polytechnic School of Sousse Sousse, Tunisie
+
+EUR-ACE accreditation.
+
+Fundamental license in computer science
+Higher Institute of Information Technology and Management of
+Kairouan(ISIG.K) Kairouan, Tunisia
+
+Baccalaureate section computer science
+Ibn Rachik high school Kairouan, Tunisia
+
+Projects
+
+-The creation of a security system for automobiles consists in
+creating an anti-theft system, an anti-steering system, an anti-
+towing system, and an accident notification system.
+-The Creation of a unique script to run the voice recognition
+module V3.1 on Raspberry Pi using Python.
+Technologies/languages used: "Do-Act-Check-Plan", Raspberry
+Pi 4, Raspbian, Python, Arduino UNO, Embedded C, Flask,
+HTML 5, CSS, JS, SPI, I2C, UART, CAN BUS, Ethernet, USB,
+Linux, Pycham, Geany, Thonny.
+
+Creation of a prototype of a smart home
+Technologies/languages used: Raspberry Pi zero, Python, Flask,
+HTML 5, CSS, JS, Pycham, Geany, Thonny.
+
+Development of a website to monitor the evoluation of the
+number of cases, number of recoveries, and deaths affected by
+covid-19.
+Technologies/languages used: Spring boot, Angular, MY SQL,
+Eclipse.
+
+Hack a VOIP call then secure it.
+Technologies/languages used: Wireshark, Linux, bash, TCP/IP,
+WIFI.
+
+Create a prediction platform for the intensive care unit of the
+"Farhat Hachad Sousse" university hospital to supervise the
+equipment used during the examination of patients affected by
+Covid-19.
+Technologies/languages used: MS Power BI, MS Excel.
+
+Programming the C6416 DSP microcontroller and optimizing
+the code.
+Technologies/languages used: C6416 DSP, Embedded C, Code
+Composer Studio(CCS).
+
+Development of a mobile application dedicated to kindergarten
+for  Android phones.
+Technologies/languages used: JAVA, Firebase, Android Studio.
+
+Development of a school management system.
+Technologies/languages used: JAVA, PHP, MY SQL, Netbeans.
+
+Design and development of a website for a travel agency.
+Technologies/languages used : HTML 5, CSS, JS, Symfony,
+Bootstrap, PHP, MY SQL.
+
+Creation of a Linux kernel on a simulator.
+Technologies/languages used: Python, Embedded C, Linux,
+Bash, Virtual Box.
+
+
+
+cleaned_text: seif eddine daadoucha embedded systems engineer manage projects agile mode developing high quality electronics embedded firmware unique embedded systems tough functional performance requirements smart energetic focused individuals seifeddine daadoucha technologies programming language boards microprocessor raspberry pi arduino esp32 texas instrument dsp c6416 stm32 f401re nucleo protocols spi i2c uart bus ethernet usb tcp ip wifi operating systems windows ubuntu raspbian kali linux free rtos embedded programming languages embedded python java bash embedded ide arduino ide ccs code composer studio cubemx iar atollic circuit wizard labview proteus8 software development life cycle act check plan scrum agile v cycle development tools jira git jenkins sysuml libraries open cv python ide eclipse visual studio code android studio netbeans softwares cisco packet tracer adobe illustrator adobe photoshop audacity filmora ms office ms power bi programming languages frameworks html 5 css 3 js symfony spring boot angular php flask certifications scrum foundation professional certificate devops certification training cisco certificate ccna 1 02 2021 09 2020 07 2020 09 2020 07 2019 08 2019 02 2018 05 2018 07 2017 08 2017 work experience automotive diagnostic consultant ia car workshop kairouan tunisia remoted part time job diagnostic mechanic informs fault code analyzed determine cause vehicle breakdown technologies languages used delphi cars 2016 tolerance data 2009 atris stahlgruber autodata embedded systems engineer gpro consulting sarl sousse tunisia create implement coordinate engineering product development projects support creation design improvement electronic product innovations contribute systems engineering projects developing new processes improve bring value preparing system implementing final product order tested validated put production technologies languages used git jira v cycle scrum jenkins sysuml raspberry pi arduino esp32 stm32 freertos raspbian linux python embedded arduino ide ccs cubemx iar atollic circuit wizard labview proteus8 spi i2c uart bus ethernet usb flask html 5 css js summer internship gpro consulting sarl sousse tunisie creation semi autonomous car prototype technologies languages used raspberry pi 4 raspbian python cv2 library arduino embedded pycham v cycle uml summer internship development company kairouan tunisia design development website real estate agency technologies languages used html 5 css bootstrap js symfony php sql internship project end bachelor degree afar market kairouan tunisia design development website mini market technologies languages used html 5 css js symfony php bootsrap sql summer internship arab tunisian bank atb kairouan tunisia responsible maintenance hardware networks seif daadoucha gmail com daadouchaseif fr gd 26 years old tunisian kairouan tunisia 216 20 339 093 https www linkedin com seifeddine daadoucha mailto seif daadoucha gmail com https daadouchaseif fr gd languages english professional practice toeic 2016 french speak write read arabic native speak write read assets adaptable collaborative confident creative decision maker passionate problem solver skills ambition communication leadership multitasking reliability time management team spirit interests electronic robotics electronic electricity maintenance mechanic car maintenance diagnostic associative experiences honor teach children socio cultural project polytechnique sousse founding member digital culture association kairouan sports football basketball 2018 2021 2015 2018 2011 2014 engineering end study project internship 2021 internet things 2020 object oriented programming jee 2020 advanced network security 2020 business intelligence 2020 advanced architecture programming embedded processors 2019 advanced mobile development 2019 object oriented programming java 2019 advanced web programming 2019 multi core multi processor system engineering 2019 education computer science engineering polytechnic school sousse sousse tunisie eur ace accreditation fundamental license computer science higher institute information technology management kairouan isig k kairouan tunisia baccalaureate section computer science ibn rachik high school kairouan tunisia projects creation security system automobiles consists creating anti theft system anti steering system anti towing system accident notification system creation unique script run voice recognition module v3 1 raspberry pi using python technologies languages used act check plan raspberry pi 4 raspbian python arduino uno embedded flask html 5 css js spi i2c uart bus ethernet usb linux pycham geany thonny creation prototype smart home technologies languages used raspberry pi zero python flask html 5 css js pycham geany thonny development website monitor evoluation number cases number recoveries deaths affected covid 19 technologies languages used spring boot angular sql eclipse hack voip call secure technologies languages used wireshark linux bash tcp ip wifi create prediction platform intensive care unit farhat hachad sousse university hospital supervise equipment used examination patients affected covid 19 technologies languages used ms power bi ms excel programming c6416 dsp microcontroller optimizing code technologies languages used c6416 dsp embedded code composer studio ccs development mobile application dedicated kindergarten android phones technologies languages used java firebase android studio development school management system technologies languages used java php sql netbeans design development website travel agency technologies languages used html 5 css js symfony bootstrap php sql creation linux kernel simulator technologies languages used python embedded linux bash virtual box
+mobile_number: 0
+email: seif.daadoucha@gmail.com
+skills: ['Php', 'Excel', 'Improvement', 'Time management', 'Android', 'Html', 'English', 'Plan', 'Mobile', 'Consulting', 'System', 'C++', 'Ubuntu', 'Hardware', 'Operating systems', 'Communication', 'Sql', 'Security', 'Css', 'Business intelligence', 'Adobe', 'Visual', 'Engineering', 'French', 'Electronics', 'Agile', 'Ms excel', 'Python', 'Hospital', 'Wifi', 'Linux', 'Travel', 'Illustrator', 'Photoshop', 'Sports', 'Jira', 'Training', 'Website', 'Protocols', 'Js', 'Software development life cycle', 'Scrum', 'Architecture', 'Programming', 'Prototype', 'C', 'Windows', 'Java', 'Design', 'Cisco', 'Flask']
+skills_text: Php Excel Improvement Time management Android Html English Plan Mobile Consulting System C++ Ubuntu Hardware Operating systems Communication Sql Security Css Business intelligence Adobe Visual Engineering French Electronics Agile Ms excel Python Hospital Wifi Linux Travel Illustrator Photoshop Sports Jira Training Website Protocols Js Software development life cycle Scrum Architecture Programming Prototype C Windows Java Design Cisco Flask
+Category: IT

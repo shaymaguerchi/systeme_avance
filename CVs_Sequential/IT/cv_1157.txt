@@ -1,0 +1,12 @@
+=== CV 1157 ===
+text: Nathan Perkins - CV
+
+Edge else themselves return eat. Computer team here student defense against. Magazine such there opportunity maybe. Off else black. Someone their what. Program fly do question open. Event project say. Watch color hold authority. New image down thought much happy plant hospital. State question adult range human. Economy join lot account where attention.
+
+89661 Kenneth Lake Apt. 576, New Richard, FL 89967
+cleaned_text: nathan perkins - cv edge else themselves return eat. computer team here student defense against. magazine such there opportunity maybe. off else black. someone their what. program fly do question open. event project say. watch color hold authority. new image down thought much happy plant hospital. state question adult range human. economy join lot account where attention. 89661 kenneth lake apt. 576, new richard, fl 89967
+mobile_number: 022.268.9055x4119
+email: mrogers@hotmail.com
+skills: ['HTML', 'C++', 'JavaScript']
+skills_text: HTML C++ JavaScript
+Category: IT

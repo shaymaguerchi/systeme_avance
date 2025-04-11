@@ -1,0 +1,207 @@
+=== CV 311 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Green and Grey Color Blocks Digital Marketing Resume
+
+
+https://github.com/moatezLita
+
+https://www.linkedin.com/in/litaiem-moatez/
+
+almoatezbedineallah.litaiem@
+etudiant-fst.utm.tn
+
+Système IOT pour la surveillance des visiteurs
+
+PROJETS PERSONNELS
+
+Création d'une application mobile pour une librairie virtuelle 
+Mots clés : Android studioMots clés : Android studio        JAVAJAVA            SQLiteSQLite
+
+Réalisation d'un chatbot connecté à une application mobile 
+Mots clés : Android studioMots clés : Android studio        JAVAJAVA          nltknltk        TensorflowTensorflow          pythonpython          jsonjson      
+
+Réalisation d'une application web pour collection des dons
+
+Mots clés : HtmlMots clés : Html          csscss          javascriptjavascript            nodejsnodejs
+
+Création d'une application Desktop
+Mots clés : JAVAMots clés : JAVA          JAVAFXJAVAFX          scene Builderscene Builder        SwingSwing
+
+IEEE FST SB 
+
+TEDX Fst
+
+BIL Boumhel
+
+BIL Banlieue sud : Membre (2018)
+Mashreq Chams : Bénévole (2017)
+Data co-lab : Membre (2020)
+
+  Membre (2019 - Présent )
+  Gestionnaire de la logistique (2021 2021)
+
+   Chef d'équipe sponsoring (2020)
+
+   Chef d'équipe (2016)
+   Trésorier (2017)
+
+ORGANISATIONS
+
+Langages de programmation :
+
+Développement web et mobile :
+
+Logiciels maitrisés : 
+
+Plateformes embarquées :
+
+Technologies IA :
+
+Systèmes d'exploitation et cloud : 
+
+Gestion de base de données :
+
+Gestion de projet:
+
+Frameworks et bibliothèques:
+
+ C,    C++,  C embarqué,   JAVA,    python,    javascript,         
+ Assembleur
+
+android stduio,    html,     css,      javascript,     nodejs,    java   
+
+ KeiluVision,    stm32cubeide,     CubeMX,   jetbrains tools,   
+ Eclipse,   android studio,     cisco packet tracer,    Oracle,  
+
+Raspberry pi,     STM32F4,    Arduino
+
+Tensorflow,    Pytorch,     NLTK,    Pandas,    Keras
+
+Ubuntu,     Linux embarqué,     Debian,     windows,    Docker,
+chrooot,      Qemu,     VMware ,    git,    Azure Cloud,     AWS
+
+MYSQL,     PL_SQL,     SQLite,     firebase,    MongoDB
+
+SCRUM
+
+Tkinter,   HAL,    cmsis,     freeRTOS,   react.js,     express.js,     
+ javafx,    swing 
+ 
+
+COMPETENCES
+
+Finaliste d'une compétition IQ  
+
+3e place à la compétition IEEEXtreme 
+Finaliste d'une compétition en
+Mathématiques     (2014)
+
+           (organisé par tekup 2018)
+
+RÉALISATIONS
+
+ E-commerce propriétaire
+ Septembre 2020 - Présent 
+
+Responsable de la réalisation des désigne pour les capuches en utilisant
+Adobe Photoshop.
+
+EXPERIENCE PROFESSIONNELLE
+
+Mots clés : Raspberr pi 3b+Mots clés : Raspberr pi 3b+      android studioandroid studio        firebasefirebase          sqlitesqlite        
+  openCVopenCV        nodejsnodejs    
+
+  
+
+Création d'un hotspot WIFI avec Raspberry pi
+
+Faculté des sciences de Tunis
+ElManar
+Licence en ingénierie des systémes informatiques
+2019 - Présent
+
+Baccalauréat en Mathematiques
+Lycée bougarnin
+2019
+
+ETUDES ET FORMATION
+
+Boumhel, Ben arous 90318391
+
+04 , MAY , 1999
+
+LITAIEM MOATEZ
+
+Développeur IOT & Système informatique
+
+Anglais : Compétence professionnelle
+Français : Compétence professionnelle limitée
+Arabe : Bilingue/langue maternelle
+
+LANGUES 
+
+Chaine de compilation croisée 
+Mots clés : Debian,Mots clés : Debian,        C,C,          C++,C++,            Qemu,Qemu,            Chroot,Chroot,        gitgit
+
+Réalistaion d'un communication serveur/client avec model AI
+Mots clés : Chatbot with ML,Mots clés : Chatbot with ML,        c/python,c/python,      udp/tcp,udp/tcp,      azure VM,azure VM,      ubuntuubuntu
+
+https://www.linternaute.fr/dictionnaire/fr/definition/benevole/
+
+
+cleaned_text: green grey color blocks digital marketing resume https github com moatezlita https www linkedin com litaiem moatez almoatezbedineallah litaiem etudiant fst utm tn systeme iot surveillance visiteurs projets personnels creation application mobile librairie virtuelle mots cles android studiomots cles android studio javajava sqlitesqlite realisation chatbot connecte application mobile mots cles android studiomots cles android studio javajava nltknltk tensorflowtensorflow pythonpython jsonjson realisation application web collection dons mots cles htmlmots cles html csscss javascriptjavascript nodejsnodejs creation application desktop mots cles javamots cles java javafxjavafx scene builderscene builder swingswing ieee fst sb tedx fst bil boumhel bil banlieue sud membre 2018 mashreq chams benevole 2017 data co lab membre 2020 membre 2019 present gestionnaire logistique 2021 2021 chef equipe sponsoring 2020 chef equipe 2016 tresorier 2017 organisations langages programmation developpement web mobile logiciels maitrises plateformes embarquees technologies ia systemes exploitation cloud gestion base donnees gestion projet frameworks bibliotheques embarque java python javascript assembleur android stduio html css javascript nodejs java keiluvision stm32cubeide cubemx jetbrains tools eclipse android studio cisco packet tracer oracle raspberry pi stm32f4 arduino tensorflow pytorch nltk pandas keras ubuntu linux embarque debian windows docker chrooot qemu vmware git azure cloud aws mysql pl sql sqlite firebase mongodb scrum tkinter hal cmsis freertos react js express js javafx swing competences finaliste competition iq 3e place competition ieeextreme finaliste competition mathematiques 2014 organise tekup 2018 realisations e commerce proprietaire septembre 2020 present responsable realisation designe capuches utilisant adobe photoshop experience professionnelle mots cles raspberr pi 3b mots cles raspberr pi 3b android studioandroid studio firebasefirebase sqlitesqlite opencvopencv nodejsnodejs creation hotspot wifi raspberry pi faculte sciences tunis elmanar licence ingenierie systemes informatiques 2019 present baccalaureat mathematiques lycee bougarnin 2019 etudes formation boumhel ben arous 90318391 04 may 1999 litaiem moatez developpeur iot systeme informatique anglais competence professionnelle francais competence professionnelle limitee arabe bilingue langue maternelle langues chaine compilation croisee mots cles debian mots cles debian qemu qemu chroot chroot gitgit realistaion communication serveur client model mots cles chatbot ml mots cles chatbot ml python python udp tcp udp tcp azure vm azure vm ubuntuubuntu https www linternaute fr dictionnaire fr definition benevole
+mobile_number: 9031839
+email: almoatezbedineallah.litaiem@
+skills: ['Tensorflow', 'Android', 'Mobile', 'Html', 'Mysql', 'Cloud', 'Oracle', 'C++', 'Ubuntu', 'Ai', 'Communication', 'Javascript', 'Css', 'Adobe', 'Opencv', 'Pandas', 'Python', 'Wifi', 'Linux', 'Aws', 'Keras', 'Photoshop', 'Pytorch', 'Scrum', 'Nltk', 'C', 'Vmware', 'Windows', 'Java', 'Docker', 'Cisco', 'Tkinter']
+skills_text: Tensorflow Android Mobile Html Mysql Cloud Oracle C++ Ubuntu Ai Communication Javascript Css Adobe Opencv Pandas Python Wifi Linux Aws Keras Photoshop Pytorch Scrum Nltk C Vmware Windows Java Docker Cisco Tkinter
+Category: IT

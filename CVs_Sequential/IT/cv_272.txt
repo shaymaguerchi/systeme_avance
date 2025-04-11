@@ -1,0 +1,199 @@
+=== CV 272 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+Ghofrane JABRANI
+À la recherche d'un stage PFE en BIG
+DATA & DATA SCIENCE.
+
+ghofranejabrani@gmail.com
+
+Ben Arous, Tunisie
+23 104 430
+
+À propos de moi
+
+Je suis une personne dynamique, curieuse d'apprendre
+davantage et toujours désireuse de progresser dans mon
+domaine. Actuellement, je suis à la recherche de
+nouveaux défis et d'opportunités dans un environnement
+dans lequel je peux me développer en tant que personne
+tout en élargissant mes connaissances dans différents
+domaines.
+
+Diplômes et Formations
+
+Mastère en Big Data in E-commerce IHEC Carthage
+Carthage, Tunisie
+
+Depuis septembre 2020
+
+Licence en Technologie de l'information IHEC Carthage
+Carthage, Tunisie
+
+De septembre 2017 à juillet 2020
+
+Expériences professionnelles
+
+Project Manager - Stagiaire EORA Tunis, Tunisie
+
+De juin 2021 à septembre 2021
+
+Reporting régulier de la situation du projet.
+
+Réalisation du planning et de l’organisation.
+
+Développeuse web - Stagiare Hello Web Centre urbain
+nord, Tunis
+
+De janvier 2020 à juin 2021
+
+Développement d'une application web qui vous
+permet de trouver rapidement un médecin le plus
+proche de chez vous et de prendre rendez-vous en
+ligne.
+
+Technologies utilisées: Laravel 6, php7, mysql,
+bootstrap, Ajax , Javascript, Jquery.
+
+Assistante sales manager - Stagiaire Digital Bundle
+Centre urbain nord, Tunis
+
+De juillet 2019 à août 2019
+
+Prospection et la vente d'une application mobile de
+gestion des écoles et des garderies scolaire
+
+Certifications
+
+MACHINE LEARNING | SIMPLILEARN
+
+DATA SCIENCE FOR EVERYONE | DATACAMP.
+
+LEARNING DATA ANALYTICS | LINKEDIN.
+
+GOOGLE ANALYTICS | UDEMY
+
+Langages de
+programmation:
+
+Framework:
+
+Data Science:
+
+Big data:
+
+SGBD:
+
+Visualisation:
+
+Marketing Digital:
+
+Méthodologie:
+
+Français
+
+Anglais
+
+Compétences Techniques
+
+HTML, CSS, JAVA, Javascript, PHP,
+Python, Scala.
+
+ Laravel, Codeigniter.
+
+Data mining, Machine learning, Deep
+Learning.
+
+Hadoop (Hive, Pig, HBASE) , Spark.
+
+MySql, MongoDB, Nosql
+
+Microsoft Power BI, Tableau.
+
+ Google Analytics.
+
+Agile (Scrum), CRISP-DM.
+
+Projets académiques
+
+Projet en DATA SCIENCE :
+Mise en œuvre du système d'analyse des Big data pour la
+réservation des hôtels et prédiction des réservations par
+catégorie avec Pyspark.
+- Technologies utilisées: MongoDB, Spark, Python.
+Extraire des données à partir d'un site web ( Booking.com)
+- Technologies utilisées: Python, Beautifulsoup, MongoDB.
+Projet en DEVELOPPEMENT WEB :
+Développement d'une application E-commerce pour la vente
+des
+produits 100% tunisiens.
+- Technologies utilisées: Codeigniter, bootstrap, Mysql.
+Projet en MACHINE LEARNING:
+Prédire le prix des voitures pour chaque marque.
+- Technologies utilisées: Python, Régression linéaire.
+
+Expériences associatives
+
+Membre Tunivisions IHEC Carthage
+
+D'octobre 2020 à juin 2021
+
+Département Business Development
+
+Membre Jeunes femmes entrepreneurs IHEC Carthage
+
+D'octobre 2018 à mars 2020
+
+Département Ressources Humaines
+
+Langues
+
+mailto:ghofranejabrani@gmail.com
+
+
+cleaned_text: ghofrane jabrani recherche stage pfe big data data science ghofranejabrani gmail com ben arous tunisie 23 104 430 propos personne dynamique curieuse apprendre davantage toujours desireuse progresser domaine actuellement recherche nouveaux defis opportunites environnement lequel peux developper tant personne tout elargissant connaissances differents domaines diplomes formations mastere big data e commerce ihec carthage carthage tunisie depuis septembre 2020 licence technologie information ihec carthage carthage tunisie septembre 2017 juillet 2020 experiences professionnelles project manager stagiaire eora tunis tunisie juin 2021 septembre 2021 reporting regulier situation projet realisation planning organisation developpeuse web stagiare hello web centre urbain nord tunis janvier 2020 juin 2021 developpement application web permet trouver rapidement medecin plus proche chez prendre rendez ligne technologies utilisees laravel 6 php7 mysql bootstrap ajax javascript jquery assistante sales manager stagiaire digital bundle centre urbain nord tunis juillet 2019 aout 2019 prospection vente application mobile gestion ecoles garderies scolaire certifications machine learning simplilearn data science everyone datacamp learning data analytics linkedin google analytics udemy langages programmation framework data science big data sgbd visualisation marketing digital methodologie francais anglais competences techniques html css java javascript php python scala laravel codeigniter data mining machine learning deep learning hadoop hive pig hbase spark mysql mongodb nosql microsoft power bi tableau google analytics agile scrum crisp dm projets academiques projet data science mise oeuvre systeme analyse big data reservation hotels prediction reservations categorie pyspark technologies utilisees mongodb spark python extraire donnees partir site web booking com technologies utilisees python beautifulsoup mongodb projet developpement web developpement application e commerce vente produits 100 tunisiens technologies utilisees codeigniter bootstrap mysql projet machine learning predire prix voitures chaque marque technologies utilisees python regression lineaire experiences associatives membre tunivisions ihec carthage octobre 2020 juin 2021 departement business development membre jeunes femmes entrepreneurs ihec carthage octobre 2018 mars 2020 departement ressources humaines langues mailto ghofranejabrani gmail com
+mobile_number: 0
+email: ghofranejabrani@gmail.com
+skills: ['Php', 'Big data', 'Tableau', 'Mobile', 'Reporting', 'Mysql', 'Html', 'Scala', 'Marketing', 'Hadoop', 'Pyspark', 'Javascript', 'Css', 'Hbase', 'Nosql', 'Analytics', 'Agile', 'Beautifulsoup', 'Python', 'Machine learning', 'Hive', 'Data analytics', 'Sales', 'Scrum', 'Mining', 'Spark', 'Java']
+skills_text: Php Big data Tableau Mobile Reporting Mysql Html Scala Marketing Hadoop Pyspark Javascript Css Hbase Nosql Analytics Agile Beautifulsoup Python Machine learning Hive Data analytics Sales Scrum Mining Spark Java
+Category: IT

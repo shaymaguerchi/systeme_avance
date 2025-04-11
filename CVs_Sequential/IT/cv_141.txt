@@ -1,0 +1,170 @@
+=== CV 141 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yahia Saief Eddine Harsi 
+software engineer / Devops engineer 
+
+Final year software engineering skilled student looking for a graduation internship 
+
+yahiasaiefeddinharsi@gmail.c
+om 
+
++216 53727754 
+
+Arianna, Tunisie 
+
+SKILLS 
+
+DevOps Git/GitLab 
+
+Jenkins Kubernetes 
+
+Docker AWS 
+
+Ansible Azure 
+
+Python Ansible 
+
+Java JavaScript 
+
+PHP YAML 
+
+Shell Linux 
+
+Centos Ubuntu 
+
+Redhat SpringBoot 
+
+Symfony Nodejs 
+
+Angular React 
+
+Asp.net 
+
+LANGUAGES 
+French 
+Full Professional Proficiency 
+
+English 
+Full Professional Proficiency 
+
+Arabic 
+Full Professional Proficiency 
+
+INTERESTS 
+
+Chess 
+
+Solving problemes 
+
+EDUCATION 
+
+Computer engineering 
+TEK-UP / Arianna 
+09/2019 - Present,  
+
+software engineer 
+
+preparatory cycle for engineering studies 
+ESPRIM/ MONASTIR 
+09/2017 - 06/2019,  
+
+INTERNSHIPS 
+
+Fullstack Js / UpKurs 
+Title / Company 
+07/2021 - 09/2021,  Tunis 
+
+E-Learning platforme conception and video conferencing tool integration and full CI/CD chain
+Industrialization 
+
+Key words :JWT, PeerJs, websocket, NodeJs, Angular, MongoDB, Docker , GIT/GitLab ,
+kubernetes , GCP 
+
+software developer / STMI 
+Title / Company 
+07/2020 - 09/2020,  
+
+Conception and realization of an application for a metal panel cutting optimization and a
+representative website for a the company 
+
+Key words : Java , Java API, Java Swing , Thread, Operational research & Nodejs, Angular ,
+bootstrap javaScript 
+
+TRAININGS 
+Training FullStack SpringBoot-Angular at THE BRIDGE CENTRE (07/2021 - 09/2021) 
+Task : E-Commerce web application "web service" Key words: SpringBoot, RESTfull web services, spring security,
+JWT 
+
+Amazone web service Practitioner/ CKA Kubernetes / RedHat RHCSA / JAVA OCA : At
+TEK-UP (12/2019 - Present) 
+preparing for the certifications 
+
+ACADEMIC PROJECTS 
+Web Application provides AWS Instance Types and Pricing: (08/2021 - 12/2021) 
+
+using AWS API, K8S API- Calculator and scripts collection to retrieve AWS/GCP/AZURE instance types and
+pricing and create a playbook Ansible for deployment 
+
+Key Words : AWS, K8S, API, NodeJs, Angular, Scripts Shell. Ansible ,YAML 
+
+Web Application Piggymetrics (11/2020 - 01/2021) 
+webservice application that allows the user to manage his finances with a Monitor dashboard 
+
+Key Words : Angular , Microservice Architecture , Spring Boot, Spring Cloud , Docker ,Rest-api , XML ,JWT 
+
+Online Bakery management application (01/2020 - 03/2020) 
+Facilitate Bakery management. Manage stock, sales , worker , and Monitor dashboard show sales statics 
+
+key Words : PHP Symfony, HTML, CSS, JavaScript, Bootstrap, SQL 
+
+Courses 
+
+Achievements/Tasks 
+
+Achievements/Tasks 
+
+mailto:yahiasaiefeddinharsi@gmail.com
+Stamp
+
+
+
+cleaned_text: yahia saief eddine harsi software engineer devops engineer final year software engineering skilled student looking graduation internship yahiasaiefeddinharsi gmail om 216 53727754 arianna tunisie skills devops git gitlab jenkins kubernetes docker aws ansible azure python ansible java javascript php yaml shell linux centos ubuntu redhat springboot symfony nodejs angular react asp net languages french full professional proficiency english full professional proficiency arabic full professional proficiency interests chess solving problemes education computer engineering tek arianna 09 2019 present software engineer preparatory cycle engineering studies esprim monastir 09 2017 06 2019 internships fullstack js upkurs title company 07 2021 09 2021 tunis e learning platforme conception video conferencing tool integration full ci cd chain industrialization key words jwt peerjs websocket nodejs angular mongodb docker git gitlab kubernetes gcp software developer stmi title company 07 2020 09 2020 conception realization application metal panel cutting optimization representative website company key words java java api java swing thread operational research nodejs angular bootstrap javascript trainings training fullstack springboot angular bridge centre 07 2021 09 2021 task e commerce web application web service key words springboot restfull web services spring security jwt amazone web service practitioner cka kubernetes redhat rhcsa java oca tek 12 2019 present preparing certifications academic projects web application provides aws instance types pricing 08 2021 12 2021 using aws api k8s api calculator scripts collection retrieve aws gcp azure instance types pricing create playbook ansible deployment key words aws k8s api nodejs angular scripts shell ansible yaml web application piggymetrics 11 2020 01 2021 webservice application allows user manage finances monitor dashboard key words angular microservice architecture spring boot spring cloud docker rest api xml jwt online bakery management application 01 2020 03 2020 facilitate bakery management manage stock sales worker monitor dashboard show sales statics key words php symfony html css javascript bootstrap sql courses achievements tasks achievements tasks mailto yahiasaiefeddinharsi gmail com stamp
+mobile_number: 216 5372775
+email: yahiasaiefeddinharsi@gmail.c
+skills: ['Php', 'English', 'Html', 'Shell', 'Cloud', 'Ubuntu', 'Ansible', 'Video', 'Javascript', 'Sql', 'Security', 'Css', 'Xml', 'Redhat', 'French', 'Engineering', 'Docker', 'Python', 'Aws', 'Linux', 'Training', 'Website', 'Js', 'Sales', 'Rest', 'Architecture', 'Research', 'Yaml', 'Java', 'Api']
+skills_text: Php English Html Shell Cloud Ubuntu Ansible Video Javascript Sql Security Css Xml Redhat French Engineering Docker Python Aws Linux Training Website Js Sales Rest Architecture Research Yaml Java Api
+Category: IT

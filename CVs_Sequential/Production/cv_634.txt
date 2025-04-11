@@ -1,0 +1,8 @@
+=== CV 634 ===
+text: Isabelle Roche
+cleaned_text: isabelle roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 99070461
+email: isabelle.roche@example.com
+skills: ['Python', 'CSS', 'C++', 'Windows', 'Management', 'Marketing']
+skills_text: Python CSS C++ Windows Management Marketing
+Category: Production

@@ -1,0 +1,8 @@
+=== CV 694 ===
+text: Sophie Lambert
+cleaned_text: sophie lambert cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 21619216
+email: sophie.lambert@example.com
+skills: ['Linux', 'C++', 'SQL', 'Adobe']
+skills_text: Linux C++ SQL Adobe
+Category: Production

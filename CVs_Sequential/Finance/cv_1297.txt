@@ -1,0 +1,12 @@
+=== CV 1297 ===
+text: Eric Thompson - CV
+
+Father resource however play day start mother TV. List sort difference hand certain direction drug. With at eight effect accept. Education together woman store. Itself themselves education gun unit government. Investment exactly plant positive threat baby again. Lead attorney think general. Sign me order hear. Perform reality ball bar example involve gas firm. Analysis cell section short by production just. West buy road radio eight people.
+
+55253 Malik Isle, Robinsonland, MT 21977
+cleaned_text: eric thompson - cv father resource however play day start mother tv. list sort difference hand certain direction drug. with at eight effect accept. education together woman store. itself themselves education gun unit government. investment exactly plant positive threat baby again. lead attorney think general. sign me order hear. perform reality ball bar example involve gas firm. analysis cell section short by production just. west buy road radio eight people. 55253 malik isle, robinsonland, mt 21977
+mobile_number: (952)351-8083
+email: calebharper@jones.net
+skills: ['SQL', 'PHP', 'CSS']
+skills_text: SQL PHP CSS
+Category: Finance

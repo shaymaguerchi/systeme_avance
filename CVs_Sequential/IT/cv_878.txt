@@ -1,0 +1,8 @@
+=== CV 878 ===
+text: Isabelle Lambert
+cleaned_text: isabelle lambert cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 56831228
+email: isabelle.lambert@example.com
+skills: ['Finance', 'HTML', 'Python', 'SQL']
+skills_text: Finance HTML Python SQL
+Category: IT

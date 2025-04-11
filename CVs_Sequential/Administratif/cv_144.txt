@@ -1,0 +1,171 @@
+=== CV 144 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    CHAFROUD ALA EDDINE          
+Bureau de poste mhamdia 1145. 
+
+ Hay el hidhab – ben arous                                                      
+
+Tél: 00216 99 666 772  
+
+Tel au Qatar : 0097433380036 WhatsApp. 
+
+E-mail: ala.chafroud0071@gmail.com 
+ 
+
+ 
+
+ 
+
+FORMATION 
+ 
+
+                                  
+
+                                  2010-2011: Baccalauréat section Technique 
+                                                     Lycée de benguerdenne 
+
+                                  2011-2014: Licence Appliquée en Electromécanique 
+
+                                                    Institut Supérieur des Sciences Appliquées et de   
+
+                                                    Technologie de Sousse (ISSAT) 
+
+COMPETENCES 
+
+                               
+
+                                               CAO / CFAO: SOLIDWORKS, AUTOCAD, CATIA, MATLAB                                 
+
+                                     Etude des Matériaux : RDM6    
+
+                                             Etude Electronique : ISIS  
+
+                                             Etude automatique : GX Developer, GT Designer. 
+
+                                             Autre logiciels : Word, Excell, PowerPoint, Prezi. 
+
+EXPERIENCE PROFESSIONNELLE 
+
+                          Février 2013 jusqu’à Avril 2013: Mini Projet. 
+
+                                 - Conception d’une monte charge. 
+
+ 
+
+De                     Juin 2013 jusqu’à juillet 2013 : les grands moulins des CapBon. 
+
+                  Stage technicien :- contrôler les installations électriques de l’usine. 
+
+                                                 - maintenance électrique de l’usine. 
+
+                          Janvier 2014 jusqu’à Mai 2014 : AMS (Ateliers Mécaniques des Sahel)                                  
+
+                        Projet de fin d’étude : Etude et conception d’une carte électronique du four  
+
+                        Mission : trouver une solution de découvrir la cause de la panne du four 
+
+
+
+ 
+
+                            Novembre 2014 jusqu’à décembre 2016 : SOMIM sousse. 
+
+                                  Assemblage des motocycles : 
+
+                                 -  organiser le stock dans l’atelier  
+
+                                 -  développer le travail à des taches sur des postes 
+
+                                 -  donner à chaque poste les besoins de travail (comme les outils,  
+
+                                    les pièces à assembler). 
+
+                                 - assembler les pièces détachées à fin d’avoir un produit fini complet  
+
+                                 - finition et contrôle de qualité. 
+
+ 
+
+                            Janvier 2017 jusqu’à maintenant : Mr valet services Qatar  
+
+                                 (superviseur)  
+
+- Control et direction de l’équipe pour donner une service 5 étoiles aux 
+
+clients  
+
+- Essayer de trouver des nouveaux solutions pour faciliter le travail 
+
+- Gérer le parking pour maintenir une service rapide et sécurisée 
+
+- Résoudre les problèmes des accidents dans le parking.  
+
+                                     
+
+LANGUES 
+
+• Arabe : langue maternelle 
+
+• Français : écrit et parlé  
+
+• Anglais : écrit et parlé 
+
+• Allemand: débutant 
+
+CENTRES D'INTERET 
+ 
+
+ 
+
+                                  sport, dance, voyage, camping, formations. 
+
+
+
+cleaned_text: chafroud ala eddine bureau poste mhamdia 1145 hay el hidhab ben arous tel 00216 99 666 772 tel qatar 0097433380036 whatsapp e mail ala chafroud0071 gmail com formation 2010 2011 baccalaureat section technique lycee benguerdenne 2011 2014 licence appliquee electromecanique institut superieur sciences appliquees technologie sousse issat competences cao cfao solidworks autocad catia matlab etude materiaux rdm6 etude electronique isis etude automatique gx developer gt designer autre logiciels word excell powerpoint prezi experience professionnelle fevrier 2013 jusqu avril 2013 mini projet conception monte charge juin 2013 jusqu juillet 2013 grands moulins capbon stage technicien controler installations electriques usine maintenance electrique usine janvier 2014 jusqu mai 2014 ams ateliers mecaniques sahel projet fin etude etude conception carte electronique four mission trouver solution decouvrir cause panne four novembre 2014 jusqu decembre 2016 somim sousse assemblage motocycles organiser stock atelier developper travail taches postes donner chaque poste besoins travail comme outils pieces assembler assembler pieces detachees fin avoir produit fini complet finition controle qualite janvier 2017 jusqu maintenant mr valet services qatar superviseur control direction equipe donner service 5 etoiles clients essayer trouver nouveaux solutions faciliter travail gerer parking maintenir service rapide securisee resoudre problemes accidents parking langues arabe langue maternelle francais ecrit parle anglais ecrit parle allemand debutant centres interet sport dance voyage camping formations
+mobile_number: 0097433380
+email: ala.chafroud0071@gmail.com
+skills: ['Autocad', 'Matlab', 'Powerpoint', 'Word', 'Solidworks']
+skills_text: Autocad Matlab Powerpoint Word Solidworks
+Category: Administratif

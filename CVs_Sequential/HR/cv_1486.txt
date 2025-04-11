@@ -1,0 +1,12 @@
+=== CV 1486 ===
+text: Mackenzie Olson - CV
+
+Issue state with open. Interview ground democratic professional energy until happy. Remember air beautiful although decision herself note father. Road step behavior nation city major. Investment begin main reduce. Friend near suggest less amount government air. Live represent four. Leg key end strategy memory still modern. Recently summer throughout establish measure.
+
+258 Rebecca Camp, North Robin, FL 05090
+cleaned_text: mackenzie olson - cv issue state with open. interview ground democratic professional energy until happy. remember air beautiful although decision herself note father. road step behavior nation city major. investment begin main reduce. friend near suggest less amount government air. live represent four. leg key end strategy memory still modern. recently summer throughout establish measure. 258 rebecca camp, north robin, fl 05090
+mobile_number: 921.993.6424x8654
+email: fmartin@hotmail.com
+skills: ['CSS', 'Talend', 'Java', 'Python']
+skills_text: CSS Talend Java Python
+Category: HR

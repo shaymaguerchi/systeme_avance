@@ -1,0 +1,8 @@
+=== CV 839 ===
+text: Ahmed Fontaine
+cleaned_text: ahmed fontaine cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 67996539
+email: ahmed.fontaine@example.com
+skills: ['Windows', 'Finance', 'Python', 'HTML']
+skills_text: Windows Finance Python HTML
+Category: Production

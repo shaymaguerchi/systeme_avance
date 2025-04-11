@@ -1,0 +1,252 @@
+=== CV 10 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		Centre ville Tunis 1000
+
+
+20 719 116/23 556 033
+
+
+rahmounizaineb90@gmail.com
+
+Rahmouni 
+Zaineb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+
+       
+
+
+     
+
+
+Poste recherché: technicien supérieur en technologie de l'informatique spécialité réseaux
+
+Profil : Ma formation en technicien supérieur en technologie de l'informatique m'a permis d'acquérir de nombreuses compétences parmi celles que vous recherchez. Je possède tous les atouts qui me permettront de réussir dans le rôle que vous voudrez bien me confier. Motivation, rigueur et écoute sont les maîtres mots de mon comportement professionnel.
+LANGUES
+
+
+
+
+
+
+
+
+
+STAGES ET EXPÉRIENCES PROFESSIONNELLES
+
+Arabe: maternelle Français: courant
+Anglais: débutant
+
+
+
+                       01/03/2011         
+(Kasserine)
+
+
+
+
+01/04/2012         
+(Kasserine)
+
+
+
+
+01/05/2013         
+(Kasserine)
+
+
+
+
+
+01/03/2014        
+(Tunis)
+
+
+
+2016-2017       
+(Tunis)
+
+
+
+2018-2022
+(Tunis)
+J’ai effectué un stage ouvrier de formation à l’Unité Zone Direction Régionale des télécoms de Kasserine
+J’ai effectué un stage perfectionnement de formation à l’Unité Zone Direction Régionale des télécoms de Kasserine 
+
+J’ai effectué un stage PFE de formation à l’Unité Zone Direction Régionale des télécoms de Kasserine.
+
+j'ai travaillé dans un atelier de marbre à Tunis dans une poste de secretaire
+
+j'ai travaillé vendeuse dans un magasin 
+
+
+Centre d’appel 
+
+
+
+FORMATION
+
+
+2011-2013 : Institut supérieur des études technologiques Kasserine licences appliquées en technologie de l’informatique (spécialité en réseaux)  
+
+
+
+
+
+
+
+COMPÉTENCES ompétences
+
+
+· Word 
+· Excel 
+· Power point 
+· Internet 
+· Dreamwaver
+· Photochop
+· Programmation : Visual basic, Netbeans,Pascal
+· Base de données : Acces,langage SQL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CENTRE D’INTERET:
+
+
+
+
+Sport; Internet; Music 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+.MsftOfcThm_Background1_lumMod_95_Fill {
+ fill:#F2F2F2; 
+}
+
+   
+
+
+
+
+
+
+
+
+
+
+
+  
+.MsftOfcThm_Background1_lumMod_95_Fill {
+ fill:#F2F2F2; 
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+  
+.MsftOfcThm_Background1_lumMod_95_Fill {
+ fill:#F2F2F2; 
+}
+
+  
+
+cleaned_text: centre ville tunis 1000 20 719 116 23 556 033 rahmounizaineb90 gmail com rahmouni zaineb poste recherche technicien superieur technologie informatique specialite reseaux profil formation technicien superieur technologie informatique permis acquerir nombreuses competences parmi celles recherchez possede tous atouts permettront reussir role voudrez bien confier motivation rigueur ecoute maitres mots comportement professionnel langues stages experiences professionnelles arabe maternelle francais courant anglais debutant 01 03 2011 kasserine 01 04 2012 kasserine 01 05 2013 kasserine 01 03 2014 tunis 2016 2017 tunis 2018 2022 tunis effectue stage ouvrier formation unite zone direction regionale telecoms kasserine effectue stage perfectionnement formation unite zone direction regionale telecoms kasserine effectue stage pfe formation unite zone direction regionale telecoms kasserine travaille atelier marbre tunis poste secretaire travaille vendeuse magasin centre appel formation 2011 2013 institut superieur etudes technologiques kasserine licences appliquees technologie informatique specialite reseaux competences ompetences word excel power point internet dreamwaver photochop programmation visual basic netbeans pascal base donnees acces langage sql centre interet sport internet music msftofcthm background1 lummod 95 fill fill f2f2f2 msftofcthm background1 lummod 95 fill fill f2f2f2 msftofcthm background1 lummod 95 fill fill f2f2f2
+mobile_number: 016-2017
+email: rahmounizaineb90@gmail.com
+skills: ['Excel', 'Visual', 'Word', 'Sql']
+skills_text: Excel Visual Word Sql
+Category: Autres

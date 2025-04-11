@@ -1,0 +1,12 @@
+=== CV 1296 ===
+text: Robert Hansen - CV
+
+Value safe already. Save computer group lead moment television. Approach discuss sell appear. Picture cold strong sit. Radio usually care lay something give. Color station create.
+
+3217 Mitchell Valley Suite 781, West Jesse, DC 20947
+cleaned_text: robert hansen - cv value safe already. save computer group lead moment television. approach discuss sell appear. picture cold strong sit. radio usually care lay something give. color station create. 3217 mitchell valley suite 781, west jesse, dc 20947
+mobile_number: 0478501033
+email: andrea31@berry.com
+skills: ['CSS', 'HTML', 'PHP', 'SQL']
+skills_text: CSS HTML PHP SQL
+Category: HR

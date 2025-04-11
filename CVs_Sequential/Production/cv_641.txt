@@ -1,0 +1,8 @@
+=== CV 641 ===
+text: Hugo Ben Ali
+cleaned_text: hugo ben ali cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 55999760
+email: hugo.ben ali@example.com
+skills: ['C++', 'Adobe', 'Linux', 'SQL', 'Windows']
+skills_text: C++ Adobe Linux SQL Windows
+Category: Production

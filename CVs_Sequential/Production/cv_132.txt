@@ -1,0 +1,160 @@
+=== CV 132 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+Compétenc�
+informatiqu�
+
+Internet
+
+Microsoft office
+
+Aspen
+
+Matlab
+
+Langu�
+
+Français (B2)
+
+Anglais (B2)
+
+Allemand (A1)
+
+Arabe
+
+So� skill�
+
+Travail d'équipe
+
+Communication
+
+Gestion du temps
+
+Asma BEN SOUISSI
+
+ingénieur en biologie industrielle
+
+Experienc�
+
+Projet de fin d'études dans un laboratoire d'analyses environnementales
+Office national de l'assainissement (ONAS) Tunis / De février 2020 à juin 2020
+
+Evaluation de la performance de la co-digestion anaérobie des boues activées
+avec les graisses issues de la STEP chotrana.
+
+Etude de la conversion du biométhane en chaleur et électricité et extrapolation
+de la production de biogaz à l'échelle industrielle.
+
+Stagiaire dans un laboratoire de contrôle qualité
+OPALIA Pharma, industrie pharmaceutique Tunis / Juillet 2019
+
+Analyses microbiologiques, physico-chimiques et chromatographiques dans le
+but de vérifier que les médicament répondent aux normes de qualité requises .
+
+PROJET ACADÉMIQUE: Conception et optimisation d'un photobioréacteur pour
+la culture de microalgues.
+Institut National des Sciences Appliquées et de Technologie - (INSAT) Tunis /
+D'avril 2019 à juin 2019
+
+Suivi de la culture des micro algues en photobioréacteur et détermination des
+conditions opératoires (lumière, température, mélange…) et suivi de la
+croissance.
+
+Stagiaire dans un laboratoire de géochimie organique
+Entreprise Tunisienne d’Activités Pétrolières (ETAP) Tunis / De juillet 2018 à août
+2018
+
+Analyse des biomarqueurs pour déterminer le chemin de migration des huiles et
+la détermination de la contamination.
+
+Stagiaire dans des laboratoires d'analyses physico-chimiques et toxicologiques
+Laboratoire central d'analyse des aliments du bétail (LCAAB) Tunis / Février 2017
+
+Contrôle de la qualité des aliments et de leur conformité aux normes techniques
+et scientifiques. 
+
+Diplôm� e� Formation�
+
+Etudes préparatoires au concours d’accès au cycle d’ingénieur
+Institut National des Sciences Appliquées et de Technologie - (INSAT) Tunis / De
+septembre 2015 à juin 2017
+
+Diplôme national d’Ingénieur en Sciences Appliquées et Technologie
+Diplôme national d’Ingénieur en Sciences Appliquées et Technologie Tunis / De
+septembre 2017 à juin 2020
+
+Spécialité: Biologie industrielle               Option: Génie des procédés 
+
+COMPÉTENCES scientifiqu�
+
+Techniques de chromatographie (couche mince, échangeuse d’ions, HPLC, CPG)
+
+Analyses environnementales (DCO,DBO5,MES,MS...)
+
+Tests et analyses microbiologiques
+
+Analyses physico-chimiques
+
+Concept de bioréacteurs
+
+Système de management iso 19001
+
+Née le 19/06/1996
+
++21628048381
+
+bnsouissiasma@gmail.com
+
+Permis B
+
+mailto:bnsouissiasma@gmail.com
+https://www.linkedin.com/in/asma-ben-souissi
+https://www.facebook.com/asma%20souissi
+
+
+cleaned_text: competenc informatiqu internet microsoft office aspen matlab langu francais b2 anglais b2 allemand a1 arabe skill travail equipe communication gestion temps asma ben souissi ingenieur biologie industrielle experienc projet fin etudes laboratoire analyses environnementales office national assainissement onas tunis fevrier 2020 juin 2020 evaluation performance co digestion anaerobie boues activees graisses issues step chotrana etude conversion biomethane chaleur electricite extrapolation production biogaz echelle industrielle stagiaire laboratoire controle qualite opalia pharma industrie pharmaceutique tunis juillet 2019 analyses microbiologiques physico chimiques chromatographiques verifier medicament repondent normes qualite requises projet academique conception optimisation photobioreacteur culture microalgues institut national sciences appliquees technologie insat tunis avril 2019 juin 2019 suivi culture micro algues photobioreacteur determination conditions operatoires lumiere temperature melange suivi croissance stagiaire laboratoire geochimie organique entreprise tunisienne activites petrolieres etap tunis juillet 2018 aout 2018 analyse biomarqueurs determiner chemin migration huiles determination contamination stagiaire laboratoires analyses physico chimiques toxicologiques laboratoire central analyse aliments betail lcaab tunis fevrier 2017 controle qualite aliments conformite normes techniques scientifiques diplom e formation etudes preparatoires concours acces cycle ingenieur institut national sciences appliquees technologie insat tunis septembre 2015 juin 2017 diplome national ingenieur sciences appliquees technologie diplome national ingenieur sciences appliquees technologie tunis septembre 2017 juin 2020 specialite biologie industrielle option genie procedes competences scientifiqu techniques chromatographie couche mince echangeuse ions hplc cpg analyses environnementales dco dbo5 ms tests analyses microbiologiques analyses physico chimiques concept bioreacteurs systeme management iso 19001 nee 19 06 1996 21628048381 bnsouissiasma gmail com permis b mailto bnsouissiasma gmail com https www linkedin com asma ben souissi https www facebook com asma 20souissi
+mobile_number: 2162804838
+email: bnsouissiasma@gmail.com
+skills: ['Communication', 'Cpg', 'Matlab', 'Conversion', 'Migration', 'Iso']
+skills_text: Communication Cpg Matlab Conversion Migration Iso
+Category: Production

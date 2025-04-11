@@ -1,0 +1,12 @@
+=== CV 1482 ===
+text: Jessica Rogers - CV
+
+Term hundred investment decision minute model little land. Page guess real change current language. Dream station impact. Lay picture run. Action player life share. Become sit serve each.
+
+9981 Henry Stravenue Suite 258, Lake Scottmouth, VA 24015
+cleaned_text: jessica rogers - cv term hundred investment decision minute model little land. page guess real change current language. dream station impact. lay picture run. action player life share. become sit serve each. 9981 henry stravenue suite 258, lake scottmouth, va 24015
+mobile_number: 136.951.4137x3805
+email: christinaholden@hotmail.com
+skills: ['JavaScript', 'C++', 'Power BI', 'SQL', 'Java', 'CSS']
+skills_text: JavaScript C++ Power BI SQL Java CSS
+Category: Finance

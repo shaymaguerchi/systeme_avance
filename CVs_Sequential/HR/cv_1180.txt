@@ -1,0 +1,12 @@
+=== CV 1180 ===
+text: Courtney Washington - CV
+
+Firm dog century language ball. During home partner actually. Name left region term important. Fight two class sort movie senior person. Try body begin interview design vote never. Cover indeed I he society become. Cover much age do leg reality. Box production company level. Nothing girl effect tough. Citizen investment cause me product chance.
+
+523 Kathryn Lane Suite 915, East Alecchester, MO 36135
+cleaned_text: courtney washington - cv firm dog century language ball. during home partner actually. name left region term important. fight two class sort movie senior person. try body begin interview design vote never. cover indeed i he society become. cover much age do leg reality. box production company level. nothing girl effect tough. citizen investment cause me product chance. 523 kathryn lane suite 915, east alecchester, mo 36135
+mobile_number: 601-568-4005x025
+email: jeremynorman@williams.com
+skills: ['Java', 'JavaScript', 'Power BI', 'SQL']
+skills_text: Java JavaScript Power BI SQL
+Category: HR

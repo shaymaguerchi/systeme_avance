@@ -1,0 +1,8 @@
+=== CV 591 ===
+text: Sophie Boussaid
+cleaned_text: sophie boussaid cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 64695871
+email: sophie.boussaid@example.com
+skills: ['HTML', 'Management', 'Adobe', 'Finance', 'CSS', 'Java']
+skills_text: HTML Management Adobe Finance CSS Java
+Category: IT

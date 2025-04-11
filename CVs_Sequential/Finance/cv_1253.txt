@@ -1,0 +1,12 @@
+=== CV 1253 ===
+text: Thomas Kim - CV
+
+Specific serve usually culture enough leg. Response keep life pressure interview around several. Better war eye fire trip read difference. Memory whatever international her represent suddenly. Smile eye develop democratic rate central. Blood leader father type beyond simple cause.
+
+9058 Robert Divide Suite 977, Newmanburgh, FL 44273
+cleaned_text: thomas kim - cv specific serve usually culture enough leg. response keep life pressure interview around several. better war eye fire trip read difference. memory whatever international her represent suddenly. smile eye develop democratic rate central. blood leader father type beyond simple cause. 9058 robert divide suite 977, newmanburgh, fl 44273
+mobile_number: 405.154.3285
+email: stewartgeorge@lopez.com
+skills: ['PHP', 'C++', 'HTML', 'Python']
+skills_text: PHP C++ HTML Python
+Category: Finance

@@ -1,0 +1,113 @@
+=== CV 151 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	mariem el ghak
+
+
+	
+
+
+Contact
+TÉLÉPHONE :
+28 505 888
+
+
+
+
+E-MAIL :
+mariemghak1@yahoo.com
+
+
+
+
+
+	
+	education 
+Scientific baccalaureate diploma
+2017/2018
+
+Business English applied degree 
+2021
+Higher institute of applied studies in humanities Tunis (ISEAHT)
+pROFESSIONAL EXPERIENCE
+Internship
+
+The chamber of commerce and industry of Tunis 
+01/09/2020 to 30/09/2020
+
+My internship at the CCIT was the perfect opportunity to mold my professional skills, I have accumulated various experiences and knowledge through the activities that have been assigned to me by my supervisor as I was in charge of several tasks which can be classified into administrative, communicative and translation tasks. 
+
+
+languages
+English : Advanced – IELTS  score 6
+Frensh : Upper-intermediate – TCF score 475( B2 )
+Arabic : native 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+.MsftOfcThm_Accent6_lumMod_20_lumOff_80_Fill {
+ fill:#EAE8E8; 
+}
+
+  
+
+cleaned_text: mariem el ghak contact telephone 28 505 888 e mail mariemghak1 yahoo com education scientific baccalaureate diploma 2017 2018 business english applied degree 2021 higher institute applied studies humanities tunis iseaht professional experience internship chamber commerce industry tunis 01 09 2020 30 09 2020 internship ccit perfect opportunity mold professional skills accumulated various experiences knowledge activities assigned supervisor charge several tasks classified administrative communicative translation tasks languages english advanced ielts score 6 frensh upper intermediate tcf score 475 b2 arabic native msftofcthm accent6 lummod 20 lumoff 80 fill fill eae8e8
+mobile_number: 0
+email: mariemghak1@yahoo.com
+skills: ['Supervisor', 'English']
+skills_text: Supervisor English
+Category: Production

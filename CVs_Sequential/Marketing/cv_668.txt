@@ -1,0 +1,8 @@
+=== CV 668 ===
+text: Isabelle Dupont
+cleaned_text: isabelle dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 55319120
+email: isabelle.dupont@example.com
+skills: ['C++', 'CSS', 'HTML', 'Finance']
+skills_text: C++ CSS HTML Finance
+Category: Marketing

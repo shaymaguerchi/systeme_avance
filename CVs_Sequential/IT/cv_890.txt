@@ -1,0 +1,8 @@
+=== CV 890 ===
+text: Mohamed Roche
+cleaned_text: mohamed roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 91288124
+email: mohamed.roche@example.com
+skills: ['Linux', 'HTML', 'CSS', 'Python', 'Java']
+skills_text: Linux HTML CSS Python Java
+Category: IT

@@ -1,0 +1,12 @@
+=== CV 1038 ===
+text: Pamela Morse - CV
+
+Serious then career production time easy his. Son these race artist occur forward. Letter adult lawyer challenge daughter. Into weight peace middle. Image yourself hear parent. Gas throw thought smile right security establish sure.
+
+94128 Travis Oval Suite 329, Port Summer, HI 53351
+cleaned_text: pamela morse - cv serious then career production time easy his. son these race artist occur forward. letter adult lawyer challenge daughter. into weight peace middle. image yourself hear parent. gas throw thought smile right security establish sure. 94128 travis oval suite 329, port summer, hi 53351
+mobile_number: +1-410-559-3027x5873
+email: petersonjames@harrison-ferguson.com
+skills: ['Python', 'C++', 'CSS']
+skills_text: Python C++ CSS
+Category: IT

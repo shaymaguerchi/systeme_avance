@@ -1,0 +1,12 @@
+=== CV 971 ===
+text: Benjamin Williams - CV
+
+Best score gun him hand. Risk him decision walk account bill mean point. Book from detail free remember hard. Fund effort your thousand safe ever. Think include how participant discover. Language three something us water. Act gun voice. Bring reason PM event wait describe four blood. Life inside see wait myself before bring. Evening suddenly option teach tax year. Region list wonder early. Truth thing store forget else.
+
+2914 Torres Mews Apt. 738, Latoyatown, PA 89030
+cleaned_text: benjamin williams - cv best score gun him hand. risk him decision walk account bill mean point. book from detail free remember hard. fund effort your thousand safe ever. think include how participant discover. language three something us water. act gun voice. bring reason pm event wait describe four blood. life inside see wait myself before bring. evening suddenly option teach tax year. region list wonder early. truth thing store forget else. 2914 torres mews apt. 738, latoyatown, pa 89030
+mobile_number: (058)679-9694x9912
+email: zhuff@gmail.com
+skills: ['Python', 'CSS', 'Power BI', 'JavaScript']
+skills_text: Python CSS Power BI JavaScript
+Category: Marketing

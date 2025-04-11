@@ -1,0 +1,8 @@
+=== CV 846 ===
+text: Hugo Lambert
+cleaned_text: hugo lambert cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 25170581
+email: hugo.lambert@example.com
+skills: ['Marketing', 'Windows', 'Finance', 'CSS', 'Java', 'HTML']
+skills_text: Marketing Windows Finance CSS Java HTML
+Category: Administration

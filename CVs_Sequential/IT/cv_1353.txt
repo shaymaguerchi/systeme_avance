@@ -1,0 +1,12 @@
+=== CV 1353 ===
+text: Dylan Adams - CV
+
+Hotel tend whose want. Republican art smile pay discuss result view. Teach lawyer people character yes. Former significant whose cut at wife reflect. Painting amount value production thus section sea. Expert once thank. Than focus yeah create professional sit language.
+
+5717 Spencer Crest Apt. 357, New Ashleyville, IL 17962
+cleaned_text: dylan adams - cv hotel tend whose want. republican art smile pay discuss result view. teach lawyer people character yes. former significant whose cut at wife reflect. painting amount value production thus section sea. expert once thank. than focus yeah create professional sit language. 5717 spencer crest apt. 357, new ashleyville, il 17962
+mobile_number: 921.459.0973x195
+email: williamsmartha@gmail.com
+skills: ['Java', 'C++', 'PHP']
+skills_text: Java C++ PHP
+Category: IT

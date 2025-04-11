@@ -1,0 +1,8 @@
+=== CV 773 ===
+text: Nadia Mokhtar
+cleaned_text: nadia mokhtar cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 48834745
+email: nadia.mokhtar@example.com
+skills: ['Java', 'C++', 'Management', 'CSS']
+skills_text: Java C++ Management CSS
+Category: Administration

@@ -1,0 +1,8 @@
+=== CV 626 ===
+text: Hugo Ben Ali
+cleaned_text: hugo ben ali cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 52579869
+email: hugo.ben ali@example.com
+skills: ['CSS', 'Linux', 'Java', 'Management', 'Finance', 'Adobe']
+skills_text: CSS Linux Java Management Finance Adobe
+Category: Design

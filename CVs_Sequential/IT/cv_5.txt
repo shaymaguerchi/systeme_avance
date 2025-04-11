@@ -1,0 +1,136 @@
+=== CV 5 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CV Khalil 2022-January
+
+
+É D U C A T I O N S  &  F O R M A T I O N S  
+
+• 2022 | Centre Supérieur de Formation CSF, Ariana, Tunisie.
+Fomation en systèmes embarqués: C embarqué, C++, Linux, python, Microcontrôleur,
+ISTQB: en cours.
+• 2021 | Genuvers Training Center, Sfax, Tunisie.
+Formation en audit intern QSE: Se familiariser avec les exigences de la norme ISO
+9001 v2015, ISO 45001 v2018, ISO 14001 v2015.
+• 2019 - 2021 | Université énergétique d'état de Kazan, Russie.
+Diplôme: Mastère de recherche en génie énergique et mécanique - spécialité turbines
+à gaz et a vapeur.
+• 2019 | Académie Volga, Kazan, Russie.
+Diplôme: Langue russe.
+• 2017 - 2014 | Institut supérieur des études technologiques de Sfax, Tunisie.
+Diplôme: Licence en génie mécanique - spécialité énergétique.
+• 2014 | Lycée 9 avril, Sfax, Tunisie.
+Diplôme: Baccalauréat en sciences techniques.
+
+E X P É R I E N C E S  P R O F E S S I O N N E L L E S
+
+V I E  A S S O C I A T I V E  
+
+S O F T W A R S
+
+(+216) 23968 646 • benhassan.khalil@gmail.com
+K H A L I L  B E N  H A S S E N
+
+ 
+
+2017 - 2018 | Green Energy  
+Technicien supérieur en photovoltaïque
+ - Dimensionnement et simulation détaillée par Autocad des systèmes photovoltaïques
+raccordés au réseau STEG et des sites isolés.
+ - Préparation des dossiers techniques.
+ - Suivie de l'approvisionnement pour les installations photovoltaïques.
+
+2017 | Focus Energy
+Stagiaire - Projet fin d'études 
+- Le projet "Smart garden" consiste à étudier et réaliser un prototype d'arrosage du
+jardin à l'aide d'énergie photovoltaïque et d'un microcontrôleur qui vérifier la
+température et l'humidité du sol, commandées à distance.
+
+2016 | Spectra
+Stagiaire: Technicien
+- Etude et montage des installations photovoltaïques.
+
+Membre actif et vice président R&D de l'association internationale AIESEC
+Membre de l'équipe organisatrice du Salon d'entreprises 2016 à Sfax.
+
+L A N G U E S
+
+Arabe
+Français
+Anglais
+Russe
+
+C2
+C1
+C1
+C1
+
+Microsoft pack, Google pack,
+SolidWorks, Autocad, Matlab, Adobe
+Illustrator, Adobe Photoshop, Vscode,
+IAR EW for Arm, CodeBlocks,
+Arduino.
+
+2014 | SOCEM 
+Stagiaire
+ - Etude des circuits électriques et schémas mécaniques des grues mobiles. 
+
+https://csf.tn/
+https://www.linguee.fr/francais-anglais/traduction/membre+de+l%27%C3%A9quipe+organisatrice.html
+
+
+cleaned_text: cv khalil 2022 january e u f r 2022 centre superieur formation csf ariana tunisie fomation systemes embarques embarque linux python microcontroleur istqb cours 2021 genuvers training center sfax tunisie formation audit intern qse familiariser exigences norme iso 9001 v2015 iso 45001 v2018 iso 14001 v2015 2019 2021 universite energetique etat kazan russie diplome mastere recherche genie energique mecanique specialite turbines gaz vapeur 2019 academie volga kazan russie diplome langue russe 2017 2014 institut superieur etudes technologiques sfax tunisie diplome licence genie mecanique specialite energetique 2014 lycee 9 avril sfax tunisie diplome baccalaureat sciences techniques e x p e r e e p r f e e e v e v e f w r 216 23968 646 benhassan khalil gmail com k h b e h e 2017 2018 green energy technicien superieur photovoltaique dimensionnement simulation detaillee autocad systemes photovoltaiques raccordes reseau steg sites isoles preparation dossiers techniques suivie approvisionnement installations photovoltaiques 2017 focus energy stagiaire projet fin etudes projet smart garden consiste etudier realiser prototype arrosage jardin aide energie photovoltaique microcontroleur verifier temperature humidite sol commandees distance 2016 spectra stagiaire technicien etude montage installations photovoltaiques membre actif vice president r association internationale aiesec membre equipe organisatrice salon entreprises 2016 sfax g u e arabe francais anglais russe c2 c1 c1 c1 microsoft pack google pack solidworks autocad matlab adobe illustrator adobe photoshop vscode iar ew arm codeblocks arduino 2014 socem stagiaire etude circuits electriques schemas mecaniques grues mobiles https csf tn https www linguee fr francais anglais traduction membre 27 c3 a9quipe organisatrice html
+mobile_number: 0
+email: benhassan.khalil@gmail.com
+skills: ['Autocad', 'Matlab', 'Python', 'R', 'Circuits', 'Linux', 'P', 'Prototype', 'C', 'Green', 'Adobe', 'Solidworks', 'C++', 'Illustrator', 'Photoshop', 'Training', 'Audit', 'Iso']
+skills_text: Autocad Matlab Python R Circuits Linux P Prototype C Green Adobe Solidworks C++ Illustrator Photoshop Training Audit Iso
+Category: IT

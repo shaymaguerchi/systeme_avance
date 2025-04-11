@@ -1,0 +1,175 @@
+=== CV 137 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rihab Ghada
+AMARA 
+Ingénieure en informatique
+décisionnelle spécialité B.I. 
+
+Elève ingénieure en informatique, je suis à la
+recherche d'un stage de fin d'études de 6-8 mois
+à partir de Janvier 2022. Extrêmement motivée
+pour développer constamment mes
+compétences, créative, rigoureuse et
+dynamique. Je peux faire preuve d'initiative tout
+en respectant les procédures de l'entreprise. 
+
+rihabghada.amara1@esprit.tn 
+
+50515031 
+
+Petite Ariana, Ariana 
+
+EDUCATION 
+Diplôme d'ingénieur en informatique 
+E.S.P.R.I.T, Tunis 
+09/2019 - Present,  
+
+Diplôme de préparatoire intégrée 
+Ecole Polytechnique de Sousse, Sousse 
+09/2017 - 05/2019,  
+
+WORK EXPERIENCE 
+Stage Ouvrier 
+UIB Sousse 
+06/2021 - 07/2021,  Sousse 
+
+Etudier le fonctionnement de travail 
+
+Etudier le contact professionnel avec les employées 
+
+chercher les points à améliorer dans la banque 
+
+Apprendre à respecter 
+
+Dashboard Bonus-Malus 
+E.S.P.R.I.T 
+02/2021 - 06/2021,  Tunisie 
+
+Mettre en place un système décisionnel pour calculer la
+classe bonus-malus. 
+
+Analyse des données présentant des informations
+exploitables par les dirigeants, les cadres commerciaux et
+les autres utilisateurs. 
+
+Permettre de prendre des décisions plus avisées. 
+
+Outils : Python, Machine Learning, Talend, PowerBi, SQL 
+
+Développeuse C - Projet d'intégration 
+E.S.P.R.I.T 
+01/2020 - 06/2020,  Tunisie 
+
+Réalisation d'une application desktop pour la gestion
+d'une agence de voyage "SKYTRAVEL" en utilisant le
+logiciel Glade2(sous Linux) et développement en langage
+C. 
+
+Les employés peuvent ajouter, modifier, supprimer et
+afficher toutes les prestations ( les vols, les excursions, les
+voyages et la location des voitures). 
+
+l'administrateur pourra voir le rendement des employés et
+pourra afficher les avis des clients et leur réclamations. 
+
+Outils : Glace-2, Ubuntu, Programmation C 
+
+SKILLS 
+C C# JS HTML/CSS .NET SPRING 
+
+Microsoft PowerBi Talend MySQL 
+
+Oracle Database MongoDB Hadoop PHP 
+
+Python(Pandas,Matpolib) SAP Logon 
+
+SAP Business Client 
+
+WORK EXPERIENCE 
+Etude sur le réseau Linkedin (Text Mining)
+ (09/2021 - 11/2021) 
+
+Recommandation de 10 profils LinkedIn : selon des besoins
+prédéfinis de l’entreprise et des profils qu’elle recherche (Text
+Mining). 
+
+Analyse du comportement des internautes en étudiant leurs
+préférences, les influenceurs qu’ils suivent, les hashtags qui les
+intéressent le plus (Web Mining). 
+
+Analyse des opinions (positifs et négatifs) des internautes à partir
+des commentaires émis sous les publications partagées par les
+entreprises (Opinion Mining). 
+
+Outils: Python, Jupyter / Méthodologie de travail: CRISPDM( Cross
+Industry Standard Process for Data Mining). 
+
+CERTIFICATES 
+FUNDAMENTALS OF DEEP LEARNING (11/2021) 
+NVIDIA DEEP LEARNING INSTITUTE 
+
+LANGUAGES 
+Arabe 
+Native or Bilingual Proficiency 
+
+Français 
+Full Professional Proficiency 
+
+Anglais 
+Full Professional Proficiency 
+
+INTERESTS 
+
+Dance Théâtre Sport Cinéma 
+
+Voyages 
+
+Achievements/Tasks 
+
+Achievements/Tasks 
+
+Achievements/Tasks 
+
+mailto:rihabghada.amara1@esprit.tn
+
+
+cleaned_text: rihab ghada amara ingenieure informatique decisionnelle specialite b eleve ingenieure informatique recherche stage fin etudes 6 8 mois partir janvier 2022 extremement motivee developper constamment competences creative rigoureuse dynamique peux faire preuve initiative tout respectant procedures entreprise rihabghada amara1 esprit tn 50515031 petite ariana ariana education diplome ingenieur informatique e p r tunis 09 2019 present diplome preparatoire integree ecole polytechnique sousse sousse 09 2017 05 2019 work experience stage ouvrier uib sousse 06 2021 07 2021 sousse etudier fonctionnement travail etudier contact professionnel employees chercher points ameliorer banque apprendre respecter dashboard bonus malus e p r 02 2021 06 2021 tunisie mettre place systeme decisionnel calculer classe bonus malus analyse donnees presentant informations exploitables dirigeants cadres commerciaux autres utilisateurs permettre prendre decisions plus avisees outils python machine learning talend powerbi sql developpeuse projet integration e p r 01 2020 06 2020 tunisie realisation application desktop gestion agence voyage skytravel utilisant logiciel glade2 sous linux developpement langage employes peuvent ajouter modifier supprimer afficher toutes prestations vols excursions voyages location voitures administrateur pourra voir rendement employes pourra afficher avis clients reclamations outils glace 2 ubuntu programmation skills js html css net spring microsoft powerbi talend mysql oracle database mongodb hadoop php python pandas matpolib sap logon sap business client work experience etude reseau linkedin text mining 09 2021 11 2021 recommandation 10 profils linkedin selon besoins predefinis entreprise profils recherche text mining analyse comportement internautes etudiant leurs preferences influenceurs suivent hashtags interessent plus web mining analyse opinions positifs negatifs internautes partir commentaires emis sous publications partagees entreprises opinion mining outils python jupyter methodologie travail crispdm cross industry standard process data mining certificates fundamentals deep learning 11 2021 nvidia deep learning institute languages arabe native bilingual proficiency francais full professional proficiency anglais full professional proficiency interests dance theatre sport cinema voyages achievements tasks achievements tasks achievements tasks mailto rihabghada amara1 esprit tn
+mobile_number: 5051503
+email: rihabghada.amara1@esprit.tn
+skills: ['Php', 'Html', 'Mysql', 'Hadoop', 'Oracle', 'Ubuntu', 'Database', 'Sql', 'Css', 'Python', 'Linux', 'Machine learning', 'Sap', '.net', 'Js', 'Jupyter', 'Mining', 'C', 'Process']
+skills_text: Php Html Mysql Hadoop Oracle Ubuntu Database Sql Css Python Linux Machine learning Sap .net Js Jupyter Mining C Process
+Category: IT

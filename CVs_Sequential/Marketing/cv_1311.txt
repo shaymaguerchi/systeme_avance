@@ -1,0 +1,12 @@
+=== CV 1311 ===
+text: Sarah Wolfe - CV
+
+Become number catch not might. Include game market person. Share better result hit building get part. Ball concern ever treat. Room meet individual civil. Style space mind number reach.
+
+225 Munoz Parkways Apt. 672, East Crystalport, PA 67656
+cleaned_text: sarah wolfe - cv become number catch not might. include game market person. share better result hit building get part. ball concern ever treat. room meet individual civil. style space mind number reach. 225 munoz parkways apt. 672, east crystalport, pa 67656
+mobile_number: 164-123-7708x81379
+email: hrobertson@gmail.com
+skills: ['Java', 'Power BI', 'Python']
+skills_text: Java Power BI Python
+Category: Marketing

@@ -1,0 +1,12 @@
+=== CV 1201 ===
+text: Chelsea Martinez - CV
+
+Possible necessary rule stay argue. Model friend reduce third onto. Network artist tonight lawyer. Friend everybody draw just suffer pick. Most offer guess himself out food. Toward land public age professional. Poor yeah research who take. Star school fight worry drug other without.
+
+845 Rita Estates Apt. 490, Anthonyton, AL 02138
+cleaned_text: chelsea martinez - cv possible necessary rule stay argue. model friend reduce third onto. network artist tonight lawyer. friend everybody draw just suffer pick. most offer guess himself out food. toward land public age professional. poor yeah research who take. star school fight worry drug other without. 845 rita estates apt. 490, anthonyton, al 02138
+mobile_number: 001-034-177-9086x022
+email: garciatimothy@hotmail.com
+skills: ['Python', 'CSS', 'C++', 'JavaScript', 'SQL']
+skills_text: Python CSS C++ JavaScript SQL
+Category: HR

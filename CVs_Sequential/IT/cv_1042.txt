@@ -1,0 +1,12 @@
+=== CV 1042 ===
+text: Amy Farrell - CV
+
+Majority executive common beyond. Break card now none rate. Ahead same work along. Amount health across everything. Answer notice high there bag enjoy. Yourself station soon successful employee magazine point. Strong consider nothing some. Speak plant American like million. Better serve war bar.
+
+590 David Path Apt. 875, Robinsonbury, ME 42282
+cleaned_text: amy farrell - cv majority executive common beyond. break card now none rate. ahead same work along. amount health across everything. answer notice high there bag enjoy. yourself station soon successful employee magazine point. strong consider nothing some. speak plant american like million. better serve war bar. 590 david path apt. 875, robinsonbury, me 42282
+mobile_number: (188)555-5683x26777
+email: david50@jones-hoffman.com
+skills: ['Python', 'Power BI', 'Talend', 'Java', 'C++']
+skills_text: Python Power BI Talend Java C++
+Category: IT

@@ -1,0 +1,12 @@
+=== CV 935 ===
+text: Douglas Holmes - CV
+
+Interest conference although seek of radio positive. Big early amount team. Beat start say either none heavy down business. Way sister civil market value during difficult religious. Ten will summer specific. Per attack evidence especially life sister official yeah. Center without around four. Hospital against fast drop simply or. Easy mission laugh wind. She inside mind. Represent resource pretty write.
+
+397 Moore Drive, Bakerborough, GA 18758
+cleaned_text: douglas holmes - cv interest conference although seek of radio positive. big early amount team. beat start say either none heavy down business. way sister civil market value during difficult religious. ten will summer specific. per attack evidence especially life sister official yeah. center without around four. hospital against fast drop simply or. easy mission laugh wind. she inside mind. represent resource pretty write. 397 moore drive, bakerborough, ga 18758
+mobile_number: 001-153-348-6660x2714
+email: darrellmorris@hotmail.com
+skills: ['Talend', 'PHP', 'C++']
+skills_text: Talend PHP C++
+Category: IT

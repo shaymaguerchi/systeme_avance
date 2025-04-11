@@ -1,0 +1,199 @@
+=== CV 347 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cv
+
+
+Hana Ksontini
+ETUDIANTE EN MASTER PROFESSIONNEL EN SCIENCES 
+
+ET INGENIERIE DES DONNEES
+
+Coordonnées
+Route Mahdia Km 5,5 Sakiet 
+
+Daier, 3011, Sfax
+
++216 53 66 59 99
+
+ksontinihana@gmail.com
+
+Compétences
+Bureautique et système d’exploitation: 
+
+Windows, Linux, Office
+
+Développement: Html, CSS, JavaScript, XML, 
+
+PHP, Angular 6, C, C++, Java, C#, JEE, CakePhp 
+
+(certifiée), Python(certifiée), JqueryMobile, 
+
+Bootstrap, Django
+
+SGBD: SQLserver, MySQL, NoSQL, PLSQL, 
+
+Oracle, PostgreSQL
+
+Business Intelligence: SSIS, SSAS, SSRS
+
+Big Data: Cloudera ,Hdfs, Hadoop, Hive, Hbase, 
+
+Flume, Scoop, Impala, Spark
+
+Data Science: Data Mining , Machine Learning
+
+Réseau informatique: Architecture réseau, 
+
+Sécurité réseau.
+
+Autres : Cloud, TALN, VirtualBox, Conception 
+
+UML/Merise, Architecture Logicielle, Github, 
+
+JavaFx, Comptabilité, Gestion financière.
+
+Méthodologies : Agile (SCRUM).
+
+EXPÉRIENCE ASSOCIATIVE 
+2017-2018 : Membre titulaire (JCI) Jeunes 
+
+Chambre Internationale Sakiet Ezzit .
+
+2019 : Membre de club Microsoft Fseg.
+
+2019 : Attestation premiers secours 
+
+(Croissant Rouge).
+
+CENTRE D’INTÉRÊT
+Jouer piano
+
+Randonnées
+
+Camping
+
+Fitness
+
+LANGUES
+Arabe
+
+Français
+
+Anglais
+
+Je suis à la recherche d'un stage de projet de fin d’étude qui me permettra
+
+d'approfondir mes connaissances dans les domaines Business Intelligence ,
+
+DataScience , Big data , Machine Learning...
+
+EXPÉRIENCE
+Février 2019 – Mai 2019Stage de fin d'étude - DMC
+
+Conception et Développement la partie commerciale d’un ERP spécifique
+
+( back-end, front-end)
+
+Juin 2018 - Août 2018Développement
+
+Conception et Développement d’une application Rapport Quotidiens des 
+
+vols des voitures (CakePhp).
+
+Juillet 2017 – Août 2017Stage Technicien - ACS, Advanced Computer Solution
+
+Développement (C#)
+
+Juin 2016 – Juillet 2016Stage Technicien - ACS, Advanced Computer Solution
+
+Interventions auprès des clients de la société dans un objectif de 
+
+réparation des pannes de réseau, de câblages, firewall.
+
+FORMATION
+Prévu en 2021
+
+Faculté des Sciences Économiques et de Gestion Sfax
+
+Master Professionnel en Sciences et Ingénierie des Données
+
+en cours de formation M2
+
+2019
+
+Faculté des Sciences Économiques et de Gestion Sfax
+
+Licence fondamentale en informatique appliquée à la gestion
+
+2015
+
+Lycée Mohamed Ali, Sfax Tunisie
+
+Baccalauréat informatique
+
+CERTIFICATS
+
+CLOUDERA : Foundations for Big Data Analysis with SQL
+
+CERTIPORT : 98-364:MTA: Database Fundamentals
+
+TCF
+
+09/09/1996
+
+
+	Diapositive numéro 1
+
+
+cleaned_text: cv hana ksontini etudiante master professionnel sciences ingenierie donnees coordonnees route mahdia km 5 5 sakiet daier 3011 sfax 216 53 66 59 99 ksontinihana gmail com competences bureautique systeme exploitation windows linux office developpement html css javascript xml php angular 6 java jee cakephp certifiee python certifiee jquerymobile bootstrap django sgbd sqlserver mysql nosql plsql oracle postgresql business intelligence ssis ssas ssrs big data cloudera hdfs hadoop hive hbase flume scoop impala spark data science data mining machine learning reseau informatique architecture reseau securite reseau autres cloud taln virtualbox conception uml merise architecture logicielle github javafx comptabilite gestion financiere methodologies agile scrum experience associative 2017 2018 membre titulaire jci jeunes chambre internationale sakiet ezzit 2019 membre club microsoft fseg 2019 attestation premiers secours croissant rouge centre interet jouer piano randonnees camping fitness langues arabe francais anglais recherche stage projet fin etude permettra approfondir connaissances domaines business intelligence datascience big data machine learning experience fevrier 2019 mai 2019stage fin etude dmc conception developpement partie commerciale erp specifique back end front end juin 2018 aout 2018developpement conception developpement application rapport quotidiens vols voitures cakephp juillet 2017 aout 2017stage technicien acs advanced computer solution developpement juin 2016 juillet 2016stage technicien acs advanced computer solution interventions aupres clients societe objectif reparation pannes reseau cablages firewall formation prevu 2021 faculte sciences economiques gestion sfax master professionnel sciences ingenierie donnees cours formation m2 2019 faculte sciences economiques gestion sfax licence fondamentale informatique appliquee gestion 2015 lycee mohamed ali sfax tunisie baccalaureat informatique certificats cloudera foundations big data analysis sql certiport 98 364 mta database fundamentals tcf 09 09 1996 diapositive numero 1
+mobile_number: 017-2018
+email: ksontinihana@gmail.com
+skills: ['Php', 'Big data', 'Html', 'Mysql', 'Github', 'Hadoop', 'Cloud', 'Fitness', 'Oracle', 'C++', 'Javascript', 'C#', 'Database', 'Sql', 'Django', 'Css', 'Xml', 'Nosql', 'Hbase', 'Business intelligence', 'Agile', 'Analysis', 'Linux', 'Machine learning', 'Postgresql', 'Hive', 'Scrum', 'Architecture', 'Spark', 'Mining', 'C', 'Windows', 'Erp', 'Java']
+skills_text: Php Big data Html Mysql Github Hadoop Cloud Fitness Oracle C++ Javascript C# Database Sql Django Css Xml Nosql Hbase Business intelligence Agile Analysis Linux Machine learning Postgresql Hive Scrum Architecture Spark Mining C Windows Erp Java
+Category: IT

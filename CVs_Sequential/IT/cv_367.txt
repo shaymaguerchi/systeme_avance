@@ -1,0 +1,229 @@
+=== CV 367 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RAYENMBAREK
+Data Scientist
+
+� rayen.mbarek@esprit.tn � +216 96132870 � Rayen Mbarek � rayenmbarek
+
+SKILLS
+
+Python R HTML CSS Javascript
+
+AngularJs Angular Spring Boot SQL
+
+PL/SQL Power BI Apache SuperSet
+
+Talend SSIS SSAS Data Mining
+
+Big Data Machine Learning
+
+Deep Learning Tensorflow Keras
+
+CERTIFICATIONS
+
+Deep Learning Specialization
+
+DEEPLEARNING.AI, Coursera
+
+Introduction to Data Science in Python
+
+University of Michigan, Coursera
+
+Applied Plotting, Charting Data
+
+Representation in Python
+
+University of Michigan, Coursera
+
+Python for Data Science and AI
+
+IBM, Coursera
+
+Machine Learning with Python
+
+IBM, Coursera
+
+Data Analysis with Python
+
+IBM, Coursera
+
+Data Visualization with Python
+
+IBM, Coursera
+
+Practical Time Series Analysis
+
+IBM, Coursera
+
+Databases and SQL for Data Science
+
+IBM, Coursera
+
+LANGUAGES
+
+• Arabic: Native Speaker
+
+• English: B2
+
+• French: B2
+
+INTERESTS
+
+Football Sport Music
+
+ASSOCIATIVE LIFE
+
+• Member of Junior Chamber International (JCI)
+
+El Mourouj
+
+EDUCATION
+
+Master Business and Data Analytics
+
+Esprit School of Business
+
+� 2019 – 2021 � Tunisia
+
+Bachelor in Finance
+
+High School Of Business
+
+� 2015 – 2018 � Manouba, Tunisia
+
+EXPERIENCES
+
+Money laundering data analytics Internship
+
+Vneuron
+
+� March 2021 – August 2021 � Charguia 2, Tunisia
+
+• Creation of search engine that helps to find out all users information
+
+(personnel information, contracts, transactions ...).
+
+• Verification of transactions using Machine Learning algorithms.
+
+• Deployment of Machine learning model using FastAPI.
+
+• Creation of a dashboard of customer transactions.
+
+• Tools: TypeScript, Spring Boot, Angular (Angular Material), Python (Numpy,
+
+Pandas, Matplotlib, Seaborn, Scipy, Sickit Learn,FastAPI), Apache SuperSet.
+
+Customer Advisor
+
+Teleperformance
+
+� April 2019 – September 2019 � Ben Arous, Tunisia
+
+• Customer Advisor at Bouygues Telecom (French Language).
+
+PROJECTS
+
+Virtual Keyboard with Hand Tracking
+
+• Creation of virtual keyboard that we can use to write with it using hand
+
+tracking
+
+• Tools: Python, Mediapipe, OpenCv, Pynput
+
+Integrated Project of Big Data : Jobs Recommendation
+
+• Creation of application that helps users to get the best job offers. Matching
+
+job offers with users Resume.
+
+• Tools: Web Scraping, Ubuntu, Python, ELK (Elasticsearch, Kibana)
+
+Integrated Project of Business Intelligence
+
+• Development of a BI solution for a group of restaurants. Dashboard of KPIs
+
+from the data warehouse.
+
+• Tools: MySQL, Talend(ETL),Power BI
+
+Portfolio Optimization
+
+• Portfolio Optimization using Machine Learning Tools.
+
+• Tools : Python, Numpy, Pandas, Matplotlib, Scipy, Sickit Learn.
+
+Graph Theory
+
+• Optimization Flight Path(shortest path) using Dijikstra and A star (A*)
+
+• Tools : Python (Numpy, Pandas, Matplotlib, Scipy, Sickit Learn, Networkx).
+
+mailto:rayen.mbarek@esprit.tn
+https://www.linkedin.com/in/rayen-mbarek-8a55a9198
+https://github.com/rayenmbarek
+
+
+cleaned_text: rayenmbarek data scientist rayen mbarek esprit tn 216 96132870 rayen mbarek rayenmbarek skills python r html css javascript angularjs angular spring boot sql pl sql power bi apache superset talend ssis ssas data mining big data machine learning deep learning tensorflow keras certifications deep learning specialization deeplearning coursera introduction data science python university michigan coursera applied plotting charting data representation python university michigan coursera python data science ibm coursera machine learning python ibm coursera data analysis python ibm coursera data visualization python ibm coursera practical time series analysis ibm coursera databases sql data science ibm coursera languages arabic native speaker english b2 french b2 interests football sport music associative life member junior chamber international jci el mourouj education master business data analytics esprit school business 2019 2021 tunisia bachelor finance high school business 2015 2018 manouba tunisia experiences money laundering data analytics internship vneuron march 2021 august 2021 charguia 2 tunisia creation search engine helps find users information personnel information contracts transactions verification transactions using machine learning algorithms deployment machine learning model using fastapi creation dashboard customer transactions tools typescript spring boot angular angular material python numpy pandas matplotlib seaborn scipy sickit learn fastapi apache superset customer advisor teleperformance april 2019 september 2019 ben arous tunisia customer advisor bouygues telecom french language projects virtual keyboard hand tracking creation virtual keyboard use write using hand tracking tools python mediapipe opencv pynput integrated project big data jobs recommendation creation application helps users get best job offers matching job offers users resume tools web scraping ubuntu python elk elasticsearch kibana integrated project business intelligence development bi solution group restaurants dashboard kpis data warehouse tools mysql talend etl power bi portfolio optimization portfolio optimization using machine learning tools tools python numpy pandas matplotlib scipy sickit learn graph theory optimization flight path shortest path using dijikstra star tools python numpy pandas matplotlib scipy sickit learn networkx mailto rayen mbarek esprit tn https www linkedin com rayen mbarek 8a55a9198 https github com rayenmbarek
+mobile_number: 216 9613287
+email: rayen.mbarek@esprit.tn
+skills: ['Ibm', 'Numpy', 'Tensorflow', 'Big data', 'English', 'Html', 'Mysql', 'Seaborn', 'Matplotlib', 'Transactions', 'Telecom', 'Networkx', 'Ubuntu', 'Ai', 'Algorithms', 'Javascript', 'Sql', 'Money', 'Css', 'Analytics', 'French', 'Opencv', 'Keyboard', 'Pandas', 'Finance', 'Python', 'R', 'Analysis', 'Contracts', 'Keras', 'International', 'Warehouse', 'Mining', 'Scipy', 'Kpis']
+skills_text: Ibm Numpy Tensorflow Big data English Html Mysql Seaborn Matplotlib Transactions Telecom Networkx Ubuntu Ai Algorithms Javascript Sql Money Css Analytics French Opencv Keyboard Pandas Finance Python R Analysis Contracts Keras International Warehouse Mining Scipy Kpis
+Category: IT

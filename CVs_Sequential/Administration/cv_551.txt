@@ -1,0 +1,8 @@
+=== CV 551 ===
+text: Nadia Roche
+cleaned_text: nadia roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 28165247
+email: nadia.roche@example.com
+skills: ['CSS', 'Marketing', 'Adobe', 'C++', 'Management', 'Linux']
+skills_text: CSS Marketing Adobe C++ Management Linux
+Category: Administration

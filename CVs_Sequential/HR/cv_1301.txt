@@ -1,0 +1,12 @@
+=== CV 1301 ===
+text: Andrew Brown - CV
+
+Live worry who college. Level act plant actually catch. So final course foot. We grow follow campaign. Final international catch together time out next. Community at detail road.
+
+4593 Jordan Union Suite 220, Stephanieberg, NH 45042
+cleaned_text: andrew brown - cv live worry who college. level act plant actually catch. so final course foot. we grow follow campaign. final international catch together time out next. community at detail road. 4593 jordan union suite 220, stephanieberg, nh 45042
+mobile_number: (274)908-8614x6823
+email: owells@gmail.com
+skills: ['Talend', 'C++', 'JavaScript', 'SQL', 'Java', 'Power BI']
+skills_text: Talend C++ JavaScript SQL Java Power BI
+Category: HR

@@ -1,0 +1,12 @@
+=== CV 948 ===
+text: Lisa Chavez - CV
+
+Subject yet forget open. Cultural pull above us adult see body. Matter door tax. Feeling two customer season owner traditional fill. Serve office owner. Similar blood really child lead sport everything true.
+
+8415 Mccarty Passage Suite 771, Marcusland, NE 45181
+cleaned_text: lisa chavez - cv subject yet forget open. cultural pull above us adult see body. matter door tax. feeling two customer season owner traditional fill. serve office owner. similar blood really child lead sport everything true. 8415 mccarty passage suite 771, marcusland, ne 45181
+mobile_number: 583.294.8469x80799
+email: nsmith@hotmail.com
+skills: ['HTML', 'Talend', 'C++', 'Python']
+skills_text: HTML Talend C++ Python
+Category: HR

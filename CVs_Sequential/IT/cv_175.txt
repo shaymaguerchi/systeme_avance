@@ -1,0 +1,142 @@
+=== CV 175 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cheffi nejmeddine
+
+
+E X P É R I E N C E S
+P R O F E S S I O N N E L L E S
+
+C U R S U S
+
+MATERE 1 ENERGIES RENOUVELABLES TECHNOLOGIES ET
+APPLICATIONS
+
+      Faculté des Sciences Mathématiques, Physiques et Sciences Naturelles   
+ de Tunis (FST) Juin 2021
+
+P R O J E T S
+
+Bras manipulateur à base mobile commandé par une application mobile
+(arduino) :
+projet de fin étude
+Système d’alarme (arduino)
+Gestion énergétique d’un système d’hydroponie (arduino)
+Robot détecteur d’obstacles (arduino)
+
+TELECONSEILLER COMMERCIAL
+Phoneact | juin 2021_septembre2021
+
+opération affinica comparateur d'énergie 
+
+TELECONSEILLER COMMERCIAL
+Mezzo | septembre 2021
+
+opération easy for you comparateur d'énergie 
+
+I N F O R M A T I O N S
+
+Né le 11-11-1994
+Tunisien
+Célibataire
+Permis de conduire B
+
+Arabe langue maternelle
+Français courant
+Anglais débutant
+
+L A N G U E S
+
+2021, Société Tunisienne de physique
+Python : formation Python pour les
+énergies renouvelables
+2021, Faculté des Sciences de Tunis
+Management Industriel : conférence
+
+C E R T I F I C A T I O N S  E T
+F O R M A T I O N S
+C O M P L É M E N T A I R E S
+
+Pack Office : Word, Excel,
+Powerpoint ;
+arduino,matlab,isis,autocad,
+Quartus,anaconda,Retscreen
+expert
+
+C O M P É T E N C E S  E N
+I N F O R M A T I Q U E
+
+CHEFFI
+NEJMEDDINE
+
+DIRECTEUR DE PRDUCTION
+ Hypnos Pictures (société de production audiovisuel) |2019-2021
+
+LICENECE FONDAMENTALE EN ELECTRONIQUE ELECTROTECHNIQUE ET AUTOMATIQUE
+
+Faculté des Sciences Mathématiques, Physiques et Sciences Naturelles de Tunis (FST)
+
+BACCALAUREAT  SCIENCES TECHNOLOGIQUES
+
+Lycée les Pères Blancs 
+(+216) 90718137
+
+Cheffinejmeddine88@gmail.com
+
+
+
+cleaned_text: cheffi nejmeddine e x p e r e e p r f e e e u r u matere 1 energies renouvelables technologies applications faculte sciences mathematiques physiques sciences naturelles tunis fst juin 2021 p r e bras manipulateur base mobile commande application mobile arduino projet fin etude systeme alarme arduino gestion energetique systeme hydroponie arduino robot detecteur obstacles arduino teleconseiller commercial phoneact juin 2021 septembre2021 operation affinica comparateur energie teleconseiller commercial mezzo septembre 2021 operation easy comparateur energie f r 11 11 1994 tunisien celibataire permis conduire b arabe langue maternelle francais courant anglais debutant g u e 2021 societe tunisienne physique python formation python energies renouvelables 2021 faculte sciences tunis management industriel conference e r f e f r p e e r e pack office word excel powerpoint arduino matlab isis autocad quartus anaconda retscreen expert p e e e e f r q u e cheffi nejmeddine directeur prduction hypnos pictures societe production audiovisuel 2019 2021 licenece fondamentale electronique electrotechnique automatique faculte sciences mathematiques physiques sciences naturelles tunis fst baccalaureat sciences technologiques lycee peres blancs 216 90718137 cheffinejmeddine88 gmail com
+mobile_number: 019-2021
+email: Cheffinejmeddine88@gmail.com
+skills: ['Autocad', 'Excel', 'Matlab', 'Mobile', 'Powerpoint', 'Python', 'R', 'P', 'C', 'Word', 'Anaconda', 'Robot']
+skills_text: Autocad Excel Matlab Mobile Powerpoint Python R P C Word Anaconda Robot
+Category: IT

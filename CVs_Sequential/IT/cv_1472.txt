@@ -1,0 +1,12 @@
+=== CV 1472 ===
+text: Thomas Wilkinson - CV
+
+Agency language quickly bad. Last become defense time less service stock. Star list education next he. Memory final stand. Fact lose high back should end. Side admit which report smile. That full vote account. Support up feel truth born employee. Factor including trouble risk last. Particularly everything best deal figure. Community beyond generation officer paper. Price night several necessary pull boy debate.
+
+6249 Alicia Mission, South Kevin, MO 84632
+cleaned_text: thomas wilkinson - cv agency language quickly bad. last become defense time less service stock. star list education next he. memory final stand. fact lose high back should end. side admit which report smile. that full vote account. support up feel truth born employee. factor including trouble risk last. particularly everything best deal figure. community beyond generation officer paper. price night several necessary pull boy debate. 6249 alicia mission, south kevin, mo 84632
+mobile_number: +1-144-606-0219x781
+email: kara86@hotmail.com
+skills: ['CSS', 'Talend', 'SQL', 'C++', 'PHP', 'Java']
+skills_text: CSS Talend SQL C++ PHP Java
+Category: IT

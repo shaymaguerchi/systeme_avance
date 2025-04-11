@@ -1,0 +1,12 @@
+=== CV 1293 ===
+text: Courtney Carlson - CV
+
+Fine and hour thus. Mr fight for serve. Should always arrive whose. Somebody somebody security large Mr PM myself. Risk listen second for painting. Onto just after tend main security. Heart two get give. Positive important ten maintain. Medical until interview school.
+
+4996 Kelly Loop, Patelmouth, OR 12988
+cleaned_text: courtney carlson - cv fine and hour thus. mr fight for serve. should always arrive whose. somebody somebody security large mr pm myself. risk listen second for painting. onto just after tend main security. heart two get give. positive important ten maintain. medical until interview school. 4996 kelly loop, patelmouth, or 12988
+mobile_number: 8242758539
+email: james02@murphy.com
+skills: ['Power BI', 'Python', 'SQL', 'HTML', 'Talend']
+skills_text: Power BI Python SQL HTML Talend
+Category: HR

@@ -1,0 +1,207 @@
+=== CV 233 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Références professionnelles
+
+
+DIPLOMES ET FORMATIONS
+
+EXPERIENCE PROFESSIONNELLE
+
+VIE ASSOCIATIVE
+
+Licence en science de l'informatique
+
+Spécialisé en informatique et multimédias
+
+A l'institut supérieure d'informatique de Mahdia
+
+2019-2022 
+
+     YASMINE YEDES
+E T U D I A N T E
+
+PROFIL PERSONNEL
+
+Je suis étudiante en troisième année
+
+spécialisé en informatique et
+
+multimédias , à la recherche d'un stage
+
+de fin d'étude dans le développement
+
+Web  .Je suis responsable , passionnée
+
+par les tendances et les nouvelles
+
+technologies 
+
+COMPÉTENCES DE BASE
+
+Langage de programmation : C ,C++,
+XML ,HTML ,Java , Python ,PHP , JavaScript
+
+Base de données: MySQL , Oracle
+
+Conception:  UML 
+
+Framework: Angular , Symfony 
+
+Logiciels: Microsoft Visual Code , Android
+Studio 
+
+Autre: Photoshop , Illustrateur , Adobe
+Premier    
+
+COORDONNÉES DE CONTACT
+
+   Adresse  : 12, Rue Quater , Korba 8070, Nabeul
+
+   E-mail : yedesyasmine7@gmail.com 
+
+   LinkedIn : https://www.linkedin.com/in/yasmine
+
+   -yedes-36aa79216
+
+Stage d'été
+
+A Designet Web Agency  :
+
+Développer une plateforme de STAGY qui sert a
+
+faciliter la recherche des stages pour les étudiants
+
+et les mise en relation directe avec les entreprises
+
+Les technologies: Bootsrap ,Php Css ,Html,JS
+
+Aout 2021-Septembre 2021
+
+CERTIFIACATIONS
+
+-2021 Membre Club Tunivision ISIMA  
+
+-2020-2021 Membre DSC ( Developer Student Clubs)
+
+-2019 Membre MIC (Microsoft ISIMA Club )
+
+PROJETS
+
+Application mobile(Music)
+Mai 2021
+
+Cahier de charge d'une agence immobilière qui
+
+permet de faciliter la recherche d'un locataire ou
+
+d'une location
+
+Développement web HTML/CSS/BOOTSTRAP/PHP
+
+Designet web agency
+
+Septembre 2021
+
+Licence en science de l'informatique
+
+Spécialisé en informatique et multimédias
+
+A l'institut supérieure d'informatique de Mahdia
+
+ 
+
+2019-2022 
+
+Diplôme de baccalauréat 
+
+Section:Mathématique 
+
+A lyceé 2 Mars Korba
+
+ 
+
+2018-2019 
+
+Une application qui facilite la recherche et la
+
+lecture  de musique
+
+Les technologies: XML , Java
+
+Application mobile(Gestion des élèves)
+Avril 2021
+Une application qui sert à ajouter et modifier des
+
+comptes des élèves 
+
+Les technologies: XML , Java
+
+Conception d'un site web d'une agence immobilière
+(avec cahier de charge et développement)
+ Décembre 2020 
+
+LANGUES
+
+Arabe: Langue Natale 
+Français: Courant
+Anglais: Courant
+Allemand: Notion
+
+
+
+cleaned_text: references professionnelles diplomes formations experience professionnelle vie associative licence science informatique specialise informatique multimedias institut superieure informatique mahdia 2019 2022 yasmine yedes e u e profil personnel etudiante troisieme annee specialise informatique multimedias recherche stage fin etude developpement web responsable passionnee tendances nouvelles technologies competences base langage programmation xml html java python php javascript base donnees mysql oracle conception uml framework angular symfony logiciels microsoft visual code android studio autre photoshop illustrateur adobe premier coordonnees contact adresse 12 rue quater korba 8070 nabeul e mail yedesyasmine7 gmail com linkedin https www linkedin com yasmine yedes 36aa79216 stage ete designet web agency developper plateforme stagy sert faciliter recherche stages etudiants mise relation directe entreprises technologies bootsrap php css html js aout 2021 septembre 2021 certifiacations 2021 membre club tunivision isima 2020 2021 membre dsc developer student clubs 2019 membre mic microsoft isima club projets application mobile music mai 2021 cahier charge agence immobiliere permet faciliter recherche locataire location developpement web html css bootstrap php designet web agency septembre 2021 licence science informatique specialise informatique multimedias institut superieure informatique mahdia 2019 2022 diplome baccalaureat section mathematique lycee 2 mars korba 2018 2019 application facilite recherche lecture musique technologies xml java application mobile gestion eleves avril 2021 application sert ajouter modifier comptes eleves technologies xml java conception site web agence immobiliere cahier charge developpement decembre 2020 langues arabe langue natale francais courant anglais courant allemand notion
+mobile_number: 019-2022
+email: yedesyasmine7@gmail.com
+skills: ['Php', 'Js', 'Javascript', 'Android', 'Html', 'Mysql', 'Python', 'Css', 'Xml', 'C', 'Adobe', 'Oracle', 'Photoshop', 'C++', 'Visual', 'Java']
+skills_text: Php Js Javascript Android Html Mysql Python Css Xml C Adobe Oracle Photoshop C++ Visual Java
+Category: IT

@@ -1,0 +1,133 @@
+=== CV 181 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mohamed Riadh Daoulatli – A la recherche d'un stage de PFE dans le développement web
+
+
+Mohamed Riadh
+Daoulatli
+A la recherche d’un stage de PFE
+dans le développement web
+
+Boulevard de l’environnement boumhal
+H (+216) 20 02 33 63
+
+B daoulatliriadh@gmail.com
+
+Formation
+Depuis 2019 Licence Business Computing, Specialité Business Information System, Esprit
+
+School of Business
+Septembre
+2018/Juin
+
+2019
+
+1ére Année Licence Fondamentale en Gestion, Institut de Hautes Etudes
+de Carthage
+
+Septembre
+2017/Juin
+
+2018
+
+Baccalaureat en Economie et Gestion, Lycée Cité Essalem Boumhal,
+Mention Assez-Bien
+
+Mes Compétences
+{ Développement Web
+
+PHP, HTML, CSS, Js
+{ Framework
+
+Spring boot, .NET
+{ Autres Compétences
+
+Comptabilité, Marketing, Management
+
+Experiences
+Depuis
+
+Janvier 2021
+Dirigeant, Club de Volleyball Boumhal-Bessatine Sport , BBS
+
+{ Responsable de toutes les Catégories Feminines
+
+Projet
+{ Site Web d’orientation en ligne (YourFutur)
+
+Elaboration du cahier de charge, Développement WEB (HTML, PHP, CSS,
+MySQL)
+
+Langues
+{ Français Intermédiaire
+{ Anglais Intermédiaire
+
+mailto:daoulatliriadh@gmail.com
+
+	Formation
+	Mes Compétences
+	Experiences
+	Projet
+	Langues
+
+
+cleaned_text: mohamed riadh daoulatli recherche stage pfe developpement web mohamed riadh daoulatli recherche stage pfe developpement web boulevard environnement boumhal h 216 20 02 33 63 b daoulatliriadh gmail com formation depuis 2019 licence business computing specialite business information system esprit school business septembre 2018 juin 2019 1ere annee licence fondamentale gestion institut hautes etudes carthage septembre 2017 juin 2018 baccalaureat economie gestion lycee cite essalem boumhal mention assez bien competences developpement web php html css js framework spring boot net autres competences comptabilite marketing management experiences depuis janvier 2021 dirigeant club volleyball boumhal bessatine sport bbs responsable toutes categories feminines projet site web orientation ligne yourfutur elaboration cahier charge developpement web html php css mysql langues francais intermediaire anglais intermediaire mailto daoulatliriadh gmail com formation competences experiences projet langues
+mobile_number: 0
+email: daoulatliriadh@gmail.com
+skills: ['Php', '.net', 'Js', 'Html', 'Mysql', 'Css', 'Marketing', 'System']
+skills_text: Php .net Js Html Mysql Css Marketing System
+Category: IT

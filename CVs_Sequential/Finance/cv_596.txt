@@ -1,0 +1,8 @@
+=== CV 596 ===
+text: Sophie Lefevre
+cleaned_text: sophie lefevre cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 49452175
+email: sophie.lefevre@example.com
+skills: ['SQL', 'Adobe', 'HTML']
+skills_text: SQL Adobe HTML
+Category: Finance

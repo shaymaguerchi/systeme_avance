@@ -1,0 +1,8 @@
+=== CV 647 ===
+text: Ahmed Fontaine
+cleaned_text: ahmed fontaine cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 97107695
+email: ahmed.fontaine@example.com
+skills: ['Marketing', 'HTML', 'Linux', 'Java', 'SQL', 'Adobe']
+skills_text: Marketing HTML Linux Java SQL Adobe
+Category: Design

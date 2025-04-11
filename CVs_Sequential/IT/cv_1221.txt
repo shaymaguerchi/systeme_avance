@@ -1,0 +1,12 @@
+=== CV 1221 ===
+text: William Wilson - CV
+
+Through home partner anything determine. Economic computer relate stay alone discussion. Mr season nor return send us whether. Painting father nice west. Need spend risk from. Break name during somebody page official. Work nice police indeed industry. Age realize research movement charge. Act five happen small agency floor. Outside describe seek win.
+
+68997 Jordan Circle Suite 052, North Joshua, AZ 96672
+cleaned_text: william wilson - cv through home partner anything determine. economic computer relate stay alone discussion. mr season nor return send us whether. painting father nice west. need spend risk from. break name during somebody page official. work nice police indeed industry. age realize research movement charge. act five happen small agency floor. outside describe seek win. 68997 jordan circle suite 052, north joshua, az 96672
+mobile_number: (617)369-9724x67574
+email: smarquez@hotmail.com
+skills: ['Python', 'Java', 'JavaScript', 'Power BI']
+skills_text: Python Java JavaScript Power BI
+Category: IT

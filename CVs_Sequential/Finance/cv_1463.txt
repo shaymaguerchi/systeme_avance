@@ -1,0 +1,12 @@
+=== CV 1463 ===
+text: Andrew Little - CV
+
+Record vote ask boy be all. Big tell reveal some. Evening teacher own space. Particular necessary stage which response impact sort two. Forget participant imagine. How experience learn partner company should. Bring if either home north. Number become difficult office foreign American.
+
+30165 Espinoza Turnpike Apt. 580, North Wyatt, MT 91485
+cleaned_text: andrew little - cv record vote ask boy be all. big tell reveal some. evening teacher own space. particular necessary stage which response impact sort two. forget participant imagine. how experience learn partner company should. bring if either home north. number become difficult office foreign american. 30165 espinoza turnpike apt. 580, north wyatt, mt 91485
+mobile_number: 2411031156
+email: taylorkathleen@miller.info
+skills: ['CSS', 'C++', 'JavaScript', 'Power BI', 'Java']
+skills_text: CSS C++ JavaScript Power BI Java
+Category: Finance

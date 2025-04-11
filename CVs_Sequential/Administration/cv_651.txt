@@ -1,0 +1,8 @@
+=== CV 651 ===
+text: Sophie Lefevre
+cleaned_text: sophie lefevre cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 25961773
+email: sophie.lefevre@example.com
+skills: ['Python', 'C++', 'Windows', 'Java']
+skills_text: Python C++ Windows Java
+Category: Administration

@@ -1,0 +1,622 @@
+=== CV 77 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Ajjel Meriem
+Date de naissance : 29 avril 1992
+Num CIN :14750366
+
+04 rue El farabi El omrane Tunis
+Tunis
+1005
+Meriemajjel1@gmail.com
+97610946
+
+Expérience
+Conseiller client
+Teleperformance
+Août 2018 - Juillet 2019
+
+Stage
+Siège Amen tunis
+Mars 2018 - Juin 2018
+
+Au niveau du service juridique
+
+Etudes
+Baccalauréat en économie et gestion 2011/2012
+
+Mastère professionnel en droit des affaires
+Faculté de droit et de science politique tunis
+2018
+
+Licence en droit privé
+Faculté de droit et de science politique tunis
+2016
+
+ Ce CV a été créé avec Curriculum Vitae Application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+   
+     04 rue El farabi El omrane Tunis
+     RGF0ZSBkZSBuYWlzc2FuY2UgOiAyOSBhdnJpbCAxOTkyCk51bSBDSU4gOjE0NzUwMzY2
+     Tunis
+     Meriemajjel1@gmail.com
+     01
+     Ajjel Meriem
+     97610946
+     1005
+     
+        
+       ,
+       3000
+    
+  
+   
+     
+       Juillet 2019
+       false
+       Teleperformance
+       1
+       Août 2018
+       Conseiller client
+    
+     
+       Juin 2018
+       false
+       Siège Amen tunis
+       2
+       Mars 2018
+       QXUgbml2ZWF1IGR1IHNlcnZpY2UganVyaWRpcXVlIA==
+       Stage
+    
+  
+   
+     13
+     false
+     false
+     false
+     4
+     
+       0
+    
+     
+       0
+    
+     false
+     36
+     4
+     false
+     
+       9539985
+    
+     false
+     11
+     false
+     18
+     4
+     14
+     10
+     18
+     18
+     4
+     10
+     
+       0
+    
+     4
+     true
+     13
+     
+       0
+    
+     
+       0
+    
+     true
+     4
+     12
+     false
+     36
+     false
+     2
+     
+       0
+    
+     9
+     4
+     
+       0
+    
+     11
+     false
+     false
+     10
+     
+       0
+    
+     12
+     14
+     4
+     false
+     false
+     false
+     true
+     true
+     14
+  
+   
+     16
+     false
+     false
+     false
+     3
+     
+       0
+    
+     
+       0
+    
+     false
+     28
+     4
+     false
+     
+       0
+    
+     false
+     11
+     false
+     18
+     1
+     16
+     10
+     18
+     30
+     3
+     10
+     
+       0
+    
+     4
+     false
+     16
+     
+       3950422
+    
+     
+       2116231
+    
+     true
+     3
+     12
+     true
+     36
+     false
+     1
+     
+       3950422
+    
+     10
+     3
+     
+       3950422
+    
+     11
+     false
+     false
+     10
+     
+       0
+    
+     18
+     18
+     1
+     false
+     false
+     false
+     false
+     true
+     18
+  
+   
+     13
+     false
+     false
+     false
+     4
+     
+       0
+    
+     
+       0
+    
+     false
+     36
+     4
+     false
+     
+       9539985
+    
+     false
+     11
+     false
+     18
+     4
+     14
+     10
+     18
+     18
+     4
+     10
+     
+       0
+    
+     4
+     true
+     13
+     
+       0
+    
+     
+       0
+    
+     true
+     4
+     12
+     false
+     36
+     false
+     4
+     
+       0
+    
+     9
+     4
+     
+       0
+    
+     11
+     false
+     false
+     10
+     
+       0
+    
+     12
+     14
+     4
+     false
+     false
+     false
+     true
+     true
+     14
+  
+   
+     16
+     false
+     false
+     false
+     3
+     
+       0
+    
+     
+       0
+    
+     true
+     28
+     4
+     false
+     
+       0
+    
+     false
+     11
+     false
+     18
+     4
+     16
+     10
+     18
+     30
+     3
+     10
+     
+       0
+    
+     4
+     false
+     16
+     
+       0
+    
+     
+       0
+    
+     false
+     3
+     12
+     true
+     36
+     false
+     4
+     
+       0
+    
+     10
+     4
+     
+       0
+    
+     11
+     false
+     false
+     10
+     
+       0
+    
+     18
+     15
+     4
+     false
+     false
+     false
+     false
+     true
+     15
+  
+   
+     16
+     false
+     false
+     false
+     false
+     3
+     
+       0
+    
+     
+       16777215
+    
+     false
+     24
+     4
+     false
+     
+       16777215
+    
+     false
+     11
+     
+       1727094
+    
+     false
+     15
+     1
+     
+       0
+    
+     16
+     16
+     15
+     20
+     3
+     3
+     14
+     
+       0
+    
+     3
+     false
+     16
+     
+       1727094
+    
+     
+       1727094
+    
+     false
+     3
+     18
+     true
+     28
+     false
+     1
+     
+       16777215
+    
+     10
+     3
+     11
+     
+       0
+    
+     
+       3519724
+    
+     11
+     false
+     false
+     10
+     15
+     
+       0
+    
+     18
+     16
+     1
+     true
+     false
+     false
+     false
+     false
+     false
+     16
+  
+   
+     13
+     false
+     false
+     false
+     false
+     3
+     
+       441331
+    
+     
+       16777215
+    
+     true
+     25
+     3
+     false
+     
+       9539985
+    
+     true
+     11
+     false
+     20
+     3
+     
+       16777215
+    
+     10
+     12
+     15
+     21
+     3
+     3
+     10
+     
+       0
+    
+     3
+     false
+     16
+     
+       0
+    
+     
+       0
+    
+     false
+     3
+     12
+     false
+     25
+     false
+     3
+     
+       0
+    
+     10
+     3
+     8
+     
+       441331
+    
+     10
+     false
+     false
+     10
+     8
+     
+       0
+    
+     15
+     14
+     3
+     false
+     false
+     false
+     false
+     true
+     false
+     16
+  
+   
+     
+       false
+       1
+       Baccalauréat en économie et gestion 2011/2012
+    
+     
+       2018
+       false
+       Faculté de droit et de science politique tunis
+       2
+       Mastère professionnel en droit des affaires
+    
+     
+       2016
+       false
+       Faculté de droit et de science politique tunis
+       3
+       Licence en droit privé
+    
+  
+   
+  
+
+
+cleaned_text: ajjel meriem date naissance 29 avril 1992 num cin 14750366 04 rue el farabi el omrane tunis tunis 1005 meriemajjel1 gmail com 97610946 experience conseiller client teleperformance aout 2018 juillet 2019 stage siege amen tunis mars 2018 juin 2018 niveau service juridique etudes baccalaureat economie gestion 2011 2012 mastere professionnel droit affaires faculte droit science politique tunis 2018 licence droit prive faculte droit science politique tunis 2016 cv ete cree curriculum vitae application 04 rue el farabi el omrane tunis rgf0zsbkzsbuywlzc2fuy2ugoiayosbhdnjpbcaxotkyck51bsbdsu4goje0nzuwmzy2 tunis meriemajjel1 gmail com 01 ajjel meriem 97610946 1005 3000 juillet 2019 false teleperformance 1 aout 2018 conseiller client juin 2018 false siege amen tunis 2 mars 2018 qxugbml2zwf1igr1ihnlcnzpy2uganvyawrpcxvlia stage 13 false false false 4 0 0 false 36 4 false 9539985 false 11 false 18 4 14 10 18 18 4 10 0 4 true 13 0 0 true 4 12 false 36 false 2 0 9 4 0 11 false false 10 0 12 14 4 false false false true true 14 16 false false false 3 0 0 false 28 4 false 0 false 11 false 18 1 16 10 18 30 3 10 0 4 false 16 3950422 2116231 true 3 12 true 36 false 1 3950422 10 3 3950422 11 false false 10 0 18 18 1 false false false false true 18 13 false false false 4 0 0 false 36 4 false 9539985 false 11 false 18 4 14 10 18 18 4 10 0 4 true 13 0 0 true 4 12 false 36 false 4 0 9 4 0 11 false false 10 0 12 14 4 false false false true true 14 16 false false false 3 0 0 true 28 4 false 0 false 11 false 18 4 16 10 18 30 3 10 0 4 false 16 0 0 false 3 12 true 36 false 4 0 10 4 0 11 false false 10 0 18 15 4 false false false false true 15 16 false false false false 3 0 16777215 false 24 4 false 16777215 false 11 1727094 false 15 1 0 16 16 15 20 3 3 14 0 3 false 16 1727094 1727094 false 3 18 true 28 false 1 16777215 10 3 11 0 3519724 11 false false 10 15 0 18 16 1 true false false false false false 16 13 false false false false 3 441331 16777215 true 25 3 false 9539985 true 11 false 20 3 16777215 10 12 15 21 3 3 10 0 3 false 16 0 0 false 3 12 false 25 false 3 0 10 3 8 441331 10 false false 10 8 0 15 14 3 false false false false true false 16 false 1 baccalaureat economie gestion 2011 2012 2018 false faculte droit science politique tunis 2 mastere professionnel droit affaires 2016 false faculte droit science politique tunis 3 licence droit prive
+mobile_number: 9761094
+email: Meriemajjel1@gmail.com
+skills: []
+skills_text: nan
+Category: Autres

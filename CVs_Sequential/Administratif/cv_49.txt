@@ -1,0 +1,109 @@
+=== CV 49 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rihab Guesmi
+Diplomée en Licence fondamentle en Economie : Economie et finances internationales et je suis
+actuellement à la recherche d'un emploi.
+
+guesmirihab20@gmail.com
+
+51019064
+
+Rue 4777 cité Ezzouhour
+N°12 , Tunis
+
+COMPÉTENCES
+
+Compétence en
+informatique : Excel,
+Word, PowerPoint.
+
+LANGUES
+Arabe
+
+Français
+
+Anglais
+
+Italien
+
+INTÉRÊTS
+
+Sport Musique
+
+Cinéma
+
+FORMATION
+
+Licence fondamentale en Economie : Economie et Finances
+Internationnales
+Ecole Supérieure de Commerce de Tunis
+2021, Université de la Manouba
+
+Baccalauréat en Economie et Gestion
+Lycée Sijoumi
+2017, Tunis
+
+EXPÉRIENCES
+
+Stage d'été
+Arab Tunisian Bank
+08/2021, Agence Ezzouhour (076)
+
+Stage d'été
+Arab Tunisian Bank
+07/2020, Agence Ezzouhour (076)
+
+Stage d'été
+Arab Tunisian Bank
+08/2019, Agence Ezzouhour (076)
+
+ATOUTS
+Sérieuse
+
+Rigoureuse
+
+Responsable
+
+mailto:guesmirihab20@gmail.com
+
+
+cleaned_text: rihab guesmi diplomee licence fondamentle economie economie finances internationales actuellement recherche emploi guesmirihab20 gmail com 51019064 rue 4777 cite ezzouhour ndeg12 tunis competences competence informatique excel word powerpoint langues arabe francais anglais italien interets sport musique cinema formation licence fondamentale economie economie finances internationnales ecole superieure commerce tunis 2021 universite manouba baccalaureat economie gestion lycee sijoumi 2017 tunis experiences stage ete arab tunisian bank 08 2021 agence ezzouhour 076 stage ete arab tunisian bank 07 2020 agence ezzouhour 076 stage ete arab tunisian bank 08 2019 agence ezzouhour 076 atouts serieuse rigoureuse responsable mailto guesmirihab20 gmail com
+mobile_number: 5101906
+email: guesmirihab20@gmail.com
+skills: ['Powerpoint', 'Excel', 'Word']
+skills_text: Powerpoint Excel Word
+Category: Administratif

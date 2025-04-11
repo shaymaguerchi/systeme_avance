@@ -1,0 +1,146 @@
+=== CV 186 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+YOSRA SMIDA
+Ingénieur en finance
+[ yosrasmidaa@gmail.com Ó +21628012912 ½ Tunis, Tunisie
+¯ linkedin.com/in/yosra-smida-1b9b50187
+
+VIE ASSOCIATIVE
+�
+
+Membre du club «ESC Microsoft
+Club»
+
+Leadership Travail en groupe
+
+Ethique du travail Prise de décision
+
+�
+Participation à la compétition HULT-
+PRIZE
+
+Management des projets
+
+Travail en groupe
+
+�
+Membre à l’association «Horizon Kef»
+
+compétence sociale Motivation
+
+coutoisie
+
+COMPETENCES
+SPSS
+• logiciel de statistiques.
+
+Pascal
+• outil de programmation
+
+Pack office
+
+Latex
+
+LANGUAGES
+English B2
+
+French C2
+
+Allemand A2
+
+Arabic maternelle
+
+CENTRES D’INTÉRÊT
+Théatre Sport: ZUMBA Musique
+
+EXPERIENCE PROFESIONNELLE
+Agent commercial
+Europcar (location de voiture)
+� oct 2019 – mai 2020 ½ Tunis
+
+rentway
+
+Conseillère clients
+Teleperformance
+� Dec 2018 – Aout 2019 ½ Tunis, Tunisie
+
+Stage de fin d’études (PFE)
+STB Banque
+� Fev 2018 – Avril 2018 ½ Tunis, Tunisie
+
+• La mise en place d’un système de notation interne.
+
+SPSS
+
+Stage d’été
+Banque de l’habitat
+� Juin 2015 – Juillet 2015 ½ Kef, Tunisie
+
+Stage d’été
+Attijari Banque
+� Juin 2014 – Juillet 2014 ½ Kef, Tunisie
+
+FORMATION
+Mastère professionnel en Ingénierie financière
+ECOLE SUPERIEURE DE COMMERCE
+� 2016 – 2018 ½ Manouba, Tunisie
+
+Licence fondamentale : Economie, finance international
+INSTITUT SUPERIEURE DE FINANCE ET FISCALITÉ �rang: 2/75
+� 2013 – 2016 ½ Sousse, Tunisie
+
+Baccalauréat en Mathématiques
+LYCÉE TECHNIQUE
+� 2013 ½ Kef, Tunisie
+
+
+
+cleaned_text: yosra smida ingenieur finance yosrasmidaa gmail com 21628012912 1 2 tunis tunisie linkedin com yosra smida 1b9b50187 vie associative membre club esc microsoft club leadership travail groupe ethique travail prise decision participation competition hult prize management projets travail groupe membre association horizon kef competence sociale motivation coutoisie competences spss logiciel statistiques pascal outil programmation pack office latex languages english b2 french c2 allemand a2 arabic maternelle centres interet theatre sport zumba musique experience profesionnelle agent commercial europcar location voiture oct 2019 mai 2020 1 2 tunis rentway conseillere clients teleperformance dec 2018 aout 2019 1 2 tunis tunisie stage fin etudes pfe stb banque fev 2018 avril 2018 1 2 tunis tunisie mise place systeme notation interne spss stage ete banque habitat juin 2015 juillet 2015 1 2 kef tunisie stage ete attijari banque juin 2014 juillet 2014 1 2 kef tunisie formation mastere professionnel ingenierie financiere ecole superieure commerce 2016 2018 1 2 manouba tunisie licence fondamentale economie finance international institut superieure finance fiscalite rang 2 75 2013 2016 1 2 sousse tunisie baccalaureat mathematiques lycee technique 2013 1 2 kef tunisie
+mobile_number: 2162801291
+email: yosrasmidaa@gmail.com
+skills: ['Finance', 'French', 'International', 'English']
+skills_text: Finance French International English
+Category: Administratif

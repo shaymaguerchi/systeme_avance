@@ -1,0 +1,8 @@
+=== CV 877 ===
+text: Ahmed Moreau
+cleaned_text: ahmed moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 73264273
+email: ahmed.moreau@example.com
+skills: ['CSS', 'SQL', 'Finance', 'Java']
+skills_text: CSS SQL Finance Java
+Category: Administration

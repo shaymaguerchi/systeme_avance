@@ -1,0 +1,8 @@
+=== CV 684 ===
+text: Nadia Boussaid
+cleaned_text: nadia boussaid cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 52630927
+email: nadia.boussaid@example.com
+skills: ['Java', 'CSS', 'C++']
+skills_text: Java CSS C++
+Category: Administration

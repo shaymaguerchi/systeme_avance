@@ -1,0 +1,12 @@
+=== CV 1060 ===
+text: Anne Serrano - CV
+
+Human nice stand heart blood. Bad goal show. Its outside sell. Thank statement window recent drug answer picture. Offer cut ago card budget drug. Morning reflect at we agreement. Identify side more.
+
+279 Alyssa Ferry Apt. 182, South Kathleenfort, IN 90173
+cleaned_text: anne serrano - cv human nice stand heart blood. bad goal show. its outside sell. thank statement window recent drug answer picture. offer cut ago card budget drug. morning reflect at we agreement. identify side more. 279 alyssa ferry apt. 182, south kathleenfort, in 90173
+mobile_number: +1-810-622-3679x3299
+email: rodriguezkimberly@yahoo.com
+skills: ['C++', 'SQL', 'JavaScript', 'Talend']
+skills_text: C++ SQL JavaScript Talend
+Category: Finance

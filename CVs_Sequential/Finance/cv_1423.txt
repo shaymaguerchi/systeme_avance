@@ -1,0 +1,12 @@
+=== CV 1423 ===
+text: Michael Pearson - CV
+
+Follow sense only action image foreign. Everybody well campaign skin sing occur explain young. Class enough area benefit increase. Onto brother condition conference or. Hair TV hair word whose girl door. Campaign whatever morning century travel education. Stage still soon east form major.
+
+35157 Priscilla Branch, Lake Ryan, PA 16805
+cleaned_text: michael pearson - cv follow sense only action image foreign. everybody well campaign skin sing occur explain young. class enough area benefit increase. onto brother condition conference or. hair tv hair word whose girl door. campaign whatever morning century travel education. stage still soon east form major. 35157 priscilla branch, lake ryan, pa 16805
+mobile_number: 2747630722
+email: zhughes@yahoo.com
+skills: ['JavaScript', 'Python', 'HTML', 'Java', 'CSS']
+skills_text: JavaScript Python HTML Java CSS
+Category: Finance

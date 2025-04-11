@@ -1,0 +1,8 @@
+=== CV 713 ===
+text: Ahmed Lefevre
+cleaned_text: ahmed lefevre cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 62192843
+email: ahmed.lefevre@example.com
+skills: ['Adobe', 'Linux', 'Marketing', 'SQL', 'HTML', 'Finance']
+skills_text: Adobe Linux Marketing SQL HTML Finance
+Category: Finance

@@ -1,0 +1,8 @@
+=== CV 845 ===
+text: Sophie Roche
+cleaned_text: sophie roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 79612063
+email: sophie.roche@example.com
+skills: ['Java', 'CSS', 'Management']
+skills_text: Java CSS Management
+Category: Administration

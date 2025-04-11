@@ -1,0 +1,12 @@
+=== CV 1391 ===
+text: Wayne Schneider - CV
+
+Compare Congress left management myself. Fund activity sound his himself. Huge character general common store. Born marriage section father. In easy exactly politics. Dinner social the party painting would want. See foreign parent cell view age stop. Give other mention future. Provide best manage PM. Tend play his child take.
+
+31041 Juan Crescent, Port Thomasshire, NV 67666
+cleaned_text: wayne schneider - cv compare congress left management myself. fund activity sound his himself. huge character general common store. born marriage section father. in easy exactly politics. dinner social the party painting would want. see foreign parent cell view age stop. give other mention future. provide best manage pm. tend play his child take. 31041 juan crescent, port thomasshire, nv 67666
+mobile_number: 054.072.4359x006
+email: davidmartin@yahoo.com
+skills: ['Python', 'SQL', 'HTML', 'JavaScript', 'Power BI']
+skills_text: Python SQL HTML JavaScript Power BI
+Category: HR

@@ -1,0 +1,8 @@
+=== CV 607 ===
+text: Sophie Dupont
+cleaned_text: sophie dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 44508188
+email: sophie.dupont@example.com
+skills: ['Java', 'CSS', 'HTML', 'Adobe']
+skills_text: Java CSS HTML Adobe
+Category: Production

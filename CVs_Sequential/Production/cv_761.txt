@@ -1,0 +1,8 @@
+=== CV 761 ===
+text: Mohamed Boussaid
+cleaned_text: mohamed boussaid cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 81015765
+email: mohamed.boussaid@example.com
+skills: ['Adobe', 'Management', 'SQL', 'Marketing', 'CSS']
+skills_text: Adobe Management SQL Marketing CSS
+Category: Production

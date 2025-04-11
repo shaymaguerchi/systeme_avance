@@ -1,0 +1,12 @@
+=== CV 1162 ===
+text: Renee Gomez - CV
+
+Campaign produce situation choose position carry. Democrat media north structure air. Probably true condition large approach. Point decide news lot newspaper thing. Wife include radio now answer simply. Fish wait compare they few across.
+
+45521 Kurt Square, West Alexandria, TX 80211
+cleaned_text: renee gomez - cv campaign produce situation choose position carry. democrat media north structure air. probably true condition large approach. point decide news lot newspaper thing. wife include radio now answer simply. fish wait compare they few across. 45521 kurt square, west alexandria, tx 80211
+mobile_number: 730.915.7656x5105
+email: kodom@gmail.com
+skills: ['Python', 'C++', 'JavaScript', 'Java', 'SQL']
+skills_text: Python C++ JavaScript Java SQL
+Category: IT

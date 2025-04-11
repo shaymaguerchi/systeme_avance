@@ -1,0 +1,8 @@
+=== CV 732 ===
+text: Nadia Roche
+cleaned_text: nadia roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 85823128
+email: nadia.roche@example.com
+skills: ['Python', 'Linux', 'HTML']
+skills_text: Python Linux HTML
+Category: Administration

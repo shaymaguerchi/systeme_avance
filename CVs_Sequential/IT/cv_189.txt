@@ -1,0 +1,128 @@
+=== CV 189 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sfaxi Brahim
+
+Hay essaha 
+Borj louzir Ariana
+
+CONTACT
+
+Compétences et 
+Technologies
+
+CMS
+
+Outils:
+
+Drupal, Presta Shop,
+Wordpress, Joomla, Magento,
+CMS Medianet
+
+Microso word, Excel, 
+PowerPoint...
+Swiff char,
+Adobe Photoshop, illustrator
+Google Web Designer
+
+ARABE 
+ANGLAIS
+FRANCAIS 
+
+Langages:
+
+Très aaché  à la noon de service, mové, responsable 
+et ambieux, je souhaite rejoindre une équipe dynamique 
+avec laquelle je pourrais mere à profit mes compétences, 
+de communicaon, d'organisaon et ma capacité de travail
+
+Intégrateur web / webmaster
+
+Lycée MBZ - BAC mathémaque
+
+Faculté des sciences économiques et de geson de nabeul
+Licence fondamentale en informaque appliquée à la geson
+
+Faculté des sciences économiques et de geson de nabeul
+2011 - 2015
+
+2011 
+
+Formaon REACT js chez GOMYCODE
+   2021 - Aujourd'hui
+
+ÉDUCATION
+
+LANGUE écrite et parlée Centres d'intérêt 
+
+Sports 
+( football , basketball ) Jeux vidéo
+
+Discover tunisia, bceao, Lloyd, Anme, Comaf, comar, biat, 
+Assurance ami, Geant, Gat , Zitouna takaful...
+
+La conception, développement et entretien des sites web.
+La mise en forme des contenus, maintenance de la plateforme 
+technique, en collaboration avec les web designers et 
+les développeurs...
+
+Expérience professionnel
+
+Intégrateur web et Webmaster à MEDIANET
+
+Stage PFE dans la société Tunisienne de Services Bureauques et 
+informaque  au service du développement  d'applicaon
+
+Réalisaon d'un projet de fin d'étude : Une applicaon  JAVA  
+de Geson de réparaon et maintenance informaque
+
+Février 2015 -  Avril 2015 
+
+Février 2015 - Mai 2015 
+
+
+
+cleaned_text: sfaxi brahim hay essaha borj louzir ariana contact competences technologies cms outils drupal presta shop wordpress joomla magento cms medianet microso word excel powerpoint swiff char adobe photoshop illustrator google web designer arabe anglais francais langages tres aache noon service move responsable ambieux souhaite rejoindre equipe dynamique laquelle pourrais mere profit competences communicaon organisaon capacite travail integrateur web webmaster lycee mbz bac mathemaque faculte sciences economiques geson nabeul licence fondamentale informaque appliquee geson faculte sciences economiques geson nabeul 2011 2015 2011 formaon react js chez gomycode 2021 aujourd hui education langue ecrite parlee centres interet sports football basketball jeux video discover tunisia bceao lloyd anme comaf comar biat assurance ami geant gat zitouna takaful conception developpement entretien sites web mise forme contenus maintenance plateforme technique collaboration web designers developpeurs experience professionnel integrateur web webmaster medianet stage pfe societe tunisienne services bureauques informaque service developpement applicaon realisaon projet fin etude applicaon java geson reparaon maintenance informaque fevrier 2015 avril 2015 fevrier 2015 mai 2015
+mobile_number: 0
+email: UNKNOWN
+skills: ['Excel', 'Js', 'Cms', 'Powerpoint', 'Wordpress', 'Word', 'Adobe', 'Photoshop', 'Illustrator', 'Sports', 'Java']
+skills_text: Excel Js Cms Powerpoint Wordpress Word Adobe Photoshop Illustrator Sports Java
+Category: IT

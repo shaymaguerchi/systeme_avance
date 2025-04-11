@@ -1,0 +1,8 @@
+=== CV 827 ===
+text: Ahmed Dupont
+cleaned_text: ahmed dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 34592974
+email: ahmed.dupont@example.com
+skills: ['CSS', 'C++', 'Finance', 'Windows']
+skills_text: CSS C++ Finance Windows
+Category: Production

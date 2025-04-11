@@ -1,0 +1,8 @@
+=== CV 482 ===
+text: Isabelle Lambert
+cleaned_text: isabelle lambert cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 96320155
+email: isabelle.lambert@example.com
+skills: ['SQL', 'Adobe', 'C++', 'CSS']
+skills_text: SQL Adobe C++ CSS
+Category: Production

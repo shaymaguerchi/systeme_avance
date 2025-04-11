@@ -1,0 +1,8 @@
+=== CV 656 ===
+text: Karim Lefevre
+cleaned_text: karim lefevre cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 32757918
+email: karim.lefevre@example.com
+skills: ['Finance', 'Adobe', 'Windows', 'Python']
+skills_text: Finance Adobe Windows Python
+Category: Design

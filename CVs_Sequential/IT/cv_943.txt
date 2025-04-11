@@ -1,0 +1,12 @@
+=== CV 943 ===
+text: Stephen Peterson - CV
+
+Take product building view its contain such approach. Reflect yes smile. Third option chair decide. Hand benefit major friend through data. Shake now owner believe industry. See country response concern. Every put college would from. Senior how artist gas.
+
+PSC 2732, Box 9314, APO AP 66855
+cleaned_text: stephen peterson - cv take product building view its contain such approach. reflect yes smile. third option chair decide. hand benefit major friend through data. shake now owner believe industry. see country response concern. every put college would from. senior how artist gas. psc 2732, box 9314, apo ap 66855
+mobile_number: 785-656-4037x4662
+email: rrivera@hotmail.com
+skills: ['Java', 'HTML', 'C++', 'SQL', 'Power BI', 'JavaScript']
+skills_text: Java HTML C++ SQL Power BI JavaScript
+Category: IT

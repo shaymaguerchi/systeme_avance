@@ -1,0 +1,12 @@
+=== CV 1343 ===
+text: Joel Cohen - CV
+
+Family contain enough rather. See focus bank. Million color process region. Attack some if spend quickly Mr. Anything race manager. Home total fund several or plan floor. Movement truth little cost but theory. If financial population special bank as. Serve machine green.
+
+328 Adkins Forest Suite 155, Christianfurt, MN 39124
+cleaned_text: joel cohen - cv family contain enough rather. see focus bank. million color process region. attack some if spend quickly mr. anything race manager. home total fund several or plan floor. movement truth little cost but theory. if financial population special bank as. serve machine green. 328 adkins forest suite 155, christianfurt, mn 39124
+mobile_number: 001-508-787-4879
+email: psmith@yahoo.com
+skills: ['JavaScript', 'Python', 'C++', 'SQL', 'Power BI', 'PHP']
+skills_text: JavaScript Python C++ SQL Power BI PHP
+Category: Finance

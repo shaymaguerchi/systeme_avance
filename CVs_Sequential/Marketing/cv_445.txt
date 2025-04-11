@@ -1,0 +1,8 @@
+=== CV 445 ===
+text: Jean Boussaid
+cleaned_text: jean boussaid cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 67939230
+email: jean.boussaid@example.com
+skills: ['SQL', 'Management', 'Finance', 'HTML', 'Java']
+skills_text: SQL Management Finance HTML Java
+Category: Marketing

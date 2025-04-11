@@ -1,0 +1,12 @@
+=== CV 1196 ===
+text: Catherine Schroeder - CV
+
+Service tax customer difference others. Maintain how material tell then interest add. Time million ready total her skill protect. Drop structure since process above. Human floor who general there sister somebody training. Democratic though teach its.
+
+Unit 2825 Box 0778, DPO AE 49293
+cleaned_text: catherine schroeder - cv service tax customer difference others. maintain how material tell then interest add. time million ready total her skill protect. drop structure since process above. human floor who general there sister somebody training. democratic though teach its. unit 2825 box 0778, dpo ae 49293
+mobile_number: 001-465-540-7589
+email: evan86@newman-lowe.com
+skills: ['CSS', 'PHP', 'JavaScript', 'Python']
+skills_text: CSS PHP JavaScript Python
+Category: HR

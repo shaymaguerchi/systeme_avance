@@ -1,0 +1,136 @@
+=== CV 325 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+emna gharbi
+
+
+P R O F I L
+P E R S O N N E L
+
+Diplômée du mastère
+professionnel CRM et
+transformations digitales. Je
+suis à la recherche d'un
+télétravail dans le domaine du
+marketing.
+
+Mastère professionnel
+CRM et transformations
+digitales (2019/2021)
+
+Licence fondamentale en
+Marketing (2016/2019)
+
+Faculté des sciences
+économiques et gestion Sfax
+
+Ecole supérieure de
+commerce Sfax
+
+É D U C A T I O N
+
+C O O R D O N N É E S
+
+Compétences bureautiques : World/ Power Point/ Excel
+Compétences graphiques : Photoshop/ Illustrator/
+Adobe-Premier
+Prestashop/ MailChimp
+Certificat Voltaire avec un score de 701
+
+C O M P É T E N C E S
+
+WIKI.TN, Web master
+STAGE D'ETE 2017-2018-2019
+
+E X P É R I E N C E
+P R O F E S S I O N N E L L E
+
+F O R M A T I O N S
+
+L A N G U E S
+
+EMNA GHARBI
+MARKETEUSE
+
+216 MEDIA SERVICES, Community Manager 
+FEVRIER 2021 - MAI 2021
+
+emna.gh.97@gmail.com
+
+Route Gabes Km 8
+
+27 77 66 28
+
+ 
+
+Emna Gharbi
+Formation Personnel Branding
+FEVRIER 2020
+
+Formation Design Thinking
+FEVRIER 2019
+
+Formation Techniques de Communication
+NOVEMBRE 2018
+
+Français
+Anglais
+Turc
+
+
+
+cleaned_text: emna gharbi p r f p e r e diplomee mastere professionnel crm transformations digitales recherche teletravail domaine marketing mastere professionnel crm transformations digitales 2019 2021 licence fondamentale marketing 2016 2019 faculte sciences economiques gestion sfax ecole superieure commerce sfax e u r e e competences bureautiques world power point excel competences graphiques photoshop illustrator adobe premier prestashop mailchimp certificat voltaire score 701 p e e e wiki tn web master stage ete 2017 2018 2019 e x p e r e e p r f e e e f r g u e emna gharbi marketeuse 216 media services community manager fevrier 2021 mai 2021 emna gh 97 gmail com route gabes km 8 27 77 66 28 emna gharbi formation personnel branding fevrier 2020 formation design thinking fevrier 2019 formation techniques communication novembre 2018 francais anglais turc
+mobile_number: 017-2018
+email: emna.gh.97@gmail.com
+skills: ['Excel', 'Communication', 'R', 'Marketing', 'P', 'C', 'Adobe', 'Crm', 'Branding', 'Design']
+skills_text: Excel Communication R Marketing P C Adobe Crm Branding Design
+Category: IT

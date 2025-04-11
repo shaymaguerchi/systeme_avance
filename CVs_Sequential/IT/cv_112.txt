@@ -1,0 +1,102 @@
+=== CV 112 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Profil
+Je suis une jeune fille âgée de 24 ans, sérieuse, ponctuelle et très respectueuse desrègles et des principes.Je cherche toujours à me perfectionner pour atteindre les objectifs fixés.Motivée par la réussite dans le cadre d’une équipe avec laquelle je partage unsentiment d’appartenance.
+Education
+2019 – 2021 Mastère professionel en Réseaux et TélécommunicationsInstitut Supérieur des sciences appliquées et technologies ISSATMateur
+2016 – 2019 Licence Appliquée en Informatique IndustrielleInstitut Supérieur des sciences appliquées et technologies ISSATMateur
+2015 – 2016 Baccalauréat MathématiquesLycée Technique Metlaoui
+
+Experiences professionelles
+
+Fevrier 2019– Mai 2019 Compagnie des phosphates de Gafsa (CPG) Projet de fin d’étudesDéveloppement d’une application Web de gestion d’un parc automo-bile. Cette application permet d’ajouter des comptes, des chau�eurs,des accidents et des voitures. Elle permet aussi de les modifier, lessupprimer et de consulter les statistiques annuelles des accidents
+
+Juillet 2018 –Août2018 Compagnie des phosphates de Gafsa (CPG) Stage OuvrierProgrammation sur cible embarqué avec le microcontoleurSTM32F103 et faire une application en C pour l’embarquée
+Juillet 2017 -Aout 2017 Compagnie des phosphates de Gafsa (CPG) Stage Ouvrier•Découvert des di�érents équipements de réseaux•Changement des câbles réseaux
+
+Compétences Informatiques
+Logicielsmanipulés Eclipse,Netbeans, VisualStudio, StarUML,AndroidStudio,Intellij idea,Step 7, Stm32CubeMx
+langages C,LATEX,Java,Spring,Json, Html,CSS,MySql,Bootstrap
+
+Autre • Compétences en programmation• Aptitude à travailler en équipe• Esprit d’initiative, Curiosité
+
+CENTRES D’INTÉRÊT
+• Sport• Lecture
+
+Dhieb Malék
+g 30 Juillet 1997
+R Arianna Soghra, Tunis
+Ó +216 58844252
+[ dhiebmalek2@gmail.com
+
+Langues
+Arabe ○ ○ ○ ○ ○
+Anglais ○ ○ ○ ○ ○
+Francais ○ ○ ○ ○ ○
+
+mailto:dhiebmalek2@gmail.com
+
+
+cleaned_text: profil jeune fille agee 24 ans serieuse ponctuelle tres respectueuse desregles principes cherche toujours perfectionner atteindre objectifs fixes motivee reussite cadre equipe laquelle partage unsentiment appartenance education 2019 2021 mastere professionel reseaux telecommunicationsinstitut superieur sciences appliquees technologies issatmateur 2016 2019 licence appliquee informatique industrielleinstitut superieur sciences appliquees technologies issatmateur 2015 2016 baccalaureat mathematiqueslycee technique metlaoui experiences professionelles fevrier 2019 mai 2019 compagnie phosphates gafsa cpg projet fin etudesdeveloppement application web gestion parc automo bile cette application permet ajouter comptes chaueurs accidents voitures permet aussi modifier lessupprimer consulter statistiques annuelles accidents juillet 2018 aout2018 compagnie phosphates gafsa cpg stage ouvrierprogrammation cible embarque microcontoleurstm32f103 faire application embarquee juillet 2017 aout 2017 compagnie phosphates gafsa cpg stage ouvrier decouvert dierents equipements reseaux changement cables reseaux competences informatiques logicielsmanipules eclipse netbeans visualstudio staruml androidstudio intellij idea step 7 stm32cubemx langages latex java spring json html css mysql bootstrap autre competences programmation aptitude travailler equipe esprit initiative curiosite centres interet sport lecture dhieb malek g 30 juillet 1997 r arianna soghra tunis 216 58844252 dhiebmalek2 gmail com langues arabe anglais francais mailto dhiebmalek2 gmail com
+mobile_number: 216 5884425
+email: dhiebmalek2@gmail.com
+skills: ['Cpg', 'Html', 'Mysql', 'R', 'Css', 'C', 'Json', 'Java']
+skills_text: Cpg Html Mysql R Css C Json Java
+Category: IT

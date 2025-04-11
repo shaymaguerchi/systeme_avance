@@ -1,0 +1,12 @@
+=== CV 958 ===
+text: Joseph Austin - CV
+
+Eight arm seven interest enter. Over role score throw name have TV environment. Approach impact walk sometimes evidence today. Majority determine away girl. Class PM do network. What may simple around ground. Or cut level big kind watch cultural.
+
+Unit 5300 Box 0035, DPO AE 83121
+cleaned_text: joseph austin - cv eight arm seven interest enter. over role score throw name have tv environment. approach impact walk sometimes evidence today. majority determine away girl. class pm do network. what may simple around ground. or cut level big kind watch cultural. unit 5300 box 0035, dpo ae 83121
+mobile_number: 482.156.1206x80949
+email: alexandra22@jones-mitchell.biz
+skills: ['Python', 'HTML', 'C++', 'JavaScript']
+skills_text: Python HTML C++ JavaScript
+Category: IT

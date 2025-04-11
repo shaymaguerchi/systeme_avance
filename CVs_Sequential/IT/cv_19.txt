@@ -1,0 +1,234 @@
+=== CV 19 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bessd.naima
+
+
+Naima BESSAOUD 
+
+Formation
+
+Expérience professionnelle 
+
+Data Scientist
+
+Data Scientist junior avec de solides compétences techniques, professionnelles et interpersonnelles pour
+
+travailler en équipe et mener à bien un projet. Passionnée par l’intelligence artificielle et du machine Learning.
+
+Ingénieur en science des données
+
+Master 2 - Université de Paris Sorbonne Nord 
+
+2020 – 2021 Paris, France
+
+• Statistique  – Machine  Learning  – Deep Learning,
+
+• NLP – Théorie des Graphes – Statistique biomédicale,
+
+• Analyse Topologique des Données.
+
+Ingénieur en mathématiques, Modélisation, Apprentissage  
+
+Master 1 & 2 - Université de Paris Descartes
+
+2018 – 2020 Paris, France
+
+• Classification supervisée et non supervisée,  
+
+• Analyse des séries temporelles, 
+
+• Algorithme stochastique – Probabilité  – Statistique, 
+
+• Optimisation pour la science des données – Traitement d’image.
+
+Stage de fin d’étude - Data Scientist
+
+Entreprise MyFactory & maars
+
+Avr.2021 – Oct.2021 La Garenne Colombes, France
+
+• Mise en place d’un outil qui vise à aider chaque utilisateur à booster
+
+sa motivation et à libérer son énergie potentielle en le prodiguant les
+
+bons conseils et les meilleures recommandations adaptés à sa
+
+situation,
+
+• Classification des textes saisis par des utilisateurs à l’aide d’un
+
+modèle de réseau neuronal convolutif (CNN) et d’un modèle de
+
+réseau de neuronal séquentiel (LSTM) sous Python.
+
+Stage de fin d’étude - Consultante en biostatistique
+
+Institut Pasteur
+
+Fév. 2020 – Aout.2020 Paris, France
+
+• Mise en place d’un outil d’optimisation de plans d’expériences
+
+déséquilibrés et emboités en employant l’analyse de variance sous R,
+
+• Introduction du nombre d’échantillons et de la taille d’effet optimaux
+
+associée à une analyse de variance (anova) pour réaliser une
+
+expérience.
+Langues
+
+• Français: Bilingue
+
+• Anglais : Intermédiaire
+
+• Arabe : Maternelle
+
+Compétences
+
+Centres d’intérêt
+
+Lecture 
+
+Scientifique
+
+VoyageRandonnée 
+
+pédestre Cuisine
+
+Outils Data
+
+Keras Pytorch Tensorflow
+
+Scikit-Learn Pandas Matplotlib
+
+Plotly
+
+Numpy NLTK
+
+Soft skills
+
+AutonomieFlexibilité
+
+Esprit d'équipe 
+
+Présentation
+
+Gestion du stress 
+
+SQL
+
+Outils, Langages de Programmation
+
+Python
+
+VBA
+
+R
+
+Latex
+
+Office MicrosoftGoogle Cloud  
+
+Matlab SAS
+
+• Exploration des données pour extraire des
+
+patterns afin de comprendre la propagation
+
+du COVID19 sous Python,
+
+• Détection d’anomalies avec l’analyse de
+
+composante principale (ACP) et les réseaux
+
+de neurones auto-encodeurs (Défi IA 2020
+
+INSA Toulouse) sous Python,
+
+• Modélisation de la stabilité d’une signature «
+
+ensemble de gènes caractérisant un
+
+caractère particulier de tumeurs » avec une
+
+régression linéaire et régression PLS sous
+
+R,
+
+• Etude de l’impact de la structure de graphe
+
+d’Edos-Renyi sur le comportement de
+
+l’épidémie sous Python.
+
+Projets développés 
+
++33 669 592 461 
+
+linkedin.com/in/naima-bessaoud
+
+PROFIL PROFESSIONNEL
+
+bessd.naima@gmail.com
+
+Paris, France
+
+@
+
+Power BIScilab
+
+
+
+cleaned_text: bessd naima naima bessaoud formation experience professionnelle data scientist data scientist junior solides competences techniques professionnelles interpersonnelles travailler equipe mener bien projet passionnee intelligence artificielle machine learning ingenieur science donnees master 2 universite paris sorbonne nord 2020 2021 paris france statistique machine learning deep learning nlp theorie graphes statistique biomedicale analyse topologique donnees ingenieur mathematiques modelisation apprentissage master 1 2 universite paris descartes 2018 2020 paris france classification supervisee non supervisee analyse series temporelles algorithme stochastique probabilite statistique optimisation science donnees traitement image stage fin etude data scientist entreprise myfactory maars avr 2021 oct 2021 garenne colombes france mise place outil vise aider chaque utilisateur booster motivation liberer energie potentielle prodiguant bons conseils meilleures recommandations adaptes situation classification textes saisis utilisateurs aide modele reseau neuronal convolutif cnn modele reseau neuronal sequentiel lstm sous python stage fin etude consultante biostatistique institut pasteur fev 2020 aout 2020 paris france mise place outil optimisation plans experiences desequilibres emboites employant analyse variance sous r introduction nombre echantillons taille effet optimaux associee analyse variance anova realiser experience langues francais bilingue anglais intermediaire arabe maternelle competences centres interet lecture scientifique voyagerandonnee pedestre cuisine outils data keras pytorch tensorflow scikit learn pandas matplotlib plotly numpy nltk soft skills autonomieflexibilite esprit equipe presentation gestion stress sql outils langages programmation python vba r latex office microsoftgoogle cloud matlab sas exploration donnees extraire patterns afin comprendre propagation covid19 sous python detection anomalies analyse composante principale acp reseaux neurones auto encodeurs defi ia 2020 insa toulouse sous python modelisation stabilite signature ensemble genes caracterisant caractere particulier tumeurs regression lineaire regression pls sous r etude impact structure graphe edos renyi comportement epidemie sous python projets developpes 33 669 592 461 linkedin com naima bessaoud profil professionnel bessd naima gmail com paris france power biscilab
+mobile_number: 0
+email: bessd.naima@gmail.com
+skills: ['Tensorflow', 'Numpy', 'Matlab', 'Sql', 'Pandas', 'Python', 'R', 'Matplotlib', 'Cloud', 'Keras', 'Nltk', 'Machine learning', 'Pytorch', 'Cuisine', 'Sas']
+skills_text: Tensorflow Numpy Matlab Sql Pandas Python R Matplotlib Cloud Keras Nltk Machine learning Pytorch Cuisine Sas
+Category: IT

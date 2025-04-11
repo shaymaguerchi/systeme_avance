@@ -1,0 +1,12 @@
+=== CV 1040 ===
+text: Katherine Griffin - CV
+
+Enter respond need floor life society. Have edge travel skin stay big. Follow protect key forget century. Might professional apply culture imagine store all difference. Personal buy four occur. Very future animal training. Seven real according piece data bit rise party. Note action black throughout soldier bar do.
+
+PSC 3324, Box 9961, APO AE 53238
+cleaned_text: katherine griffin - cv enter respond need floor life society. have edge travel skin stay big. follow protect key forget century. might professional apply culture imagine store all difference. personal buy four occur. very future animal training. seven real according piece data bit rise party. note action black throughout soldier bar do. psc 3324, box 9961, apo ae 53238
+mobile_number: (606)404-3094x4595
+email: nterrell@gmail.com
+skills: ['Power BI', 'SQL', 'PHP', 'Java', 'C++', 'HTML']
+skills_text: Power BI SQL PHP Java C++ HTML
+Category: IT

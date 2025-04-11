@@ -1,0 +1,166 @@
+=== CV 185 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Je m'appelle Boufaid Menyar, je suis bachelier en mathématique, je suis diplômée d'une licence appliquée en informatique et par ce que j'aime voyager et découvrir des nouvelles cultures j'ai fait une formation d'hôtesse de l'aire a l'IAC centre de formation des hôtesses de l'air et steward et par rapport a mes expériences j'ai effectué des stages pratique aux sein de différents sociétés 'TUNISAIR' et 'BNA' Banque National Agricole  ce qui ma aidée a développer le sens d’organisation et mon sens de responsabilité
+
+
+Menyar
+BOUFAID
+“Curieuse, motivée et déterminée”
+Boufaidmenyar5@gmail.com
+             Borj louzir ARIANA 
+
+
+
+       Telephone: 22742804
+
+
+
+
+
+COMPETENCES
+· Création et maintenance de mon blog
+· Goût pour les chiffres et l’analyse
+· Rigueur, esprit d’initiative, curiosité
+Français
+Anglais
+
+Logiciels maitrisés: Excel, Word, PowerPoint, Outlook, Photoshop, Illustrator.
+Technologie:
+ - Base de données: Oracle, MySQL                             
+ 
+- Systèmes d'exploitation: Windows, Linux (Fedora, Backtrack)
+
+-  Environnement de développement: HTML5, CSS3, PHP5, Java, C
+
+Allemand
+
+· Techniques pédagogiques :
+- Utilisation de matériel médical d’urgence
+- Techniques de gestion de conflit et de panique à bord
+- Code de l’aviation civile
+- Techniques de sauvetage et secourisme
+- Spécificités culturelles de la clientèle
+- Consignes générales de sécurité en vol
+- Consignes de sécurité en cas d’urgence
+
+
+
+
+
+
+
+FORMATION
+
+2016 - 2017
+
+DIPLOME: Formation d'hôtesse de l'air 'certification en sécurité et sauvetage' -centre de formation des hôtesses de l'air et steward (IAC)
+
+Tunis
+
+2013 - 2015
+
+Tunis
+DIPLOME: Máster en système de sécurité informatique - Université internationale de Tunis (UIT)
+
+
+DIPLOME: Licence appliquée en informatique -institut supérieur des langue appliquée et d’informatique (ISLAIN)
+2009 - 2013
+Nabeul
+
+
+2007 - 2008
+DIPLOME: Baccalauréat section math     
+Korba, Nabeul
+
+EXPERIENCE PROFESIONNELLE
+· occupe de toutes les opérations de caisse. Il est la première personne que tout visiteur d'une banque voit en premier quelle que soit la nature de leur visite. Il renseigne, informe les clients et les oriente vers les personnes responsables de leur demande
+BNA Banque National Agricole 
+TUNISAIR 
+Tunis
+Avril. 2019 – Juil. 2020
+Stage : Agent de guichetier 
+
+
+Stage : Personnel Navigant Commercial
+
+
+Personnel Navigant Commercial
+
+
+· PNC se compose de deux missions principales : une mission de sûreté, de sécurité et de secourisme : veiller au respect des règles à bord de l'avion et appliquer les procédures en cas de nécessité une mission commerciale : être attentif au confort des passagers en veillant à respecter une qualité de service
+
+
+Juin. 2016– Juil. 2016
+
+Tunis
+
+
+
+
+CENTRES D’INTÉRÊT
+
+· Voyages : London, Paris, Madrid, Istanbul, Belgrade, Strasbourg, Nantes, Prague…
+· Sports : Pratique régulière depuis mes 10 ans.
+· Passionné de découvertes et de sensations fortes comme : voyager, écouter de la musique et cuisiner.
+
+
+ 
+
+
+cleaned_text: appelle boufaid menyar bachelier mathematique diplomee licence appliquee informatique aime voyager decouvrir nouvelles cultures fait formation hotesse aire iac centre formation hotesses air steward rapport experiences effectue stages pratique sein differents societes tunisair bna banque national agricole aidee developper sens organisation sens responsabilite menyar boufaid curieuse motivee determinee boufaidmenyar5 gmail com borj louzir ariana telephone 22742804 competences creation maintenance blog gout chiffres analyse rigueur esprit initiative curiosite francais anglais logiciels maitrises excel word powerpoint outlook photoshop illustrator technologie base donnees oracle mysql systemes exploitation windows linux fedora backtrack environnement developpement html5 css3 php5 java allemand techniques pedagogiques utilisation materiel medical urgence techniques gestion conflit panique bord code aviation civile techniques sauvetage secourisme specificites culturelles clientele consignes generales securite vol consignes securite cas urgence formation 2016 2017 diplome formation hotesse air certification securite sauvetage centre formation hotesses air steward iac tunis 2013 2015 tunis diplome master systeme securite informatique universite internationale tunis uit diplome licence appliquee informatique institut superieur langue appliquee informatique islain 2009 2013 nabeul 2007 2008 diplome baccalaureat section math korba nabeul experience profesionnelle occupe toutes operations caisse premiere personne tout visiteur banque voit premier quelle nature visite renseigne informe clients oriente vers personnes responsables demande bna banque national agricole tunisair tunis avril 2019 juil 2020 stage agent guichetier stage personnel navigant commercial personnel navigant commercial pnc compose deux missions principales mission surete securite secourisme veiller respect regles bord avion appliquer procedures cas necessite mission commerciale etre attentif confort passagers veillant respecter qualite service juin 2016 juil 2016 tunis centres interet voyages london paris madrid istanbul belgrade strasbourg nantes prague sports pratique reguliere depuis 10 ans passionne decouvertes sensations fortes comme voyager ecouter musique cuisiner
+mobile_number: 2274280
+email: Boufaidmenyar5@gmail.com
+skills: ['Excel', 'Mysql', 'Powerpoint', 'Linux', 'Word', 'C', 'Illustrator', 'Photoshop', 'Oracle', 'Windows', 'Html5', 'Certification', 'Java', 'Sports', 'Math']
+skills_text: Excel Mysql Powerpoint Linux Word C Illustrator Photoshop Oracle Windows Html5 Certification Java Sports Math
+Category: IT

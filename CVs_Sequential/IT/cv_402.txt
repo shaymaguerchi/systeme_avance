@@ -1,0 +1,199 @@
+=== CV 402 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Présentation PowerPoint
+
+
+Sidi salem elwalaty
+Actuellement en 2 éme année master professionnel en Sciences ingénierie des données à 
+fsegs de Sfax.
+à la recherche d'un PFE conventionné d'une durée entre 4 à 6 mois à  compter de février 2021.
+
+Actuellement, étudiant en Master M2 de "Sciences et
+Ingénierie des Données", dans la Faculté des Sciences
+Economique et de Gestion de Sfax. Au cours de ma
+formation, j'ai pu acquérir de solides connaissances
+dans le domaine de la Science des données en général
+et plus particulièrement dans les apprentissages
+automatique,bigdata (architecture Hadoop,Hive,
+hbase, flume) Machine Learning et les langages de
+programmation((Python, R, java) dont j'ai fait ma
+spécialisation. Par ailleurs, mes précédentes expériences en
+tant que saisonniers et les différentes tâches qui m'ont été
+confiées à ces occasions m'ont permis de mieux
+appréhender le monde professionnel et d'acquérir
+autonomie et rigueur dans le travail.
+
+profil
+
+contact
++216 55910439
++216 54829455
+
+citée Bahri 2
+3000 Tunisi-Sfax
+
+sidi.salem.elwalaty@gmail.com
+
+compétences
+Programmation
+
+Java, Python, SQL,  R,
+HTML5&CSS3,Django,PHP 
+
+Bases des Données
+Oracle, PostgreSQL, MySQL
+
+IDEs
+Eclipse ,Anaconda, Spyder, Jupter    
+
+Autres Logiciels
+SQL server, Hadoop,
+
+social
+Facebook.com/Sidi Salem Elewalaty
+
+https://www.linkedin.com/in/sidi~salem-elwalaty
+
+Développeur  
+
+Stage fin d'etude: Application web pour la Gestion de
+
+stock et d'archivage des bordereaux(AGSAB),
+
+Réalisé au sein de la direction de production.
+
+Stage technicien
+
+Stage d’étude d’un mois à la direction réseaux Mauritel
+
+Sur la conception réseaux : câblage réseaux, configuration 
+
+des réseau sur le  logiciel Cisco packet tracer
+
+2018-2019
+Societé:Gimtel
+
+2017-2018
+Société:Mauritel
+
+expérience professionnelle
+
+D I P L Ô M E S E T FORMATION
+
+2020-2021
+Faculté:Fsegs
+
+Mastér M2 SIDATA (Sciences et ingénier  de données)
+
+Compétence développées
+
+Programmation  (Python(Django), R, java) ,
+
+Les bibliothèques:NLTk, Spacy, pandas
+2016-2019
+Institut: IUP
+
+Licence Spécialité Réseaux & Télécommunication,
+Domaine: Sciences et Technologies.
+Compétences développées : 
+Programmation: (HTML,CSS, JavaScript, Java...) 
+Réseaux(Adressage MAC, IPV4, IPV6, Routage) 
+
+Baccalauréat TMGM
+
+langue
+
+Anglais(bien)
+
+Arabe(maternel) Français(courant)
+
+11/5/2019 - 11/7/2019
+
+29/6/2018 - 29/7/2018
+
+C E RT I F I C AT I O N S
+
+COURSERA
+
+Projets Académiques
+
+-Relation database systems(Universidad Nacional Autonom de Mexico)
+-Analyzing Big Data with SQL(by Cloudera)
+-Foundations for Big Data Analysis with SQL(by Cloudera)
+
+Administration des outils du Big data:
+installation des outils Bigdata
+sous Oracle VM VirtuelBox :Hadoop,  Hbase, Hive, Flum.
+
+IA: Teste de la maladie diabétique
+
+Apprentissage Automatique
+
+2015-2016
+Lycée technique
+
+Qualité
+
+Responsable & créatif
+
+Dynamique & motivé
+
+Capable de s’intégrer facilement dans
+
+les groupes.
+
+bien organisé
+
+
+
+cleaned_text: presentation powerpoint sidi salem elwalaty actuellement 2 eme annee master professionnel sciences ingenierie donnees fsegs sfax recherche pfe conventionne duree entre 4 6 mois compter fevrier 2021 actuellement etudiant master m2 sciences ingenierie donnees faculte sciences economique gestion sfax cours formation pu acquerir solides connaissances domaine science donnees general plus particulierement apprentissages automatique bigdata architecture hadoop hive hbase flume machine learning langages programmation python r java dont fait specialisation ailleurs precedentes experiences tant saisonniers differentes taches ete confiees occasions permis mieux apprehender monde professionnel acquerir autonomie rigueur travail profil contact 216 55910439 216 54829455 citee bahri 2 3000 tunisi sfax sidi salem elwalaty gmail com competences programmation java python sql r html5 css3 django php bases donnees oracle postgresql mysql ides eclipse anaconda spyder jupter autres logiciels sql server hadoop social facebook com sidi salem elewalaty https www linkedin com sidi salem elwalaty developpeur stage fin etude application web gestion stock archivage bordereaux agsab realise sein direction production stage technicien stage etude mois direction reseaux mauritel conception reseaux cablage reseaux configuration reseau logiciel cisco packet tracer 2018 2019 societe gimtel 2017 2018 societe mauritel experience professionnelle p e e formation 2020 2021 faculte fsegs master m2 sidata sciences ingenier donnees competence developpees programmation python django r java bibliotheques nltk spacy pandas 2016 2019 institut iup licence specialite reseaux telecommunication domaine sciences technologies competences developpees programmation html css javascript java reseaux adressage mac ipv4 ipv6 routage baccalaureat tmgm langue anglais bien arabe maternel francais courant 11 5 2019 11 7 2019 29 6 2018 29 7 2018 e rt f coursera projets academiques relation database systems universidad nacional autonom mexico analyzing big data sql cloudera foundations big data analysis sql cloudera administration outils big data installation outils bigdata sous oracle vm virtuelbox hadoop hbase hive flum ia teste maladie diabetique apprentissage automatique 2015 2016 lycee technique qualite responsable creatif dynamique motive capable integrer facilement groupes bien organise
+mobile_number: 216 5591043
+email: sidi.salem.elwalaty@gmail.com
+skills: ['Php', 'Big data', 'Html', 'Mysql', 'Administration', 'Hadoop', 'Oracle', 'Javascript', 'Sql', 'Database', 'Css', 'Hbase', 'P', 'Pandas', 'Python', 'R', 'Analysis', 'Sql server', 'Machine learning', 'Hive', 'Postgresql', 'Spyder', 'Anaconda', 'Installation', 'Spacy', 'Architecture', 'Nltk', 'C', 'Java', 'Cisco']
+skills_text: Php Big data Html Mysql Administration Hadoop Oracle Javascript Sql Database Css Hbase P Pandas Python R Analysis Sql server Machine learning Hive Postgresql Spyder Anaconda Installation Spacy Architecture Nltk C Java Cisco
+Category: IT

@@ -1,0 +1,12 @@
+=== CV 1419 ===
+text: Madison Campos - CV
+
+Office front past themselves form just any. Your she theory manage finally magazine administration own. Congress program suggest first. Lawyer dark ground former. Week type we. Condition place movement approach our eye trial.
+
+0406 Martinez Streets, Amberberg, WI 73983
+cleaned_text: madison campos - cv office front past themselves form just any. your she theory manage finally magazine administration own. congress program suggest first. lawyer dark ground former. week type we. condition place movement approach our eye trial. 0406 martinez streets, amberberg, wi 73983
+mobile_number: 982-649-1993
+email: heather03@ingram.com
+skills: ['CSS', 'SQL', 'Java', 'HTML', 'Talend']
+skills_text: CSS SQL Java HTML Talend
+Category: Finance

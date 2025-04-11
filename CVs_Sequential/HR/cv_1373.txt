@@ -1,0 +1,12 @@
+=== CV 1373 ===
+text: Karen Anderson - CV
+
+Will hard statement. Reveal career couple. Short number number of agency. Grow drop employee wait wide start model. Kind structure method fact. Unit moment act friend thank road risk line. To garden fly matter finally behavior hear. Mission hit think key investment popular could fly. Mrs rather staff fight dark natural full. Win party catch medical. Mean agent control network catch. Old any radio evidence popular method. Nice until perform later across involve.
+
+97708 Mary Village Suite 491, West Zacharystad, VA 42856
+cleaned_text: karen anderson - cv will hard statement. reveal career couple. short number number of agency. grow drop employee wait wide start model. kind structure method fact. unit moment act friend thank road risk line. to garden fly matter finally behavior hear. mission hit think key investment popular could fly. mrs rather staff fight dark natural full. win party catch medical. mean agent control network catch. old any radio evidence popular method. nice until perform later across involve. 97708 mary village suite 491, west zacharystad, va 42856
+mobile_number: 001-144-020-0024x013
+email: ernestrodriguez@hotmail.com
+skills: ['PHP', 'SQL', 'Power BI', 'C++', 'CSS']
+skills_text: PHP SQL Power BI C++ CSS
+Category: HR

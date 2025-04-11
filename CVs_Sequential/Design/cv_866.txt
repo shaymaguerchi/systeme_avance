@@ -1,0 +1,8 @@
+=== CV 866 ===
+text: Nadia Moreau
+cleaned_text: nadia moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 88601055
+email: nadia.moreau@example.com
+skills: ['Linux', 'HTML', 'Marketing', 'CSS']
+skills_text: Linux HTML Marketing CSS
+Category: Design

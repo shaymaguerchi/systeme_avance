@@ -1,0 +1,218 @@
+=== CV 360 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+Langues
+
+Arabe
+
+Langue maternelle
+
+Français
+
+Anglais
+
+Compétences
+
+Intelligence Artificielle
+
+Deep learning, Machine
+learning, Keras, Scikit-learn,
+OpenCV, Numpy, Pandas,
+Matplotlib
+
+Ecosystème de big data
+
+Hadoop (HDFS–MapReduce),
+Hive, Hbase, Spark, KAFKA
+
+Base de données
+
+SQL, MySQL, SqlServer, NoSQL
+
+Langages de
+
+programmations
+
+Python, SQL, JAVA, C, JS, PHP
+
+Outils et Logiciels
+
+Anaconda, Jupyter Notebook,
+Power BI Desktop, Google
+Colab, Eclipse, PyCharm
+
+Certifications
+
+HCAI Artificial Intelligence
+
+Huawei
+
+Introduction to Programming
+
+using Python
+
+Microsoft Technology
+Associate
+
+Machine Learning with
+
+Python
+
+IBM
+
+Boukettaya Achraf
+
+Elève ingénieur en data science à la recherche d'un
+stage PFE
+
+Diplômes et Formations
+
+Expériences professionnelles
+
+PROJETS ACADÉMIQUES
+
+achrafbouukettaya@gmail.
+com
+
+
+
+Né le 23/05/1997
+94715794
+
+Route sokra klm 4 SFAX
+https://www.linkedin.com/i
+n/boukettaya-achraf-
+039b9517b/
+
+
+
+Ingénierie des Données et Systèmes Décisionnels
+
+Depuis
+2019
+
+Ecole Nationale d'Electronique et des Télécommunications
+Sfax
+
+Licence fondamentale en Informatique Appliqué à la Gestion
+
+De 2016 à 2019 Faculté des Sciences Économiques et de Gestion Sfax
+
+Baccalauréat mathématique
+
+De 2012 à 2016 Lycée Cité El Habib Sfax
+
+Stage d’été
+
+De juin 2021 à août 2021 Centre de Recherche en Numérique Sfax
+
+Réalisation d'un modèle d’apprentissage profond pour animer un visage
+depuis une source audio (Utilisation d'un modèle existant: MakeItTalk
+Speaker-Aware Talking-Head Animation )
+Extraction des frames , Extraction des Landmarks
+Technologies utilisées : Python, Pytorch, Numpy, OpenCV
+
+Stage d’initiation
+
+De juillet 2020 à août 2020 SNSC-IT Sfax
+
+Réalisation d’une application web et Desktop pour la gestion des projets.
+Technologies utilisées : C#, HTML5, Bootstrap, CSS, Laravel, MySQL
+
+Stage PFE
+
+De février 2019 à juin
+2019
+
+Faculté des sciences économiques et de gestion
+Sfax
+
+Conception et réalisation d’une application web pour la gestion des
+formations et certifications
+Technologies utilisées : Spring Boot, Angular , MySQL
+
+Projet PFA
+
+De février 2021 à mai
+2021
+
+Ecole Nationale d'Electronique et des
+Télécommunications Sfax
+
+Détection des activités humaines dans un spectre thermique 
+Technologies utilisées : Python, Keras, CNN, Numpy, OpenCV
+
+Projet Data Mining & Machine Learning
+
+D'octobre 2020 à
+décembre 2020
+
+Ecole Nationale d'Electronique et des
+Télécommunications Sfax
+
+Prédiction des prix des voitures à l’aide des modèles de Machine Learning
+( Linear Regression , Decision Tree, SVR )
+Nettoyage de données, Analyse des données
+Technologies utilisées : Python, Scikit-Learn,Pandas, Numpy
+
+Projet Business intelligence
+
+De novembre 2020 à
+décembre 2020
+
+Ecole Nationale d'Electronique et des
+Télécommunications Sfax
+
+Création d’un Tableau de bord pour la gestion des ressources humaines
+Technologies utilisées : Power BI
+
+mailto:achrafbouukettaya@gmail.com
+https://www.linkedin.com/in/boukettaya-achraf-039b9517b/
+
+
+cleaned_text: langues arabe langue maternelle francais anglais competences intelligence artificielle deep learning machine learning keras scikit learn opencv numpy pandas matplotlib ecosysteme big data hadoop hdfs mapreduce hive hbase spark kafka base donnees sql mysql sqlserver nosql langages programmations python sql java js php outils logiciels anaconda jupyter notebook power bi desktop google colab eclipse pycharm certifications hcai artificial intelligence huawei introduction programming using python microsoft technology associate machine learning python ibm boukettaya achraf eleve ingenieur data science recherche stage pfe diplomes formations experiences professionnelles projets academiques achrafbouukettaya gmail com 23 05 1997 94715794 route sokra klm 4 sfax https www linkedin com boukettaya achraf 039b9517b ingenierie donnees systemes decisionnels depuis 2019 ecole nationale electronique telecommunications sfax licence fondamentale informatique applique gestion 2016 2019 faculte sciences economiques gestion sfax baccalaureat mathematique 2012 2016 lycee cite el habib sfax stage ete juin 2021 aout 2021 centre recherche numerique sfax realisation modele apprentissage profond animer visage depuis source audio utilisation modele existant makeittalk speaker aware talking head animation extraction frames extraction landmarks technologies utilisees python pytorch numpy opencv stage initiation juillet 2020 aout 2020 snsc sfax realisation application web desktop gestion projets technologies utilisees html5 bootstrap css laravel mysql stage pfe fevrier 2019 juin 2019 faculte sciences economiques gestion sfax conception realisation application web gestion formations certifications technologies utilisees spring boot angular mysql projet pfa fevrier 2021 mai 2021 ecole nationale electronique telecommunications sfax detection activites humaines spectre thermique technologies utilisees python keras cnn numpy opencv projet data mining machine learning octobre 2020 decembre 2020 ecole nationale electronique telecommunications sfax prediction prix voitures aide modeles machine learning linear regression decision tree svr nettoyage donnees analyse donnees technologies utilisees python scikit learn pandas numpy projet business intelligence novembre 2020 decembre 2020 ecole nationale electronique telecommunications sfax creation tableau bord gestion ressources humaines technologies utilisees power bi mailto achrafbouukettaya gmail com https www linkedin com boukettaya achraf 039b9517b
+mobile_number: 997 9471579
+email: achrafbouukettaya@gmail.
+skills: ['Php', 'Numpy', 'Ibm', 'Tableau', 'Mysql', 'Matplotlib', 'Hadoop', 'Sql', 'Css', 'Hbase', 'Nosql', 'Html5', 'Scikit-learn', 'Pycharm', 'Opencv', 'Audio', 'Pandas', 'Python', 'Machine learning', 'Keras', 'Hive', 'Pytorch', 'Anaconda', 'Js', 'Jupyter', 'Programming', 'Spark', 'Mining', 'C', 'Java']
+skills_text: Php Numpy Ibm Tableau Mysql Matplotlib Hadoop Sql Css Hbase Nosql Html5 Scikit-learn Pycharm Opencv Audio Pandas Python Machine learning Keras Hive Pytorch Anaconda Js Jupyter Programming Spark Mining C Java
+Category: IT

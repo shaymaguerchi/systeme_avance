@@ -1,0 +1,214 @@
+=== CV 317 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Billal  CHELBI  
+Master en Modélisation Stochastique et Statistique 
+
+ 
+
+Boudouaou, Boumerdes  
+
+29 ans  
+
+ : billal.chelbi20@gmail.com 
+
+: +213552537709 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Expériences professionnelles 
+
+De Octobre 2019 à ce jour 
+
+Fonction  Chargé d’accueil / Agent Polyvalent chez Hotel El Rawassi : 
+ 
+
+Ingénieur conception logiciel chez Bull Atos Technologies : 
+ 
+
+Mission ➢ Prise en charge totale de l’hôtel 
+➢ Gestion de la réception 
+➢ Gestion de l’inventaire. 
+➢ Gestion de la caisse et de ça fermeture. 
+➢ Maintenance Electrique. 
+➢ Maintenance Electronique. 
+➢ Approvisionnement en consommables  
+
+ 
+
+ 
+
+ 
+
+D’Octobre 2019 à Octobre 2020 
+
+Stage Pratique  Evaluation des Provisions techniques en Réassurance non vie  chez la Compagnie 
+Centrale de Réassurance : 
+ 
+
+Mission ➢ Analyse des données deux portefeuilles (incendie et automobile). 
+➢ Estimation des réserves a approvisionné pour les remboursements. 
+➢ Applications des méthodes statistiques pour l’estimation du réserve : 
+
+ 
+
+• Méthode Déterministe : 
+ 
+
+▪ Chain Ladder 
+ 
+
+• Méthodes Stochastique : 
+ 
+
+▪ Bootstrap 
+▪ GLM (modèles linéaires généralises 
+
+Technologies : R, Microsoft Excel 
+
+De Septembre 2017 à Mai 2019 
+
+Fonction Cours de soutien en mathématiques niveaux (primaire, moyen, lycée) 
+ 
+
+ 
+ 
+ 
+ 
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Formations 
+ 
+
+• May 2019 : Python Programming Language. 
+ 
+
+• 2019-2020 : Master Modélisation Stochastique et Statistique à l’université M’hamed Bougara, 
+ 
+
+Thème : Evaluation des Provisions techniques en Réassurance non vie  (R, Microsoft 
+
+Excel) 
+ 
+
+• 2016-2017 : Licence en Mathématique Appliqués à l’université M’hamed Bougara, 
+Thème : Méthodes Numériques (Calcul d’erreurs) 
+
+ 
+
+• 2010 : Baccalauréat filière Science. 
+Mention : bien 
+
+ 
+ 
+
+ 
+
+Compétences 
+ 
+ 
+
+• Analyse des données : 
+o Outils :  
+
+▪ Power BI 
+▪  SQL 
+▪  R 
+▪  Python 
+
+• Statistiques 
+
+• Suite Microsoft Office :  
+o Microsoft Excel 
+o Microsoft Word 
+o Microsoft PowerPoint 
+o Microsoft Access. 
+
+• Langage de programmation : Python, R, Java, Matlab 
+• Domaines / Industries :  
+
+o Assurance / Réassurance 
+o  Hôtellerie 
+o  Enseignement 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+cleaned_text: billal chelbi master modelisation stochastique statistique boudouaou boumerdes 29 ans billal chelbi20 gmail com 213552537709 experiences professionnelles octobre 2019 jour fonction charge accueil agent polyvalent chez hotel el rawassi ingenieur conception logiciel chez bull atos technologies mission prise charge totale hotel gestion reception gestion inventaire gestion caisse ca fermeture maintenance electrique maintenance electronique approvisionnement consommables octobre 2019 octobre 2020 stage pratique evaluation provisions techniques reassurance non vie chez compagnie centrale reassurance mission analyse donnees deux portefeuilles incendie automobile estimation reserves approvisionne remboursements applications methodes statistiques estimation reserve methode deterministe chain ladder methodes stochastique bootstrap glm modeles lineaires generalises technologies r microsoft excel septembre 2017 mai 2019 fonction cours soutien mathematiques niveaux primaire moyen lycee formations may 2019 python programming language 2019 2020 master modelisation stochastique statistique universite hamed bougara theme evaluation provisions techniques reassurance non vie r microsoft excel 2016 2017 licence mathematique appliques universite hamed bougara theme methodes numeriques calcul erreurs 2010 baccalaureat filiere science mention bien competences analyse donnees outils power bi sql r python statistiques suite microsoft office microsoft excel microsoft word microsoft powerpoint microsoft access langage programmation python r java matlab domaines industries assurance reassurance hotellerie enseignement
+mobile_number: 2135525377
+email: billal.chelbi20@gmail.com
+skills: ['Excel', 'Hotel', 'Matlab', 'Sql', 'Powerpoint', 'Python', 'R', 'Microsoft word', 'Access', 'Programming', 'Word', 'Microsoft excel', 'Java']
+skills_text: Excel Hotel Matlab Sql Powerpoint Python R Microsoft word Access Programming Word Microsoft excel Java
+Category: IT

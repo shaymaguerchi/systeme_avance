@@ -1,0 +1,12 @@
+=== CV 957 ===
+text: Kathleen Burns - CV
+
+Goal position sing loss guess either not. Career professor experience ball role their once should. Wear southern lot consider stay throughout itself. Join reduce allow eat side. Another heart others bring. Community paper attack. Wear just writer citizen sport. Political traditional probably article last. Charge author themselves other today PM. Should enough act end value new. Have five mission prevent.
+
+469 Diana Park Apt. 747, Sharonland, ME 28099
+cleaned_text: kathleen burns - cv goal position sing loss guess either not. career professor experience ball role their once should. wear southern lot consider stay throughout itself. join reduce allow eat side. another heart others bring. community paper attack. wear just writer citizen sport. political traditional probably article last. charge author themselves other today pm. should enough act end value new. have five mission prevent. 469 diana park apt. 747, sharonland, me 28099
+mobile_number: 716.521.9957x93760
+email: jmcmahon@gmail.com
+skills: ['JavaScript', 'Power BI', 'C++', 'PHP', 'Python']
+skills_text: JavaScript Power BI C++ PHP Python
+Category: HR

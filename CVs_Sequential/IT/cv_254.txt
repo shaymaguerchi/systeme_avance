@@ -1,0 +1,241 @@
+=== CV 254 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CYRINE AKACHA – Etudiante développement  système  
+
+d’informations                               
+Nationalité tunisienne 
+Date de naissance : 17/08/1999 
+Adresse: Avenue grand Maghreb, 8000 Nabeul 
+
+  Tel : +216 52 320 502  - E-mail : akacha.cyrine1@gmail.com 
+
+  
+
+FORMATION 
+ 
+
+ 2018-2020 Niveau 2 en développement Système d’informations 
+
+ ISET Nabeul 
+
+ Majeure de promotion (16.21) 
+
+En juin 2018 Diplôme de Baccalauréat 
+
+Lycée Ali Balhouène nabeul (LABN) 
+
+Spécialité: Mathématiques  
+ 
+
+COMPETENCES 
+ 
+
+Front-End  AngularJs | HTML5| CSS3 | JavaScript| jQuery|Tkinter|SYMFONY3 
+
+Langages  JAVA/J2EE| PHP5 | C | C++|MYSQL| | PYTHON 
+
+Conception et UML| Architecture logicielle Star UML | MVC 
+
+Architecture Cycle en V, Méthode agile(SCRUM) 
+
+Base de donnée  Oracle 12c (SQL, PL/SQL)| MYSQL 
+
+Système Windows| LINUX 
+
+ 
+
+EXPERIENCE 
+ 
+
+01/2020-03/2020 Stage de perfectionnement (validée avec 16)  
+
+INFO EXPERT  Site E_commerce 
+
+  -     Développement partie Admin : 
+
+ Préparer un dashbord pour l’admin pour qu’il puisse gérer l’interface client et traiter les 
+
+informations ainsi que faire les cruds . 
+
+- Développement interface client : 
+
+Une interface client comporte les produits suivis de description et filtrage en plus il 
+
+permet à chaque client d’accéder à son compte et poursuivre son commande et 
+
+consulter son facture. 
+
+Langages de programmation: PHP | jQuery | CSS3 | HTML5 
+
+ 
+
+ 06/2019-07/2019        Travail Saisonnier  
+             GODDI FEHRI 
+
+                 -    Règlement de factures 
+
+-  Traitement de données  
+
+                 -    Calcul de stock  
+
+                       Outils : EXCEL| WORD| LOGICIEL DE FACTURATION 
+
+ 
+
+ 
+
+             01/2019–03/2019        Stage ouvrier 
+
+             INFO EXPERT -      Maintenance de matériels informatique 
+
+- Configuration de modem, activation internet  et envoyer demande internet  
+
+- Vente de Matériels informatique 
+
+- Règlement de factures  
+
+Outils : EXCEL|WORD|LOGICIEL DE FACTURATION 
+
+mailto:akacha.cyrine1@gmail.com
+
+
+ 
+ 
+
+PROJETS ACADEMIQUES 
+
+ 
+JUIN  2020 Projet de gestion de bibliothèque 
+
+ISET Gère le stock d’une bibliothèque  et le contrôler. 
+
+Développement d’une application web permettant aux abonnées de consulter les livres  
+
+et de réserver ainsi que commander un livre et permet aux responsable de 
+
+bibliothèque de voir son stock et le gérer ainsi les demandes des abonnées . 
+
+Langages de programmation: J2EE  
+ 
+
+ Site de Bureau juridique  
+
+  Application gérer un bureau juridique  
+
+ Développer une application au quelle l’internaute peut avoir tous les informations nécessaire 
+sur l’avocat et le contacter et permet aux clients de poursuivre le règlement de son dossier.  
+
+Langages de programmation: PHP| HTML|CSS 
+ 
+
+ Projet de Tournoi de football 
+
+  Développement d’une application desktop pour gérer un tournoi 
+
+ Développer une application contenant des poules et elle sert après chaque match de 
+préciser le gagnant suivi de ses points . 
+
+Langages de programmation: PYTHON| TKINTER 
+
+ 
+
+FORMATIONS TECHNIQUES & COMPETITIONS 
+
+ 
+           ISET  Certification Microsoft en JAVA SCRIPT 
+
+ Certification de participation en GOLBAL GAME JAM . 
+
+ Certification de participation en ISET journée ouverte  
+
+ Présentation dans une formation de gestion stresse 
+
+ Participation à l’organisation d’un compétition LOL  
+
+ Présentation en formation d’ANGULAR JS 
+
+ Organisation  d’un  HACKATON 2019 en ISET 
+
+ 
+
+ 
+ 
+
+LANGUES 
+ 
+
+Français (niveau bien) 
+
+Anglais (moyenne) 
+
+Allemand (basique) 
+
+ 
+
+ Vie Associative 
+
+  
+Membre dans Brain Juice, We developp  
+
+Ancien membre de JCI Nabeul, Club Orange  
+
+ 
+
+ 
+
+              
+
+
+
+cleaned_text: cyrine akacha etudiante developpement systeme informations nationalite tunisienne date naissance 17 08 1999 adresse avenue grand maghreb 8000 nabeul tel 216 52 320 502 e mail akacha cyrine1 gmail com formation 2018 2020 niveau 2 developpement systeme informations iset nabeul majeure promotion 16 21 juin 2018 diplome baccalaureat lycee ali balhouene nabeul labn specialite mathematiques competences front end angularjs html5 css3 javascript jquery tkinter symfony3 langages java j2ee php5 mysql python conception uml architecture logicielle star uml mvc architecture cycle v methode agile scrum base donnee oracle 12c sql pl sql mysql systeme windows linux experience 01 2020 03 2020 stage perfectionnement validee 16 info expert site e commerce developpement partie admin preparer dashbord admin puisse gerer interface client traiter informations ainsi faire cruds developpement interface client interface client comporte produits suivis description filtrage plus permet chaque client acceder compte poursuivre commande consulter facture langages programmation php jquery css3 html5 06 2019 07 2019 travail saisonnier goddi fehri reglement factures traitement donnees calcul stock outils excel word logiciel facturation 01 2019 03 2019 stage ouvrier info expert maintenance materiels informatique configuration modem activation internet envoyer demande internet vente materiels informatique reglement factures outils excel word logiciel facturation mailto akacha cyrine1 gmail com projets academiques juin 2020 projet gestion bibliotheque iset gere stock bibliotheque controler developpement application web permettant abonnees consulter livres reserver ainsi commander livre permet responsable bibliotheque voir stock gerer ainsi demandes abonnees langages programmation j2ee site bureau juridique application gerer bureau juridique developper application quelle internaute peut avoir tous informations necessaire avocat contacter permet clients poursuivre reglement dossier langages programmation php html css projet tournoi football developpement application desktop gerer tournoi developper application contenant poules sert apres chaque match preciser gagnant suivi points langages programmation python tkinter formations techniques competitions iset certification microsoft java script certification participation golbal game jam certification participation iset journee ouverte presentation formation gestion stresse participation organisation competition lol presentation formation angular js organisation hackaton 2019 iset langues francais niveau bien anglais moyenne allemand basique vie associative membre brain juice developp ancien membre jci nabeul club orange
+mobile_number: 018-2020
+email: akacha.cyrine1@gmail.com
+skills: ['Php', 'Js', 'Sql', 'Mysql', 'Python', 'Architecture', 'Linux', 'C', 'Oracle', 'Html5', 'Certification', 'Java', 'Tkinter', 'Orange']
+skills_text: Php Js Sql Mysql Python Architecture Linux C Oracle Html5 Certification Java Tkinter Orange
+Category: IT

@@ -1,0 +1,8 @@
+=== CV 884 ===
+text: Jean Roche
+cleaned_text: jean roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 46422216
+email: jean.roche@example.com
+skills: ['CSS', 'Adobe', 'Java', 'HTML', 'Linux']
+skills_text: CSS Adobe Java HTML Linux
+Category: Production

@@ -1,0 +1,201 @@
+=== CV 288 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+From February 2021
+to June 2021
+
+From August 2020 to
+September 2020
+
+August 2019
+
+From September
+2018 to July 2021
+
+From September
+2016 to June 2018
+
+From September
+2015 to June 2016
+
+Freshly graduated in electrical engineering specializing in Industrial Automation
+Supervision , dynamic as well as rigorous, open to any new experience to develop my
+technical skills to the professional level.
+
+Work experience
+
+Engineer internship Project : Modernization of the control part of a
+cotton cleaning unit(5 Months)
+Textile Industrial Company SITEX Sousse
+
+• Report on security, interconnections between machines,
+synchronizations
+• Determine the need and the choice of required equipment (Sensors,
+PLCs, etc.).
+• Design  the electrical plans of the production  line.
+• Develop a program on a PLC taking into account the safety, power and
+control part as well as the synchronization part.
+• Develop a supervision interface allowing the management and overall
+monitoring of the production line.
+• Implement and simulate the program with an S7 1500 PLC in the ENIM
+laboratory.
+Keywords : TIA Selction TOOLS, XRLAIS, LADDER, GRAFCETS, PID
+Regulator 
+
+Technician internship (2 Months)
+LEONI Messadine Sousse Industrial Zone
+
+Design a mapp and generate the location of the RPLIDAR using the
+SLAM algorithm and ROS
+Keywords:  UBUNTU,  ROS, RVIZ
+
+Observation Internship
+Sousse CPS-STEG Production Center ZI Sidi Abdelhamid Sousse
+Tunisie
+
+ Discover the operation of the combined cycle with two gas turbines an
+d a steam turbine
+
+Education
+
+Electrical engineering diploma -Accredited by CTI
+National Engineering School of Monastir (ENIM) Monastir
+
+Preparatory Cycle Physics-Chemistry
+Preparatory Institute for Engineering Studies Monastir (IPEM) Monastir
+
+Bachelor's degree Baccalaureate in Experimental Science
+Zahra Secondary School Sousse
+
+Academic Projects
+
+-  Automation of the CO2 scrubber water supply system 2021
+-  Control and supervision of a dosing station with TIA Portal 2020  
+Keywords: PLC , SIMATIC, Human-Machine Interface
+- Smart Garden 2019-2020 based on the thermal regulation system, automatic sprinkler
+system, solar power system and lighting system
+Keywords: STM32, DH11 Sensor, LDR Sensor
+- Design  and implmentation of  an adjustable power supply card with  linear regulator 2019-
+2020
+Keywords: ISIS , LM317 Regulator
+- Electrical and mechanical designing of a robot with  a robotic arm 2018-2019
+Keywords:Arduino, Solidworks
+
+Community Life
+
+- Active member of the AIDI Mechatronics Club  2018-2019
+- Vice president at IEEEPower Electronic Society PELS  2019-2020
+
+SAKJI Oumaima
+Looking for a job
+
+oumaimasakjii@gmail.com
+
+23 years old
+
+Tunisian
+
++216 58 625 911
+
+Languages
+English (Professional level)
+
+French (Professional level)
+
+Arabic (Native Language))
+
+
+
+Skills
+- PLC Software :Tia Portal ,
+Step7  ,Win cc 
+
+Langages :C / C++  , Python,
+VHDL ,Arduino
+Design software :
+Solidworks, CATIA, Proteuse
+(ISIS, ARES),Labview,         
+XRLAIS 
+Development software :
+Mikroc, Keil uvision, Arduino,
+Modelsim, PyCharm, Visual
+Studio 
+ Simulation software
+:Matlab,Simulink ,Automgen,
+PSIM
+Microcontrollers :Pic,
+Arduino, STM32
+
+
+
+Assets
+Responsable
+
+Team work
+
+Creatif
+
+Organised
+
+
+
+Interests
+Social entrepreneurship  
+
+Trip , Sport, Music  
+
+Reading  
+
+
+
+ 
+
+mailto:oumaimasakjii@gmail.com
+
+
+cleaned_text: february 2021 june 2021 august 2020 september 2020 august 2019 september 2018 july 2021 september 2016 june 2018 september 2015 june 2016 freshly graduated electrical engineering specializing industrial automation supervision dynamic well rigorous open new experience develop technical skills professional level work experience engineer internship project modernization control part cotton cleaning unit 5 months textile industrial company sitex sousse report security interconnections machines synchronizations determine need choice required equipment sensors plcs etc design electrical plans production line develop program plc taking account safety power control part well synchronization part develop supervision interface allowing management overall monitoring production line implement simulate program s7 1500 plc enim laboratory keywords tia selction tools xrlais ladder grafcets pid regulator technician internship 2 months leoni messadine sousse industrial zone design mapp generate location rplidar using slam algorithm ros keywords ubuntu ros rviz observation internship sousse cps steg production center zi sidi abdelhamid sousse tunisie discover operation combined cycle two gas turbines steam turbine education electrical engineering diploma accredited cti national engineering school monastir enim monastir preparatory cycle physics chemistry preparatory institute engineering studies monastir ipem monastir bachelor degree baccalaureate experimental science zahra secondary school sousse academic projects automation co2 scrubber water supply system 2021 control supervision dosing station tia portal 2020 keywords plc simatic human machine interface smart garden 2019 2020 based thermal regulation system automatic sprinkler system solar power system lighting system keywords stm32 dh11 sensor ldr sensor design implmentation adjustable power supply card linear regulator 2019 2020 keywords isis lm317 regulator electrical mechanical designing robot robotic arm 2018 2019 keywords arduino solidworks community life active member aidi mechatronics club 2018 2019 vice president ieeepower electronic society pels 2019 2020 sakji oumaima looking job oumaimasakjii gmail com 23 years old tunisian 216 58 625 911 languages english professional level french professional level arabic native language skills plc software tia portal step7 win cc langages python vhdl arduino design software solidworks catia proteuse isis ares labview xrlais development software mikroc keil uvision arduino modelsim pycharm visual studio simulation software matlab simulink automgen psim microcontrollers pic arduino stm32 assets responsable team work creatif organised interests social entrepreneurship trip sport music reading mailto oumaimasakjii gmail com
+mobile_number: 019-2020
+email: oumaimasakjii@gmail.com
+skills: ['English', 'Physics', 'System', 'Electrical engineering', 'C++', 'Ubuntu', 'Matlab', 'Security', 'French', 'Engineering', 'Lighting', 'Pycharm', 'Automation', 'Visual', 'Experimental', 'Python', 'Solidworks', 'Safety', 'Electrical', 'Robot', 'C', 'Chemistry', 'Design', 'Technical']
+skills_text: English Physics System Electrical engineering C++ Ubuntu Matlab Security French Engineering Lighting Pycharm Automation Visual Experimental Python Solidworks Safety Electrical Robot C Chemistry Design Technical
+Category: IT

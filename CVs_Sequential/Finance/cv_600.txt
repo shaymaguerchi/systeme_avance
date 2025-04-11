@@ -1,0 +1,8 @@
+=== CV 600 ===
+text: Mohamed Boussaid
+cleaned_text: mohamed boussaid cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 93572684
+email: mohamed.boussaid@example.com
+skills: ['Finance', 'C++', 'CSS']
+skills_text: Finance C++ CSS
+Category: Finance

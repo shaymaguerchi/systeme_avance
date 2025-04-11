@@ -1,0 +1,12 @@
+=== CV 945 ===
+text: Paul Gonzalez - CV
+
+Mrs possible add analysis before hotel our. Prepare blue tend house staff. Success ago five information. Type speech other question indeed. Wind answer stock full road nothing defense. Budget serious form fight century. Result every war something book notice society. Class here develop seven can place this. Try poor modern democratic human difference. Music check close agreement. Capital white yet people. National eight she hand. Middle resource project.
+
+49250 Mary Ranch Suite 063, Hudsonport, AL 23504
+cleaned_text: paul gonzalez - cv mrs possible add analysis before hotel our. prepare blue tend house staff. success ago five information. type speech other question indeed. wind answer stock full road nothing defense. budget serious form fight century. result every war something book notice society. class here develop seven can place this. try poor modern democratic human difference. music check close agreement. capital white yet people. national eight she hand. middle resource project. 49250 mary ranch suite 063, hudsonport, al 23504
+mobile_number: +1-548-394-0965x154
+email: hernandezmeghan@gmail.com
+skills: ['JavaScript', 'SQL', 'Java']
+skills_text: JavaScript SQL Java
+Category: Finance

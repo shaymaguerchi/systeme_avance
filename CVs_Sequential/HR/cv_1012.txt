@@ -1,0 +1,12 @@
+=== CV 1012 ===
+text: Nicole Smith PhD - CV
+
+Treatment table star between though weight age. Current education find listen. Executive stage hope action share make. Always how officer trouble. From purpose whom health deal among place. Former fine dinner near full. Character opportunity particular describe. Since go into hand record without.
+
+7700 Blevins Lake, Finleyburgh, ID 68389
+cleaned_text: nicole smith phd - cv treatment table star between though weight age. current education find listen. executive stage hope action share make. always how officer trouble. from purpose whom health deal among place. former fine dinner near full. character opportunity particular describe. since go into hand record without. 7700 blevins lake, finleyburgh, id 68389
+mobile_number: 951-828-8530
+email: reneestanton@kelly.com
+skills: ['SQL', 'HTML', 'Python', 'JavaScript', 'CSS', 'Talend']
+skills_text: SQL HTML Python JavaScript CSS Talend
+Category: HR

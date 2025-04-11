@@ -1,0 +1,12 @@
+=== CV 947 ===
+text: Jose Obrien - CV
+
+Gas fly drug. Room with travel responsibility cut hour. Ok final soldier against take budget agency century. Anything trial factor culture. Drug north shake property fish plan. Expert assume every walk degree rise laugh citizen. Coach yard treat. Have approach difference difficult. Fine so say movie world. Would pattern still simply during scientist white. Cell among nice operation.
+
+PSC 4172, Box 0174, APO AA 33822
+cleaned_text: jose obrien - cv gas fly drug. room with travel responsibility cut hour. ok final soldier against take budget agency century. anything trial factor culture. drug north shake property fish plan. expert assume every walk degree rise laugh citizen. coach yard treat. have approach difference difficult. fine so say movie world. would pattern still simply during scientist white. cell among nice operation. psc 4172, box 0174, apo aa 33822
+mobile_number: +1-745-913-0648x539
+email: navarropatricia@fitzgerald.net
+skills: ['Python', 'Talend', 'Java', 'PHP']
+skills_text: Python Talend Java PHP
+Category: IT

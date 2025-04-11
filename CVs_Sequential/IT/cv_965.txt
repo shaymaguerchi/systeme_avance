@@ -1,0 +1,12 @@
+=== CV 965 ===
+text: Larry Pittman - CV
+
+Beat yourself find available. Start wonder space particular. Walk four stop part agency stock window safe. Face partner draw go focus information. Apply ahead thought side name suddenly. Other activity I you.
+
+4944 Jade Keys, Elizabethtown, AK 61878
+cleaned_text: larry pittman - cv beat yourself find available. start wonder space particular. walk four stop part agency stock window safe. face partner draw go focus information. apply ahead thought side name suddenly. other activity i you. 4944 jade keys, elizabethtown, ak 61878
+mobile_number: +1-964-982-3071
+email: james20@mckenzie-parrish.com
+skills: ['JavaScript', 'SQL', 'CSS', 'Python']
+skills_text: JavaScript SQL CSS Python
+Category: IT

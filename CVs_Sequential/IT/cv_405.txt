@@ -1,0 +1,128 @@
+=== CV 405 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OMAR BOUSSAADA
+Engineering in software architecture
+Looking for an end-of-studies internship and want to join an organization to bring and develop my skills.
+Hardworking and eager to have opportunities to improve myself professionally and contribute to the growth of the
+organization with quality services
+
+[ omar.boussaada1@esprit.tn
+Ó +(216)98 821 576 ½ Tunis, Tunisia Age: 25
+
+EDUCATION
+Software Architecture Engineering
+� 2019 – 2022 ½ ESPRIT (Ecole Supérieure
+Privée d’ingénierie et de technologies)
+Embedded System Technician
+� 2014-2018 ½ ISETSO ( Higher Institute
+of Technological Studies of Sousse)
+TECHNICAL SKILLS
+Big Data :
+Data warehouse hadoop
+DevOps :
+Docker Jenkins maven Junit
+Sonarqube Git Github
+development languages :
+.Net Php HTML c css
+Bootstrap JavaScript Java/JEE
+c++
+SGBD :
+MySQL mongodb Oracle SQLite
+Logiciels :
+VMware Android Studio Symfony
+Visual Studio Code STS Postman
+environnements :
+Windows Lunix
+
+LANGUAGES
+
+English, French and native Arabic.
+CENTERS OF INTEREST
+Travel Music
+
+PROFESSIONAL EXPERIENCES
+engineering internship
+� august 2021 – September 2018 ½ Informatech tunisia
+• develop the user interface of an ERP system using CSHTML
+• develop a user management solution .
+• Software: Visual studio, SQL Server Management Studio
+Graduation internship
+� Jun. 2018 – July 2018 ½ INSEN
+• build a small CNC machine
+• using : cart Arduino Uno, scrap DVDWriters, L293D Motor DriveShield, Servo Motor SG90
+Technician internship
+� Jun. 2017 – Feb 2017 ½ Enfidha-Hammamet International Airport
+• developing an application for desktop for stock management
+• Tech : java
+initiation internship
+� Jun. 2016 – Feb 2016 ½ Tunisie Telecom
+• installation of new lines in telecom switch room
+ACADEMIC PROJECTS
+Devops project
+CI/CD pipeline
+� (September. 2021 - November. 2021)½ ESPRIT
+• Build a continuous delivery pipeline (continuous integration /continuous deployment) via the jenkins tool
+• Git-unit test -sonar -Nexus-Jenkins -Docker.
+Social network,kindergarten and parents
+Managing the relationship with parents and the owner of kindergarten
+� (Jan. 2021 - Jun. 2021) ½ ESPRIT
+• Development of social media solutions, including AppointmentBooking with the parents and planning meetings, Reputation,statistics
+• Tech: Java EE, ASP.NET MVC 5, RESTful APIs.
+E-commerce platform project
+(Development and Integration Project [desktop, web, and mobile])
+� Jan. 2020 - Jun. 2020 ½ ESPRIT
+• The project consisted of making 3 apps for three differentenvironments: desktop, web, and mobile. All the apps needed towork on one single database.
+• Languages: Java, PHP, Javascript, HTML, CSS, SQL
+• Frameworks and Libraries: JavaFX, Symfony (FOSUser, FOSMessage),jQuery, Codename One, MySQL.
+
+
+
+cleaned_text: omar boussaada engineering software architecture looking end studies internship want join organization bring develop skills hardworking eager opportunities improve professionally contribute growth organization quality services omar boussaada1 esprit tn 216 98 821 576 1 2 tunis tunisia age 25 education software architecture engineering 2019 2022 1 2 esprit ecole superieure privee ingenierie technologies embedded system technician 2014 2018 1 2 isetso higher institute technological studies sousse technical skills big data data warehouse hadoop devops docker jenkins maven junit sonarqube git github development languages net php html css bootstrap javascript java jee sgbd mysql mongodb oracle sqlite logiciels vmware android studio symfony visual studio code sts postman environnements windows lunix languages english french native arabic centers interest travel music professional experiences engineering internship august 2021 september 2018 1 2 informatech tunisia develop user interface erp system using cshtml develop user management solution software visual studio sql server management studio graduation internship jun 2018 july 2018 1 2 insen build small cnc machine using cart arduino uno scrap dvdwriters l293d motor driveshield servo motor sg90 technician internship jun 2017 feb 2017 1 2 enfidha hammamet international airport developing application desktop stock management tech java initiation internship jun 2016 feb 2016 1 2 tunisie telecom installation new lines telecom switch room academic projects devops project ci cd pipeline september 2021 november 2021 1 2 esprit build continuous delivery pipeline continuous integration continuous deployment via jenkins tool git unit test sonar nexus jenkins docker social network kindergarten parents managing relationship parents owner kindergarten jan 2021 jun 2021 1 2 esprit development social media solutions including appointmentbooking parents planning meetings reputation statistics tech java ee asp net mvc 5 restful apis e commerce platform project development integration project desktop web mobile jan 2020 jun 2020 1 2 esprit project consisted making 3 apps three differentenvironments desktop web mobile apps needed towork one single database languages java php javascript html css sql frameworks libraries javafx symfony fosuser fosmessage jquery codename one mysql
+mobile_number: 014-2018
+email: omar.boussaada1@esprit.tn
+skills: ['Php', 'Android', 'Mobile', 'Html', 'Github', 'Mysql', 'English', 'Telecom', 'Apis', 'Hadoop', 'System', 'Oracle', 'C++', 'Javascript', 'Sql', 'Database', 'Css', 'Visual', 'Engineering', 'French', 'Travel', 'International', 'Installation', '.net', 'Warehouse', 'Architecture', 'Vmware', 'C', 'Windows', 'Erp', 'Java', 'Docker', 'Technical', 'Statistics']
+skills_text: Php Android Mobile Html Github Mysql English Telecom Apis Hadoop System Oracle C++ Javascript Sql Database Css Visual Engineering French Travel International Installation .net Warehouse Architecture Vmware C Windows Erp Java Docker Technical Statistics
+Category: IT

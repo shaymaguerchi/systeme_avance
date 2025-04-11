@@ -1,0 +1,8 @@
+=== CV 444 ===
+text: Ahmed Ben Ali
+cleaned_text: ahmed ben ali cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 94988359
+email: ahmed.ben ali@example.com
+skills: ['Windows', 'Finance', 'C++', 'Adobe', 'Python']
+skills_text: Windows Finance C++ Adobe Python
+Category: Marketing

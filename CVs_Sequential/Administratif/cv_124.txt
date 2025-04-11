@@ -1,0 +1,109 @@
+=== CV 124 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (
+Secrétariat - assistance de direction
+ 
+  
+)	
+
+
+ISMAIL Sonia
+Immeuble Neda Bloc B - App. 23 -Centre Urbain Nord-1003-Tunis 
+00216 - 20 88 23 28 
+soniaam69@hotmail.com
+
+
+Expériences professionnelles :
+9/019-1/020 	Surveillante générale 		Ecole primaire privée L’Elite-Bizerte		Tunisie
+2018-2019 	Gérante		 		Ecole primaire privée L’Excellence-El Alia	Tunisie
+2015-2018	Assistante de direction 		Ecole primaire privée L’Elite-Bizerte		Tunisie
+2014-2015	Attachée administrative 	Ste DELAIZE-Bruxelles				Belgique
+2011-2014	Attachée administrative		Ste YASMINE FOOD- Bruxelles		Belgique
+2005-2010	Assistante de direction 		Group. de Médecine du travail-Bizerte	Tunisie
+2004-2005	Aide pharmacienne 		Pharmacie de nuit-Bizerte			Tunisie
+2000-2002	Secrétaire de direction		Ste Higt Mode International-Tunis		Tunisie
+1999-2000	Secrétaire de direction 		S.B.T.R. - Tunis					Tunisie
+1997-1998	Secrétaire de direction 		Ste SOGEM-Tunis				Tunisie 
+1996-1997	Assistante administrative	Ste ICOGI-ROMA –Tunis			Tunisie
+1994-1996	Aide comptable 			Cabinet d’expert comptable-Tunis		Tunisie
+
+Etudes & formations :
+
+2001-2002	Stage de formation en gestion de stocks & assistante de direction 		Tunis
+1996-1997	Formation en informatique Word & Excel 						Tunis	
+1994-1996	Enseignement supérieure								Tunis
+1987-1994	Enseignement secondaire						       Bizerte-Tunis
+
+Connaissances linguistiques & informatique :
+
+Français :	Très Bonne connaissance
+Arabe :		Langue maternelle	
+Anglais :		Notion		
+Informatique :	Word, Excel, power point, Internet	
+
+Renseignements complémentaires :
+
+Tunisienne, née le 22/01/1976, à Danhakh (Pays-Bas), divorcée avec un enfant
+Qualités personnelles :	Motivée, dynamique, sens de l’initiative, esprit d’équipe, 
+contact facile avec la clientèle 
+Centre d’intérêts : 		Voyage, marche, vélo, musique, internet 
+Compétences :			Polyvalente
+
+
+
+Disponibilité immédiate 
+
+cleaned_text: secretariat assistance direction ismail sonia immeuble neda bloc b app 23 centre urbain nord 1003 tunis 00216 20 88 23 28 soniaam69 hotmail com experiences professionnelles 9 019 1 020 surveillante generale ecole primaire privee elite bizerte tunisie 2018 2019 gerante ecole primaire privee excellence el alia tunisie 2015 2018 assistante direction ecole primaire privee elite bizerte tunisie 2014 2015 attachee administrative ste delaize bruxelles belgique 2011 2014 attachee administrative ste yasmine food bruxelles belgique 2005 2010 assistante direction group medecine travail bizerte tunisie 2004 2005 aide pharmacienne pharmacie nuit bizerte tunisie 2000 2002 secretaire direction ste higt mode international tunis tunisie 1999 2000 secretaire direction b r tunis tunisie 1997 1998 secretaire direction ste sogem tunis tunisie 1996 1997 assistante administrative ste icogi roma tunis tunisie 1994 1996 aide comptable cabinet expert comptable tunis tunisie etudes formations 2001 2002 stage formation gestion stocks assistante direction tunis 1996 1997 formation informatique word excel tunis 1994 1996 enseignement superieure tunis 1987 1994 enseignement secondaire bizerte tunis connaissances linguistiques informatique francais tres bonne connaissance arabe langue maternelle anglais notion informatique word excel power point internet renseignements complementaires tunisienne nee 22 01 1976 danhakh pays bas divorcee enfant qualites personnelles motivee dynamique sens initiative esprit equipe contact facile clientele centre interets voyage marche velo musique internet competences polyvalente disponibilite immediate
+mobile_number: 018-2019
+email: soniaam69@hotmail.com
+skills: ['Excel', 'International', 'Word']
+skills_text: Excel International Word
+Category: Administratif

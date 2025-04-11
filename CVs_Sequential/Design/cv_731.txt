@@ -1,0 +1,8 @@
+=== CV 731 ===
+text: Fatima Girard
+cleaned_text: fatima girard cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 73867496
+email: fatima.girard@example.com
+skills: ['CSS', 'Java', 'Windows']
+skills_text: CSS Java Windows
+Category: Design

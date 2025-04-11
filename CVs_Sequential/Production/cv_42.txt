@@ -1,0 +1,115 @@
+=== CV 42 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rim JEMAI  
+
+Age : 25 ans 
+
+Adresse : Zahrouni 
+
+Mail :jemairim41@gmail.com 
+
+GSM : (+216) 23216374 
+
+(+216) 27199632   
+
+ 
+
+2017 : Licence appliqué en informatique de gestion spécialité informatique en 
+
+administration des affaires. 
+
+2014 : baccalauréat sciences expérimentales.  
+
+ 
+
+01/02/2017-31/04/2017 : Stage de projet de fin d’étude  à la banque de Tunisie : 
+
+Conception et Développement d’une application de gestion des fichiers de 
+
+préavis des chèques impayés. 
+
+ 
+
+01/09/2016-29/09/2016 : stage au sein de la société SOFIMA FILTERS au 
+
+département des Ressources Humaines. 
+
+ 
+
+- Gestion des stocks dans une pharmacie. 
+
+- Assistante de direction au sien de la société commercial TRADISCO.   
+
+ 
+
+ 
+
+Arabe     : Langue maternelle                              Sport, Internet, Musique,                                 
+
+Français : Bonne aptitude de communicationmembre dans un club associatif. 
+
+Anglais: Bonne aptitude de communication 
+
+Italien    : niveau scolaire  
+
+ 
+
+DIPLOMES OBTENUS 
+
+STAGES 
+
+LANGUES CENTRES D’INTERETS  
+
+EXPERIENCES 
+
+mailto:jemairim41@gmail.com
+
+
+cleaned_text: rim jemai age 25 ans adresse zahrouni mail jemairim41 gmail com gsm 216 23216374 216 27199632 2017 licence applique informatique gestion specialite informatique administration affaires 2014 baccalaureat sciences experimentales 01 02 2017 31 04 2017 stage projet fin etude banque tunisie conception developpement application gestion fichiers preavis cheques impayes 01 09 2016 29 09 2016 stage sein societe sofima filters departement ressources humaines gestion stocks pharmacie assistante direction sien societe commercial tradisco arabe langue maternelle sport internet musique francais bonne aptitude communicationmembre club associatif anglais bonne aptitude communication italien niveau scolaire diplomes obtenus stages langues centres interets experiences mailto jemairim41 gmail com
+mobile_number: 2321637
+email: :jemairim41@gmail.com
+skills: ['Communication', 'Administration']
+skills_text: Communication Administration
+Category: Production

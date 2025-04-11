@@ -1,0 +1,92 @@
+=== CV 103 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HIDRI Samar
+
+
+
+Adresse e-mail : 
+samarhidri6@gmail.com
+
+Téléphone :
++216 25 160 132
+
+
+Informations personnelles :
+Née le 05/09/1994
+Célibataire
+ 
+Adresse postale : 
+25 Rue 13aout, Ouardia1, Tunis 
+
+
+Formation :  
+ Baccalauréat 2015 Section économie gestion. (Niveau Bac)
+ Diplôme en diagnostic et mécanique automobile 
+ 1an en formation de mécanique avion au centre « Cemia » Spécialité ‘Dessinateur industrielle’
+Stage d’été Assistance Commerciale dans une agence de production ( WE CAN PROD) .
+5 mois à Téléperformance « Eni France » 
+1 an gérante de resto-bar à Gammarth « Cuba Libre »   
+ 
+
+
+LANGUES              1-  Arabe : Langue maternelle.
+2- Français : Deuxième langue.
+3- Anglais : Niveau avance
+
+
+cleaned_text: hidri samar adresse e mail samarhidri6 gmail com telephone 216 25 160 132 informations personnelles nee 05 09 1994 celibataire adresse postale 25 rue 13aout ouardia1 tunis formation baccalaureat 2015 section economie gestion niveau bac diplome diagnostic mecanique automobile 1an formation mecanique avion centre cemia specialite dessinateur industrielle stage ete assistance commerciale agence production prod 5 mois teleperformance eni france 1 gerante resto bar gammarth cuba libre langues 1 arabe langue maternelle 2 francais deuxieme langue 3 anglais niveau avance
+mobile_number: 0
+email: samarhidri6@gmail.com
+skills: []
+skills_text: nan
+Category: Autres

@@ -1,0 +1,8 @@
+=== CV 491 ===
+text: Mohamed Fontaine
+cleaned_text: mohamed fontaine cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 76930838
+email: mohamed.fontaine@example.com
+skills: ['Python', 'HTML', 'Windows']
+skills_text: Python HTML Windows
+Category: IT

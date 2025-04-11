@@ -1,0 +1,8 @@
+=== CV 496 ===
+text: Karim Boussaid
+cleaned_text: karim boussaid cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 52746456
+email: karim.boussaid@example.com
+skills: ['Python', 'Java', 'Linux', 'CSS', 'Marketing']
+skills_text: Python Java Linux CSS Marketing
+Category: Production

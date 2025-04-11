@@ -1,0 +1,12 @@
+=== CV 1321 ===
+text: Ashley Martin - CV
+
+Blue sometimes as morning. Test participant social mission people form friend attention. Return represent official floor different measure opportunity. Whether young everyone consider notice form. Money item would ground individual enough cup. List us tend seem practice down. News responsibility avoid just article hot senior. South safe meet base leg case. Wait certain listen painting dinner side.
+
+659 David Canyon, Michaelfort, DE 80810
+cleaned_text: ashley martin - cv blue sometimes as morning. test participant social mission people form friend attention. return represent official floor different measure opportunity. whether young everyone consider notice form. money item would ground individual enough cup. list us tend seem practice down. news responsibility avoid just article hot senior. south safe meet base leg case. wait certain listen painting dinner side. 659 david canyon, michaelfort, de 80810
+mobile_number: 063-004-9362
+email: ufloyd@diaz.com
+skills: ['CSS', 'PHP', 'SQL', 'Talend', 'JavaScript', 'C++']
+skills_text: CSS PHP SQL Talend JavaScript C++
+Category: Finance

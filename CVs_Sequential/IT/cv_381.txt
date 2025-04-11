@@ -1,0 +1,187 @@
+=== CV 381 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Présentation PowerPoint
+
+
+Arslene ABDI
+Etudiant Ingénieur en Data Science et IA 
+ESILV – 5ème année
+
+J e suis à la recherche d'un stage d’une durée de 6 mois à partir de  
+février 2022 dans le domaine de la data Science.
+
+C O N T A C T
+
+07 68 40 51 33
+
+abdi_arslene@live.fr
+
+35 rue Savier,
+92240 Malakoff
+
+/arslene-abdi
+
+/Abdi-Arslene
+
+C OMPÉT ENC ES
+Hard Skills
+Data Science : Pandas, Scikit-learn, 
+TensorFlow, Keras, NLP, Nodejs
+S Q L : MySQL, PL/SQL
+NoSQL : Elasticsearch, MongoDB, Neo4j 
+Programmation : Python, R, C, C++,
+Javascript
+Web: HTML, C S S ,  S y m f on y
+Logiciels : Docker
+
+Soft Skills
+Formation MBTI, Work and Life balance, 
+Améliorer son efficacité, Se comprendre et 
+comprendre autrui.
+Esprit critique, curiosité intellectuelle, 
+créatif, rigoureux, travail en équipe.
+
+Certifications IBM
+
+• Python for Data Science
+• Data Analysis using Python
+• Machine Learning with Python
+
+Langues
+Anglais: Courant
+Français: Bilingue
+Espagnol: Notions
+
+DIVERS
+Intérêt pour la Data science et articles 
+scientifiques
+Sports (Karting, Musculation)
+
+FORMATION
+(En cours): École Supérieure d'Ingénieurs Léonard-de-Vinci (ESILV)
+Paris La Défense | 5e année, Promotion 2022
+
+• Spécialisation en Data Science et Intelligence Artificielle. 
+(Machine and Deep Learning, Database management, Advanced 
+Data Structure, Recommendation Systems)
+
+2017 – 2020: École Polytechnique privée de Tunis (PI)
+Tunis, Tunisie
+
+• Prépa Intégrée (HTML, CSS, C, Maths, Base de Donnée)
+• IRM (C++ Programming, SQL, Data Structure and Algorithms)
+
+EXPÉRIENCES
+(6 mois) Projet académique de Data Science – Capgemini Invent
+Paris, La Défense | Outil de Visualisation des performances des 
+assurances | Sept 2020 – Avril 2021
+
+• Collection des données relatives des assurances.
+– Web Scrapping (BeautifulSoup, Selenium)
+
+• Modélisation de sujets à partir des avis des utilisateurs
+– NLP (TF/IDF), Topic Modeling (Gensim)
+
+• Représentation visuelle des mots clés – Word Cloud
+• Mise en Place d’un dashboard avec flask
+
+(1 mois) Projet Machine Learning
+Paris, La Défense |      Novembre 2020 – Janvier 2021
+
+• Étude du dataset skillcraft1
+• Conception d'un modèle de classification capable de prédire la 
+
+ligue d’un joueur et déploiement de ce dernier sous la forme 
+d’une API.
+– Statistiques, Analyse, Python, Flask, Docker
+
+Kaggle Hackathon – Machine Learning (4ème place)
+Paris, La Défense | Décembre 2020
+
+• Conception d'un algorithme capable de prédire l'avis d'un 
+auditeur Spotify sur une musique selon son historique musical. 
+– Statistiques, Analyse & Visualisation, R
+
+(3 mois) Stage assistant data Scientist – Geeks Data Consulting
+Tunis, Tunisie | Juin – Aout 2020
+
+• Récupération et analyse des données pertinentes liées au 
+processus de production de l’entreprise 
+– Data Collection (Selenium), Data Exploration(Pandas, numpy), 
+
+Machine Learning (Sklearn, keras, tensorflow…)
+
+(1 mois) Projet Data Mining
+Tunis, Tunisie |      Mars – Avril 2020
+
+• Développement d’un outil permettant d’identifier l’ensemble des 
+articles dont la valeur dépasse un seuil prédéfini par les utilisateurs 
+– Langage C
+
+mailto:abdi_arslene@live.fr
+https://www.google.com/maps/place/35+Rue+Savier,+92240+Malakoff/@48.8215047,2.3052081,17z/data=!3m1!4b1!4m5!3m4!1s0x47e67059f0fa945b:0x842ffd623182e6f4!8m2!3d48.8215012!4d2.3073968
+https://www.google.com/maps/place/35+Rue+Savier,+92240+Malakoff/@48.8215047,2.3052081,17z/data=!3m1!4b1!4m5!3m4!1s0x47e67059f0fa945b:0x842ffd623182e6f4!8m2!3d48.8215012!4d2.3073968
+https://www.linkedin.com/in/arslene-abdi/
+https://github.com/Abdi-Arslene
+https://www.credly.com/earner/earned/badge/69381386-4a00-41f5-85c6-abd5298d91bf
+https://www.credly.com/earner/earned/badge/ee9ef43b-7544-459a-b28f-49467678dafb
+https://www.credly.com/earner/earned/badge/c706c226-e592-4870-9ab8-30dac022e9cc
+https://www.esilv.fr/formations/cycle-ingenieur/majeures/data-et-intelligence-artificielle/
+http://pi.tn/course/informatique-reseaux-et-multimedia#1556616930762-9156aa0b-e6ff
+https://github.com/Abdi-Arslene/project-PI-Capgemini-invent
+https://github.com/Abdi-Arslene/SkillCraft_Python
+
+	Diapositive numéro 1
+
+
+cleaned_text: presentation powerpoint arslene abdi etudiant ingenieur data science ia esilv 5eme annee e recherche stage duree 6 mois partir fevrier 2022 domaine data science 07 68 40 51 33 abdi arslene live fr 35 rue savier 92240 malakoff arslene abdi abdi arslene ompet enc hard skills data science pandas scikit learn tensorflow keras nlp nodejs q mysql pl sql nosql elasticsearch mongodb neo4j programmation python r javascript web html f logiciels docker soft skills formation mbti work life balance ameliorer efficacite comprendre comprendre autrui esprit critique curiosite intellectuelle creatif rigoureux travail equipe certifications ibm python data science data analysis using python machine learning python langues anglais courant francais bilingue espagnol notions divers interet data science articles scientifiques sports karting musculation formation cours ecole superieure ingenieurs leonard vinci esilv paris defense 5e annee promotion 2022 specialisation data science intelligence artificielle machine deep learning database management advanced data structure recommendation systems 2017 2020 ecole polytechnique privee tunis pi tunis tunisie prepa integree html css maths base donnee irm programming sql data structure algorithms experiences 6 mois projet academique data science capgemini invent paris defense outil visualisation performances assurances sept 2020 avril 2021 collection donnees relatives assurances web scrapping beautifulsoup selenium modelisation sujets partir avis utilisateurs nlp tf idf topic modeling gensim representation visuelle mots cles word cloud mise place dashboard flask 1 mois projet machine learning paris defense novembre 2020 janvier 2021 etude dataset skillcraft1 conception modele classification capable predire ligue joueur deploiement dernier sous forme api statistiques analyse python flask docker kaggle hackathon machine learning 4eme place paris defense decembre 2020 conception algorithme capable predire avis auditeur spotify musique selon historique musical statistiques analyse visualisation r 3 mois stage assistant data scientist geeks data consulting tunis tunisie juin aout 2020 recuperation analyse donnees pertinentes liees processus production entreprise data collection selenium data exploration pandas numpy machine learning sklearn keras tensorflow 1 mois projet data mining tunis tunisie mars avril 2020 developpement outil permettant identifier ensemble articles dont valeur depasse seuil predefini utilisateurs langage mailto abdi arslene live fr https www google com maps place 35 rue savier 92240 malakoff 48 8215047 2 3052081 17z data 3m1 4b1 4m5 3m4 1s0x47e67059f0fa945b 0x842ffd623182e6f4 8m2 3d48 8215012 4d2 3073968 https www google com maps place 35 rue savier 92240 malakoff 48 8215047 2 3052081 17z data 3m1 4b1 4m5 3m4 1s0x47e67059f0fa945b 0x842ffd623182e6f4 8m2 3d48 8215012 4d2 3073968 https www linkedin com arslene abdi https github com abdi arslene https www credly com earner earned badge 69381386 4a00 41f5 85c6 abd5298d91bf https www credly com earner earned badge ee9ef43b 7544 459a b28f 49467678dafb https www credly com earner earned badge c706c226 e592 4870 9ab8 30dac022e9cc https www esilv fr formations cycle ingenieur majeures data intelligence artificielle http pi tn course informatique reseaux multimedia 1556616930762 9156aa0b e6ff https github com abdi arslene project pi capgemini invent https github com abdi arslene skillcraft python diapositive numero 1
+mobile_number: 0
+email: abdi_arslene@live.fr
+skills: ['Ibm', 'Tensorflow', 'Numpy', 'Gensim', 'Html', 'Mysql', 'Selenium', 'Cloud', 'Consulting', 'Word', 'C++', 'Algorithms', 'Javascript', 'Sql', 'Database', 'Css', 'Modeling', 'P', 'Api', 'Pandas', 'Beautifulsoup', 'Python', 'R', 'Analysis', 'Keras', 'Sports', 'Programming', 'Mining', 'C', 'Docker', 'Flask']
+skills_text: Ibm Tensorflow Numpy Gensim Html Mysql Selenium Cloud Consulting Word C++ Algorithms Javascript Sql Database Css Modeling P Api Pandas Beautifulsoup Python R Analysis Keras Sports Programming Mining C Docker Flask
+Category: IT

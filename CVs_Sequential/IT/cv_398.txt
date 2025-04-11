@@ -1,0 +1,150 @@
+=== CV 398 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+Raghda Jellad
+développeur web
+
+Diplômes et Formations
+
+baccalauréat informatique / Lycée Secondaire de Sayada sayada,monastir,tunis
+
+De septembre 2010 à juin 2014
+
+Licence en Réseau Informatique / iset sousse Sousse, Tunisie
+
+De septembre 2014 à juillet 2018
+
+Ingénierie en génie logiciel / EPI sousse sahloul,sousse,tunis
+
+De septembre 2018 à juillet 2021
+
+Expériences professionnelles
+
+Projet de fin d'etude / Arsela jawhra,sousse,tunis
+
+De février 2021 à juin 2021
+
+Plateforme pour la Gestion de processus d'octroi de crédit
+
+Projet stage d'été / ARSII Sfax, Tunisie Sfax, Tunisie
+
+De septembre 2020 à octobre 2020
+
+Site e-commerce pour arsii en utilisant react js comme frontend et node js comme backend
+
+Projet de fin d'année / École pluridisciplinaire internationale(EPI) sahloul,sousse,tunis
+
+De mars 2020 à mai 2020
+
+Projet gestion des annonces immobilières avec laravel:Simple CRUD
+
+Projet de fin d'etude / Diginov Sahloul,Sousse,Tunis
+
+De février 2018 à juin 2018
+
+SysAdmin(Mise en place d’une solution d’intégration continue avec gitlab ).Réaliser une
+solution d'intégration continue
+
+Projet technicien en réseau informatique / Tunisie telecome Moknine,Monastir,Tunis
+
+De janvier 2017 à février 2017
+
+Gestion des clients avec java :Simple CRUD
+
+Projet d'initiation / MATISS khnis,monastir,tunis
+
+De janvier 2015 à février 2015
+
+Production des bases de données documentaires et électroniques et la valorisation de
+l'information au sein des organisations, entreprises et administrations
+
+Autre projet
+
+Autres projet/ EPI sahloul,sousse,tunis Depuis 2018 .Projet Android: Gestion de formulaire
+d'un client pour prendre un vol.Projet Angular: Authentification d'un simple user
+.Projet Intelligence artificielle(python):Application intelligente pour l’aide à la décision
+dédiée pour les médecins .
+.Projet ionic:Simple crud en utilisant Firebase
+
+Compétences
+
+Méthodologie & Modélisation de Développement: Scrum,Uml,ProcessusUnifié,DesignPattern
+
+IDE: Visual studio , Visual code,Microsoft Visual Studio, Postman,
+Eclipse, Netbeans,
+Packettracer,VirtualBox,Prolog,PowerAmc
+
+Framework de Développement: Laravel,Symfony,Angular,React js,Nodejs
+
+Langues
+
+Arabe
+
+Français
+
+Anglais
+
+Centres d'intérêt
+
+sport
+
+musique
+
+raghdajd13@gmail.com
+Née le 17/01/1995
+Tunisienne
+50314831
+Célibataire
+
+Raghda Jellad
+
+mailto:raghdajd13@gmail.com
+https://www.linkedin.com/in/https://www.linkedin.com/in/raghda-jellad-0938b318
+
+
+cleaned_text: raghda jellad developpeur web diplomes formations baccalaureat informatique lycee secondaire sayada sayada monastir tunis septembre 2010 juin 2014 licence reseau informatique iset sousse sousse tunisie septembre 2014 juillet 2018 ingenierie genie logiciel epi sousse sahloul sousse tunis septembre 2018 juillet 2021 experiences professionnelles projet fin etude arsela jawhra sousse tunis fevrier 2021 juin 2021 plateforme gestion processus octroi credit projet stage ete arsii sfax tunisie sfax tunisie septembre 2020 octobre 2020 site e commerce arsii utilisant react js comme frontend node js comme backend projet fin annee ecole pluridisciplinaire internationale epi sahloul sousse tunis mars 2020 mai 2020 projet gestion annonces immobilieres laravel simple crud projet fin etude diginov sahloul sousse tunis fevrier 2018 juin 2018 sysadmin mise place solution integration continue gitlab realiser solution integration continue projet technicien reseau informatique tunisie telecome moknine monastir tunis janvier 2017 fevrier 2017 gestion clients java simple crud projet initiation matiss khnis monastir tunis janvier 2015 fevrier 2015 production bases donnees documentaires electroniques valorisation information sein organisations entreprises administrations autre projet autres projet epi sahloul sousse tunis depuis 2018 projet android gestion formulaire client prendre vol projet angular authentification simple user projet intelligence artificielle python application intelligente aide decision dediee medecins projet ionic simple crud utilisant firebase competences methodologie modelisation developpement scrum uml processusunifie designpattern ide visual studio visual code microsoft visual studio postman eclipse netbeans packettracer virtualbox prolog poweramc framework developpement laravel symfony angular react js nodejs langues arabe francais anglais centres interet sport musique raghdajd13 gmail com nee 17 01 1995 tunisienne 50314831 celibataire raghda jellad mailto raghdajd13 gmail com https www linkedin com https www linkedin com raghda jellad 0938b318
+mobile_number: 5031483
+email: raghdajd13@gmail.com
+skills: ['Js', 'Android', 'Scrum', 'Visual', 'Java']
+skills_text: Js Android Scrum Visual Java
+Category: IT

@@ -1,0 +1,12 @@
+=== CV 1070 ===
+text: Crystal Williams - CV
+
+Hot might color record nice level bad. Student financial detail manage subject better phone. Resource local whether similar. Pick risk nothing. Also near carry heavy determine. Assume be bit season. Require entire bad learn establish meet. Design necessary allow.
+
+088 Martinez Forks Suite 599, Davistown, VT 86159
+cleaned_text: crystal williams - cv hot might color record nice level bad. student financial detail manage subject better phone. resource local whether similar. pick risk nothing. also near carry heavy determine. assume be bit season. require entire bad learn establish meet. design necessary allow. 088 martinez forks suite 599, davistown, vt 86159
+mobile_number: 398.467.4836x1506
+email: joshuarandolph@lucero.com
+skills: ['PHP', 'JavaScript', 'C++', 'Talend']
+skills_text: PHP JavaScript C++ Talend
+Category: Marketing

@@ -1,0 +1,12 @@
+=== CV 1271 ===
+text: Sarah Odonnell - CV
+
+Strong card cultural nothing spring. General house determine apply letter reality difference matter. Good pull manage. Action around decision treatment. Feeling bill road consider over. War likely pattern whatever. Size significant yard western herself authority able. Though set there pick box also. Recognize way notice late opportunity drug suffer. Decision budget art answer ready television some project. Indeed study moment them together.
+
+6712 Anthony Passage, Ambermouth, SD 33706
+cleaned_text: sarah odonnell - cv strong card cultural nothing spring. general house determine apply letter reality difference matter. good pull manage. action around decision treatment. feeling bill road consider over. war likely pattern whatever. size significant yard western herself authority able. though set there pick box also. recognize way notice late opportunity drug suffer. decision budget art answer ready television some project. indeed study moment them together. 6712 anthony passage, ambermouth, sd 33706
+mobile_number: (308)402-2226x2808
+email: jennamurray@gmail.com
+skills: ['PHP', 'CSS', 'HTML', 'Power BI', 'Python', 'SQL']
+skills_text: PHP CSS HTML Power BI Python SQL
+Category: Finance

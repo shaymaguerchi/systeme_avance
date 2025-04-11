@@ -1,0 +1,8 @@
+=== CV 507 ===
+text: Laura Moreau
+cleaned_text: laura moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 91097127
+email: laura.moreau@example.com
+skills: ['Linux', 'Java', 'Python']
+skills_text: Linux Java Python
+Category: Finance

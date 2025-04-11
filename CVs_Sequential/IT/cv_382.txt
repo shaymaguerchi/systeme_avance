@@ -1,0 +1,138 @@
+=== CV 382 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/14/2019
+
+file:///home/cvdesignr/cv/pdf/5c47611f79487.html 1/1
+
+Compétences
+
+Design graphique 2D
+
+PHP / MYSQL
+
+JQUERY
+
+HTML5 / CSS3
+
+jAVASCRIPT
+
+Logiciel informatique
+
+Adobe illustrator
+
+visual studio code
+
+Adobe photoshop
+
+Langues
+
+Anglais
+
+Arabe
+
+Français
+
+Abdelaziz Sghiri
+
+Intégrateur web
+
+Diplômes et Formations
+
+Formation Angular ,Mongo DB
+
+Institut supérieur d'informatique et
+multimédia Gabès
+
+Diplôme baccalauréat
+
+lycée route de gabes Médenine, Tunisie
+
+Licence appliquée en informatique et
+multimédia web
+
+Institut supérieur d'informatique et multimédia Gabès, Tunisie
+
+Expériences professionnelles
+
+Stagaire
+
+Digitale Life Gabès , Tunisie
+
+Spécialisé en création de sites internet et stratégie digitale
+
+Certificats
+
+Certificat Voltaire
+
+SCORE 345  
+NIVEAU 300   
+ORTHOGRAPHE TECHNIQUE - Aptitudes pour rédiger des
+textes simples. Recommandé pour les métiers dans lesquels
+s’échangent des consignes techniques simples.
+
+abdosean6@gmail.com 
+
+Médénine, Tunisia 
+
+Né le 08/06/1997 
+
+Tunisien 
+
+56823444 
+
+De 2018 à 2019
+
+De 2015 à 2016
+
+De 2016 à 2019
+
+Août 2018
+
+mailto:abdosean6@gmail.com
+
+
+cleaned_text: 10 14 2019 file home cvdesignr cv pdf 5c47611f79487 html 1 1 competences design graphique 2d php mysql jquery html5 css3 javascript logiciel informatique adobe illustrator visual studio code adobe photoshop langues anglais arabe francais abdelaziz sghiri integrateur web diplomes formations formation angular mongo db institut superieur informatique multimedia gabes diplome baccalaureat lycee route gabes medenine tunisie licence appliquee informatique multimedia web institut superieur informatique multimedia gabes tunisie experiences professionnelles stagaire digitale life gabes tunisie specialise creation sites internet strategie digitale certificats certificat voltaire score 345 niveau 300 orthographe technique aptitudes rediger textes simples recommande metiers lesquels echangent consignes techniques simples abdosean6 gmail com medenine tunisia 08 06 1997 tunisien 56823444 2018 2019 2015 2016 2016 2019 aout 2018 mailto abdosean6 gmail com
+mobile_number: 5682344
+email: abdosean6@gmail.com
+skills: ['Php', 'Javascript', 'Mysql', 'Adobe', 'Illustrator', 'Html5', 'Photoshop', 'Visual', 'Design']
+skills_text: Php Javascript Mysql Adobe Illustrator Html5 Photoshop Visual Design
+Category: IT

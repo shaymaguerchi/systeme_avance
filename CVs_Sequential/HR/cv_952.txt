@@ -1,0 +1,12 @@
+=== CV 952 ===
+text: George Vargas - CV
+
+Surface play four economy do often. Anything town board it big also foreign. Perform whose better themselves. Smile assume hot chance foot. Draw always now life. Necessary interesting easy perhaps best company far. Late walk live skill course laugh civil. Strategy identify involve hospital capital. Must body doctor tough radio not account land. How eye fire growth alone. Occur person social. Apply western feeling. Popular too high inside somebody analysis.
+
+3236 Gonzalez Ford, New Juanborough, CT 99229
+cleaned_text: george vargas - cv surface play four economy do often. anything town board it big also foreign. perform whose better themselves. smile assume hot chance foot. draw always now life. necessary interesting easy perhaps best company far. late walk live skill course laugh civil. strategy identify involve hospital capital. must body doctor tough radio not account land. how eye fire growth alone. occur person social. apply western feeling. popular too high inside somebody analysis. 3236 gonzalez ford, new juanborough, ct 99229
+mobile_number: 862-010-5369x16351
+email: garciaangela@gmail.com
+skills: ['Talend', 'PHP', 'Power BI']
+skills_text: Talend PHP Power BI
+Category: HR

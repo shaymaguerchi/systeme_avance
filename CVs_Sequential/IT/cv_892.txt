@@ -1,0 +1,8 @@
+=== CV 892 ===
+text: Isabelle Lefevre
+cleaned_text: isabelle lefevre cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 91860183
+email: isabelle.lefevre@example.com
+skills: ['Windows', 'CSS', 'Linux']
+skills_text: Windows CSS Linux
+Category: IT

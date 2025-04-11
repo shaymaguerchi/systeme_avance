@@ -1,0 +1,12 @@
+=== CV 1488 ===
+text: Thomas Alexander - CV
+
+Republican of surface article when do begin address. Prevent almost wonder. Culture light station hand. Hundred land different special. Blue what never son purpose point son say. Or know its start have. Bag factor thank choice data character lay must. Choose home since teacher in available safe. Hundred small garden message author agency exist actually. Reality value area single site itself. Likely song within away reason side your. Change outside outside article sit. Seat bad north happy.
+
+63203 Scott Crescent, Richardville, TN 39967
+cleaned_text: thomas alexander - cv republican of surface article when do begin address. prevent almost wonder. culture light station hand. hundred land different special. blue what never son purpose point son say. or know its start have. bag factor thank choice data character lay must. choose home since teacher in available safe. hundred small garden message author agency exist actually. reality value area single site itself. likely song within away reason side your. change outside outside article sit. seat bad north happy. 63203 scott crescent, richardville, tn 39967
+mobile_number: 001-088-073-5042x8167
+email: maryguerra@yahoo.com
+skills: ['Java', 'C++', 'JavaScript', 'PHP', 'Python']
+skills_text: Java C++ JavaScript PHP Python
+Category: Finance

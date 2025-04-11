@@ -1,0 +1,12 @@
+=== CV 1006 ===
+text: Alisha Barton - CV
+
+Matter amount prevent game thing. Seem put entire PM. Seem remain fact. Decade hear wide their south between interest. State certainly skill white. Affect significant entire away case. Road us back each decide. Again season enjoy than occur occur. Beyond item debate him alone.
+
+2016 Walker Junction Apt. 252, Lisashire, MO 87618
+cleaned_text: alisha barton - cv matter amount prevent game thing. seem put entire pm. seem remain fact. decade hear wide their south between interest. state certainly skill white. affect significant entire away case. road us back each decide. again season enjoy than occur occur. beyond item debate him alone. 2016 walker junction apt. 252, lisashire, mo 87618
+mobile_number: 001-612-332-5863x66553
+email: daniel60@hotmail.com
+skills: ['HTML', 'CSS', 'Java', 'PHP', 'SQL', 'C++']
+skills_text: HTML CSS Java PHP SQL C++
+Category: IT

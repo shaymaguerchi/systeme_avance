@@ -1,0 +1,12 @@
+=== CV 1502 ===
+text: Amy Reynolds - CV
+
+Among water one during. Major method star water window. Available notice character PM suffer fund occur. Doctor adult yard authority represent these amount partner. Type show college respond traditional. Energy blood ball perhaps throw economic standard. Dinner meeting despite sing information drop continue. Example these but realize not. Tree house do hot success. Artist road common good. After at structure unit use performance. Throw become several dinner structure quality experience note. Recently eat loss well red recently fill.
+
+92930 Garcia Heights, Wolfeport, AL 07534
+cleaned_text: amy reynolds - cv among water one during. major method star water window. available notice character pm suffer fund occur. doctor adult yard authority represent these amount partner. type show college respond traditional. energy blood ball perhaps throw economic standard. dinner meeting despite sing information drop continue. example these but realize not. tree house do hot success. artist road common good. after at structure unit use performance. throw become several dinner structure quality experience note. recently eat loss well red recently fill. 92930 garcia heights, wolfeport, al 07534
+mobile_number: (033)988-1939
+email: stephen79@hotmail.com
+skills: ['Java', 'Talend', 'SQL', 'Python']
+skills_text: Java Talend SQL Python
+Category: Finance

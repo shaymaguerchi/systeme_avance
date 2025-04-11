@@ -1,0 +1,8 @@
+=== CV 622 ===
+text: Jean Girard
+cleaned_text: jean girard cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 84091123
+email: jean.girard@example.com
+skills: ['Finance', 'Marketing', 'Windows', 'Management', 'C++', 'HTML']
+skills_text: Finance Marketing Windows Management C++ HTML
+Category: Design

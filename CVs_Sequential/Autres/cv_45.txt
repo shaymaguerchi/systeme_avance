@@ -1,0 +1,180 @@
+=== CV 45 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ (
+Latifa
+ 
+KHEMIRI
+)
+
+ (
+ 
+Date 
+et 
+lieu de 
+naissance :
+ 
+19/06/1980 Tunis
+ 
+Numéro de téléphone :
+ 
+29 19 06 80
+Adresse Mail :
+ 
+latifa.khemiri80@gmail.com
+)
+
+
+
+
+ (
+Expériences professionnelles
+20
+04
+-20
+05
+Assurance EL MAGHARIBIA
+ 
+Conseillère commercial  «  Assurance vie
+ »
+20
+05
+-201
+3
+Téléperformance 
+ 
+Conseillère clientèle : Service commercial, fidélisation
+ (Back office) et
+ technique 
+201
+4-
+2020
+2020-2021
+ 
+Filiassur (coutier en assurance)
+Télévendeuse (contrat de prévoyance
+)
+Chargée conformité
+Chargée qualité groupe
+Responsable qualité groupe
+Responsable conformité groupe 
+CALLMAX
+Manager 
+conformité
+ (Mutuelles santé)
+)
+
+
+
+
+
+
+
+
+
+
+
+
+ (
+Formation
+ 
+PRO/
+SCOLAIRE
+Bac lettre
+s :
+ 
+L
+ycée  T
+echnique 
+B
+a
+b
+ 
+E
+l 
+K
+ha
+dhra
+BTS en commerce international :
+ 
+I.E.C
+Cap assurance :
+ 
+Certification capacité professionnelle niveau 1 en assurance
+)
+
+
+
+ (
+Langues
+Français
+Anglais
+)
+
+
+
+ (
+C
+ompétences perso
+ 
+Leader 
+Ship
+Créative
+Sens de l’écoute
+Sérieu
+se
+)CCCCC
+
+cleaned_text: latifa khemiri date lieu naissance 19 06 1980 tunis numero telephone 29 19 06 80 adresse mail latifa khemiri80 gmail com experiences professionnelles 20 04 20 05 assurance el magharibia conseillere commercial assurance vie 20 05 201 3 teleperformance conseillere clientele service commercial fidelisation back office technique 201 4 2020 2020 2021 filiassur coutier assurance televendeuse contrat prevoyance chargee conformite chargee qualite groupe responsable qualite groupe responsable conformite groupe callmax manager conformite mutuelles sante formation pro scolaire bac lettre ycee echnique b b e k ha dhra bts commerce international e cap assurance certification capacite professionnelle niveau 1 assurance langues francais anglais ompetences perso leader ship creative sens ecoute serieu ccccc
+mobile_number: 004-2005
+email: latifa.khemiri80@gmail.com
+skills: ['Certification', 'International']
+skills_text: Certification International
+Category: Autres

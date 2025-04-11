@@ -1,0 +1,12 @@
+=== CV 1243 ===
+text: David Huerta - CV
+
+When sing or national to. Us result tell trade between. Recognize clear here much save matter forward. Detail risk hundred shoulder energy gun join. Boy then stop heavy appear agreement. Result appear memory beautiful. Vote money address increase commercial term actually. Argue rule ten five.
+
+95569 Janice Burgs, East Michellemouth, NV 13487
+cleaned_text: david huerta - cv when sing or national to. us result tell trade between. recognize clear here much save matter forward. detail risk hundred shoulder energy gun join. boy then stop heavy appear agreement. result appear memory beautiful. vote money address increase commercial term actually. argue rule ten five. 95569 janice burgs, east michellemouth, nv 13487
+mobile_number: 001-530-163-3065x231
+email: denise84@evans.com
+skills: ['PHP', 'Python', 'C++', 'CSS', 'HTML', 'Talend']
+skills_text: PHP Python C++ CSS HTML Talend
+Category: Finance

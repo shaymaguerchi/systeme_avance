@@ -1,0 +1,175 @@
+=== CV 232 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Etudiante en informatique de gestion, spécialité business information system
+
+
+E T U D I A N T E  E N  I N F O R M A T I Q U E  D E  G E S T I O N ,  S P É C I A L I T É  B U S I N E S S
+I N F O R M A T I O N  S Y S T E M S
+
+ Je suis Hosni Ones étudiante en 3éme année licence
+Business Computing avec une spécialisation dans le cadre
+d'un parcours Business information systems à la
+recherche d'un stage fin d'étude "PFE".
+
+P R O F I L  P E R S O N N E L
+
+E X P É R I E N C E  P R O F E S S I O N N E L L E
+
+C o o r d o n n é e s
+
+ 
+
+LYCÉE TECHNIQUE LE KEF
+
+ESPRIT SCHOOL OF BUSINESS
+2 0 1 9 - 2 0 2 2
+L I C E N C E  E N  B U S I N E S S  C O M P U T I N G  S P É C I A L I T É  B U S I N E S S
+I N F O R M A T I O N  S Y S T E M S .
+
+F O R M A T I O N  S C O L A I R E
+
+ 
+
+oneshosni2@gmail.co
+m
+
+ones.hosni@esprit.tn
+
+LinkedIn :
+https://www.linke
+din.com/in/ones-
+hosni-203070223
+
+26482821
+
+Rue 8 Juiellet le
+KEF,
+
+ 
+
+C O M P É T E N C E S  P R O F E S S I O N N E L L E
+
+P R O J E T  A C D É M I Q U E
+
+HOSNI ONES
+
+HYUNDAI CAR SERVICE
+
+2 0 1 9
+B A C C A L A U R É A T  E N  É C O N I M I E  E T  G E S T I O N  
+
+Anglais
+
+Français
+
+Arabe
+
+LANGUES
+
+Lu écrit et parlé couramment
+
+Lu écrit et parlé couramment
+
+Langue bilingue 
+
+Fiable et professionnelle
+Apprentissage rapide
+Motivée et organisée
+Joueuse d'équipe
+Résolution des problèmes
+complexes
+Curieuse
+
+COMPETENCES PERSONELLES
+
+V i e  a s s o c i a t i v e
+
+2020-Présent:Membre
+ROTARACT NOTRE DAME
+2019-2021:Membre JCI
+ESPRIT
+2017-2019:Membre
+croissant rouge
+
+-Langages : C,C# Java, JavaScript ,JEE, HTML5,CSS3,PHP5
+-Développement Mobile: Android Studio
+-Bases de données: SQL, NoSQL, Oracle
+-Progiciel: DOLIBARR,SAP
+-Big Data: Hadoop, Spark
+-Business Intelligence: Talend, SSIS,SSAS
+
+S I T E  W E B
+
+M A Q U E T T E  E T  P R O T O T Y P E
+
+PFA 2éme année:Un site web pour une agence de
+location des voitures;"PERFECT RENTAL" .
+Technologies utilisées : HTML , CSS , JS , PHP
+ 
+
+PFA 1ere année :Création d'une maquette et d'un
+prototype d'une entreprise de livraison;"livraison expresse".
+Application : Pencil
+
+C'était un stage ouvrier au but découvrir l'environnement de
+travail et de profiter de l'expérience des encadrants en
+observant les différents processus du métier.
+
+
+
+cleaned_text: etudiante informatique gestion specialite business information system e u e e f r q u e e g e p e e b u e f r e hosni ones etudiante 3eme annee licence business computing specialisation cadre parcours business information systems recherche stage fin etude pfe p r f p e r e e x p e r e e p r f e e e r e e lycee technique kef esprit school business 2 0 1 9 2 0 2 2 e e e b u e p u g p e e b u e f r e f r r e oneshosni2 gmail co ones hosni esprit tn linkedin https www linke din com ones hosni 203070223 26482821 rue 8 juiellet kef p e e e p r f e e e p r e e q u e hosni ones hyundai car service 2 0 1 9 b u r e e e e e g e anglais francais arabe langues lu ecrit parle couramment lu ecrit parle couramment langue bilingue fiable professionnelle apprentissage rapide motivee organisee joueuse equipe resolution problemes complexes curieuse competences personelles v e v e 2020 present membre rotaract dame 2019 2021 membre jci esprit 2017 2019 membre croissant rouge langages java javascript jee html5 css3 php5 developpement mobile android studio bases donnees sql nosql oracle progiciel dolibarr sap big data hadoop spark business intelligence talend ssis ssas e w e b q u e e e p r p e pfa 2eme annee site web agence location voitures perfect rental technologies utilisees html css js php pfa 1ere annee creation maquette prototype entreprise livraison livraison expresse application pencil etait stage ouvrier decouvrir environnement travail profiter experience encadrants observant differents processus metier
+mobile_number: 2030702
+email: oneshosni2@gmail.co
+skills: ['Php', 'Js', 'Javascript', 'Android', 'Html', 'Mobile', 'Sql', 'R', 'Css', 'Prototype', 'P', 'Nosql', 'Hadoop', 'C', 'Spark', 'Oracle', 'Sap', 'Java']
+skills_text: Php Js Javascript Android Html Mobile Sql R Css Prototype P Nosql Hadoop C Spark Oracle Sap Java
+Category: IT

@@ -1,0 +1,198 @@
+=== CV 281 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bilel Rhaiem 
+Business Intelligence Engineer 
+
+bilel.rhaiem96@gmail.com 
+
++21652939141 
+
+Hammam-lif, Tunisia 
+
+linkedin.com/in/rhaiembilel 
+
+Substantial industry knowledge and capabilities including: data manipulation and analysis, business strategies, and problem solving. A strong
+leader with exceptional communication skills and client assessment of needs. A passionate individual who has excellent attention to detail and
+innovative spirit. 
+
+EDUCATION 
+
+Bachelor of Engineering - Computer Science 
+ESPRIT 
+09/2018 - 09/2021,  Aryanah, Tunisia 
+
+Bachelor degree in Telecommunications 
+ISTIC 
+09/2015 - 05/2018,  Tunis, Tunisia 
+
+WORK EXPERIENCE 
+
+Business Intelligence Specialist 
+Qweeby 
+04/2021 - 11/2021,  Tunis, Tunisia 
+Qweeby is a unique and innovative solution for the dynamic
+dematerialization of your invoices in the format required by your customers.
+
+Ensured the migration of the company's data from a regular
+SQL database to Elasticsearch using Logstash 
+
+Used python to transform unorganized log files into
+specific files containing useful information 
+
+Created real-time alerts using the Kibana alerting system 
+
+Extracted data from ELK in order to create Dashboard using
+Power BI 
+
+Contact : Dali Mersel 
+
+Data Analyst 
+CTAMA 
+07/2020 - 09/2020,  Tunis, Tunisia 
+The Tunisian Fund for Agricultural Mutual Assurances is an insurance
+company specialized in the agricultural sector of Tunisia. 
+
+Extracted, transformed, and loaded data from the current
+insurance database into a staging area. Generated a data
+warehouse utilizing talend 
+
+Designed a dashboard containing multiple reports based on
+the criteria and expectations given, using power bi 
+
+Worked collaboratively within a team setting and displayed
+strong leadership skills through being in the role of project
+manager 
+
+Engineering Intern 
+Orange Tunisisa 
+01/2018 - 05/2018,  Tunis, Tunisia 
+Orange Tunisia is a company that specializes in telecommunications.. 
+
+Created an app to convey the state of network platforms 
+
+Translated data to demonstrate whether the platforms
+were connected or disconnected 
+
+Utilized java, microsoft sql, talend open studio and
+microsoft power Bi to complete the work 
+
+Successfully collaborated with a team of technical
+assistants and telecom engineers 
+
+SKILLS 
+
+JAVA .Net SSIS SSRS SSAS Talend 
+
+Power BI Python R Elasticsearch 
+
+Logstash Kibana SQL Microsoft SQL server 
+
+Matlab Git Azure Microsoft dynamics 
+
+Web mining Text mining 
+
+PERSONAL PROJECTS 
+
+Alwakil Information system (09/2020 - 11/2020) 
+Alwakil is a collection agency used by lenders to collect overdue
+funds or defaulted accounts. The task was to develop an information
+system which facilitates communication and daily tasks between
+agents and their manager using ASP.NET MVC 
+
+MS Solutions - Academic Project (01/2020 - 06/2020) 
+Analyze data to create a report to improve the performance of two
+main mobile payment services. 
+
+Integration Project - ESPRIT (09/2019 - 12/2019) 
+Design and development of a CRM using C # (ASP.NET), JAVA EE,
+JSF, Wildfly, SQL SERVER, JPQL 
+
+Integration Project - ESPRIT (01/2019 - 06/2019) 
+Creation and development of an app for the management of
+museums and visits. 
+
+ORGANIZATIONS 
+
+ISTIC cloud computing club (01/2017 - 05/2018) 
+
+CERTIFICATES 
+
+IELTS (02/2018) 
+Received the IELTS Certificate with a score of 7 
+
+Azure Data Fundamentals DP-900 (12/2021) 
+Received the Azure Data Fundamentals Certificate with a score of 787 
+
+LANGUAGES 
+
+English 
+Full Professional Proficiency 
+
+French 
+Full Professional Proficiency 
+
+Arabic 
+Full Professional Proficiency 
+
+Spanish 
+Limited Working Proficiency 
+
+Italian 
+Elementary Proficiency 
+
+INTERESTS 
+
+Fishing Football Music Literature 
+
+History Gaming High-tech 
+
+Achievements/Tasks 
+
+Achievements/Tasks 
+
+Achievements/Tasks 
+
+mailto:bilel.rhaiem96@gmail.com
+https://www.linkedin.com/in/rhaiembilel/
+
+
+cleaned_text: bilel rhaiem business intelligence engineer bilel rhaiem96 gmail com 21652939141 hammam lif tunisia linkedin com rhaiembilel substantial industry knowledge capabilities including data manipulation analysis business strategies problem solving strong leader exceptional communication skills client assessment needs passionate individual excellent attention detail innovative spirit education bachelor engineering computer science esprit 09 2018 09 2021 aryanah tunisia bachelor degree telecommunications istic 09 2015 05 2018 tunis tunisia work experience business intelligence specialist qweeby 04 2021 11 2021 tunis tunisia qweeby unique innovative solution dynamic dematerialization invoices format required customers ensured migration company data regular sql database elasticsearch using logstash used python transform unorganized log files specific files containing useful information created real time alerts using kibana alerting system extracted data elk order create dashboard using power bi contact dali mersel data analyst ctama 07 2020 09 2020 tunis tunisia tunisian fund agricultural mutual assurances insurance company specialized agricultural sector tunisia extracted transformed loaded data current insurance database staging area generated data warehouse utilizing talend designed dashboard containing multiple reports based criteria expectations given using power bi worked collaboratively within team setting displayed strong leadership skills role project manager engineering intern orange tunisisa 01 2018 05 2018 tunis tunisia orange tunisia company specializes telecommunications created app convey state network platforms translated data demonstrate whether platforms connected disconnected utilized java microsoft sql talend open studio microsoft power bi complete work successfully collaborated team technical assistants telecom engineers skills java net ssis ssrs ssas talend power bi python r elasticsearch logstash kibana sql microsoft sql server matlab git azure microsoft dynamics web mining text mining personal projects alwakil information system 09 2020 11 2020 alwakil collection agency used lenders collect overdue funds defaulted accounts task develop information system facilitates communication daily tasks agents manager using asp net mvc ms solutions academic project 01 2020 06 2020 analyze data create report improve performance two main mobile payment services integration project esprit 09 2019 12 2019 design development crm using asp net java ee jsf wildfly sql server jpql integration project esprit 01 2019 06 2019 creation development app management museums visits organizations istic cloud computing club 01 2017 05 2018 certificates ielts 02 2018 received ielts certificate score 7 azure data fundamentals dp 900 12 2021 received azure data fundamentals certificate score 787 languages english full professional proficiency french full professional proficiency arabic full professional proficiency spanish limited working proficiency italian elementary proficiency interests fishing football music literature history gaming high tech achievements tasks achievements tasks achievements tasks mailto bilel rhaiem96 gmail com https www linkedin com rhaiembilel
+mobile_number: 2165293914
+email: bilel.rhaiem96@gmail.com
+skills: ['Reports', 'English', 'Mobile', 'Telecom', 'Cloud', 'System', 'Invoices', 'Crm', 'Communication', 'Matlab', 'Sql', 'Database', 'French', 'Engineering', 'Microsoft sql', 'Analyze', 'Python', 'Analysis', 'R', 'Migration', 'Sql server', 'Orange', '.net', 'Warehouse', 'Analyze data', 'Spanish', 'Mining', 'C', 'Java', 'Design', 'Technical']
+skills_text: Reports English Mobile Telecom Cloud System Invoices Crm Communication Matlab Sql Database French Engineering Microsoft sql Analyze Python Analysis R Migration Sql server Orange .net Warehouse Analyze data Spanish Mining C Java Design Technical
+Category: IT

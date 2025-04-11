@@ -1,0 +1,8 @@
+=== CV 523 ===
+text: Karim Roche
+cleaned_text: karim roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 45251443
+email: karim.roche@example.com
+skills: ['Java', 'Windows', 'CSS', 'C++']
+skills_text: Java Windows CSS C++
+Category: Marketing

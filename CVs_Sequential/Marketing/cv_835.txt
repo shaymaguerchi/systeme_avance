@@ -1,0 +1,8 @@
+=== CV 835 ===
+text: Jean Ben Ali
+cleaned_text: jean ben ali cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 91820644
+email: jean.ben ali@example.com
+skills: ['HTML', 'Finance', 'SQL', 'C++', 'Marketing', 'Windows']
+skills_text: HTML Finance SQL C++ Marketing Windows
+Category: Marketing

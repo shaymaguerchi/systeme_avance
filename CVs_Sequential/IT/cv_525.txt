@@ -1,0 +1,8 @@
+=== CV 525 ===
+text: Fatima Moreau
+cleaned_text: fatima moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 75395868
+email: fatima.moreau@example.com
+skills: ['SQL', 'Management', 'Windows', 'Linux']
+skills_text: SQL Management Windows Linux
+Category: IT

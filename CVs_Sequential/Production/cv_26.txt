@@ -1,0 +1,217 @@
+=== CV 26 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+  
+
+2015 
+Baccalauréat sciences expérimentales 
+Lycée secondaire, l'élite omrane 
+ 
+ 
+ 2020 -  Brevet de Technicien professionnel en 
+comptabilité des entreprises 
+Institut de formation commerciale et touristique IFCT 
+ 
+
+FORMATION 
+
+Technicien professionnel en 
+
+comptabilité d’entreprise 
+ 
+
+Communication 
+
+Contact client 
+
+Office 
+
+Stratégies 
+
+statistique 
+
+ 
+
+ 
+
+LANGUES 
+
+ 
+Arabe: langue maternelle 
+
+Français: niveau bon 
+
+Anglais: niveau moyen 
+
+Ramzi 
+
+ 
+
+ 
+
+COMPETENCES 
+
+ 
+
+Majati 
+ 
+
+EXPERIENCE PROFESSIONNELLE 
+
+ 
+
+STB BANK 
+
+ 
+
+Tâches réalisées:  
+
+ 
+
+ Devise 
+ Gestión des salaires 
+ 
+
+Je suis Ramzi, j’ai 26 ans, j’habite à 
+
+tunis je suis technicien professionnel 
+
+en comptabilité d’entreprise, en fait 
+
+je suis ponctuel et sérieux. 
+
+J’aime beaucoup le sport la 
+
+musique et la natation. 
+
+  
+ 
+
+PROFIL 
+
+Titulaire d’un permis de 
+
+conduite B 
+
+ramzimajati@gmail.com 
+
+23703864 / 50636854  
+
+ 05 impasse mhajba rue nahdi 
+bab saadoun tunis 1006  
+
+01/08/2017 
+
+30/09/2017 
+ 
+
+01/03/2018 
+
+31/03/2018 
+ 
+
+01/03/2019 
+
+30/06/2019 
+ 
+
+BH BANK 
+
+ 
+
+Tâches réalisées:  
+ 
+
+ Guichet bancaire  
+ 
+
+BTK BANK 
+
+ 
+
+Tâches réalisées:  
+
+ 
+
+ Poke 
+
+ Monétique 
+ compensation 
+
+
+
+cleaned_text: 2015 baccalaureat sciences experimentales lycee secondaire elite omrane 2020 brevet technicien professionnel comptabilite entreprises institut formation commerciale touristique ifct formation technicien professionnel comptabilite entreprise communication contact client office strategies statistique langues arabe langue maternelle francais niveau bon anglais niveau moyen ramzi competences majati experience professionnelle stb bank taches realisees devise gestion salaires ramzi 26 ans habite tunis technicien professionnel comptabilite entreprise fait ponctuel serieux aime beaucoup sport musique natation profil titulaire permis conduite b ramzimajati gmail com 23703864 50636854 05 impasse mhajba rue nahdi bab saadoun tunis 1006 01 08 2017 30 09 2017 01 03 2018 31 03 2018 01 03 2019 30 06 2019 bh bank taches realisees guichet bancaire btk bank taches realisees poke monetique compensation
+mobile_number: 2370386
+email: ramzimajati@gmail.com
+skills: ['Communication']
+skills_text: Communication
+Category: Production

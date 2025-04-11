@@ -1,0 +1,241 @@
+=== CV 298 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Artboard 1
+
+
+DA TA  S C I E NT I S T  :  TA L A N  TU N I S I A
+
+A o u t  2020  – S ep temb re  2020  
+
+• Création d’un Chatbot intelligent de trading pour faire des prédictions sur l’achat ou la 
+
+vente des actions des valeurs du marché à base de la méthodologie CRISP-DM
+
+• Déploiement des modèles par des REST API développés en Flask pour les consommer 
+
+avec des requêtes HTTP dans NodeJS en utilisant l’API DialogFlow
+
+Technologies : Python, Selenium, Deep Learning, RNN, LSTM, Flask, Node JS, DialogFlow
+
+E X P É R I E N C E S P R O F E S S I O N N E L L E S
+
+C O M P É T E N C E S
+
+23 ans
+
+(+216) 44  342  804
+
+s e m y . k a m m o u n . t n @ g m a i l . c o m
+
+l i n k e d i n . c o m / i n / s é m y k a m m o u n /
+
+T u n i s i e ,  A r i a n a ,  N o u r J a a f e ,  2 0 8 6
+
+Sami KAMMOUN
+É t u d i a n t  e n  i n g é n i e r i e    
+
+D a t a  S c i e n c e
+
+ Arabe : Langue Maternelle
+
+ Français : Bilingue
+
+ Anglais : Courant
+
+ Allemand : Débutant
+
+L A N G U E S
+
+C E R T I F I C AT S
+
+LICENSE FONDAMENTALE STIC |  ÉCOLE  NATIONALE 
+D’ELECTRONIQUE ET DES TELECOMMUNICATIONS SFAX: ENET’COM
+
+2018 • S p é c i a l i t é  S c i e n c e s  e t  T e c h n o l o g i e s  d ’ I n f o r m a t i o n s  e t  
+
+C o m m u n i c a t i o n s  :  M e n t i o n  b i e n
+
+B A C C A L A URÉA T |  L YC ÉE  MAHMOUD MEGDICH  SFAX
+
+2015 • S p é c i a l i t é  M a t h é m a t i q u e s  :  M e n t i o n  B i e n  
+
+I NG ÉNIERIE  INFORMATIQUE  |  ESPRIT
+
+2018 - Présent • S p é c i a l i t é  D a t a  S c i e n c e  :  M e n t i o n  T r è s  b i e n  
+
+F O R M A T I O N
+
+S YS TÈ M E  DE  RE C O M M A NDA T I O N  :  W E V I O O
+
+Janvier 2020 - Mai  2020 
+
+• Mise en place d’une application de recommandation et de classification de profils d’une
+
+base de données de CVs à base de la méthodologie CRISP-DM.
+
+Technologies : Python, MongoDB, Beautiful Soup, Machine Learning, Django
+
+V I E  A S S O C I AT I V E
+
+ JET Academy : 2019/2020 :
+
+Formateur en Développement Commercial
+
+ Junior Entrepr ise of Tunisia (JET):
+
+2018/2019 : Consultant intégration
+
+ ENET’COM Junior Entreprise: 2017/2018
+
+Consultant Développement Commercial
+
+DA TA  S C I E NT I S T  :  GE E KS  DA TA  C O NS U L T I NG  
+
+J u i l l e t  2020  - A o u t  2020  
+
+• Etude des techniques de Word Embedding de NLP ( GloVe, BERT, Word2Vec ) 
+
+• Etude de l’approche d’apprentissage automatique (Active Learning) 
+
+• Développement d’un programme de ligne de commande interactive (CLI) d’annotation 
+
+automatique à base du modèle de Word Embedding de NLP « GloVe » et de l’API 
+
+d’Active Learning « ModAL »
+
+Technologies : Python, SQLite, GloVe, ModAL API, Click Python, NLP, Active Learning
+
+D ÉVELOPPEUR WEB :  P I C O S O F T  E NG I NE E R I NG  
+
+Mars  2018  - J u i n  2018  
+
+• Mise en place d’un système de gestion électronique des documents à base d’Alfresco
+
+• Développement d’une application Web d’indexation des documents à base d’Angular 6
+
+Technologies : Angular 6, Alfresco, OCR 
+
+A NA L YS TE  C O M M E RC I A L  :  A B C  B A NK
+
+J u i n  2017 - J u i l l e t  2017  
+
+• Gestion des relations clients
+
+• Gestion de la cellule OMC ( Ouverture, Modification et Clôture des comptes )
+
+P R O J E T S  A C A D É M I Q U E S
+
+S O L U T I O N  B U I S NE S S  I NTE L L I GE NC E :  O DDO  B H F  
+
+Octobre 2019 - Janvier 2020 
+
+• Implémentation de Data Warehouse à base d’ETL et création des Dashboards
+
+avec PowerBI
+
+• Analyse prédictive des opportunités et des risques à base de Machine Learning
+
+Technologies : SSIS, SSAS, SQL Server, PowerBI, Python, Machine Learning
+
+A P P L I C A T I O N  DE  F RE E L A NC E  :  E S P R I T
+
+Janvier 2019 – Juin 2019 
+
+• Développement d’une application de place de marché en ligne: Desktop, Web et Mobile
+
+Technologies : Java, JavaFX, Symfony, CodeNameOne, REST API
+
+ Structuring Machine Learning Projects
+
+deeplearing.ai : Juillet 2020
+
+ Improving Deep Neural Networks
+
+deeplearing.ai : Juin 2020
+
+ Neural Networks and Deep Learning
+
+deeplearing.ai : Mai 2020
+
+ Fundamental s of Deep Learning for
+
+Computer Vision NVIDIA : Mars 2020
+
+ P R O G R AM M AT I O N :Python, R, Java / JEE,
+
+JavaScript, C, C#
+
+ DATA SCIENCE : Machine Learning, Deep
+
+Learning, Natural Language Processing,
+
+Computer Vision
+
+ BI G D AT A : Hadoop, Apache Spark, ELK
+
+ B U I S N E S S I N T E L L I G E N C E : SSIS, SSAS,
+
+SSRS, PowerBI
+
+ B AS E D E D O N N É E S : MySQL, PostgreSQL,
+
+SQLight, MongoDB
+
+ G E S T I O N D E P R O J E T S : Scrum Agile,
+
+CRISP-DM
+
+mailto:semy.kammoun.tn@gmail.com
+
+
+cleaned_text: artboard 1 da e nt u 2020 ep temb 2020 creation chatbot intelligent trading faire predictions achat vente actions valeurs marche base methodologie crisp dm deploiement modeles rest api developpes flask consommer requetes http nodejs utilisant api dialogflow technologies python selenium deep learning rnn lstm flask node js dialogflow e x p e r e e p r f e e e p e e e 23 ans 216 44 342 804 e k u g k e e k u u e r u r f e 2 0 8 6 sami kammoun e u e g e e r e e e arabe langue maternelle francais bilingue anglais courant allemand debutant g u e e r f license fondamentale stic ecole nationale electronique telecommunications sfax enet com 2018 p e e e e e e h g e f r e u e b e b urea yc ee mahmoud megdich sfax 2015 p e e h e q u e e b e ng enierie informatique esprit 2018 present p e e e e e r e b e f r ys e nda w e v janvier 2020 mai 2020 mise place application recommandation classification profils base donnees cvs base methodologie crisp dm technologies python mongodb beautiful soup machine learning django v e v e jet academy 2019 2020 formateur developpement commercial junior entrepr ise tunisia jet 2018 2019 consultant integration enet com junior entreprise 2017 2018 consultant developpement commercial da e nt ge e ks da ns u ng u e 2020 u 2020 etude techniques word embedding nlp glove bert word2vec etude approche apprentissage automatique active learning developpement programme ligne commande interactive cli annotation automatique base modele word embedding nlp glove api active learning modal technologies python sqlite glove modal api click python nlp active learning eveloppeur web p f e ng e r ng mars 2018 u 2018 mise place systeme gestion electronique documents base alfresco developpement application web indexation documents base angular 6 technologies angular 6 alfresco ocr na ys e rc b b nk u 2017 u e 2017 gestion relations clients gestion cellule omc ouverture modification cloture comptes p r e e q u e u b u nte ge nc e ddo b h f octobre 2019 janvier 2020 implementation data warehouse base etl creation dashboards powerbi analyse predictive opportunites risques base machine learning technologies ssis ssas sql server powerbi python machine learning p p f e nc e e p r janvier 2019 juin 2019 developpement application place marche ligne desktop web mobile technologies java javafx symfony codenameone rest api structuring machine learning projects deeplearing juillet 2020 improving deep neural networks deeplearing juin 2020 neural networks deep learning deeplearing mai 2020 fundamental deep learning computer vision nvidia mars 2020 p r g r python r java jee javascript data science machine learning deep learning natural language processing computer vision bi g hadoop apache spark elk b u e e g e e ssis ssas ssrs powerbi b e e e e mysql postgresql sqlight mongodb g e e p r e scrum agile crisp dm mailto semy kammoun tn gmail com
+mobile_number: 0
+email: UNKNOWN
+skills: ['Mobile', 'Selenium', 'Word', 'Click', 'Ai', 'C#', 'Sql', 'Django', 'P', 'Interactive', 'Python', 'R', 'Sql server', 'Machine learning', 'Js', 'Rest', 'Warehouse', 'C', 'Java', 'Api', 'Flask']
+skills_text: Mobile Selenium Word Click Ai C# Sql Django P Interactive Python R Sql server Machine learning Js Rest Warehouse C Java Api Flask
+Category: IT

@@ -1,0 +1,12 @@
+=== CV 1460 ===
+text: Stephanie Vega - CV
+
+Action commercial build. Adult under unit care whether. Identify part face quality. Local remember upon. Anything assume fear sea discover. Dream travel some if position family risk. Side set great person high official. Improve run group sing laugh. Note begin society.
+
+86975 Harris Branch, New Joshuaville, LA 48265
+cleaned_text: stephanie vega - cv action commercial build. adult under unit care whether. identify part face quality. local remember upon. anything assume fear sea discover. dream travel some if position family risk. side set great person high official. improve run group sing laugh. note begin society. 86975 harris branch, new joshuaville, la 48265
+mobile_number: 791-208-5678
+email: stevencarter@gmail.com
+skills: ['PHP', 'C++', 'Power BI', 'Python', 'JavaScript', 'Java']
+skills_text: PHP C++ Power BI Python JavaScript Java
+Category: IT

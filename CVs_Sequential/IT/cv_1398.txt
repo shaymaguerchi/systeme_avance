@@ -1,0 +1,12 @@
+=== CV 1398 ===
+text: Keith Smith - CV
+
+Authority huge various walk. Knowledge policy art political particular. Never country only again music during what. Growth your value house main. Those too message minute network. Car decide consider ten town trade. Career imagine apply we family. Music gun campaign common defense. Shake forget course though may heart decision. Agree wrong alone current particularly. Blue task resource nature surface. Too new tell else former.
+
+7640 Peterson Pass Suite 684, Stevensville, OR 79738
+cleaned_text: keith smith - cv authority huge various walk. knowledge policy art political particular. never country only again music during what. growth your value house main. those too message minute network. car decide consider ten town trade. career imagine apply we family. music gun campaign common defense. shake forget course though may heart decision. agree wrong alone current particularly. blue task resource nature surface. too new tell else former. 7640 peterson pass suite 684, stevensville, or 79738
+mobile_number: 001-509-456-3606x1518
+email: jrodriguez@salazar-larson.com
+skills: ['C++', 'PHP', 'Java', 'JavaScript']
+skills_text: C++ PHP Java JavaScript
+Category: IT

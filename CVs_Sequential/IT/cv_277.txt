@@ -1,0 +1,172 @@
+=== CV 277 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© Copyright www.bestfreecv.com/en
+
+
+EXPERIENCE
+
+EDUCATION
+
+CERTIFICATIONS
+
+MARWEN MEJRI
+
+HOBBIES
+
++216 20759232
+
+mejri.marwen00@gmail.com
+
+LANGUAGES
+
+• Defense Industry
+• Series & Films  
+• Sports
+
+• Arabic – Native Language
+
+• French – Advanced
+
+• English – Intermediate
+
+SKILL HIGHLIGHTS
+
+linkedin.com/in/marwen-mejri-
+313771215/
+
+C S A  I n t e r n a t i o n a l :  J u l y - S e p t e m b e r 2 0 2 1 :
+I n t e r n :  Python / Django Developer
+➢ Design and implement a solution to collect posts and reviews of social media 
+
+users about a specific subject “keyword”(Selenium Web Scraping).
+➢ Extract all posts and reviews provided by Social Media APIs (LinkedIn, Twitter ..) 
+
+for a specific user or brand.
+➢ Implement File upload(csv, Excel), Email verification , Password Reset
+APIs in the Django Project.
+➢ Use the BERT NLP Model for Sentiment Analysis of all collected data.
+
+Key Words: Selenium Web Scraping, Social Media API, Django, MongoDB, NLP (BERT 
+for Sentiment Analysis)
+
+• PCAP – Certified Associate in Python Programming
+
+2020-Present IT Engineering Student (Data Science) - Private Higher School of
+
+Technology and Engineering (Tek-Up University) Ariana - Tunisia
+
+2010-2016 National Engineer Degree in Instrumentation & Industrial
+
+Maintenance : National Institute of Applied Sciences & Technology - INSAT,
+
+Tunis, Tunisia
+
+ACADEMIC PROJECTS
+
+Real time sign language recognition: 
+➢ 1st Model: Mediapipe , pandas, Keras, Open-cv, csv
+➢ 2nd Model: Transfer Learning : EfficientnetV0 ,  Keras, TensorFlow, Open-cv
+➢ 3rd Model: : Actions Detection using RNN(LSTM), NumPy, Open-cv, Mediapipe
+
+Coronavirus web scraper & voice assistant : create a voice assistance application to 
+which you can ask questions related to the corona virus
+➢ Python, Selenium, Json, pyttsx3, speech recognition , REGEX..
+
+End to end potato disease classification: 
+➢ Model Building: TensorFlow, CNN, data augmentation, TF dataset
+➢ Backend Server and ML Ops: TF serving, FastAPI
+➢ Frontend: React JS
+➢ Deployment: GCP (Google cloud platform), GCF (Google cloud functions)
+
+github.com/marwenmejri
+
+Technical Skills: 
+
+➢ Tools: Python, R, Java, Neo4J , MongoDB, Spark, 
+Hadoop, SQL, ELK Stack, Docker, Django, Flask, 
+FastAPI, Selenium, Spring Boot, Git, Jupyter 
+Notebook..
+
+➢ Packages: Scikit-Learn, TensorFlow, Keras, 
+
+NumPy, Matplotlib, Streamlit , Pandas, NLTK, 
+PyTorch, Kivy, Tkinter, Selenium, Matplotlib, 
+REGEX, Open-CV, PySpark, TF Serving, spaCy, 
+Transformers Hugging Face, TensorFlow Object 
+Detection API
+
+Key Skills: Machine Learning, Big Data, Deep 
+Learning,  Transfer Learning, Computer Vision, 
+Nature Language Processing,, Transformers, MLOps, 
+Web Scraping, Data Analytics, Statistics Analysis, 
+Data Preparation..
+
+Data Integrations & Visualisation : SQL Server, Power 
+BI, Excel, R advanced(ggplot2, RShiny, 
+FlexDashbord)., Talend Data Integration Tool
+
+Streamlit dashboards using TikTok data & python: 
++ Build a real time feed from TikTok.
++ Preprocess that data using an ETL Pipeline.
++ Create a Streamlit dashboard to visualize the data.
+➢ Python, Streamlit, Pandas, Plotly, subprocess, TikTokApi , Json
+
+
+
+cleaned_text: copyright www bestfreecv com experience education certifications marwen mejri hobbies 216 20759232 mejri marwen00 gmail com languages defense industry series films sports arabic native language french advanced english intermediate skill highlights linkedin com marwen mejri 313771215 e r u e p e b e r 2 0 2 1 e r python django developer design implement solution collect posts reviews social media users specific subject keyword selenium web scraping extract posts reviews provided social media apis linkedin twitter specific user brand implement file upload csv excel email verification password reset apis django project use bert nlp model sentiment analysis collected data key words selenium web scraping social media api django mongodb nlp bert sentiment analysis pcap certified associate python programming 2020 present engineering student data science private higher school technology engineering tek university ariana tunisia 2010 2016 national engineer degree instrumentation industrial maintenance national institute applied sciences technology insat tunis tunisia academic projects real time sign language recognition 1st model mediapipe pandas keras open cv csv 2nd model transfer learning efficientnetv0 keras tensorflow open cv 3rd model actions detection using rnn lstm numpy open cv mediapipe coronavirus web scraper voice assistant create voice assistance application ask questions related corona virus python selenium json pyttsx3 speech recognition regex end end potato disease classification model building tensorflow cnn data augmentation tf dataset backend server ml ops tf serving fastapi frontend react js deployment gcp google cloud platform gcf google cloud functions github com marwenmejri technical skills tools python r java neo4j mongodb spark hadoop sql elk stack docker django flask fastapi selenium spring boot git jupyter notebook packages scikit learn tensorflow keras numpy matplotlib streamlit pandas nltk pytorch kivy tkinter selenium matplotlib regex open cv pyspark tf serving spacy transformers hugging face tensorflow object detection api key skills machine learning big data deep learning transfer learning computer vision nature language processing transformers mlops web scraping data analytics statistics analysis data preparation data integrations visualisation sql server power bi excel r advanced ggplot2 rshiny flexdashbord talend data integration tool streamlit dashboards using tiktok data python build real time feed tiktok preprocess data using etl pipeline create streamlit dashboard visualize data python streamlit pandas plotly subprocess tiktokapi json
+mobile_number: 216 2075923
+email: mejri.marwen00@gmail.com
+skills: ['Big data', 'Tensorflow', 'Numpy', 'Excel', 'English', 'Selenium', 'Matplotlib', 'Apis', 'Twitter', 'Hadoop', 'Cloud', 'Pyspark', 'Etl', 'Sql', 'Email', 'Django', 'P', 'Json', 'Analytics', 'French', 'Engineering', 'Docker', 'Kivy', 'Scikit-learn', 'Api', 'Tkinter', 'Pandas', 'Python', 'R', 'Analysis', 'Sql server', 'Machine learning', 'Keras', 'Data analytics', 'Instrumentation', 'Pytorch', 'Sports', 'Js', 'Brand', 'Jupyter', 'Spacy', 'Programming', 'Spark', 'Nltk', 'C', 'Java', 'Design', 'Technical', 'Flask', 'Statistics']
+skills_text: Big data Tensorflow Numpy Excel English Selenium Matplotlib Apis Twitter Hadoop Cloud Pyspark Etl Sql Email Django P Json Analytics French Engineering Docker Kivy Scikit-learn Api Tkinter Pandas Python R Analysis Sql server Machine learning Keras Data analytics Instrumentation Pytorch Sports Js Brand Jupyter Spacy Programming Spark Nltk C Java Design Technical Flask Statistics
+Category: IT

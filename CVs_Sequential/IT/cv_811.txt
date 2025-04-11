@@ -1,0 +1,8 @@
+=== CV 811 ===
+text: Karim Boussaid
+cleaned_text: karim boussaid cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 95559645
+email: karim.boussaid@example.com
+skills: ['Marketing', 'Finance', 'Java']
+skills_text: Marketing Finance Java
+Category: IT

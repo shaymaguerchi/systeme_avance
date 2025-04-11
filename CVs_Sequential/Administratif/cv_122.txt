@@ -1,0 +1,94 @@
+=== CV 122 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum vitae
+ASMA BEN BADR
+Tél : 53 100 161	
+ (
+Formation 
+)
+
+De Sept 2007 à Juin 2010:    Licence en gestion
+ (
+Expérience professionnelle 
+)
+
+Au sein de l’entreprise Teleperformance en 2013/2014 : une conseillère clients dans le cadre de l’opération Bouygues Telecom (Assistance technique).
+Au sein de l’entreprise Concentrix en 2017/2019 :d’une durée de 2 ans : une conseillère clients dans le cadre de l’opération Orange Technique (Assistance technique).
+Au sein de l’entreprise Teleperformance en 2019/2020: une conseillère clients dans le cadre de l’opération Engie. (Assistance Commerciale)
+Au sein de l’entreprise Armatis en 2021/2021 : une conseillère clients dans le cadre de l’opération Engie. (Assistance Commerciale)
+Au sein de l’entreprise PhoneAct en 2021/2021 : une conseillère clients dans le cadre de l’opération Vente Unique.com.
+Au sein de l’entreprise Voicecom en 2021/2021 : une téléopératrice dans le cadre de l’opération C-discount Energie
+Au sein de l’entreprise Activecontact en 2022 : une téléopératrice dans le cadre de l’opération C-discount Energie
+
+ (
+Connaissances en informatique 
+)
+
+Bureautique: Word, Excel, Power Point, Access
+Maitrise des outils Internet 
+ (
+Langues 
+)
+
+Arabe : langue maternelle 
+ Français : lu, écrit, parlé  
+ Anglais : Bon niveau 
+
+
+
+cleaned_text: curriculum vitae asma ben badr tel 53 100 161 formation sept 2007 juin 2010 licence gestion experience professionnelle sein entreprise teleperformance 2013 2014 conseillere clients cadre operation bouygues telecom assistance technique sein entreprise concentrix 2017 2019 duree 2 ans conseillere clients cadre operation orange technique assistance technique sein entreprise teleperformance 2019 2020 conseillere clients cadre operation engie assistance commerciale sein entreprise armatis 2021 2021 conseillere clients cadre operation engie assistance commerciale sein entreprise phoneact 2021 2021 conseillere clients cadre operation vente unique com sein entreprise voicecom 2021 2021 teleoperatrice cadre operation discount energie sein entreprise activecontact 2022 teleoperatrice cadre operation discount energie connaissances informatique bureautique word excel power point access maitrise outils internet langues arabe langue maternelle francais lu ecrit parle anglais bon niveau
+mobile_number: 0
+email: UNKNOWN
+skills: ['Excel', 'Telecom', 'Access', 'C', 'Word', 'Orange']
+skills_text: Excel Telecom Access C Word Orange
+Category: Administratif

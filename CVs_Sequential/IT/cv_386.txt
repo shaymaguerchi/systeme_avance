@@ -1,0 +1,154 @@
+=== CV 386 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bacem BEN HASEN 
+Curriculum Vitae 
+
+ 
+ 
+
+DIPLOMAS AND QUALIFICATION  
+ 
+From 2015 to 2016 : mathematical Baccalaureate  
+ 
+ From 2016 to 2019: 3rd year license applies in computer network 
+
+and communication / science faculty of Sfax Sfax, Tunisia  
+
+Since 2019: PROFESSIONAL MASTER IN EXPERIENCE DESIGN AND INTERFACE 
+
+DESIGN  
+
+  
+
+SKILLS  
+▪ Programming: Java language, c , python ,Android. 
+▪ Analytical methods: UML. 
+▪ Databases: Oracle, SQL, MySQL. 
+▪ Environments: Windows, Linux. 
+▪ Computer Networks: Network Administration, Configuration and         
+
+Addressing Client / server network  
+▪ creation , virtualisation ,Installation and configuration of a computer 
+
+network under Windows, local networks. static and dynamic  routing , 
+network design and audit (nmap ,scanning ,spofing, ) , Security 
+Procedures / Processes . 
+
+▪ Web: HTML, PHP4, PHP5, JavaScript, CSS , c# , angular 
+▪ Software: Adobe: Photoshop, After effect, Premier Pro, Illustrator. 
+
+MATLAB, packet tracer,  wireshark ,webstron ,android studio, 3Ds max, 
+Unity  . 
+
+ 
+
+                             
+PROJECT         
+                         windows server (Network Services, Network services in an Active Directory 
+
+domain , The configuration of Hyper-V , Identity and access management ..) 
+                          application (android) and website  (angular) for remote machine control. 
+
+                          Application(android) with unity Vuforia augmented reality a 2D plan of a house                                                                                                          
+becomes 3D in the phone 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+
+
+LANGUAGE   
+                           Arabe 
+
+                           French  
+
+                           English 
+
+ 
+
+  
+ 
+ 
+
+ 
+CENTER OF INTEREST     
+ 
+
+Running, gym, cyclic 
+
+Associative life member in  MAGNOLIA (Communication manager) 
+
+Member of the organizing committee in the university clubs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+E-mail: bacembenhasen@gmail.com 
+Address : agaréb/sfax 
+telephone : 95306170 
+
+                                                                                                                                        
+ 
+ 
+  
+
+
+
+cleaned_text: bacem ben hasen curriculum vitae diplomas qualification 2015 2016 mathematical baccalaureate 2016 2019 3rd year license applies computer network communication science faculty sfax sfax tunisia since 2019 professional master experience design interface design skills programming java language python android analytical methods uml databases oracle sql mysql environments windows linux computer networks network administration configuration addressing client server network creation virtualisation installation configuration computer network windows local networks static dynamic routing network design audit nmap scanning spofing security procedures processes web html php4 php5 javascript css angular software adobe photoshop effect premier pro illustrator matlab packet tracer wireshark webstron android studio 3ds max unity project windows server network services network services active directory domain configuration hyper v identity access management application android website angular remote machine control application android unity vuforia augmented reality 2d plan house becomes 3d phone language arabe french english center interest running gym cyclic associative life member magnolia communication manager member organizing committee university clubs e mail bacembenhasen gmail com address agareb sfax telephone 95306170
+mobile_number: 9530617
+email: bacembenhasen@gmail.com
+skills: ['Android', 'Html', 'Mysql', 'Plan', 'English', 'Administration', 'Access', 'Oracle', 'Communication', 'Javascript', 'Matlab', 'C#', 'Sql', 'Security', 'Css', 'Adobe', 'French', 'Python', 'Routing', 'Linux', 'Analytical', 'Photoshop', 'Illustrator', 'Audit', 'Website', 'Network design', 'Installation', 'Programming', 'C', 'Windows', 'Java', 'Design']
+skills_text: Android Html Mysql Plan English Administration Access Oracle Communication Javascript Matlab C# Sql Security Css Adobe French Python Routing Linux Analytical Photoshop Illustrator Audit Website Network design Installation Programming C Windows Java Design
+Category: IT

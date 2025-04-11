@@ -1,0 +1,12 @@
+=== CV 1088 ===
+text: Christine Wright - CV
+
+Alone owner that growth finally. Daughter government some election. Guy instead million within need. Company approach change care institution school. World never make interesting course early. Series back floor many. Guess soon among teacher view thought. Top high man watch.
+
+26272 Mariah Springs, West Dennismouth, MA 92645
+cleaned_text: christine wright - cv alone owner that growth finally. daughter government some election. guy instead million within need. company approach change care institution school. world never make interesting course early. series back floor many. guess soon among teacher view thought. top high man watch. 26272 mariah springs, west dennismouth, ma 92645
+mobile_number: 840-438-3809x673
+email: danielkelly@perez-sims.com
+skills: ['PHP', 'JavaScript', 'Power BI', 'Java', 'Python']
+skills_text: PHP JavaScript Power BI Java Python
+Category: Finance

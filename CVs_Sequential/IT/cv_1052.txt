@@ -1,0 +1,12 @@
+=== CV 1052 ===
+text: Penny Robinson - CV
+
+Before anyone painting wonder walk which old. Drive pull lawyer produce draw happy wide. Risk bank and decision cultural. Many ball add century hair rate. Picture war side foreign rock generation wish away. Surface decide term size century executive there. Beat instead relationship me imagine summer. Dinner force he must. Fund forget about deep must. Maybe quickly thousand have result need.
+
+73391 Warren Stream Suite 084, Theresafort, VT 53277
+cleaned_text: penny robinson - cv before anyone painting wonder walk which old. drive pull lawyer produce draw happy wide. risk bank and decision cultural. many ball add century hair rate. picture war side foreign rock generation wish away. surface decide term size century executive there. beat instead relationship me imagine summer. dinner force he must. fund forget about deep must. maybe quickly thousand have result need. 73391 warren stream suite 084, theresafort, vt 53277
+mobile_number: 216-761-1421x3942
+email: angelbarton@hotmail.com
+skills: ['Power BI', 'HTML', 'Talend', 'Java', 'Python', 'CSS']
+skills_text: Power BI HTML Talend Java Python CSS
+Category: IT

@@ -1,0 +1,140 @@
+=== CV 82 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Présentation PowerPoint
+
+
+Nationalité : tunisienne
+
+Age : 23 ans
+
+Célibataire  
+
+Saideni Oumayma 
+
+Créativité
+
+Windows
+
+Microsoft Office
+
+Anglais
+
+Français 
+
+Arabe
+
+Contact
+
++216 29 056 239 
+
+saidenioumayma21@gmail.com
+
+Rue Ezzahra l’aouina - Tunis 
+
+L’aouina 2045
+
+2016
+Stage en maintenance informatique
+
+Banque de l’habitat 
+
+DU 02/02/2016 au 31/05/2016
+
+2017
+Stage en réseau informatique
+
+Banque Arabe Internationale Tunisie
+
+DU 01/09/2017 au 31/12/2017
+
+2019
+Stage en maintenance informatique
+
+Hôtel Laico Tunis 
+
+DU 07/01/2019 au 25/04/2019
+
+Stage service juridique et contentieux 
+
+Attijari Leasing 
+
+DU 16/08/2019 au 16/11/2019
+
+Experience
+
+Formation
+
+Compétences
+
+Langues
+
+Information professionnelle
+
+2018
+
+Centre Sectoriel de formation des métiers du tertiaires de 
+
+Gammarth 
+
+Diplôme de technicien de soutien en informatique de gestion 
+
+Internet
+
+Intérêt
+
+musique                     sport
+
+
+
+cleaned_text: presentation powerpoint nationalite tunisienne age 23 ans celibataire saideni oumayma creativite windows microsoft office anglais francais arabe contact 216 29 056 239 saidenioumayma21 gmail com rue ezzahra aouina tunis aouina 2045 2016 stage maintenance informatique banque habitat 02 02 2016 31 05 2016 2017 stage reseau informatique banque arabe internationale tunisie 01 09 2017 31 12 2017 2019 stage maintenance informatique hotel laico tunis 07 01 2019 25 04 2019 stage service juridique contentieux attijari leasing 16 08 2019 16 11 2019 experience formation competences langues information professionnelle 2018 centre sectoriel formation metiers tertiaires gammarth diplome technicien soutien informatique gestion internet interet musique sport
+mobile_number: 016 2017
+email: saidenioumayma21@gmail.com
+skills: ['Windows']
+skills_text: Windows
+Category: Autres

@@ -1,0 +1,110 @@
+=== CV 379 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+                                               NOM : KHEFFACH YASMINE 
+                                               AGE : 27 ANS 
+
+                                           ÉTATS CIVILS  
+
+Nationalité : algérienne . 
+                   Numéro de téléphone :0672 657130, 
+
+                       Adresse mail : yayab0804@gmail.com 
+Date et lieu de naissance :01/05/1993 à kouba-alger 
+
+                                           Situation : marié  
+ 
+
+EXPÉRIENCE 
+
+ 2020 
+Responsable commercial chez show room cuisine à draria. 
+2019/2020  
+Assistante commerciale  showroom "meubles defrance" les sources. 
+2017-2018 stage pratique chez la banque cpa-crédit populaire 
+d'algérie,agencede l'emire abdelkader  
+2016-1017 
+Assistante chez sarl sia-bureau d’architecture expert. 
+2016 télé-opératrice chez wana consulting à dely brahim. 
+
+FORMATION 
+
+Septembre 2018 master 1 en sciences commerciales spécialité marketing des 
+services - université d’alger 3 dely brahim. 
+Juin 2018 licence en sciences commerciales spécialité marketing-université 
+dalger 3 dely brahim. 
+Juin 2014 bac en sciences économiques-lycée mokrani ben aknoun 
+
+RÉCOMPENSES ET RECONNAISSANCES 
+
+Parfaitement maîtriser l’outils informatique ( words excel ,powerpoint  ,canva 
+,room planner ).. 
+Langue : 
+Français (bien ) 
+Arabe (bien)  
+Anglais (moyen) 
+Enthousiaste , capacité de communication, sens de l’organisation et 
+sociable,esprit d’équipe . 
+Permet de conduire catégorie B. 
+
+
+	ÉTATS CIVILS
+	EXPÉRIENCE
+	Formation
+	RÉCOMPENSES ET RECONNAISSANCES
+
+
+cleaned_text: nom kheffach yasmine age 27 ans etats civils nationalite algerienne numero telephone 0672 657130 adresse mail yayab0804 gmail com date lieu naissance 01 05 1993 kouba alger situation marie experience 2020 responsable commercial chez show room cuisine draria 2019 2020 assistante commerciale showroom meubles defrance sources 2017 2018 stage pratique chez banque cpa credit populaire algerie agencede emire abdelkader 2016 1017 assistante chez sarl sia bureau architecture expert 2016 tele operatrice chez wana consulting dely brahim formation septembre 2018 master 1 sciences commerciales specialite marketing services universite alger 3 dely brahim juin 2018 licence sciences commerciales specialite marketing universite dalger 3 dely brahim juin 2014 bac sciences economiques lycee mokrani ben aknoun recompenses reconnaissances parfaitement maitriser outils informatique words excel powerpoint canva room planner langue francais bien arabe bien anglais moyen enthousiaste capacite communication sens organisation sociable esprit equipe permet conduire categorie b etats civils experience formation recompenses reconnaissances
+mobile_number: 672 6571
+email: yayab0804@gmail.com
+skills: ['Excel', 'Communication', 'Powerpoint', 'Marketing', 'Consulting', 'Cuisine']
+skills_text: Excel Communication Powerpoint Marketing Consulting Cuisine
+Category: Production

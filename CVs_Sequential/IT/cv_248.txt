@@ -1,0 +1,182 @@
+=== CV 248 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sakhri Louay
+
+
+INSOMEA COMPUTER SOLUTIONS (
+partenaire Gold avec Microsoft )
+
+- Développement web .Net, angular 8 (Back Office)
+
+- Créer un site web de facturation en important des données de
+
+crayon API (logiciel américain)
+
+- Dashboard (Powerbi)
+
+02/2020-06/2020 | Les berges du lacs
+
+BESTOPLAST
+
+- Informatisation des objectifs 
+
+- Gestion de fonctionnement des taches et des rôles 
+
+08-2018- 10-2018| Ben Arous 
+
+EXPÉRIENCE PROFESSIONNELLE
+
+SAKHRI
+LOUAY
+É T U D I A N T  E N  2 M  B U S I N E S S
+A N A L Y T I C S  À  E S P R I T
+S C H O O L  O F  B U S I N E S S  |  À  L A
+R E C H E R C H E  D ' U N  S T A G E  D E
+P F E
+
+PROFIL PERSONNEL
+
+Dynamique • Actif • Travail en équipe •
+
+Ponctuel • Ambitieux • Réaliste •
+
+Confiance
+
+COMPÉTENCES ET SAVOIR-FAIRE
+
+Python , R | PowerBi | Talend | SQl | Hadoop
+
+Big data | Machine learning | Deep learning
+
+Conception UML | Office Microsoft | Cloud 
+
+Asp.net | Angular | java 
+
+LANGUES 
+Français B2 (Certificat Rosetta stone) 
+
+Anglais B2 (Certificat Rosetta stone) 
+
+Arabe c1 
+
+COORDONNÉES
+
+Téléphone : +216 29 66 28 84  
+
+Adresse : Ben Arous,1145 Tunisie
+
+Contact : Louaysk723@gmail.com
+
+Linkedin :
+
+https://www.linkedin.com/in/louay-
+
+sakhri-42156a198/
+
+GitHub : https://github.com/louaysk
+
+Esprit School of Business 
+
+- Master en business Analytics 
+
+10-2020/ Aujourd'hui
+
+Faculté des sciences économiques et gestion
+tunis 
+
+-Licence en informatique de gestion
+
+Diplômé en 2020 - Mention 'Bien'
+
+ÉDUCATION
+
+- Travail associatif : rotaract les alpes Aouina (2018) 
+
+- Sport : football Ref : Avenir sportif Mhamdia (2011-2015)
+
+INTÉRÊTS ET LOISIRS
+
+Analyse de comportement des banques
+tunisienne
+
+- Appliquer l'algorithme de K-Means afin de
+
+regrouper les données
+
+-Data Preprocessing et utilser un algo de deep
+
+learning pour prédire Amen Bank stock price
+
+- Analyse le portefeuille des banques tunisiennes
+
+mai 2021 – juin 2021
+
+Dashboard pour les vidéos games (Talend ,
+PowerBi)
+
+- Analyser les ventes de videos games en
+
+dashboard
+
+févr.  2021 – avr.  2021
+
+PROJETS PROFESSIONELS 
+
+
+
+cleaned_text: sakhri louay insomea computer solutions partenaire gold microsoft developpement web net angular 8 back office creer site web facturation important donnees crayon api logiciel americain dashboard powerbi 02 2020 06 2020 berges lacs bestoplast informatisation objectifs gestion fonctionnement taches roles 08 2018 10 2018 ben arous experience professionnelle sakhri louay e u e 2 b u e e p r h f b u e r e h e r h e u g e e p f e profil personnel dynamique actif travail equipe ponctuel ambitieux realiste confiance competences savoir faire python r powerbi talend sql hadoop big data machine learning deep learning conception uml office microsoft cloud asp net angular java langues francais b2 certificat rosetta stone anglais b2 certificat rosetta stone arabe c1 coordonnees telephone 216 29 66 28 84 adresse ben arous 1145 tunisie contact louaysk723 gmail com linkedin https www linkedin com louay sakhri 42156a198 github https github com louaysk esprit school business master business analytics 10 2020 aujourd hui faculte sciences economiques gestion tunis licence informatique gestion diplome 2020 mention bien education travail associatif rotaract alpes aouina 2018 sport football ref avenir sportif mhamdia 2011 2015 interets loisirs analyse comportement banques tunisienne appliquer algorithme k means afin regrouper donnees data preprocessing utilser algo deep learning predire amen bank stock price analyse portefeuille banques tunisiennes mai 2021 juin 2021 dashboard videos games talend powerbi analyser ventes videos games dashboard fevr 2021 avr 2021 projets professionels
+mobile_number: 011-2015
+email: Louaysk723@gmail.com
+skills: ['.net', 'Sql', 'Github', 'Python', 'R', 'P', 'Hadoop', 'Cloud', 'C', 'Analytics', 'Java', 'Api']
+skills_text: .net Sql Github Python R P Hadoop Cloud C Analytics Java Api
+Category: IT

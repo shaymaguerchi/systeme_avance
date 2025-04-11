@@ -1,0 +1,12 @@
+=== CV 1322 ===
+text: Zachary Cooper - CV
+
+Newspaper me enter Mrs. Bed full identify sport. Common close professor certain identify grow appear. Cost baby memory door there return man. More position how lot. Common gas appear with. Music item country adult lawyer.
+
+PSC 7339, Box 0636, APO AA 79992
+cleaned_text: zachary cooper - cv newspaper me enter mrs. bed full identify sport. common close professor certain identify grow appear. cost baby memory door there return man. more position how lot. common gas appear with. music item country adult lawyer. psc 7339, box 0636, apo aa 79992
+mobile_number: 2499885248
+email: joseph59@romero.info
+skills: ['CSS', 'PHP', 'HTML']
+skills_text: CSS PHP HTML
+Category: Marketing

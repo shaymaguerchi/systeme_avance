@@ -1,0 +1,12 @@
+=== CV 1329 ===
+text: Karen Smith - CV
+
+Design late by various. Reveal including cause. Car across interest nearly between. Technology last would suggest former no force. Walk activity represent for natural contain nature. Walk middle light picture southern heart different.
+
+784 Riley Causeway Apt. 145, Timothyview, ND 07431
+cleaned_text: karen smith - cv design late by various. reveal including cause. car across interest nearly between. technology last would suggest former no force. walk activity represent for natural contain nature. walk middle light picture southern heart different. 784 riley causeway apt. 145, timothyview, nd 07431
+mobile_number: 439-842-7858
+email: etaylor@chavez.net
+skills: ['PHP', 'SQL', 'JavaScript', 'Python']
+skills_text: PHP SQL JavaScript Python
+Category: IT

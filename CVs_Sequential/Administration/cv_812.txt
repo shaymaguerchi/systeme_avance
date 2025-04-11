@@ -1,0 +1,8 @@
+=== CV 812 ===
+text: Nadia Boussaid
+cleaned_text: nadia boussaid cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 63966631
+email: nadia.boussaid@example.com
+skills: ['Adobe', 'SQL', 'Windows', 'Python']
+skills_text: Adobe SQL Windows Python
+Category: Administration

@@ -1,0 +1,12 @@
+=== CV 916 ===
+text: John Zimmerman - CV
+
+Head production technology over hour. Car federal indicate unit. Instead PM be know hard we around impact. While top kid he weight before. Someone everybody newspaper read. Up control instead company where future model. Leg PM low data ability recognize. Left despite boy without feeling participant interest seem.
+
+USNS Stewart, FPO AE 31520
+cleaned_text: john zimmerman - cv head production technology over hour. car federal indicate unit. instead pm be know hard we around impact. while top kid he weight before. someone everybody newspaper read. up control instead company where future model. leg pm low data ability recognize. left despite boy without feeling participant interest seem. usns stewart, fpo ae 31520
+mobile_number: 448.529.1189x4262
+email: anthonyclark@yahoo.com
+skills: ['Talend', 'SQL', 'Power BI', 'JavaScript']
+skills_text: Talend SQL Power BI JavaScript
+Category: Finance

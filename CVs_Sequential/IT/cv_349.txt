@@ -1,0 +1,192 @@
+=== CV 349 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+Langages et Framework :
+
+Python DataScience: Numpy, Pandas,
+Matplotlib, Seaborn, Scikit-Learn, NLTK,
+Spacy
+ML: SVM,K-means, KNN, Arbre de
+décision, Régression linéaire et
+logistique…
+ML Framework et
+Libraries: Keras,TensorFlow,Django,NLP
+Web
+scrapping: Scrapy,API,BeautifulSoup
+Big data:  Hadoop (hive ,Hue et impala)
+BI: SSIS/SSAS/SSRS/Power BI
+Langages de programmation: C, JAVA,
+JavaScript, PHP, Android, Python,R
+Technologie Web
+: HTML/CSS/JS/PHP, nodeJS
+SQL: MySQL, Oracle
+NoSQL:  MongoDB, Cassandra,Redis
+Server Framework : Bootstrap, Spring
+boot,Angular,Laravel,ionic,
+jQuery
+Système d'exploitation: windows,
+linux,IOS,android
+
+Français
+
+Italien
+
+Anglais
+
+Certificats:
+
+Certification Cloudera Coursera
+1:Analyzing Big Data with SQL
+Certification Cloudera Coursera2
+:Managing Big Data in Clusters and
+Cloud Storage
+Certificat :du Member Organisateur
+de l’événement MEDREW
+ISGIS
+Certificat:du WorkShop
+photovoltaïque à ISGIS
+Certificat:du Member Organisateur de
+BIL ISGIS
+
+Data Scientist
+
+Je suis une étudiante très motivée à la recherche d'un stage fin d'études dans un environnement de
+vente au détail au long de ma formation avec une capacité d'apprentissage rapide et capacité
+supérieur à comprendre des nouveaux concepts
+
+Sujet Business Intelligence:
+
+mise en place d'un tableau de bord de Breast Cancer
+Technologies : Power BI
+
+Sujet Web :
+
+Gestion Des Ventes En Ligne
+Technologies: Angular , Spring Boot
+
+Sujet Machine Learning:
+
+Prédiction sur les performances des étudiants
+Technologies: Python ,Random-Forest, Decision Tree, LogisticRegression
+
+Sujet NLP:
+
+Analyse de sentiment
+Technologies: Python ,django, LinearRegression
+
+Formation :
+
+Certificat du formation PHP et Mysqli à IWS
+Ma Carriére pro
+Industrie 4.0
+communication 
+ERP odoo
+
+intidhar.lafi@fsegs.u-sfax.tn
+22 Rue La Marsa Benguerden
+24 ans
+B
+28817078
+
+Compétences :
+
+Langues
+
+Certif icats
+
+Réseaux sociaux
+@Intidhar Lafi
+
+Prof il
+
+Diplômes et Formations
+Mastère professionnel en Sciences et ingénierie de données
+
+Depuis septembre 2020 Faculté des sciences économiques et de gestion de Sfax (FSEGS) .
+
+Licence Appliquée en Informatique Appliquée à la Gestion Industrielle
+
+De septembre 2017 à juillet 2020 Institut Supérieur De Gestion Industrielle De Sfax (ISGIS) .
+
+Baccalauréat Scientifique(Section Mathématique)
+
+De septembre 2013 à juin 2017 Lycée Bengeurdane .
+
+Expériences professionnelles
+Stage obligatoire
+
+De février 2020 à mai 2020 à All Soft Multimédia Sfax .
+
+Conception et réalisation d'une application mobile pour la gestion des cartes de fidélitè client.
+
+Stage facultatit
+
+Août 2019 à International Web Services Benguerdane(Cyber Parc Benguerdane ) .
+
+Développement d'une application  Web de gestion de stagiaire.
+
+Stage facultatif
+
+Juillet 2019 à l’Agence d’Assurance Magharebia Benguerdane .
+
+Stage facultatif
+
+Juillet 2018 à La Banque de l’Habitat Benguerdane .
+
+Projets Academiques
+
+Formations Privées:
+
+I NT I D HA R
+L A F I
+
+mailto:intidhar.lafi@fsegs.u-sfax.tn
+https://www.linkedin.com/in/Intidhar%20Lafi
+
+
+cleaned_text: langages framework python datascience numpy pandas matplotlib seaborn scikit learn nltk spacy ml svm k means knn arbre decision regression lineaire logistique ml framework libraries keras tensorflow django nlp web scrapping scrapy api beautifulsoup big data hadoop hive hue impala bi ssis ssas ssrs power bi langages programmation java javascript php android python r technologie web html css js php nodejs sql mysql oracle nosql mongodb cassandra redis server framework bootstrap spring boot angular laravel ionic jquery systeme exploitation windows linux ios android francais italien anglais certificats certification cloudera coursera 1 analyzing big data sql certification cloudera coursera2 managing big data clusters cloud storage certificat member organisateur evenement medrew isgis certificat workshop photovoltaique isgis certificat member organisateur bil isgis data scientist etudiante tres motivee recherche stage fin etudes environnement vente detail long formation capacite apprentissage rapide capacite superieur comprendre nouveaux concepts sujet business intelligence mise place tableau bord breast cancer technologies power bi sujet web gestion ventes ligne technologies angular spring boot sujet machine learning prediction performances etudiants technologies python random forest decision tree logisticregression sujet nlp analyse sentiment technologies python django linearregression formation certificat formation php mysqli iws carriere pro industrie 4 0 communication erp odoo intidhar lafi fsegs u sfax tn 22 rue marsa benguerden 24 ans b 28817078 competences langues certif icats reseaux sociaux intidhar lafi prof diplomes formations mastere professionnel sciences ingenierie donnees depuis septembre 2020 faculte sciences economiques gestion sfax fsegs licence appliquee informatique appliquee gestion industrielle septembre 2017 juillet 2020 institut superieur gestion industrielle sfax isgis baccalaureat scientifique section mathematique septembre 2013 juin 2017 lycee bengeurdane experiences professionnelles stage obligatoire fevrier 2020 mai 2020 soft multimedia sfax conception realisation application mobile gestion cartes fidelite client stage facultatit aout 2019 international web services benguerdane cyber parc benguerdane developpement application web gestion stagiaire stage facultatif juillet 2019 agence assurance magharebia benguerdane stage facultatif juillet 2018 banque habitat benguerdane projets academiques formations privees nt ha r f mailto intidhar lafi fsegs u sfax tn https www linkedin com intidhar 20lafi
+mobile_number: 2881707
+email: intidhar.laﬁ@fsegs.u-sfax.tn
+skills: ['Php', 'Numpy', 'Tensorflow', 'Tableau', 'Big data', 'Android', 'Html', 'Mysql', 'Mobile', 'Seaborn', 'Matplotlib', 'Hadoop', 'Cloud', 'Oracle', 'Communication', 'Javascript', 'Ios', 'Sql', 'Django', 'Css', 'Nosql', 'Scikit-learn', 'Pandas', 'Beautifulsoup', 'Python', 'R', 'Linux', 'Keras', 'Hive', 'International', 'Scrapy', 'Js', 'Spacy', 'Nltk', 'C', 'Windows', 'Erp', 'Java', 'Api']
+skills_text: Php Numpy Tensorflow Tableau Big data Android Html Mysql Mobile Seaborn Matplotlib Hadoop Cloud Oracle Communication Javascript Ios Sql Django Css Nosql Scikit-learn Pandas Beautifulsoup Python R Linux Keras Hive International Scrapy Js Spacy Nltk C Windows Erp Java Api
+Category: IT

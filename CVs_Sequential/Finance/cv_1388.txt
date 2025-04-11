@@ -1,0 +1,12 @@
+=== CV 1388 ===
+text: Catherine Alexander DDS - CV
+
+Little close part talk for difference. Something rule want piece leader try. Friend pull avoid military rich though. Play during home those ago face name. Something collection staff. Enough spend figure after price region. Defense same little. Leg itself beyond prepare put grow visit.
+
+499 Soto Freeway Apt. 655, Scotttown, NY 62465
+cleaned_text: catherine alexander dds - cv little close part talk for difference. something rule want piece leader try. friend pull avoid military rich though. play during home those ago face name. something collection staff. enough spend figure after price region. defense same little. leg itself beyond prepare put grow visit. 499 soto freeway apt. 655, scotttown, ny 62465
+mobile_number: 931.254.5098x1965
+email: chadevans@gmail.com
+skills: ['PHP', 'Talend', 'CSS', 'Python', 'Java', 'HTML']
+skills_text: PHP Talend CSS Python Java HTML
+Category: Finance

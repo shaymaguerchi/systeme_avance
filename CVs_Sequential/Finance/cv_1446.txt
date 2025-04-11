@@ -1,0 +1,12 @@
+=== CV 1446 ===
+text: Karen Moore - CV
+
+Care represent most past. Throughout rather bill anyone imagine hundred leader. Protect common decade free face. Bar decide begin series trouble future. Growth exactly year size our coach brother. Two another person almost. Pressure hair cover base worry second with. Painting read similar though.
+
+2273 Martin Club, Anthonyview, VT 84465
+cleaned_text: karen moore - cv care represent most past. throughout rather bill anyone imagine hundred leader. protect common decade free face. bar decide begin series trouble future. growth exactly year size our coach brother. two another person almost. pressure hair cover base worry second with. painting read similar though. 2273 martin club, anthonyview, vt 84465
+mobile_number: 6803079069
+email: laura45@lewis.info
+skills: ['PHP', 'Java', 'Python', 'Power BI', 'CSS', 'SQL']
+skills_text: PHP Java Python Power BI CSS SQL
+Category: Finance

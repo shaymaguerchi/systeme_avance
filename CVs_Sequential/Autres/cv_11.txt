@@ -1,0 +1,72 @@
+=== CV 11 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Rafik Boukamcha
+Adresse e-mail: rafikboukamcha@yahoo.fr
+Téléphone: +216 52 004 300
+Lieu: Tunis
+
+Éducation
+
+Lycée hanabal
+
+Faculté des sciences de Tunis
+
+Powered by TCPDF (www.tcpdf.org)
+
+                               1 / 1
+
+http://www.tcpdf.org
+
+
+cleaned_text: rafik boukamcha adresse e mail rafikboukamcha yahoo fr telephone 216 52 004 300 lieu tunis education lycee hanabal faculte sciences tunis powered tcpdf www tcpdf org 1 1 http www tcpdf org
+mobile_number: 0
+email: rafikboukamcha@yahoo.fr
+skills: []
+skills_text: nan
+Category: Autres

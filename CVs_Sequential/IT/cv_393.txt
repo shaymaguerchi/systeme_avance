@@ -1,0 +1,127 @@
+=== CV 393 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AMEL GUEMIZA
+DevOps- Front-End
+@ gmiza.amel@gmail.com � +216 54 986 363 ! Manzel-kamel, Avenue habib bourgiba, 5013 Tunis
+( Monastir, Tunis è www.linkedin.com/in/amel-guemiza ¥ github.com/Guemiza
+
+EXPÉRIENCES PROFESSIONNELLES
+Freelance
+x Février 2021 – maintenant
+• Développer des application web en utilisant Angular, symfony, etBootstrap.
+Stage PFE [Bac +5]
+Proxym groupe -Sousse
+x Février – Août 2020 (6 mois) ( Sousse
+• Gestion d’un back office de gestion de projet sur Gitlab,Redmineet Kubernets à travers l’Api
+• Technologies : Django-python,Kubernets,Gitlab,Proxmox,DockerFile,Redmine,Scrum
+Stage PFE [Bac+3]
+Micro Device
+x Février – Juin 2017 ( Sousse
+• Système de notification automatique de géolocalisation d’accident
+• Outils et technologies : la carte u-blox, la carte STM32f407,langageC, HTML5, bootstrap,java ,mysql ,PHP
+Stage Technicien [1 mois]
+STEG
+x Janvier– Février 2016 ( Sousse
+• Développement d’une application web pour la gestion des af-faires
+• outils et technologies : PHP5 ,Bootstrap 4,java ,HTML5, nodeJs,mySql
+PROJETS ACADÉMIQUES
+Projet: CI / CD
+x Décembre 2019 - Janvier 2020 ( ISET
+Développer et déployer une application "Symfony" en fournissantCI/CD (docker,Kubernets,Git).Projet de développement
+x Décembre 2018- Janvier 2019 ( ISET
+• Conception et développement d’une application multiplateforme:Desktop ( Php ) et Web ( Symfony , Bootstrap ) pour gérer lesévénements
+Application commercial
+x Novembre 2018 - Décembre ( ISET
+Conception et développement d’une application commerical avecsping Boot.
+
+EDUCATION ET FOR-
+MATION [BAC +5]
+Ingénieur informatique enCloud computing et Devops
+x 2018 – 2020 ( ISET-Sousse
+
+Licence appliquée en technologie del’informatique spécialité « Systèmeembarqué »
+x 2014 – 2017 ( ISET Sousse
+
+Bac en Science de l’Informatique
+x juin 2013 ( Jammel 2
+
+LANGAGES/FRAMEWORK
+Angular7 Symfony3.4 Django
+Python PHP java PostgreSql
+MariaDB Oracle Mysql
+
+SYSTÉME/CLOUD
+Docker compose Docker Kubernets
+Git Ansible Jenkins Aws Openstack
+
+GESTION DE PROJET
+Scrum Agile ITIL
+
+LANGUAGES
+Anglais :lu,écrit,parléFrançais: lu,écrit,parlé
+CERTIFICAT
+Certificat de participation aux ateliers d’idéationdu programme Spark club pour l’entreprenauriatdes jeunesse en tant que Coach junior2020 -2021
+
+mailto:gmiza.amel@gmail.com
+https://linkedin.com/in/www.linkedin.com/in/amel-guemiza
+https://github.com/github.com/Guemiza
+
+
+cleaned_text: amel guemiza devops front end gmiza amel gmail com 216 54 986 363 manzel kamel avenue habib bourgiba 5013 tunis monastir tunis e www linkedin com amel guemiza github com guemiza experiences professionnelles freelance x fevrier 2021 maintenant developper application web utilisant angular symfony etbootstrap stage pfe bac 5 proxym groupe sousse x fevrier aout 2020 6 mois sousse gestion back office gestion projet gitlab redmineet kubernets travers api technologies django python kubernets gitlab proxmox dockerfile redmine scrum stage pfe bac 3 micro device x fevrier juin 2017 sousse systeme notification automatique geolocalisation accident outils technologies carte u blox carte stm32f407 langagec html5 bootstrap java mysql php stage technicien 1 mois steg x janvier fevrier 2016 sousse developpement application web gestion af faires outils technologies php5 bootstrap 4 java html5 nodejs mysql projets academiques projet ci cd x decembre 2019 janvier 2020 iset developper deployer application symfony fournissantci cd docker kubernets git projet developpement x decembre 2018 janvier 2019 iset conception developpement application multiplateforme desktop php web symfony bootstrap gerer lesevenements application commercial x novembre 2018 decembre iset conception developpement application commerical avecsping boot education mation bac 5 ingenieur informatique encloud computing devops x 2018 2020 iset sousse licence appliquee technologie del informatique specialite systemeembarque x 2014 2017 iset sousse bac science informatique x juin 2013 jammel 2 langages framework angular7 symfony3 4 django python php java postgresql mariadb oracle mysql systeme cloud docker compose docker kubernets git ansible jenkins aws openstack gestion projet scrum agile itil languages anglais lu ecrit parlefrancais lu ecrit parle certificat certificat participation ateliers ideationdu programme spark club entreprenauriatdes jeunesse tant coach junior2020 2021 mailto gmiza amel gmail com https linkedin com www linkedin com amel guemiza https github com github com guemiza
+mobile_number: 0
+email: gmiza.amel@gmail.com
+skills: ['Php', 'Itil', 'Mysql', 'Agile', 'Python', 'Django', 'Scrum', 'Aws', 'Cloud', 'Spark', 'C', 'Postgresql', 'Oracle', 'Html5', 'Openstack', 'Java', 'Docker', 'Ansible']
+skills_text: Php Itil Mysql Agile Python Django Scrum Aws Cloud Spark C Postgresql Oracle Html5 Openstack Java Docker Ansible
+Category: IT

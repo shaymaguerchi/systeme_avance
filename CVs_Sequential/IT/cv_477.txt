@@ -1,0 +1,8 @@
+=== CV 477 ===
+text: Fatima Fontaine
+cleaned_text: fatima fontaine cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 55026540
+email: fatima.fontaine@example.com
+skills: ['CSS', 'Management', 'Windows', 'SQL', 'Linux']
+skills_text: CSS Management Windows SQL Linux
+Category: IT

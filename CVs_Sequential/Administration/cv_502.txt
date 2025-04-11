@@ -1,0 +1,8 @@
+=== CV 502 ===
+text: Karim Girard
+cleaned_text: karim girard cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 85699914
+email: karim.girard@example.com
+skills: ['Linux', 'Adobe', 'Python', 'SQL']
+skills_text: Linux Adobe Python SQL
+Category: Administration

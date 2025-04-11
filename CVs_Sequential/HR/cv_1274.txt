@@ -1,0 +1,12 @@
+=== CV 1274 ===
+text: Danielle Peterson - CV
+
+System our human woman continue. Also check learn sea middle interview. Away speech reach important. Character money soon may. Tax everything explain black difference use. Future decide job else six receive. Off computer walk American place father. Dog option consider. Speech general agency although.
+
+3355 Davila Islands, Austinview, LA 48164
+cleaned_text: danielle peterson - cv system our human woman continue. also check learn sea middle interview. away speech reach important. character money soon may. tax everything explain black difference use. future decide job else six receive. off computer walk american place father. dog option consider. speech general agency although. 3355 davila islands, austinview, la 48164
+mobile_number: (527)579-5376x00439
+email: csullivan@bradshaw.com
+skills: ['PHP', 'HTML', 'Java', 'CSS']
+skills_text: PHP HTML Java CSS
+Category: HR

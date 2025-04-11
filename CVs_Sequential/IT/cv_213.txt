@@ -1,0 +1,166 @@
+=== CV 213 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PowerPoint Presentation
+
+
+MOHAMED AZIZI
+Technicien supérieur en génie électrique
+
+Mohamed.azizi@esprit.tn (216) 21950548
+
+Dar Chaabane (8011), Nabeul-Tunisie
+
+FORMATION
+
+Licence appliqué en génie électrique
+
+ISETN : Institut Supérieur des Etudes Technologiques de Nabeul
+
+2014 - 2017 Nabeul, Tunisie
+
+EXPERIENCES PROFESSIONNELLES
+
+Stage de fin d’étude
+Laboratoires Médis
+
+▪ Etude et réalisation d'un variateur de vitesse pour un moteur 
+asynchrone triphasé 
+
+PROJETS ACADÉMIQUES
+
+Conception d’un outil d’optimisation des 
+
+schémas de distribution :
+▪ Développement sur VBA/Excel d’un outil d’aide 
+
+à la décision permettant aux entreprises de 
+choisir entre plusieurs configurations de 
+distribution.
+
+-------------------------------------------------------
+
+Conception et réalisation d'un robot 
+cartésien:
+▪ Réalisation d’un prototype d’une machine a 
+
+commande numérique.
+
+Janvier2016 
+
+COMPÉTANCES
+
+C 
+SQL 
+VBA Excel
+Python
+Matlab 
+Solidworks
+TIA Portal
+
+LANGUES
+
+• Anglais : Courant
+• Français : C1
+• Arabe : Langue maternelle
+
+▪ Obtention de la licence appliquée en génie électrique avec une 
+spécialité en informatique industriel
+
+Stage Technicien
+Honeywell- Tunisie
+
+▪ Réalisation d’une étude des modes de défaillance d’une machine de 
+soudage à ultrasons par la technique AMDEC
+
+Fevrier2017 - Juin2017
+
+Etude des conditions de vie dans les pays du 
+monde :
+▪ Utiliser la méthode de l’Analyse en 
+
+Composantes Principales:  l'ACP pour observer 
+le comportement des certaines zones du 
+monde par rapport à divers indicateurs macro-
+économiques comme l'indice de 
+développement humain.
+
+-------------------------------------------------------
+
+Gestion de projet Lean management
+
+Planification et Ordonnencement
+
+Système d’information
+
+Management de la qualité
+
+INFORMATIQUE
+VIE ASSOCIATIVE
+
+▪ Membre du club Mécatronix ISETN.
+▪ Membre du club Robotique ISETN.
+▪ Participation à des compagne de charité organisées par des association 
+
+caritatives locales et nationale.
+
+Instructeur
+GOMYCODE
+
+▪ Instruire le programme de la formation du Fullstack JS
+▪ Organiser des wokshops (live coding sessions)
+▪ Débogage des projets (apps) des étudiants
+
+
+
+cleaned_text: powerpoint presentation mohamed azizi technicien superieur genie electrique mohamed azizi esprit tn 216 21950548 dar chaabane 8011 nabeul tunisie formation licence applique genie electrique isetn institut superieur etudes technologiques nabeul 2014 2017 nabeul tunisie experiences professionnelles stage fin etude laboratoires medis etude realisation variateur vitesse moteur asynchrone triphase projets academiques conception outil optimisation schemas distribution developpement vba excel outil aide decision permettant entreprises choisir entre plusieurs configurations distribution conception realisation robot cartesien realisation prototype machine commande numerique janvier2016 competances sql vba excel python matlab solidworks tia portal langues anglais courant francais c1 arabe langue maternelle obtention licence appliquee genie electrique specialite informatique industriel stage technicien honeywell tunisie realisation etude modes defaillance machine soudage ultrasons technique amdec fevrier2017 juin2017 etude conditions vie pays monde utiliser methode analyse composantes principales acp observer comportement certaines zones monde rapport divers indicateurs macro economiques comme indice developpement humain gestion projet lean management planification ordonnencement systeme information management qualite informatique vie associative membre club mecatronix isetn membre club robotique isetn participation compagne charite organisees association caritatives locales nationale instructeur gomycode instruire programme formation fullstack js organiser wokshops live coding sessions debogage projets apps etudiants
+mobile_number: 2195054
+email: Mohamed.azizi@esprit.tn
+skills: ['Excel', 'Js', 'Matlab', 'Distribution', 'Sql', 'Python', 'Prototype', 'C', 'Lean', 'Solidworks', 'Coding', 'Robot']
+skills_text: Excel Js Matlab Distribution Sql Python Prototype C Lean Solidworks Coding Robot
+Category: IT

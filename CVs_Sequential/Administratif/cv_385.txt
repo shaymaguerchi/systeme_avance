@@ -1,0 +1,151 @@
+=== CV 385 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cv 30-08-2020 COREGE
+
+
+EDUCATION
+
+2017 - 2019
+Ecole de Formation des Cadres ( E.F.C ) / tunis 
+( B.T.S ) brevet de technicien supérieur  
+Comptabilité et �nance
+2015 - 2017
+Ecole de Formation des Cadres (E.F.C) / tunis 
+( B.T.B ) brevet de technicien professionnel
+Comptable d'entreprise
+
+2014 - 2015 
+niveau baccalauréat /  lycèe abou kacem chabbi 
+section lettres
+
+BNA : BANQUE NATIONALE AGRICOLE EN TUNISIE 
+            POSTE GUICHET  ( JUILLET  / AOÛT )  2017
+
+CABINET FISCOMPTA  SASSI MABROUK TUNIS 
+             ASSISTANT COMPTABLE  ( DÉCEMBRE  2016 )
+
+UIB : UNION INTERNATIONALE DE BANQUES
+              POSTE GUICHET  ( JUILLET  / AOÛT )  2016 )
+
+FORMATIONS
+
+LANGUES
+
+Arabe
+
+Français
+
+Anglais
+
+COMPÉTENCES
+
+photoshop
+
+illustrateur
+
+excel / word /
+ powerpoint
+
+sage 100 
+
+ACTIVITÉS
+
+CONTACT
+
+07 196 314
+
+bassemlabidi96@gmail.com
+
+tunis, ben arous, morneg n°29
+
++216 55 165 351
+
+Bassem Labidi
+27 ans 
+cèlibataire 
+
+ 
+
+ 
+
+italien
+
+EXPERIENCE 
+
+21-10-2017       
+El space we build communities / tunis 
+el basic les technique de vente 
+
+26-05-2017
+Re training cabinet de formation / tunis
+communication 
+
+
+
+cleaned_text: cv 30 08 2020 corege education 2017 2019 ecole formation cadres e f tunis b brevet technicien superieur comptabilite nance 2015 2017 ecole formation cadres e f tunis b b brevet technicien professionnel comptable entreprise 2014 2015 niveau baccalaureat lycee abou kacem chabbi section lettres bna banque nationale agricole tunisie poste guichet juillet aout 2017 cabinet fiscompta sassi mabrouk tunis assistant comptable decembre 2016 uib union internationale banques poste guichet juillet aout 2016 formations langues arabe francais anglais competences photoshop illustrateur excel word powerpoint sage 100 activites contact 07 196 314 bassemlabidi96 gmail com tunis ben arous morneg ndeg29 216 55 165 351 bassem labidi 27 ans celibataire italien experience 21 10 2017 el space build communities tunis el basic technique vente 26 05 2017 training cabinet formation tunis communication
+mobile_number: 0
+email: bassemlabidi96@gmail.com
+skills: ['Excel', 'Communication', 'Powerpoint', 'Finance', 'Word', 'Photoshop', 'Training']
+skills_text: Excel Communication Powerpoint Finance Word Photoshop Training
+Category: Administratif

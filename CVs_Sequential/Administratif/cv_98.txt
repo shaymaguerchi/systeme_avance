@@ -1,0 +1,116 @@
+=== CV 98 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	otail jaouabi
+17-09-1997
+9 rue 11050 ibn  sina Tunis
++21621061499
+jaouabi017@gmail.com
+
+	
+
+
+
+	EXPÉRIENCE PROFESSIONNELLE
+
+
+
+	    2017 – 2018
+
+    2018 - 2020  
+	Agent administratif a ste tda services (saisie informatique, réception téléphonique et traitement des commandes)
+
+Prise des RDV assurance maladie Suisse  “ZOOM CALL CENTER “
+Vente des annonces payantes en france "voitures"
+
+
+
+
+	DIPLÔME & ÉTUDE
+
+
+
+	    Sept 2015 - 2016
+	bachelier depuis 2016 (bac Economie) 
+
+
+
+
+	LANGUES ET INFORMATIQUES
+
+
+
+	    LANGUES
+	un bon français orale et Ecrit
+
+
+	    INFORMATIQUE
+	CRM , Microsoft Excel, Microsoft Word et Ciel Compta
+
+
+
+
+	OBJECTIF
+
+
+
+	   développer et enrichir mes compétences, avoir un emploi stable et un salaire motivant
+
+
+
+
+
+cleaned_text: otail jaouabi 17 09 1997 9 rue 11050 ibn sina tunis 21621061499 jaouabi017 gmail com experience professionnelle 2017 2018 2018 2020 agent administratif ste tda services saisie informatique reception telephonique traitement commandes prise rdv assurance maladie suisse zoom call center vente annonces payantes france voitures diplome etude sept 2015 2016 bachelier depuis 2016 bac economie langues informatiques langues bon francais orale ecrit informatique crm microsoft excel microsoft word ciel compta objectif developper enrichir competences avoir emploi stable salaire motivant
+mobile_number: 2162106149
+email: jaouabi017@gmail.com
+skills: ['Excel', 'Crm', 'Word']
+skills_text: Excel Crm Word
+Category: Administratif

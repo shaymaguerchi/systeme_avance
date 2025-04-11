@@ -1,0 +1,166 @@
+=== CV 306 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Marwa Mansour 
+Etudiante en électrique automatique 
+
+marwa.mansour@ieee.org 
+
++21696912508 
+
+linkedin.com/in/mansourmarwa 
+
+Je suis actuellement dans ma troisième année d'ingénierie électrique et automatique à la recherche d'un stage PFE, je suis motivée et
+curieuse, j'apprends vite et je cherche des connaissances. j'ai pour objectif de faire partie de la création d'un monde meilleur et durable
+en créant des solutions innovantes aux problèmes quotidiens. 
+
+FORMATION 
+
+Cycle ingénieur spécialité électrique et
+automatique 
+Ecole Nationale des ingénieurs de Gabes ENIG 
+
+Cycle Préparatoire Math-Physique 
+Institut Sup des sciences Appliquées et
+Technologies de Gabes(ISSAT) 2017-2019 
+2017 - 2019,  
+
+Baccalauréat Mathématique 
+Lycée Abouloubeba 2016-2017 
+2016 - 2017,  
+
+EXPÉRIENCE 
+
+Stage Ouvrier 
+Société tunisienne d'électricité et de gaz
+STEG 
+08/2020,  
+
+Connaissance du fonctionnement d'une turbine à
+combustion et les phases de génération d'électricité. 
+
+EXPÉRIENCE ASSOCIATIVE 
+
+Présidente (2020 - 2021) 
+IEEE ENIG Student Branch 
+
+Secrétaire Générale (03/2021) 
+Secrétaire générale du congrès TSYP"IEEE Tunisian Student and Young
+Professionals" 
+
+Bénévole (03/2020) 
+Construction des masques contre la virus au sein de l'Ecole nationale des
+ingénieurs de Gabes 
+
+Membre d'organisation (02/2021) 
+Membre d'organisation de l'événement virtuelle nationale Tun'AI "the
+technologie of modern Era 
+
+Membre d'organisation (05/2021) 
+Membre d'organisation de l'événement nationale Tun'IM "Tunisia
+Innovation Meeting"édition 1-(2019 ) et 2- (2021) 
+
+Membre de CROS 
+Club Robotique d'Oasis de Science à l'école Nationale des Ingénieurs de
+Gabes 
+
+COMPÉTENSES 
+
+C++ Python C VHDL Arduino 
+
+Raspberry PI Matlab Proteus ISIS Labview 
+
+Simulink Cheddar LADDER Fuzzy logic 
+
+Adaptabilité Gestion du stress 
+
+Gestion d'équipe Capacité d'écoute 
+
+Esprit de synthèse 
+
+PROJETS 
+
+Alarme de détection de mouvement avec une
+horloge en temps réel activée par un lecteur RFID.
+ (06/2021) 
+
+Alarme de détection de mouvement qui sert à informer
+l'utilisateur de la présence d’un mouvement quelconque autour
+de son local, passer par l'étape suivantes: Etude, conception,
+simulation et création Logiciels utilisés: Fritzing Arduino IDE 
+
+Carte électronique 
+Réalisation d'une carte électronique à l'atelier avec Proteus
+ISIS& ARES 
+
+Robot Autonome et pilotable à distance 
+Réalisation d'un robot avec deux modes de fonctionnement
+avec Arduino, Proteus ISIS et Ares 
+
+Mini Projet: Speech Emotion Recognition 
+un programme pour la reconnaissance émotionnelle de la parole
+: Python , Librosa 
+
+LANGUES 
+
+Arabe 
+Langue maternelle 
+
+Anglais 
+Courant 
+
+Français 
+Courant 
+
+Allemand 
+Débutant 
+
+INTÉRÊTS 
+
+Musique Sport Ecriture 
+
+Tâches: 
+
+mailto:marwa.mansour@ieee.org
+https://www.linkedin.com/in/mansourmarwa
+
+
+cleaned_text: marwa mansour etudiante electrique automatique marwa mansour ieee org 21696912508 linkedin com mansourmarwa actuellement troisieme annee ingenierie electrique automatique recherche stage pfe motivee curieuse apprends vite cherche connaissances objectif faire partie creation monde meilleur durable creant solutions innovantes problemes quotidiens formation cycle ingenieur specialite electrique automatique ecole nationale ingenieurs gabes enig cycle preparatoire math physique institut sup sciences appliquees technologies gabes issat 2017 2019 2017 2019 baccalaureat mathematique lycee abouloubeba 2016 2017 2016 2017 experience stage ouvrier societe tunisienne electricite gaz steg 08 2020 connaissance fonctionnement turbine combustion phases generation electricite experience associative presidente 2020 2021 ieee enig student branch secretaire generale 03 2021 secretaire generale congres tsyp ieee tunisian student young professionals benevole 03 2020 construction masques contre virus sein ecole nationale ingenieurs gabes membre organisation 02 2021 membre organisation evenement virtuelle nationale tun technologie modern era membre organisation 05 2021 membre organisation evenement nationale tun im tunisia innovation meeting edition 1 2019 2 2021 membre cros club robotique oasis science ecole nationale ingenieurs gabes competenses python vhdl arduino raspberry pi matlab proteus isis labview simulink cheddar ladder fuzzy logic adaptabilite gestion stress gestion equipe capacite ecoute esprit synthese projets alarme detection mouvement horloge temps reel activee lecteur rfid 06 2021 alarme detection mouvement sert informer utilisateur presence mouvement quelconque autour local passer etape suivantes etude conception simulation creation logiciels utilises fritzing arduino ide carte electronique realisation carte electronique atelier proteus isis ares robot autonome pilotable distance realisation robot deux modes fonctionnement arduino proteus isis ares mini projet speech emotion recognition programme reconnaissance emotionnelle parole python librosa langues arabe langue maternelle anglais courant francais courant allemand debutant interets musique sport ecriture taches mailto marwa mansour ieee org https www linkedin com mansourmarwa
+mobile_number: 2169691250
+email: marwa.mansour@ieee.org
+skills: ['Matlab', 'Python', 'C', 'C++', 'Construction', 'Robot', 'Math']
+skills_text: Matlab Python C C++ Construction Robot Math
+Category: IT

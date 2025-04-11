@@ -1,0 +1,12 @@
+=== CV 1471 ===
+text: Amy Hanson - CV
+
+May show woman rest doctor ago time. Social stock thought over front. Evening less half sell author. Partner read one I eat minute. Teacher suffer here blood each. Investment response gun policy rich.
+
+9904 Shelton Well, Brendafort, WV 84577
+cleaned_text: amy hanson - cv may show woman rest doctor ago time. social stock thought over front. evening less half sell author. partner read one i eat minute. teacher suffer here blood each. investment response gun policy rich. 9904 shelton well, brendafort, wv 84577
+mobile_number: +1-919-519-6614x2923
+email: marshallpatricia@ray.com
+skills: ['PHP', 'C++', 'Java', 'Python', 'SQL']
+skills_text: PHP C++ Java Python SQL
+Category: HR

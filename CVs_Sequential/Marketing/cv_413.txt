@@ -1,0 +1,8 @@
+=== CV 413 ===
+text: Fatima Boussaid
+cleaned_text: fatima boussaid cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 35495739
+email: fatima.boussaid@example.com
+skills: ['SQL', 'Java', 'C++']
+skills_text: SQL Java C++
+Category: Marketing

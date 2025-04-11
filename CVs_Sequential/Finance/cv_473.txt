@@ -1,0 +1,8 @@
+=== CV 473 ===
+text: Nadia Ben Ali
+cleaned_text: nadia ben ali cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 58046613
+email: nadia.ben ali@example.com
+skills: ['Finance', 'Windows', 'CSS', 'Adobe', 'Python']
+skills_text: Finance Windows CSS Adobe Python
+Category: Finance

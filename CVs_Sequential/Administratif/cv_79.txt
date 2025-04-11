@@ -1,0 +1,135 @@
+=== CV 79 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+09  
+
+02/2021- 03/2021    Call center AAVAZ > Emission d’appel 
+
+ 
+
+02/ 2020– 06/ 2020 › SOCIETE Tunisienne des Industries de Raffinage › STAGIAIRE  
+
+  
+
+10/ 2014 – 12/ 2014 › SOCIETE Commerciale de Banque › STAGIAIRE  
+
+>   
+
+ 
+
+2017– 2020 › INGENIEUR PETROCHIMISTE › POLYTECH CENTRALE DE TUNIS   
+
+> génie Pétrochimique  
+
+  
+
+2016– 2017 › BIOLOGIE-GEOLOGIE ANNEE 2 › POLYTECH CENTRALE DE TUNIS   
+
+> CYCLE PREPARATOIRE EN BIOLOGIE-GEOLOGIE  
+
+  
+
+2015– 2014 › BIOLOGIE-GEOLOGIE ANNEE 1 › POLYTECH CENTRALE  
+
+> CYCLE PREPARATOIRE EN BIOLOGIE-GEOLOGIE 
+
+  
+
+2013-– 2014 › BACCALAUREAT SERIE D › LYCEE DES RAPIDES  
+
+> SCIENCES EXPERIMENTALES  
+
+ 
+
+  
+
+   
+
+FRANÇAIS    ASSOCIATION › ENACTUS, AESCAT   
+
+INFORMATIQUE ›  
+
+Word, Excel, Internet, Access, PowerPoint  
+SPORT › BASKETBALL 
+
+ 
+
+F ormation   
+
+Compétences   Centres d’intérêt   
+
+  
+
+  
+     
+
+  
+
+E xpériences professionnelleS   
+
+SADDAM MAMADOU   
+
+44 ,  Avenue Farhat Hached Kram  
+Ouest   
+Tél.  ›   +216 53843670        
+
+Email ›   sadmamadou14@gmail.com   
+
+Né le 14/05/1995   ›   25   ans   
+
+  
+
+
+
+cleaned_text: 09 02 2021 03 2021 call center aavaz emission appel 02 2020 06 2020 societe tunisienne industries raffinage stagiaire 10 2014 12 2014 societe commerciale banque stagiaire 2017 2020 ingenieur petrochimiste polytech centrale tunis genie petrochimique 2016 2017 biologie geologie annee 2 polytech centrale tunis cycle preparatoire biologie geologie 2015 2014 biologie geologie annee 1 polytech centrale cycle preparatoire biologie geologie 2013 2014 baccalaureat serie lycee rapides sciences experimentales francais association enactus aescat informatique word excel internet access powerpoint sport basketball f ormation competences centres interet e xperiences professionnelles saddam mamadou 44 avenue farhat hached kram ouest tel 216 53843670 email sadmamadou14 gmail com 14 05 1995 25 ans
+mobile_number: 216 5384367
+email: sadmamadou14@gmail.com
+skills: ['Excel', 'Email', 'Powerpoint', 'Access', 'Word']
+skills_text: Excel Email Powerpoint Access Word
+Category: Administratif

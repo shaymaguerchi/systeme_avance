@@ -1,0 +1,12 @@
+=== CV 1393 ===
+text: James Garrison - CV
+
+Type century them discussion instead. Court even collection whose rise. Drive school give top. Responsibility current cell huge. Cause Mrs those. Southern language hold middle take individual that. But matter see produce my always western. Toward that well relate senior thousand couple. Concern hospital century in news.
+
+270 Vickie Brooks, Port Erin, HI 29185
+cleaned_text: james garrison - cv type century them discussion instead. court even collection whose rise. drive school give top. responsibility current cell huge. cause mrs those. southern language hold middle take individual that. but matter see produce my always western. toward that well relate senior thousand couple. concern hospital century in news. 270 vickie brooks, port erin, hi 29185
+mobile_number: 001-229-839-2851x00974
+email: robert16@calhoun.net
+skills: ['SQL', 'HTML', 'PHP', 'Talend', 'Power BI', 'Python']
+skills_text: SQL HTML PHP Talend Power BI Python
+Category: HR

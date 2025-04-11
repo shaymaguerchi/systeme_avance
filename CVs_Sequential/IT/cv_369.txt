@@ -1,0 +1,189 @@
+=== CV 369 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+Ahmed Abassi
+ICT Engineering
+
+A hard working student and a reliable person who will persevere to complete any given
+task
+
+Education
+
+ICT Engineering Student / Higher school of communication (SUP'COM) Ariana,Tunisia
+
+Since 2019
+
+Programming (C, C++, Python, JAVA).
+IoT Solution Architecture & Components, IoT Device Connectivity, IoT Device
+Power-efficient design, IoT Device smart sensors, IoT Device digital processing
+Linux and Network Administration(Windows Server 2018), Databases (SQL,
+NoSQL), UML.
+
+Preparatory Cycles To Engineering Studies Degree / Preparatory institute of Engineering
+Studies Manar
+
+From 2017 to 2019
+
+Ranked 49/2000 
+
+2 years of intensive courses including Chemistry, Maths, Physics,Programming
+
+High school Diploma / El wafa High school Tunis
+
+From 2013 to 2017
+
+Math section
+
+Projets
+
+Tak Tech : 
+This project revolves around using smart sensors, IoT, and communication protocols
+effectively to facilitate the parking experience.
+- Keywords: Massive IoT, MQTT protocol, Amazon Web Services
+
+SQL project : 
+Creation of a database that manages the agenda of Sup'Com professors and
+departments.
+- Keywords: ORACLE, SQLPLUS
+
+Mekelti :
+Development of an android application to aid the user in finding recipes with the
+available ingredients at the time.
+- Keywords: Android Studio IDE, JAVA, Algolia search API
+
+Machine Learning Project : 
+Writing an algorithm to classify flowers into 3 classes by implementing BGD, early
+stopping, and softmax regression all from scratch.
+- Keywords: Google Colab, Hands-On Machine Learning by Aurélien Géron
+
+Work experience
+
+Entrepreneur / Student Entrepreneur Center of Carthage (PEEC) Carthage
+
+Since 2021
+
+Status: Initiator for my project Tak Tech.
+
+Mobile Development Internship / Smart Tunisian Technoparks Ariana,Tunisia
+
+2020
+
+Development of an application with Android Studio and Firebase to provide a one-
+time password proving the physical presence of employees.
+
+Computer skills
+
+Pandas, TensorFlow, Scikit-
+learn, Matplotlib
+
+C, C++, JAVA, Python
+
+Octave, Matlab
+
+Android Studio, Google
+Firebase, Algolia, Oracle
+
+Adobe Premiere Pro, Adobe
+Photoshop
+
+Extracurricular Activities
+
+Sup'Com Junior Enterprise :
+Graphics Designer and Ex-
+member of the communication
+pole
+
+ACM Sup'Com :
+Participant in local coding
+competitions
+
+Languages
+
+Arabic Native speaker
+
+English Full Professional.
+ APTIS : B2
+ TOEIC : 965/990 score
+
+French Working Professional
+
+German Elementary
+
+Interests
+
+Machine Learning
+
+Competitive programming
+
+Self-learning
+
+Sports
+
+ahmed.abassi@supcom.tn
+
+Technopark el gazella 
+BP 132 Ariana,Tunisia 2088
+
+
+
+Date of birth 11/02/1999
+
+Tunisian
+
++21699110299
+
+@abassi-ahmed-
+5687a9198
+
+
+
+mailto:ahmed.abassi@supcom.tn
+https://www.linkedin.com/in/abassi-ahmed-5687a9198
+
+
+cleaned_text: ahmed abassi ict engineering hard working student reliable person persevere complete given task education ict engineering student higher school communication sup com ariana tunisia since 2019 programming python java iot solution architecture components iot device connectivity iot device power efficient design iot device smart sensors iot device digital processing linux network administration windows server 2018 databases sql nosql uml preparatory cycles engineering studies degree preparatory institute engineering studies manar 2017 2019 ranked 49 2000 2 years intensive courses including chemistry maths physics programming high school diploma el wafa high school tunis 2013 2017 math section projets tak tech project revolves around using smart sensors iot communication protocols effectively facilitate parking experience keywords massive iot mqtt protocol amazon web services sql project creation database manages agenda sup com professors departments keywords oracle sqlplus mekelti development android application aid user finding recipes available ingredients time keywords android studio ide java algolia search api machine learning project writing algorithm classify flowers 3 classes implementing bgd early stopping softmax regression scratch keywords google colab hands machine learning aurelien geron work experience entrepreneur student entrepreneur center carthage peec carthage since 2021 status initiator project tak tech mobile development internship smart tunisian technoparks ariana tunisia 2020 development application android studio firebase provide one time password proving physical presence employees computer skills pandas tensorflow scikit learn matplotlib java python octave matlab android studio google firebase algolia oracle adobe premiere pro adobe photoshop extracurricular activities sup com junior enterprise graphics designer ex member communication pole acm sup com participant local coding competitions languages arabic native speaker english full professional aptis b2 toeic 965 990 score french working professional german elementary interests machine learning competitive programming self learning sports ahmed abassi supcom tn technopark el gazella bp 132 ariana tunisia 2088 date birth 11 02 1999 tunisian 21699110299 abassi ahmed 5687a9198 mailto ahmed abassi supcom tn https www linkedin com abassi ahmed 5687a9198
+mobile_number: 2169911029
+email: ahmed.abassi@supcom.tn
+skills: ['Tensorflow', 'Android', 'Mobile', 'English', 'Physics', 'Matplotlib', 'Oracle', 'C++', 'Communication', 'Matlab', 'Sql', 'Database', 'Nosql', 'Adobe', 'French', 'Engineering', 'German', 'Api', 'Pandas', 'Python', 'Linux', 'Photoshop', 'Sports', 'Coding', 'Math', 'Protocols', 'Architecture', 'Programming', 'Chemistry', 'Writing', 'Octave', 'C', 'Java', 'Design']
+skills_text: Tensorflow Android Mobile English Physics Matplotlib Oracle C++ Communication Matlab Sql Database Nosql Adobe French Engineering German Api Pandas Python Linux Photoshop Sports Coding Math Protocols Architecture Programming Chemistry Writing Octave C Java Design
+Category: IT

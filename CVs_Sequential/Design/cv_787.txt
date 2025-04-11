@@ -1,0 +1,8 @@
+=== CV 787 ===
+text: Karim Ben Ali
+cleaned_text: karim ben ali cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 99580242
+email: karim.ben ali@example.com
+skills: ['Marketing', 'C++', 'CSS', 'Finance', 'Adobe']
+skills_text: Marketing C++ CSS Finance Adobe
+Category: Design

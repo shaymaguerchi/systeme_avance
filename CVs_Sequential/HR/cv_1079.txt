@@ -1,0 +1,12 @@
+=== CV 1079 ===
+text: Joseph Johnson - CV
+
+Rate window simple soldier. Treat yet western thousand good. Customer know will family quite magazine. Window scene the care. Modern so trial. Structure recent woman opportunity color you book fall.
+
+PSC 8259, Box 2560, APO AE 54397
+cleaned_text: joseph johnson - cv rate window simple soldier. treat yet western thousand good. customer know will family quite magazine. window scene the care. modern so trial. structure recent woman opportunity color you book fall. psc 8259, box 2560, apo ae 54397
+mobile_number: (845)107-3578x52761
+email: gwashington@parker-nelson.com
+skills: ['Power BI', 'CSS', 'C++', 'Talend']
+skills_text: Power BI CSS C++ Talend
+Category: HR

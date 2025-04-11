@@ -1,0 +1,12 @@
+=== CV 913 ===
+text: Theresa Mays - CV
+
+Tax rock few structure. Increase between training listen subject. Buy break marriage also friend reach. Turn phone heart window. Assume be seek article. Better news face. Small research describe base detail yourself one. Issue grow ask tell. Total later quality.
+
+42294 Foster Plaza, West Danny, IA 06826
+cleaned_text: theresa mays - cv tax rock few structure. increase between training listen subject. buy break marriage also friend reach. turn phone heart window. assume be seek article. better news face. small research describe base detail yourself one. issue grow ask tell. total later quality. 42294 foster plaza, west danny, ia 06826
+mobile_number: 001-402-245-5515
+email: djoseph@graham.biz
+skills: ['Power BI', 'Java', 'CSS', 'SQL', 'C++', 'HTML']
+skills_text: Power BI Java CSS SQL C++ HTML
+Category: Finance

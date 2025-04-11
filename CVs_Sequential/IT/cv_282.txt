@@ -1,0 +1,237 @@
+=== CV 282 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stage ouvrier – Attijeri Bank - Département Informatique -Tunis                                                                                         
+
+Assister à des réunions internes, visiter les différents services, découvrir les 
+
+aspects techniques et environnementaux de l’entreprise. 
+
+Création d’une application VBA.  
+
+Outils développement : Excel. 
+
+Langage de programmation : Visual Basic for Application (VBA). 
+
+Projets académiques 
+
+Janvier 2021 
+
+- 
+
+   Juin 2021 
+
+Projet Business Intelligence en Partenariat avec TALYS ESPRIT - 
+
+Tunis                                   
+
+Création d'une solution BI qui permet la gestion des projets des entreprises en 
+
+assurant la bonne planification de chaque projet. 
+
+ETL : MySQL, PostgreSQL, Talend. 
+
+Dashboard : Power BI.  
+
+Datamining : Google Colab, Python. 
+
+Développement : Framework Flask, Python, HTML, CSS. 
+
+ 
+
+ 
+
+ 
+
+Projet d'Intégration en développement – ESPRIT - Tunis 
+
+Conception et développement d'une application multi-plateforme ( web - 
+
+mobile desktop ) qui permet la gestion de covoiturage .  
+
+Web : Symfony, Php, HTML, CSS, JS.  
+
+Desktop : NetBeans, Java, Java Fx 
+
+Mobile : CodeNameOne,Java,Php  
+
+ 
+
+Expériences professionnelles   
+
+Stage ingénieur – Tunisie Telecom - Tunis                                    
+
+Mise en place d’un système Business intelligence qui permet la gestion des 
+
+réclamations. 
+
+Création des Tableaux de bords afin d’aider les responsables à mieux traiter les 
+
+réclamations.  
+
+ETL : Fichier Excel, Sql Server Managment Studio (SSMS) , Talend. 
+
+Dashboard : QlickView. 
+
+ . 
+
+Compétences techniques  
+
+Business Intelligence 
+
+-Talend, PowerBi ,QlickView  
+
+Base de données  
+
+-Oracle, MySql,SSMS , PostgreSql 
+
+ 
+
+Data Marketing 
+
+Élève ingénieur en Informatique spécialité Business Intelligence à 
+
+ESPRIT. A la recherche d’un stage de fin d’étude. 
+
+Programmation 
+|Java, Python, PHP, C, C++, C#,R 
+
+Education   
+
+Compétences personnelles   
+
+Ecole Supérieure Privée d'Ingénierie et de Technologies – ESPRIT 
+
+Tunis                                                                                           
+Élève ingénieur en informatique spécialité Business Intelligence. 
+
+Lycée Mohamed Dachraoui -Tunis                   
+Baccalauréat Mathématiques. 
+
+2017-2022 
+
+Juillet 2021 
+- 
+
+Août   2021 
+
+Juin 2019 
+
+Marrakchi Maha 
+
+Contact 
+2016-2017 
+
+Langues 
+
+Centres d’intérêt  
+
+Datamining 
+
+-RStudio, GoogleColab 
+
+ 
+
+maha.marrakchi@esprit.tn 
+
+Résidence Panoramique Jardin 
+
+d’el Menzeh 1, Ariana Tunisie 
+
+ +216 95 964 761 
+
+maha-marrakchi-63b046172 
+
+Arabe : langue maternelle 
+
+Français : avancé (B2) 
+
+Anglais : avancé (B2) 
+
+Gestion du temps 
+
+Créativité 
+
+Travail en équipe 
+
+Communication 
+
+Cuisine 
+
+Musique 
+
+Films et séries 
+
+Janvier 2020 
+- 
+
+   Juin 2020 
+
+mailto:maha.marrakchi@esprit.tn
+https://www.linkedin.com/in/maha-marrakchi-63b046172/
+
+
+cleaned_text: stage ouvrier attijeri bank departement informatique tunis assister reunions internes visiter differents services decouvrir aspects techniques environnementaux entreprise creation application vba outils developpement excel langage programmation visual basic application vba projets academiques janvier 2021 juin 2021 projet business intelligence partenariat talys esprit tunis creation solution bi permet gestion projets entreprises assurant bonne planification chaque projet etl mysql postgresql talend dashboard power bi datamining google colab python developpement framework flask python html css projet integration developpement esprit tunis conception developpement application multi plateforme web mobile desktop permet gestion covoiturage web symfony php html css js desktop netbeans java java fx mobile codenameone java php experiences professionnelles stage ingenieur tunisie telecom tunis mise place systeme business intelligence permet gestion reclamations creation tableaux bords afin aider responsables mieux traiter reclamations etl fichier excel sql server managment studio ssms talend dashboard qlickview competences techniques business intelligence talend powerbi qlickview base donnees oracle mysql ssms postgresql data marketing eleve ingenieur informatique specialite business intelligence esprit recherche stage fin etude programmation java python php r education competences personnelles ecole superieure privee ingenierie technologies esprit tunis eleve ingenieur informatique specialite business intelligence lycee mohamed dachraoui tunis baccalaureat mathematiques 2017 2022 juillet 2021 aout 2021 juin 2019 marrakchi maha contact 2016 2017 langues centres interet datamining rstudio googlecolab maha marrakchi esprit tn residence panoramique jardin el menzeh 1 ariana tunisie 216 95 964 761 maha marrakchi 63b046172 arabe langue maternelle francais avance b2 anglais avance b2 gestion temps creativite travail equipe communication cuisine musique films series janvier 2020 juin 2020 mailto maha marrakchi esprit tn https www linkedin com maha marrakchi 63b046172
+mobile_number: 017-2022
+email: maha.marrakchi@esprit.tn
+skills: ['Php', 'Excel', 'Html', 'Mysql', 'Mobile', 'Telecom', 'Marketing', 'C++', 'Communication', 'Etl', 'Sql', 'Css', 'Business intelligence', 'Visual', 'Python', 'Postgresql', 'Cuisine', 'Js', 'C', 'Java', 'Flask']
+skills_text: Php Excel Html Mysql Mobile Telecom Marketing C++ Communication Etl Sql Css Business intelligence Visual Python Postgresql Cuisine Js C Java Flask
+Category: IT

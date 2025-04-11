@@ -1,0 +1,222 @@
+=== CV 231 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+ 
+
+ 
+
+gargouri.yosr2018@gmail.com  
+
+I am currently a student engineer in 
+
+my 3rd year at SUPCOM-Tunisia 
+
+pursuing a semester of exchange 
+
+at the Telecom Paris school. 
+
+ 
+
+I am an independent and motivated 
+
+individual with excellent research 
+
+and communication skills, eager to 
+
+learn new things and always doing 
+
+my best. 
+
+ 
+
+Skills 
+
+Yosr Gargouri 
+
+Student Engineer in Telecom 
+
+ Looking for an internship 
+
+ 
+
+Language 
+
+Education 
+
+Experience 
+July - August 2021 : Engineer internship             ENIS 
+
+Sfax, Tunisia 
+
+Subject : Analysis and classification of ECG signals for medical applications 
+
+(human authentication tasks). 
+
+ 
+
+Frameworks & libs : Python, Matlab, Scikit-Learn, SVM, KNN, RF, DT, Git 
+
+ 
+July - August 2020 : Intership                                                               NovelTi  
+
+Sfax, Tunisia 
+
+Subject : Multi technology gateway development (hardware and software) 
+
+ 
+
+Frameworks & libs : Arduino, Python, GNU, GSM/GPRS SIM800L, ESP32 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+Academic project 
+September 2021 - Today :  PRIM project with the company KimiaPay 
+Subject: Machine learning and image recognition for information extraction 
+
+from identity documents. 
+
+Frameworks & libs : Keras, Pytorch, RNN, CNN, OpenCV 
+
+ 
+March 2021 - June 2021 : P2M Project 
+
+Subject : Design of a measuring station for meteorological parameters. 
+
+Frameworks & libs : Arduino, python, MQTT 
+
+ 
+January 2021 – March 2021 :  Mobile app development project (CarPal)  
+
+Subject : Development and design of a mobile application to access carpools. 
+
+Frameworks & libs : Android (Java), Firebase, Git 
+
+ 
+September 2020 - December 2020 : Website (Jobseeker) 
+Subject : Development and design of a job offer platform (front and back-end). 
+
+ Frameworks & libs : Html, CSS, SpringBoot, JS, MySQL 
+ 
+
+Associative life and training 
+Member of the IEEE Robotics Club 
+
+ 
+
+2021 - 2022   ICT Engineering (AI & Data Science)          Palaiseau, France 
+ Telecom Paris 
+
+ 
+
+2019 - 2021   ICT engineering                       Tunis, Tunisia 
+Higher School of Communication (Sup’Com) 
+
+  
+2017 - 2019   Preparatory Classes (Physics Chemistry cycle)     Sfax, Tunisia 
+
+ Preparatory Institute for Engineering Studies 
+  
+
+2017              High school diploma (Sciences)           Sfax, Tunisia 
+ Mongi Slim High School 
+
+ 
+
+Contact 
+
+https://www.linkedin.com/in/yosr-   
+
+gargouri-70653a1ab/ 
+
+English : Fluent (Toeic 815) 
+
+French : Fluent 
+
+Arabic : Native 
+
+Programming languages and Web: 
+
+Python, java, Android, JavaScript, PHP, HTML5, CSS 3, C++, Assembler 
+
+Database management: 
+
+Oracle, MySQL 
+
+Embedded systems: 
+
+STM32Fxx, Arduino, Raspberry PI, VHDL 
+
+Tools and IDE: 
+
+Android Studio, STM32CubeIDE, STM32 ST-LINK Utility, Git, Matlab 
+
+Big Data: 
+
+Hadoop, Cloudera, Docker 
+
+About me 
+
+
+
+cleaned_text: gargouri yosr2018 gmail com currently student engineer 3rd year supcom tunisia pursuing semester exchange telecom paris school independent motivated individual excellent research communication skills eager learn new things always best skills yosr gargouri student engineer telecom looking internship language education experience july august 2021 engineer internship enis sfax tunisia subject analysis classification ecg signals medical applications human authentication tasks frameworks libs python matlab scikit learn svm knn rf dt git july august 2020 intership novelti sfax tunisia subject multi technology gateway development hardware software frameworks libs arduino python gnu gsm gprs sim800l esp32 academic project september 2021 today prim project company kimiapay subject machine learning image recognition information extraction identity documents frameworks libs keras pytorch rnn cnn opencv march 2021 june 2021 p2m project subject design measuring station meteorological parameters frameworks libs arduino python mqtt january 2021 march 2021 mobile app development project carpal subject development design mobile application access carpools frameworks libs android java firebase git september 2020 december 2020 website jobseeker subject development design job offer platform front back end frameworks libs html css springboot js mysql associative life training member ieee robotics club 2021 2022 ict engineering data science palaiseau france telecom paris 2019 2021 ict engineering tunis tunisia higher school communication sup com 2017 2019 preparatory classes physics chemistry cycle sfax tunisia preparatory institute engineering studies 2017 high school diploma sciences sfax tunisia mongi slim high school contact https www linkedin com yosr gargouri 70653a1ab english fluent toeic 815 french fluent arabic native programming languages web python java android javascript php html5 css 3 assembler database management oracle mysql embedded systems stm32fxx arduino raspberry pi vhdl tools ide android studio stm32cubeide stm32 st link utility git matlab big data hadoop cloudera docker
+mobile_number: 0
+email: gargouri.yosr2018@gmail.com
+skills: ['Php', 'Android', 'Mobile', 'Html', 'Physics', 'Mysql', 'English', 'Telecom', 'Access', 'Hadoop', 'Oracle', 'C++', 'Hardware', 'Ai', 'Communication', 'Javascript', 'Matlab', 'Database', 'Css', 'Html5', 'French', 'Engineering', 'Docker', 'Scikit-learn', 'Opencv', 'Python', 'Analysis', 'Java', 'Keras', 'Pytorch', 'Training', 'Website', 'Js', 'Programming', 'Research', 'Chemistry', 'Design']
+skills_text: Php Android Mobile Html Physics Mysql English Telecom Access Hadoop Oracle C++ Hardware Ai Communication Javascript Matlab Database Css Html5 French Engineering Docker Scikit-learn Opencv Python Analysis Java Keras Pytorch Training Website Js Programming Research Chemistry Design
+Category: IT

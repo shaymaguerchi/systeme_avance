@@ -1,0 +1,8 @@
+=== CV 499 ===
+text: Laura Mokhtar
+cleaned_text: laura mokhtar cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 57059542
+email: laura.mokhtar@example.com
+skills: ['Marketing', 'HTML', 'SQL', 'Finance', 'Python', 'CSS']
+skills_text: Marketing HTML SQL Finance Python CSS
+Category: Design

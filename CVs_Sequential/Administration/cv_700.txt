@@ -1,0 +1,8 @@
+=== CV 700 ===
+text: Hugo Lambert
+cleaned_text: hugo lambert cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 39690904
+email: hugo.lambert@example.com
+skills: ['Python', 'Management', 'Linux', 'Marketing', 'Java']
+skills_text: Python Management Linux Marketing Java
+Category: Administration

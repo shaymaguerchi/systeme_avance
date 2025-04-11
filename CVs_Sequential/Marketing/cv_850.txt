@@ -1,0 +1,8 @@
+=== CV 850 ===
+text: Hugo Moreau
+cleaned_text: hugo moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 62532885
+email: hugo.moreau@example.com
+skills: ['SQL', 'Finance', 'Windows']
+skills_text: SQL Finance Windows
+Category: Marketing

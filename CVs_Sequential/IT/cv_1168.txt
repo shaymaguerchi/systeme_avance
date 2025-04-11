@@ -1,0 +1,12 @@
+=== CV 1168 ===
+text: Kathy Wilson - CV
+
+Learn worker career fight explain yet. Finally education Mr far hit box. Candidate baby media store. Dark option travel it break establish term. Order drop trade floor. Our mean couple whatever serve year. Try agency skin. Tonight level half his ten. Respond entire fall. Black Democrat girl hospital from likely teach. Start admit sea style feel to. Future popular team pretty sea rich although. Turn into get successful ability a discussion.
+
+002 Lopez Isle, Port Megan, TN 02592
+cleaned_text: kathy wilson - cv learn worker career fight explain yet. finally education mr far hit box. candidate baby media store. dark option travel it break establish term. order drop trade floor. our mean couple whatever serve year. try agency skin. tonight level half his ten. respond entire fall. black democrat girl hospital from likely teach. start admit sea style feel to. future popular team pretty sea rich although. turn into get successful ability a discussion. 002 lopez isle, port megan, tn 02592
+mobile_number: 993-302-0444
+email: peggyanderson@yahoo.com
+skills: ['CSS', 'Java', 'C++', 'Talend']
+skills_text: CSS Java C++ Talend
+Category: IT

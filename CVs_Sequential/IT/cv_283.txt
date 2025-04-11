@@ -1,0 +1,166 @@
+=== CV 283 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IMEN TLILI
+
+
+IMEN TLILI
+Actuellement étudiante en cycle d'ingénieur en Génie Informatique 
+
+Ambitieuse, sociable, motivée et ouverte à tous partage d'idées et
+d'expériences.
+Je suis à la recherche d'un Projet Fin d'Études pour développer
+constamment mes compétences.
+. 
+
+PARCOURS PROFESSIONEL:
+IT-GATE Sousse,Stage d'été | Septembre-Octobre 2021
+Conception et Réalisation d'une plateforme médicale
+"Appmed" en utilisant Nodejs,Angular,MongoDB.
+
+COMPÉTENCES:
+
+CONTACT:
+
+Caisse nationale de sécurité sociale (CNSS) Tunis, 
+ Stage d'été | Juillet-Août 2021
+
+Mise en place d'un SMSI du processus de paiement
+électronique à la CNSS en utilisant MEHARI et
+quelques notions fondamentales de sécurité.
+
+PROJETS ACADÉMIQUES:
+Conception et Réalisation d'une Application web:
+Gestion des rôles : Angular/Springboot
+
+Conception et Réalisation d'une Application web: E-
+commerce: Laravel
+
+Conception et Réalisation d'une Application Java : 
+       Gestion Vente-Achat: Angular, Springboot, MongoDB
+
+Application mobile: Keep in touch: Android,Firebase
+
+Projet Business Intelligence: Perspective des Ventes :
+Tableaux, Dbschema, MysqlWorkbanch
+
++216 94 529 634
+
+/tliliimen
+
+Ben Arous, Tunisie
+imentlili@ieee.org
+
+VIE ASSOCIATIVE:
+
+LANGUES:
+
+FORMATION:
+
+CENTRES D'INTÉRÊS:
+
+Responsable Sponsor Club
+Radio Polytechnique
+Sousse(2020-2021)
+Membre Club Enactus EPSousse  
+(2020-2021)
+Membre Club Google Student
+EPSousse (2019-2020)
+Membre Microsoft EPSousse
+(2020-2021)
+
+Projet socio-culturel: Système rappel médicaments
+
+École Polytechnique Sousse (Septembre 2019 -Présent):
+
+Faculté des Sciences Monastir  (2016):
+
+Institut Préparatoire aux Études d'Ingénieur Nabeul(2013):
+
+Baccalauréat Mathématique(2010):
+
+       -Génie Informatique
+
+       -Licence Fondamentale Physiques
+
+       -Mathématiques-Physiques
+
+       -Mention :Bien
+
+Arabe (Maternelle)
+
+Français (DELF B2)
+
+ Anglais
+
+Allemand Lecture
+Cinéma
+photographie
+
+Framework et Langages: Python,
+Java, C, JavaScript, Angular,
+Laravel, Android, Hadoop,
+TensorFlow, PowerBi,Tableau
+
+Bases de données:  MySQL,
+Firebase, MongoDB
+
+Projet Power BI / Big Data : 
+
+
+
+cleaned_text: imen tlili imen tlili actuellement etudiante cycle ingenieur genie informatique ambitieuse sociable motivee ouverte tous partage idees experiences recherche projet fin etudes developper constamment competences parcours professionel gate sousse stage ete septembre octobre 2021 conception realisation plateforme medicale appmed utilisant nodejs angular mongodb competences contact caisse nationale securite sociale cnss tunis stage ete juillet aout 2021 mise place smsi processus paiement electronique cnss utilisant mehari quelques notions fondamentales securite projets academiques conception realisation application web gestion roles angular springboot conception realisation application web e commerce laravel conception realisation application java gestion vente achat angular springboot mongodb application mobile keep touch android firebase projet business intelligence perspective ventes tableaux dbschema mysqlworkbanch 216 94 529 634 tliliimen ben arous tunisie imentlili ieee org vie associative langues formation centres interes responsable sponsor club radio polytechnique sousse 2020 2021 membre club enactus epsousse 2020 2021 membre club google student epsousse 2019 2020 membre microsoft epsousse 2020 2021 projet socio culturel systeme rappel medicaments ecole polytechnique sousse septembre 2019 present faculte sciences monastir 2016 institut preparatoire etudes ingenieur nabeul 2013 baccalaureat mathematique 2010 genie informatique licence fondamentale physiques mathematiques physiques mention bien arabe maternelle francais delf b2 anglais allemand lecture cinema photographie framework langages python java javascript angular laravel android hadoop tensorflow powerbi tableau bases donnees mysql firebase mongodb projet power bi big data
+mobile_number: 020-2021
+email: imentlili@ieee.org
+skills: ['Big data', 'Tensorflow', 'Javascript', 'Tableau', 'Android', 'Mobile', 'Mysql', 'Python', 'Hadoop', 'C', 'Java']
+skills_text: Big data Tensorflow Javascript Tableau Android Mobile Mysql Python Hadoop C Java
+Category: IT

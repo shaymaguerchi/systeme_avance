@@ -1,0 +1,12 @@
+=== CV 1356 ===
+text: Jon Ramirez - CV
+
+Mind beyond three you include around. Produce time look animal cold reach. Machine can style return those father. Have away since myself. Add eat boy main. Hot bank traditional little ask sense.
+
+75617 Lowe Square, Thomasbury, WI 31745
+cleaned_text: jon ramirez - cv mind beyond three you include around. produce time look animal cold reach. machine can style return those father. have away since myself. add eat boy main. hot bank traditional little ask sense. 75617 lowe square, thomasbury, wi 31745
+mobile_number: 001-257-475-9676x9116
+email: qjoseph@hotmail.com
+skills: ['CSS', 'Python', 'HTML', 'SQL', 'PHP', 'Talend']
+skills_text: CSS Python HTML SQL PHP Talend
+Category: Finance

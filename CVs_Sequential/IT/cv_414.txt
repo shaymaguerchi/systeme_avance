@@ -1,0 +1,8 @@
+=== CV 414 ===
+text: Fatima Ben Ali
+cleaned_text: fatima ben ali cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 24321786
+email: fatima.ben ali@example.com
+skills: ['C++', 'CSS', 'Finance']
+skills_text: C++ CSS Finance
+Category: IT

@@ -1,0 +1,8 @@
+=== CV 552 ===
+text: Jean Dupont
+cleaned_text: jean dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 51316231
+email: jean.dupont@example.com
+skills: ['Marketing', 'Java', 'SQL', 'C++']
+skills_text: Marketing Java SQL C++
+Category: Marketing

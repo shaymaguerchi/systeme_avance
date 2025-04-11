@@ -1,0 +1,147 @@
+=== CV 328 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AHMED BALTI
+
+A PROPOS DE MOI
+
+Développeur Web/Mobile & Designer Graphique
+
+je suis un étudiant de ISET Rades , un homme serieux , créative et 
+intelligent, j'ai beaucoup de compétences au développement web/
+Mobile et Design Grapique. Je Cherche à une poste de 
+developpeur web / mobile.
+
+Contact
+
+Compétences Expérience
+
+Langues
+
+Education
+
+Certificats
+
+�216 58 273 713
+
+baltii.ahmed@gmail.com
+
+17 Rue Mohamed Salem 
+Sghayer ,2072 ,Tunis
+
+RESPONSABLE COM&MEDIA 
+3 CLUBS À ISET RADES
+
+Sep 2020
+
+STAGIAIRE � RÉPARATION LES LIGNES XDSL
+TUNISIE TELECOM
+
+Oct 2021
+
+FREELANCE GRAPHIC DESIGN
+BEHANCE & SOCIAL MEDIA
+
+NOW
+
+LANGUE FRANÇAIS
+CENTRE DES LANGUES TENDEM
+
+2016�2020
+
+BACCALAURÉAT
+2 MARS 1934 OUARDIA
+
+2019�2020
+
+LICENSE TECHNOLOGIE D'INFORMATIQUE
+INSTITUT SUPÉRIEUR DES ETUDES 
+TECHNOLOGIQUES DE RADES
+
+2020�NOW
+
+COMPÉTITION DEVELOPPEMENT JEU
+Global Game Jam
+
+Jan 2020
+
+Certificat Developpement jeuJan 2020
+
+Certificat Niveau Intermediaire FrançaisMai 2019
+
+Diplome Baccalauréat Jui 2020
+
+Certificat CyberSecurtySep 2020
+
+Certificat Digital MarketingDec 2020
+
+Certificat Graphic Design & Soft SkllsMar 2021
+
+SMART OFFICE �PROJET IOT�
+Applcation Android crée avec android studio
+
+Sep 2020
+
+DEV WEB/MOBILE
+
+DESIGN GRAPHIQUE
+Photoshop
+
+Illustrator
+
+Adobe Xd
+
+Arabic
+
+Français
+
+Anglais
+
+HTML/CSS
+
+JavaScript
+
+C/C��
+
+Angular
+
+Python
+
+PHP
+
+MySql
+
+Java
+
+
+
+cleaned_text: ahmed balti propos developpeur web mobile designer graphique etudiant iset rades homme serieux creative intelligent beaucoup competences developpement web mobile design grapique cherche poste developpeur web mobile contact competences experience langues education certificats 216 58 273 713 baltii ahmed gmail com 17 rue mohamed salem sghayer 2072 tunis responsable com media 3 clubs iset rades sep 2020 stagiaire reparation lignes xdsl tunisie telecom oct 2021 freelance graphic design behance social media langue francais centre langues tendem 20162020 baccalaureat 2 mars 1934 ouardia 20192020 license technologie informatique institut superieur etudes technologiques rades 2020now competition developpement jeu global game jam jan 2020 certificat developpement jeujan 2020 certificat niveau intermediaire francaismai 2019 diplome baccalaureat jui 2020 certificat cybersecurtysep 2020 certificat digital marketingdec 2020 certificat graphic design soft skllsmar 2021 smart office projet iot applcation android cree android studio sep 2020 dev web mobile design graphique photoshop illustrator adobe xd arabic francais anglais html css javascript angular python php mysql java
+mobile_number: 020 2019
+email: baltii.ahmed@gmail.com
+skills: ['Php', 'Javascript', 'Android', 'Mobile', 'Html', 'Mysql', 'Python', 'Css', 'Telecom', 'Marketing', 'Social media', 'C', 'Adobe', 'Photoshop', 'Illustrator', 'Java', 'Design']
+skills_text: Php Javascript Android Mobile Html Mysql Python Css Telecom Marketing Social media C Adobe Photoshop Illustrator Java Design
+Category: IT

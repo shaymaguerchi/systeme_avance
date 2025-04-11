@@ -1,0 +1,8 @@
+=== CV 789 ===
+text: Laura Moreau
+cleaned_text: laura moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 85059520
+email: laura.moreau@example.com
+skills: ['Windows', 'Adobe', 'Python', 'Java', 'Marketing']
+skills_text: Windows Adobe Python Java Marketing
+Category: IT

@@ -1,0 +1,12 @@
+=== CV 1440 ===
+text: Paula Brown - CV
+
+Her machine study series model. Individual consider land born laugh real toward. Ability sort suffer describe standard his. Have institution maintain democratic. Democratic recent kind here hospital population develop. Particular first real paper threat air process.
+
+33334 Guzman Road Suite 348, Johnsonland, MI 36130
+cleaned_text: paula brown - cv her machine study series model. individual consider land born laugh real toward. ability sort suffer describe standard his. have institution maintain democratic. democratic recent kind here hospital population develop. particular first real paper threat air process. 33334 guzman road suite 348, johnsonland, mi 36130
+mobile_number: 001-727-041-8010x40880
+email: abrock@gmail.com
+skills: ['SQL', 'HTML', 'JavaScript', 'Python', 'Java']
+skills_text: SQL HTML JavaScript Python Java
+Category: IT

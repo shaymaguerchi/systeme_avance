@@ -1,0 +1,8 @@
+=== CV 778 ===
+text: Karim Dupont
+cleaned_text: karim dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 74842211
+email: karim.dupont@example.com
+skills: ['Linux', 'Java', 'Marketing', 'HTML']
+skills_text: Linux Java Marketing HTML
+Category: IT

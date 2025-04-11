@@ -1,0 +1,124 @@
+=== CV 129 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+Renseignements Personnels : 
+Nom et Prénom                  :  Jnaoui Jihene 
+
+Date et lieu de naissance :  04/05/1995 à Tunis 
+
+Nationalité                          : Tunisienne 
+
+Etat civil                               : Célibataire 
+
+Adresse                                : 123 Avenue Habib Borguiba 
+
+                                               Borj Amri Manouba 
+
+GSM                                     : 00 216 22 138 512 
+
+E-mail                                  : jnaoui.jihene.04@gmail.com 
+
+ 
+
+Formation : 
+
+2018/2020: Mastère en marketing des produits agroalimentaires 
+
+Juin  2017: Diplôme en licence appliquée «gestion des entreprises agricoles». 
+
+Juin 2014: Baccalauréat en Sciences expérimentales  
+
+Expériences professionnelles : 
+
+Hôtesse d’accueil événementiel : 
+
+ammarthG Golden Tulip hôtel France Export céréales 2019 & 2020  
+
+aico hotel tunisL Prosper Africa 2020  
+
+Janvier 2019 -  Février  2019 : Animatrice de vente en grande surface 
+
+Avril  2019 -  Juin 2019 : Agent d’inscription avec Instance Supérieure Indépendante 
+
+pour les Élections 
+Juillet  2019 - Décembre 2019 : Téléconseillère chez PhoneAct charguia 2 
+
+ 
+▪ Stage 
+
+ 
+Janvier 2017 - Mai 2017 : Stage de PFE 
+
+Lieu de stage : L'entreprise « Slama Frères » Ksar Saïd 
+
+Sujet : raffinage d’huile d’olive 
+
+ 
+
+Informatique: 
+)Word, Excel, Power pointoffice ( tMicrosof  
+
+SPSS 
+
+Langues : 
+parfait:  Français 
+
+Anglais   : passable 
+
+ 
+
+
+
+cleaned_text: renseignements personnels nom prenom jnaoui jihene date lieu naissance 04 05 1995 tunis nationalite tunisienne etat civil celibataire adresse 123 avenue habib borguiba borj amri manouba gsm 00 216 22 138 512 e mail jnaoui jihene 04 gmail com formation 2018 2020 mastere marketing produits agroalimentaires juin 2017 diplome licence appliquee gestion entreprises agricoles juin 2014 baccalaureat sciences experimentales experiences professionnelles hotesse accueil evenementiel ammarthg golden tulip hotel france export cereales 2019 2020 aico hotel tunisl prosper africa 2020 janvier 2019 fevrier 2019 animatrice vente grande surface avril 2019 juin 2019 agent inscription instance superieure independante elections juillet 2019 decembre 2019 teleconseillere chez phoneact charguia 2 stage janvier 2017 mai 2017 stage pfe lieu stage entreprise slama freres ksar said sujet raffinage huile olive informatique word excel power pointoffice tmicrosof spss langues parfait francais anglais passable
+mobile_number: 0
+email: jnaoui.jihene.04@gmail.com
+skills: ['Excel', 'Word', 'Hotel', 'Marketing']
+skills_text: Excel Word Hotel Marketing
+Category: Administratif

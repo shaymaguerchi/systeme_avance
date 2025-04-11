@@ -1,0 +1,8 @@
+=== CV 675 ===
+text: Laura Girard
+cleaned_text: laura girard cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 64136418
+email: laura.girard@example.com
+skills: ['CSS', 'HTML', 'C++', 'Linux', 'Python']
+skills_text: CSS HTML C++ Linux Python
+Category: Finance

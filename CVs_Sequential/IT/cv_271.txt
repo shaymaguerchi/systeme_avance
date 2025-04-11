@@ -1,0 +1,148 @@
+=== CV 271 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+Arabe
+
+Anglais
+
+Français
+
+Sport
+
+Musique
+
+Sirine KLEI
+
+Licence appliquée en Technologie de L'informatique. Spécialité :
+Réseaux et Services Informatiques
+Institut supérieur des études technologiques de Zaghouane
+
+Zaghouan, Tunisie De septembre 2016 à juillet 2019
+
+Baccalauréat Science expérimentale
+Lycée Borj Cedria Borj Cedria, Tunisie De septembre 2015 à juin 2016
+
+Projet Fin d'études
+Société nationale des chemins de fer tunisiens Tunis
+
+De février 2019 à mai 2019
+
+Conception et réalisation d'une solution pour lamigration en IPv6 des
+applications de la SNCFT.
+
+Stage de perfectionnement
+ETAP Entreprise Tunisienne d’Activités Pétrolières
+
+CRDP, 4 Rue des Entrepreneurs, 2035 Charguia 2, Ariana
+De janvier 2018 à février 2018
+
+Mise en place et Configuration du Nagios
+
+Stage d’initiation
+Tunisie Télécom El Kef, Tunisie De janvier 2017 à février 2017
+
+Installation ASDL
+
+Certification
+Certificat de CISCO Networking : CCNA1,CCNA2, CCNA3, CCNA4.
+Certificat de HURRICANE ELECTRIC: Niveau Sage.
+Certificat Hp life : Les e-mails professionnels.
+Certificat de participation: Voix sur IP.
+
+Microsoft Office
+ (Word, Excel, PowerPoint,etc..)
+
+@Sirine Klei
+
+@Sirine Klei
+
+@Sirine Klei
+
+sirineklei962@gmail.com
+
+ Borj Cedria , Ben arous , Tunisie
+
+ Née le 24/09/1996
+
+ Tunisienne
+
+ 94749624
+
+ Célibataire
+
+- - 
+
+- - 
+
+- 
+- 
+
+- 
+- 
+
+- - 
+
+L AN G UES
+
+C EN TR ES  D ' I N TÉR ÊT
+
+R ÉS EAUX  S O C I AUX
+
+DI PL Ô MES  ET F O R MATI O N S
+
+EX PÉR I EN C ES  PR O F ES S I O N N EL L ES
+
+C O MPÉTEN C ES
+
+https://www.facebook.com/Sirine%20Klei
+https://www.linkedin.com/in/Sirine%20Klei
+https://www.instagram.com/Sirine%20Klei
+mailto:sirineklei962@gmail.com
+
+
+cleaned_text: arabe anglais francais sport musique sirine klei licence appliquee technologie informatique specialite reseaux services informatiques institut superieur etudes technologiques zaghouane zaghouan tunisie septembre 2016 juillet 2019 baccalaureat science experimentale lycee borj cedria borj cedria tunisie septembre 2015 juin 2016 projet fin etudes societe nationale chemins fer tunisiens tunis fevrier 2019 mai 2019 conception realisation solution lamigration ipv6 applications sncft stage perfectionnement etap entreprise tunisienne activites petrolieres crdp 4 rue entrepreneurs 2035 charguia 2 ariana janvier 2018 fevrier 2018 mise place configuration nagios stage initiation tunisie telecom el kef tunisie janvier 2017 fevrier 2017 installation asdl certification certificat cisco networking ccna1 ccna2 ccna3 ccna4 certificat hurricane electric niveau sage certificat hp life e mails professionnels certificat participation voix ip microsoft office word excel powerpoint etc sirine klei sirine klei sirine klei sirineklei962 gmail com borj cedria ben arous tunisie nee 24 09 1996 tunisienne 94749624 celibataire g ues tr ter r eaux di pl f r mati ex per pr f el mpeten https www facebook com sirine 20klei https www linkedin com sirine 20klei https www instagram com sirine 20klei mailto sirineklei962 gmail com
+mobile_number: 9474962
+email: sirineklei962@gmail.com
+skills: ['Installation', 'Ux', 'Excel', 'Networking', 'Powerpoint', 'R', 'C', 'Word', 'Pr', 'Cisco']
+skills_text: Installation Ux Excel Networking Powerpoint R C Word Pr Cisco
+Category: IT

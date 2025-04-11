@@ -1,0 +1,8 @@
+=== CV 907 ===
+text: Nadia Dupont
+cleaned_text: nadia dupont cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 72400646
+email: nadia.dupont@example.com
+skills: ['Java', 'SQL', 'CSS']
+skills_text: Java SQL CSS
+Category: Design

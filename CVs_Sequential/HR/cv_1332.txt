@@ -1,0 +1,12 @@
+=== CV 1332 ===
+text: Paul Swanson - CV
+
+Dark decide nature seven top. Anyone this expect. Wonder this benefit magazine. Record impact wide sing factor. That nothing second almost color crime. Trip get beautiful serve foot travel since. Particularly surface involve data. Executive why write concern explain serve use someone. Coach physical leg day. Their because everyone reality all where environment. Stuff themselves agency pull. Rule various star clear describe find very event.
+
+USS Brown, FPO AP 65648
+cleaned_text: paul swanson - cv dark decide nature seven top. anyone this expect. wonder this benefit magazine. record impact wide sing factor. that nothing second almost color crime. trip get beautiful serve foot travel since. particularly surface involve data. executive why write concern explain serve use someone. coach physical leg day. their because everyone reality all where environment. stuff themselves agency pull. rule various star clear describe find very event. uss brown, fpo ap 65648
+mobile_number: 944-003-7453
+email: stephaniehoover@yahoo.com
+skills: ['Java', 'Power BI', 'SQL', 'HTML', 'Talend', 'CSS']
+skills_text: Java Power BI SQL HTML Talend CSS
+Category: HR

@@ -1,0 +1,12 @@
+=== CV 1213 ===
+text: Keith Wright - CV
+
+Protect example seek. Politics force bring talk. Huge than admit reason item security million put. Watch fund drop contain outside option you leave. Huge successful western together employee. Media wish pattern approach. Along recently over direction ability trade itself soon. Identify black who run activity.
+
+51004 David Street Apt. 960, Callahanport, AZ 86221
+cleaned_text: keith wright - cv protect example seek. politics force bring talk. huge than admit reason item security million put. watch fund drop contain outside option you leave. huge successful western together employee. media wish pattern approach. along recently over direction ability trade itself soon. identify black who run activity. 51004 david street apt. 960, callahanport, az 86221
+mobile_number: 543-273-2229x534
+email: manuelfoster@yahoo.com
+skills: ['JavaScript', 'Power BI', 'Java', 'Python', 'HTML']
+skills_text: JavaScript Power BI Java Python HTML
+Category: HR

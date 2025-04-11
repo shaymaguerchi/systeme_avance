@@ -1,0 +1,8 @@
+=== CV 893 ===
+text: Mohamed Moreau
+cleaned_text: mohamed moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 44860451
+email: mohamed.moreau@example.com
+skills: ['Linux', 'C++', 'CSS', 'Management']
+skills_text: Linux C++ CSS Management
+Category: Finance

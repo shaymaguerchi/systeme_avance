@@ -1,0 +1,8 @@
+=== CV 157 ===
+text: UNKNOWN
+cleaned_text: unknown
+mobile_number: 0
+email: UNKNOWN
+skills: []
+skills_text: nan
+Category: Autres

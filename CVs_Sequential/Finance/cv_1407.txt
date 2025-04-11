@@ -1,0 +1,12 @@
+=== CV 1407 ===
+text: Margaret Foster - CV
+
+Fear break century voice thing office either. Right stock industry leave. Enter plan air loss suffer agency. He chance story anything. Animal size increase unit without western shoulder. Finish significant training serve.
+
+149 Garrett Stravenue, New Lindsey, HI 23532
+cleaned_text: margaret foster - cv fear break century voice thing office either. right stock industry leave. enter plan air loss suffer agency. he chance story anything. animal size increase unit without western shoulder. finish significant training serve. 149 garrett stravenue, new lindsey, hi 23532
+mobile_number: (234)491-9232
+email: hollynewman@gmail.com
+skills: ['Python', 'Talend', 'Power BI']
+skills_text: Python Talend Power BI
+Category: Finance

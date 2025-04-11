@@ -1,0 +1,152 @@
+=== CV 363 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021/2022
+
+2019/2021
+
+2018/2019
+
+01/07/2021
+-
+
+31/07/2021
+
+
+
+
+
+
+
+zaianemhamed@gmail.com
+
++216 29 972 671
+
+Boumhel, Tunisie
+
+ Compétences
+Oracle
+
+SQL lite
+
+PostgreSQL/MySQL
+
+SQL Server
+
+Talend
+
+Power BI
+
+Excel
+
+Python
+
+HTML
+
+CSS/JavaScript
+
+Java
+
+Travail d'équipe
+
+Communication
+
+ Intérêts
+Musique
+
+Cinéma
+
+Bénévolat
+
+ La Langue
+Français
+
+Anglais
+
+Arabe
+
+M'HAMED ZAIANE
+
+ Objectif
+Travailler dans un environnement qui m'encourage à réussir
+et à évoluer professionnellement, où je peux utiliser mes
+compétences et mes connaissances de manière appropriée.
+
+ Expérience Professionnelle
+UBCI BANK Groupe BNP PARIBAS
+Stagiaire
+
+ Éducation
+Université Claude Bernard Lyon 1
+Licence professionnelle en systèmes d'information
+décisionnels 
+
+Esprit School Of Business
+Licence en informatique de gestion 
+
+Lycée d'Hammam-lif
+Baccalauréat Section Techniques 
+
+ Activités
+Leo Club Tunis Saint-Germain : Président fondateur
+
+Club Radio Libertad Esprit : Membre
+
+Junior Entreprise ESB : Analyste
+
+Interact Club Hammam-lif : Chef commission de
+médiatisation
+
+Leo Club Les Berges du Lac : Membre
+
+ Réalisations Et Récompenses
+Certificat Udemy : SQL pour la Data Science
+
+Rosette Stone : Niveau C1 en anglais et B2 en français
+
+
+
+cleaned_text: 2021 2022 2019 2021 2018 2019 01 07 2021 31 07 2021 zaianemhamed gmail com 216 29 972 671 boumhel tunisie competences oracle sql lite postgresql mysql sql server talend power bi excel python html css javascript java travail equipe communication interets musique cinema benevolat langue francais anglais arabe hamed zaiane objectif travailler environnement encourage reussir evoluer professionnellement peux utiliser competences connaissances maniere appropriee experience professionnelle ubci bank groupe bnp paribas stagiaire education universite claude bernard lyon 1 licence professionnelle systemes information decisionnels esprit school business licence informatique gestion lycee hammam lif baccalaureat section techniques activites leo club tunis saint germain president fondateur club radio libertad esprit membre junior entreprise esb analyste interact club hammam lif chef commission mediatisation leo club berges lac membre realisations recompenses certificat udemy sql data science rosette stone niveau c1 anglais b2 francais
+mobile_number: 0
+email: zaianemhamed@gmail.com
+skills: ['Excel', 'Communication', 'Javascript', 'Sql', 'Mysql', 'Html', 'Python', 'Css', 'Postgresql', 'Oracle', 'Java']
+skills_text: Excel Communication Javascript Sql Mysql Html Python Css Postgresql Oracle Java
+Category: IT

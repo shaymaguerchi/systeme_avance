@@ -1,0 +1,8 @@
+=== CV 739 ===
+text: Mohamed Girard
+cleaned_text: mohamed girard cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 21578651
+email: mohamed.girard@example.com
+skills: ['SQL', 'Finance', 'HTML', 'Marketing', 'Management', 'Linux']
+skills_text: SQL Finance HTML Marketing Management Linux
+Category: Finance

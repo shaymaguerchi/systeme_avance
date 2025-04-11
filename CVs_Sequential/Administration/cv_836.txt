@@ -1,0 +1,8 @@
+=== CV 836 ===
+text: Hugo Girard
+cleaned_text: hugo girard cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 20409013
+email: hugo.girard@example.com
+skills: ['Management', 'C++', 'SQL', 'Marketing', 'Python', 'Adobe']
+skills_text: Management C++ SQL Marketing Python Adobe
+Category: Administration

@@ -1,0 +1,162 @@
+=== CV 315 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/
+
+HANA Jlassi
+Etudiante
+
+Diplômes et Formations
+
+Master Professionnel en Sciences et Ingénierie des Données SIDATA / Faculté
+des Sciences Economiques et de Gestion (FSEG) Sfax
+
+Depuis septembre 2020
+
+Licence Fondamentale En Informatique Appliquée à la Gestion. / Faculté des
+Sciences Economiques et de Gestion (FSEG) Sfax
+
+Depuis juin 2020
+
+Baccalauréat Scientifique / 9 Avril 1938 Sfax
+
+Depuis juillet 2016
+
+Expériences professionnelles
+
+Stagiaire / Leader Soft Sfax
+
+De février 2020 à avril 2020
+
+Conception et réalisation d'un site de vente en ligne en utilisant Framework
+Laravel et MySQL.
+
+Stagiaire / Feuille d'or Sfax
+
+De juillet 2018 à août 2018
+
+Conception et réalisation d'une application de gestion de stock avec C# et
+MySQL.
+
+Certificats
+
+Analyzing Big Data With SQL
+
+Un cours en ligne sans crédit, autorisé par Cloudera et proposé par l'intermédiaire
+de Coursera en Analyzing Big Data With SQL.
+
+Coach et Organisatrice
+
+Organisation de l'événement "TECH DAYS 21" en collaboration avec l'Institut
+International Technologie de Sfax (IIT) qui comprise la formation de l'Intelligence
+Artificielle dans l'hôtel Iberostar Averroes Hammamet.
+
+Compétences
+
+HTML5 / C# / Laravel / Python / ASP.NET / Spring Boot / Tableau Software /
+Power BI / SQL Server
+
+Autres Connaissances
+
+Node Js / Django / JEE / JQuerry
+
+Expériences associatives
+
+Présidente du Club Python Tunisia / Python Tunisia FSEGS
+
+Depuis novembre 2020
+
+Membre du club Wonder Club / Wonder Club FSEGS
+
+Décembre 2017
+
+Langues
+
+Arabe
+
+Français
+
+Anglais
+
+Atouts
+
+Communication
+
+Capacité d’adaptation
+
+Esprit d'équipe
+
+Prise de recul
+
+Centres d'intérêt
+
+Recherche des nouvelles technologies
+
+Recherche et apprenti
+
+Créativité
+
+Sport
+
+Musique
+
+hanajlassi45@gmail.com
+Route Gabes km 7.5 Cité El Moez
+Née le 09/07/1996
+Tunisienne
+51586230
+Célibataire
+
+@https://www.linkedin.com/in /hana-
+jlassi-021b7b202
+
+
+
+mailto:hanajlassi45@gmail.com
+https://www.linkedin.com/in/https://www.linkedin.com/in%20/hana-jlassi-021b7b202
+
+
+cleaned_text: hana jlassi etudiante diplomes formations master professionnel sciences ingenierie donnees sidata faculte sciences economiques gestion fseg sfax depuis septembre 2020 licence fondamentale informatique appliquee gestion faculte sciences economiques gestion fseg sfax depuis juin 2020 baccalaureat scientifique 9 avril 1938 sfax depuis juillet 2016 experiences professionnelles stagiaire leader soft sfax fevrier 2020 avril 2020 conception realisation site vente ligne utilisant framework laravel mysql stagiaire feuille sfax juillet 2018 aout 2018 conception realisation application gestion stock mysql certificats analyzing big data sql cours ligne sans credit autorise cloudera propose intermediaire coursera analyzing big data sql coach organisatrice organisation evenement tech days 21 collaboration institut international technologie sfax iit comprise formation intelligence artificielle hotel iberostar averroes hammamet competences html5 laravel python asp net spring boot tableau software power bi sql server autres connaissances node js django jee jquerry experiences associatives presidente club python tunisia python tunisia fsegs depuis novembre 2020 membre club wonder club wonder club fsegs decembre 2017 langues arabe francais anglais atouts communication capacite adaptation esprit equipe prise recul centres interet recherche nouvelles technologies recherche apprenti creativite sport musique hanajlassi45 gmail com route gabes km 7 5 cite el moez nee 09 07 1996 tunisienne 51586230 celibataire https www linkedin com hana jlassi 021b7b202 mailto hanajlassi45 gmail com https www linkedin com https www linkedin com 20 hana jlassi 021b7b202
+mobile_number: 5158623
+email: hanajlassi45@gmail.com
+skills: ['Big data', 'Communication', 'Js', 'Tableau', 'Sql', 'Mysql', 'Python', 'Django', 'C', 'International', 'Html5']
+skills_text: Big data Communication Js Tableau Sql Mysql Python Django C International Html5
+Category: IT

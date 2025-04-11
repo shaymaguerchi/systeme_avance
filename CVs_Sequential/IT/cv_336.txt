@@ -1,0 +1,186 @@
+=== CV 336 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lobna Abaki 
+I am looking for a graduation internship in
+the field of web/mobile development, AI
+or Big Data . I am very motivated, always
+interested in acquiring more knowledge
+and ready for new challenges. 
+
+lobnaabaki6@gmail.com 
+
++21652346320 
+
+Sakiet Ezzit 3021, Sfax, Tunisie 
+
+06 August, 1999 
+
+linkedin.com/in/lobna-abaki 
+
+ACADEMIC BACKGROUND 
+
+BACHELOR OF SCIENCE: Big Data and Data
+Analysis 
+Higher Institute of Informatics and Multimedia Sfax 
+09/2019 - Present,  Sfax 
+
+Baccalaureate in Experimental Science 
+high school Bir Ali Ben Khalifa 2 
+09/2018 - 06/2019,  Sfax 
+
+EXPERIENCE 
+
+Developer Odoo|ERP 
+End of year internship in ZNet-IT 
+07/2021 - 10/2021,  Sakkiet Ezzit , Sfax 
+
+Odoo Project Feature Development Version 14 
+
+Development or improvements of addon modules in Odoo
+specific to customer needs 
+
+Python|XML|Postgres|Linux|Github|VPS|SSH 
+
+Scrum Methodology 
+
+Analysis and Design: Handling Use Case Scenarios 
+
+PROJECTS AND COMPETITIONS 
+
+Dynamic Website: (2022) 
+Online car rental website, Manage cars by brand,Manage car availability ,Manage
+customers . Front-end: HTML5 CSS3 JS BOOTSRAP | Back-end: Symfony5 MySQL 
+
+Real Data Preprocessing (2021) 
+PyCharm|Python: Preprocessing an Important Data Extract | Perform Interpretations |
+Conclusion. Importation : NumPy|Matplotlib|Pandas| SciKit-Learn 
+
+Odoo project (2021) 
+According to a business scenario, I manage sales , purchases of articles and manage bill
+Modules : SALES|PURCHASE|ACCOUNTING|INVENTORY|CRM|PRODUCTIN 
+
+Dynamic Website: Administrative Management of Online Courses
+ (2021) 
+Front-End : HTML5|CSS3|JAVASCRIPT|SASS | Back-End : LARAVEL PHP|MYSQL |
+Design: Comprehensive website analysis | Agile method 
+
+Android App: Registering users for a facility. (2021) 
+Developed with Android Studio | App Design 
+
+The National Microsoft Technologies CampCompetition (2021) 
+Artificial intelligence in healthcare idea. 
+
+IEEEXTREME 14.0 (2021) 
+Ambassador 
+
+Natech Day Competition (2020) 
+Intelligent parking based on IOT | MQTT 
+
+Design of a static website (2020) 
+HTML5 CSS3 JS 
+
+SKILLS 
+
+forecasting technique data visualization NumPy 
+
+Matplotlib Pandas SciKit-Learn BI 
+
+Big Data Security and Control ISTQB Symfony5 
+
+MySQL scikit-learn NoSQL Odoo|ERP 
+
+Data Mining Descriptive Statistics Python 
+
+Datawarehouse Big Data|Hadoop IA JAVA 
+
+LARAVEL|PHP7 C SQL/PL HTML5 CSS3 XML 
+
+UML 
+
+CERTIFICATES 
+
+NOSQL AND DBAAS 101 (2021) 
+Cognitive class | Powred by IBM 
+
+Discover the data analysis (2020) 
+Linkedln Learning 
+
+UX for web design (2020) 
+LinkedIn Learning 
+
+Power B: Data analysis with R (2020) 
+LinkedIn Learning 
+
+Big Data 101 (2020) 
+Cognitive class | Powred by IBM | Big Data Foundations - Level 1 Badge Issued
+by IBM 
+
+Python 101 for data science (2020) 
+Cognitive class | Powred by IBM | Python for Data Science Badge Issued by IBM 
+
+LANGUAGES 
+
+Arabic 
+
+English 
+
+Frensh 
+
+SOFTWARE 
+
+Talend MongoDB VMware PyCharm 
+
+Jupyter Anaconda Laragon Spyder Linux 
+
+Excel Oracle 11g Android Studio 
+
+Visual Studio Code XMLWriter Eclipse 
+
+Enterprise architect 
+
+Achievements/Tasks 
+
+mailto:lobnaabaki6@gmail.com
+https://www.linkedin.com/in/lobna-abaki
+
+
+cleaned_text: lobna abaki looking graduation internship field web mobile development big data motivated always interested acquiring knowledge ready new challenges lobnaabaki6 gmail com 21652346320 sakiet ezzit 3021 sfax tunisie 06 august 1999 linkedin com lobna abaki academic background bachelor science big data data analysis higher institute informatics multimedia sfax 09 2019 present sfax baccalaureate experimental science high school bir ali ben khalifa 2 09 2018 06 2019 sfax experience developer odoo erp end year internship znet 07 2021 10 2021 sakkiet ezzit sfax odoo project feature development version 14 development improvements addon modules odoo specific customer needs python xml postgres linux github vps ssh scrum methodology analysis design handling use case scenarios projects competitions dynamic website 2022 online car rental website manage cars brand manage car availability manage customers front end html5 css3 js bootsrap back end symfony5 mysql real data preprocessing 2021 pycharm python preprocessing important data extract perform interpretations conclusion importation numpy matplotlib pandas scikit learn odoo project 2021 according business scenario manage sales purchases articles manage bill modules sales purchase accounting inventory crm productin dynamic website administrative management online courses 2021 front end html5 css3 javascript sass back end laravel php mysql design comprehensive website analysis agile method android app registering users facility 2021 developed android studio app design national microsoft technologies campcompetition 2021 artificial intelligence healthcare idea ieeextreme 14 0 2021 ambassador natech day competition 2020 intelligent parking based iot mqtt design static website 2020 html5 css3 js skills forecasting technique data visualization numpy matplotlib pandas scikit learn bi big data security control istqb symfony5 mysql scikit learn nosql odoo erp data mining descriptive statistics python datawarehouse big data hadoop ia java laravel php7 sql pl html5 css3 xml uml certificates nosql dbaas 101 2021 cognitive class powred ibm discover data analysis 2020 linkedln learning ux web design 2020 linkedin learning power b data analysis r 2020 linkedin learning big data 101 2020 cognitive class powred ibm big data foundations level 1 badge issued ibm python 101 data science 2020 cognitive class powred ibm python data science badge issued ibm languages arabic english frensh software talend mongodb vmware pycharm jupyter anaconda laragon spyder linux excel oracle 11g android studio visual studio code xmlwriter eclipse enterprise architect achievements tasks mailto lobnaabaki6 gmail com https www linkedin com lobna abaki
+mobile_number: 2165234632
+email: lobnaabaki6@gmail.com
+skills: ['Ibm', 'Numpy', 'Excel', 'Big data', 'Android', 'Mobile', 'Mysql', 'English', 'Matplotlib', 'Oracle', 'Ai', 'Ux', 'Sql', 'Security', 'Xml', 'Nosql', 'Html5', 'Data analysis', 'Visual', 'Healthcare', 'Pycharm', 'Pandas', 'Agile', 'Experimental', 'Analysis', 'Python', 'R', 'Linux', 'Front-end', 'Spyder', 'Anaconda', 'Forecasting', 'Website', 'Js', 'Sales', 'Brand', 'Jupyter', 'Scrum', 'Mining', 'Vmware', 'C', 'Java', 'Design', 'Statistics']
+skills_text: Ibm Numpy Excel Big data Android Mobile Mysql English Matplotlib Oracle Ai Ux Sql Security Xml Nosql Html5 Data analysis Visual Healthcare Pycharm Pandas Agile Experimental Analysis Python R Linux Front-end Spyder Anaconda Forecasting Website Js Sales Brand Jupyter Scrum Mining Vmware C Java Design Statistics
+Category: IT

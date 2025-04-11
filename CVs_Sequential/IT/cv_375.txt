@@ -1,0 +1,130 @@
+=== CV 375 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MAHA CHALBI
+@ mahachalbi97@ gmail.com � +216 51508128 * Ariana, Tunisie
+ï maha-chalbi-258aa0174
+
+COMPÉTENCES
+Conception UML
+HTML/CSS Prestashop
+Java PHP PL/SQL
+Linux
+
+Pack office
+
+Créativité Polyvalence
+Organisation
+Communication
+
+LANGUES
+Anglais ○ ○ ○ ○ ○
+
+Français ○ ○ ○ ○ ○
+
+Arabe ○ ○ ○ ○ ○
+
+EXPERIENCE
+Conseiller clientéle | ENNAKL AUTOMOBILES
+z Juin 2019 – mars 2020 * Tunis, Tunisie
+• Répondre aux questions des clients sur les produits et les services.
+• Effectuer des enquêtes de satisfaction.
+• Fixer des rendez-vous.
+
+Stagiaire au sein de la direction de pilotage des projets | Centre Nationalde l’informatique
+z Mars 2019 – mai 2019 * Tunis, Tunisie
+• Développement d’une application de gestion des identités paramétrables pour lesclients du Centre National de l’Informatique en se basant sur un annuaire LDAP
+
+Assistante analyste de donneés (stagiaire) | FIS GLOBAL
+z Juin 2018 – septembre 2018 * Tunis, Tunisie
+• Collecte et analyse de données.
+• L’analyse du marché et de la concurrence.
+
+Assistante bancaire (stagiaire) | ATTIJARI BANK
+z Juin 2016 – août 2016 * Tunis, Tunisie
+• Traitement des chèques.
+• Prise en charge des demandes des cartes bancaires.
+• Traitement des retraits , des versements et des prêts
+FORMATION
+Licence appliquée en technologie d’information | Institut des HautesEtudes Commerciales de Carthage
+z 2015 – 2019 * Tunis, Tunisie
+Mention: Bien
+Licence appliquée en gestion | Institut des Hautes Etudes Commercialesde Carthage
+z 2015 – 2017 * Tunis, Tunisie
+Tronc commun : Appliquée en gestion
+Diplôme du baccalauréat | Lycée el Wafe
+z 2014 – 2015 * Tunis, Tunisie
+Section: Economie et Gestion.Mention: Assez bien
+
+mailto:mahachalbi97@\protect \begingroup \immediate \write \@unused   \def \MessageBreak  
+ \let \protect \edef  You may provide a definition with\MessageBreak \protect \begingroup \immediate \write \@unused   \def \MessageBreak  
+ \let \protect \edef  Your command was ignored.\MessageBreak Type  I <command> <return>  to replace it with another command,\MessageBreak or  <return>  to continue without it.  \errhelp \let \def \MessageBreak  
+                \def   \errmessage  LaTeX Error: Can be used only in preamble.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help   \endgroup   \errhelp \let \def \MessageBreak  
+(inputenc)                 \def   \errmessage  Package inputenc Error: Unicode character  (U+E801)\MessageBreak not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help   \endgroup  gmail.com
+tel:+216 51508128
+https://linkedin.com/in/maha-chalbi-258aa0174
+
+
+cleaned_text: maha chalbi mahachalbi97 gmail com 216 51508128 ariana tunisie maha chalbi 258aa0174 competences conception uml html css prestashop java php pl sql linux pack office creativite polyvalence organisation communication langues anglais francais arabe experience conseiller clientele ennakl automobiles z juin 2019 mars 2020 tunis tunisie repondre questions clients produits services effectuer enquetes satisfaction fixer rendez stagiaire sein direction pilotage projets centre nationalde informatique z mars 2019 mai 2019 tunis tunisie developpement application gestion identites parametrables lesclients centre national informatique basant annuaire ldap assistante analyste donnees stagiaire fis global z juin 2018 septembre 2018 tunis tunisie collecte analyse donnees analyse marche concurrence assistante bancaire stagiaire attijari bank z juin 2016 aout 2016 tunis tunisie traitement cheques prise charge demandes cartes bancaires traitement retraits versements prets formation licence appliquee technologie information institut hautesetudes commerciales carthage z 2015 2019 tunis tunisie mention bien licence appliquee gestion institut hautes etudes commercialesde carthage z 2015 2017 tunis tunisie tronc commun appliquee gestion diplome baccalaureat lycee el wafe z 2014 2015 tunis tunisie section economie gestion mention assez bien mailto mahachalbi97 protect begingroup immediate write unused def messagebreak let protect edef may provide definition messagebreak protect begingroup immediate write unused def messagebreak let protect edef command ignored messagebreak type command return replace another command messagebreak return continue without errhelp let def messagebreak def errmessage latex error used preamble see latex manual latex companion explanation type h return immediate help endgroup errhelp let def messagebreak inputenc def errmessage package inputenc error unicode character u e801 messagebreak set use latex see inputenc package documentation explanation type h return immediate help endgroup gmail com tel 216 51508128 https linkedin com maha chalbi 258aa0174
+mobile_number: 216 5150812
+email: mahachalbi97@
+skills: ['Php', 'Communication', 'Sql', 'Html', 'Css', 'Linux', 'Java']
+skills_text: Php Communication Sql Html Css Linux Java
+Category: IT

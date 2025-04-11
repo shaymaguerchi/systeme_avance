@@ -1,0 +1,218 @@
+=== CV 322 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+  EXPÉRIENCE PROFESSIONNELLE  
+
+ 
+
+ 
+ 
+
+ 
+Krouma 
+Yosra 
+
+COM J’M| JANV 2020– Mai 2020 
+
+Stagiaire, Sfax 
+
+Tâches: 
+
+Developpment site web: front end et back end 
+
+Conception: UML 
+
+Gérer les base des donnés 
+
+ 
+  FORMATION  
+
+ 
+
+Stagiaire Data Scientist 
+
+ 
+ 
+ 
+
+PROFIL 
+
+Je suis étudiante à la faculté des 
+
+sciences économiques et de 
+
+gestión à Sfax. 2éme anneé en 
+
+master profetionnel en science et 
+
+ingénierie des données 
+
+(SIDATA). Aujourd’hui je suis à la 
+
+recherche d’un stage. 
+
+ 
+
+CONTACT 
+ 
+
+54154882 
+
+ameni.krouma@gmail.com 
+
+Mahdia, Tunis 
+
+COMPÉTENCES 
+
+Languages 
+Python, R 
+Machine learning 
+KNN, K-MEANS, Decision Tree, 
+CNN 
+
+ML Framework and 
+Libraries : 
+Keras,TensorFlow ,Numpy 
+,Pandas,Flask, django 
+Framework Big Data 
+Hadoop, Impala, Hive, Hue 
+Web Scraping 
+Scrapy , API 
+Web: 
+Html, JavaScript, Spring , 
+Angular,NodeJs 
+Business Intelligence 
+SSIS, SSAS, SSRS, Power Bi 
+SQL 
+SQL Server, Oracle 
+NoSQL 
+mongoDB , Cassandra ,Redis 
+
+ 
+2017 | Mahdia-Tunis 
+
+Diplôme en Baccalauréat Mathématiques 
+Lycée Méllouleche 
+
+ 
+
+2020 | Sfax-Tunis 
+
+Diplôme en informatique de gestion : commerce 
+électronique 
+Ecole supérieure de commerce Sfax (ESCS) 
+
+ 
+
+2021 | Sfax-Tunis 
+
+Master professionnel en science et ingénierie des 
+données (SIDATA) 
+Faculté science économique et gestion Sfax (FSEGS) 
+
+ 
+  Certification  
+2021 
+
+Certificat Analyzing Big Data With SQL 
+2022 
+
+Certificat  Big Data in Clusters and Cloud Storage 
+
+  Projects Académiques  
+
+   Projet Machine Learning 
+Prédiction de productivité des ouvriers du vêtement à l'aide 
+d’un modèle de régression et Déployer le modèle dans une 
+application web 
+
+Mot Clé : Python, Pandas, Numpy, Flask 
+
+Projet NLP :  
+Analyse des sentiments (des commentaires) 
+
+Mot Clé : Python, Pandas,scrapping,nltk,nlp… 
+
+Projet Web 
+
+Site web d’annonce 
+
+Mot Clé : Php, Laravel 
+
+Projet BI 
+
+Modélisation du Data WareHouse 
+
+Visualisation des données via un 
+
+Dashboard  
+
+Mot Clé : Power BI, SQL Server 
+
+ 
+  Langues  
+
+Arabe : Natif 
+
+Français : courant 
+
+Anglais : courant 
+
+mailto:ameni.krouma@gmail.com
+
+
+cleaned_text: experience professionnelle krouma yosra com janv 2020 mai 2020 stagiaire sfax taches developpment site web front end back end conception uml gerer base donnes formation stagiaire data scientist profil etudiante faculte sciences economiques gestion sfax 2eme annee master profetionnel science ingenierie donnees sidata aujourd hui recherche stage contact 54154882 ameni krouma gmail com mahdia tunis competences languages python r machine learning knn k means decision tree cnn ml framework libraries keras tensorflow numpy pandas flask django framework big data hadoop impala hive hue web scraping scrapy api web html javascript spring angular nodejs business intelligence ssis ssas ssrs power bi sql sql server oracle nosql mongodb cassandra redis 2017 mahdia tunis diplome baccalaureat mathematiques lycee mellouleche 2020 sfax tunis diplome informatique gestion commerce electronique ecole superieure commerce sfax escs 2021 sfax tunis master professionnel science ingenierie donnees sidata faculte science economique gestion sfax fsegs certification 2021 certificat analyzing big data sql 2022 certificat big data clusters cloud storage projects academiques projet machine learning prediction productivite ouvriers vetement aide modele regression deployer modele application web mot cle python pandas numpy flask projet nlp analyse sentiments commentaires mot cle python pandas scrapping nltk nlp projet web site web annonce mot cle php laravel projet bi modelisation data warehouse visualisation donnees via dashboard mot cle power bi sql server langues arabe natif francais courant anglais courant mailto ameni krouma gmail com
+mobile_number: 5415488
+email: ameni.krouma@gmail.com
+skills: ['Php', 'Numpy', 'Tensorflow', 'Big data', 'Html', 'Hadoop', 'Cloud', 'Oracle', 'Javascript', 'Sql', 'Django', 'Nosql', 'Pandas', 'Python', 'R', 'Sql server', 'Keras', 'Hive', 'Certification', 'Scrapy', 'Warehouse', 'Nltk', 'Api', 'Flask']
+skills_text: Php Numpy Tensorflow Big data Html Hadoop Cloud Oracle Javascript Sql Django Nosql Pandas Python R Sql server Keras Hive Certification Scrapy Warehouse Nltk Api Flask
+Category: IT

@@ -1,0 +1,133 @@
+=== CV 89 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Crème et Gris Moderne CV
+
+
+BOUHLEL WISSAL
+C u r r i c u l u m  v i t a e
+
+FORMATIONS COMPLÉMENTAIRES
+
+ Le 10,11 et 12 avril 2014     : Formation comptabilité générale.
+Juillet 2012 : Formation initiation Amadeus.
+
+COMPÉTENCES 
+
+Créativité 
+Ponctualité et capacité de gestion du temps 
+Capacité de travailler en équipe/responsabilité 
+Sens de la relation client
+Bonne aptitude en communication 
+Maîtrise des logiciels bureautiques Microsoft : Word,
+Excel, Powerpoint
+
+COORDONNÉES 
+
+24 24 95 60
+wissalbouhlel22@hotmail.com 
+
+EXPERIENCES ET STAGES 
+
+ 2019-2021: Animatrice jardin d'enfants chez
+
+DAVINCI SCHOOL à m'saken.
+
+2018: Agent de facturation chez HUILERIE
+
+MODERNE GRAIET à m'saken.
+
+2017:  Animatrice garderie scolaire  à m'saken.
+
+2012 - 2016 : Agent commercial chez Ô VOYAGES
+
+ET LOISIRS à m'saken.
+
+ 2011 -2012 :     SIVP chez M’saken International
+
+Travel Services.
+
+ 2011 : Stage (SCV) Association Ahebaa Etefel
+
+Messadine, secrétaire chez collège Messadine. 
+
+2010 : Stage agent commercial chez Msaken
+
+International Travel services.
+
+2010 : Stage de fin d’étude au centre d’appel Omega
+
+Call Center à Msaken et chez IAER (Institue for
+
+Advanced Engineering and Research) à Sousse.
+
+ 2009 : Stage de formation au centre de construction
+
+des lignes chez Tunisie Télécom.
+
+ÉDUCATION 
+
+2006/2007      :   Baccalauréat  section technique.
+
+2009/2010   : Licence Appliquée en Sciences et Technologies
+de l’information et des Communications  de l’institut
+Supérieur de l’informatique et de technologies de
+communication à Hammam Sousse.
+
+
+
+cleaned_text: creme gris moderne cv bouhlel wissal u r r u u v e formations complementaires 10 11 12 avril 2014 formation comptabilite generale juillet 2012 formation initiation amadeus competences creativite ponctualite capacite gestion temps capacite travailler equipe responsabilite sens relation client bonne aptitude communication maitrise logiciels bureautiques microsoft word excel powerpoint coordonnees 24 24 95 60 wissalbouhlel22 hotmail com experiences stages 2019 2021 animatrice jardin enfants chez davinci school saken 2018 agent facturation chez huilerie moderne graiet saken 2017 animatrice garderie scolaire saken 2012 2016 agent commercial chez voyages loisirs saken 2011 2012 sivp chez saken international travel services 2011 stage scv association ahebaa etefel messadine secretaire chez college messadine 2010 stage agent commercial chez msaken international travel services 2010 stage fin etude centre appel omega call center msaken chez iaer institue advanced engineering research sousse 2009 stage formation centre construction lignes chez tunisie telecom education 2006 2007 baccalaureat section technique 2009 2010 licence appliquee sciences technologies information communications institut superieur informatique technologies communication hammam sousse
+mobile_number: 019-2021
+email: wissalbouhlel22@hotmail.com
+skills: ['Communication', 'Excel', 'Powerpoint', 'R', 'Travel', 'C', 'International', 'Word', 'Research', 'Construction', 'Engineering']
+skills_text: Communication Excel Powerpoint R Travel C International Word Research Construction Engineering
+Category: Administratif

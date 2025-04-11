@@ -1,0 +1,92 @@
+=== CV 31 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Curriculum vitae
+ 
+INFORMATIONS PERSONNELLES :
+Non : CHEHIDI
+Prénom : HEGER
+Date et Lieu de naissance : 15/08/1976 à Hammamet
+Nationalité : Tunisienne
+Etat civil : Célibataire
+Adresse et Code postal : 12 Avenue Jaweher Lel Nahrou Cité La Gazelle Ariana 2083
+Tél : 53544098  22544069
+E-mail : hegerchehidi2018@gmail.com
+ETUDES :
+* 7ème année secondaire sciences expérimentales lycée el wafa à l’Ariana.
+* 2000 Diplôme de technicien en agro-alimentaire du centre sectoriel de formation professionnelle en agro-alimentaire cité el khadra.
+* 2007 Diplôme en informatique (A.T.B.I.G).
+STAGES :
+* Nestlé Tunisie : du 04-08-1999 au 31-08-1999 au laboratoire.
+* Nestlé Tunisie : du 01-06-2000 au 30-06-2000 au service production.
+EXPERIENCES PROFESSIONNELLES :
+* Du 20-10-2000 : 06 mois a la société fromagerie Scandi occupant le poste de technicienne de production.
+* Du 26-06-2001 au 08-05-2002 : société OPALIA au laboratoire puis dans le service production
+* Du 01-01-2003 au 31-08-2006 : au sein de la société AROMATECH en qualité de technicienne de contrôle qualité et la suppléante de la technicienne de préparation.
+* Du 12-11-2007 au 06-07-2010 : au sein de la société Tunisienne de Télémarketing en qualité de télé actrice
+* Pendant 6mois au sein de la société Lasercontact en qualité de télé actrice
+* Du 13/06/2011 au 01/05/2012 : au sein de la société Mezzo en qualité de télé actrice
+* Du 09/09/2012 au 31/03/2013 : au sein de la société Médiacontact en qualité de télé actrice
+* Du 25/06/2013 au 15/09/2014 : vente des forfaits mobiles  au sein de la société Advincia Téléservices 
+* Du 2015 au 2017 vente de contrat d'assurance et de complémentaire santé
+* Du 15/01/2018 au 15/05/2018 : Gestionnaire d’assurance au sein de SPB Isc
+* Du 02 /03/2020 au 30/09/2021 : vente des contrats de fourniture d’énergie auprès de            PhoneAact
+LANGUES :
+* Arabe Français et Anglais
+
+
+cleaned_text: curriculum vitae informations personnelles non chehidi prenom heger date lieu naissance 15 08 1976 hammamet nationalite tunisienne etat civil celibataire adresse code postal 12 avenue jaweher lel nahrou cite gazelle ariana 2083 tel 53544098 22544069 e mail hegerchehidi2018 gmail com etudes 7eme annee secondaire sciences experimentales lycee el wafa ariana 2000 diplome technicien agro alimentaire centre sectoriel formation professionnelle agro alimentaire cite el khadra 2007 diplome informatique b g stages nestle tunisie 04 08 1999 31 08 1999 laboratoire nestle tunisie 01 06 2000 30 06 2000 service production experiences professionnelles 20 10 2000 06 mois societe fromagerie scandi occupant poste technicienne production 26 06 2001 08 05 2002 societe opalia laboratoire puis service production 01 01 2003 31 08 2006 sein societe aromatech qualite technicienne controle qualite suppleante technicienne preparation 12 11 2007 06 07 2010 sein societe tunisienne telemarketing qualite tele actrice pendant 6mois sein societe lasercontact qualite tele actrice 13 06 2011 01 05 2012 sein societe mezzo qualite tele actrice 09 09 2012 31 03 2013 sein societe mediacontact qualite tele actrice 25 06 2013 15 09 2014 vente forfaits mobiles sein societe advincia teleservices 2015 2017 vente contrat assurance complementaire sante 15 01 2018 15 05 2018 gestionnaire assurance sein spb isc 02 03 2020 30 09 2021 vente contrats fourniture energie aupres phoneaact langues arabe francais anglais
+mobile_number: 5354409
+email: hegerchehidi2018@gmail.com
+skills: []
+skills_text: nan
+Category: Autres

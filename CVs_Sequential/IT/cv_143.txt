@@ -1,0 +1,102 @@
+=== CV 143 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Sarah Barkit 
+Manouba 
+2000 Tunis  
++216 53120539  
+Sarahbarkit60@gmail.com 
+
+Expérience  
+ 
+*Artemis, Montplaisir  
+ 
+De 21 mars à 13 juin 2018 
+ 
+-J'étais travailler chez Artemis c un centre d'appel sous l'opération 
+voyance  
+
+*​business and contact  
+ 
+De novembre a janvier 2019  
+ 
+-aussi c'est un centre d'appel  
+
+*​Proactif callcanter  
+ 
+De février à novembre 2019 
+ 
+-c'est un centre d'appel pour l'opération prise de RDV de la maison 
+"BOFROST" 
+
+FORMATION 
+ 
+*Flash Mode 2018 
+ 
+-J'ai fait une formation de modélisation  
+ 
+*​britch council  
+ 
+-​juste 3 mois de formation en englais  
+
+COMPÉTENCES 
+
+*J'ai fais une formation 
+d'informatique durable 5 mois  
+
+*j'étais travailler vendeuse chez 
+camaïeu à manar city et après 
+chez Zen  
+
+*un stage de 3 mois de la poste 
+réceptionniste dans LA clinique 
+AMEN MUTUELLE VILLE  
+
+ 
+
+DISTINCTIONS 
+
+*​Compétente dynamique 
+souriante ponctuelle et actif 
+
+LANGUES 
+
+Français, Arabe, un peu englais..  
+
+ 
+
+mailto:Sarahbarkit60@gmail.com
+
+
+cleaned_text: sarah barkit manouba 2000 tunis 216 53120539 sarahbarkit60 gmail com experience artemis montplaisir 21 mars 13 juin 2018 etais travailler chez artemis centre appel sous operation voyance business contact novembre janvier 2019 aussi centre appel proactif callcanter fevrier novembre 2019 centre appel operation prise rdv maison bofrost formation flash mode 2018 fait formation modelisation britch council juste 3 mois formation englais competences fais formation informatique durable 5 mois etais travailler vendeuse chez camaieu manar city apres chez zen stage 3 mois poste receptionniste clinique amen mutuelle ville distinctions competente dynamique souriante ponctuelle actif langues francais arabe peu englais mailto sarahbarkit60 gmail com
+mobile_number: 216 5312053
+email: Sarahbarkit60@gmail.com
+skills: ['C']
+skills_text: C
+Category: IT

@@ -1,0 +1,8 @@
+=== CV 671 ===
+text: Laura Roche
+cleaned_text: laura roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 31483255
+email: laura.roche@example.com
+skills: ['Java', 'Marketing', 'SQL', 'Adobe']
+skills_text: Java Marketing SQL Adobe
+Category: Finance

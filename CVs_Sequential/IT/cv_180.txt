@@ -1,0 +1,199 @@
+=== CV 180 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cyrine  BEJAOUI –  Fortement interessé par les nouvelles technologies et développement informatique ,je suis un Ingénieur en informatique fraîchement diplômé de l'école ESPRIT.   
+
+
+Cyrine BEJAOUI
+Fortement interessé par les nouvelles technologies et
+développement informatique ,je suis un Ingénieur en
+informatique fraîchement diplômé de l’école ESPRIT.
+
+15 Rue Ibn Khaldoun, 2081 Ariana, Tunisie
+H +21 6 52 9339 84
+
+B cyrine.bejaoui@esprit.tn
+¯ CyrineBejaoui
+
+Expériences Professionnelles
+Fév.2020-
+Août.2020
+
+Ingénieur stagiaire , Amaris consulting, marque du groupe internationale Mantu , Tunisie.
+{ Conception et réalisation d’un Dashboard pour la production et facturation d’un compte d’un opérateur
+
+mobile en France.
+- Implémenter le cadre d’authentification et le contrôle d’accès "spring security".
+- Introduire un module de gestion des tâches qui permet aux consultants d’annoncer leur productions.
+- Génération et calcul des 3 types de factures qui s’appuie sur des algorithmes bien spécifiques.
+- Présenter un système qui permet d’uploader des fichier et de générer des fichiers excels.
+
+Technologies: Angular,Spring boot,Spring security,Spring data, REST, PostegreSQL,architecture mi-
+croservice, Intelij.
+
+Juin.2019-
+août.2019
+
+Stagiaire technicien , Devlopy, Tunisie.
+{ Conception et réalisation du module ressource humaine et gestion de congé pour une application de
+
+gestion de cabinet comptable et expert.
+- Implémentation des fonctionnalités:Gestions des utilisateur (register, login, update Profile).
+- Développer un module de gestion de congé et gestion des attestations.
+
+Technologies: Angular,node js,REST, MongoDB, Visual Studio Code,Angular material.
+Juin.2018-
+août.2018
+
+Stagiaire technicien, Tunivisions, magazine tunisien, Tunisie.
+{ Développement d’une plateforme web pour la vente de billet en ligne.
+
+- Développer un module de gestion des annonces avec l’introduction d’un module de billetterie
+Technologies: Symfony, MySQL,Rest, Git..
+
+Jan.2017-
+Juin.2018
+
+Stagiaire technicien, Just Smart, société de développement mobile web, Tunisie.
+{ Développement et conception d’un site web e-commerce qui permet aux acheteurs web de faire des
+
+économies sur leurs achats Internet en introduisant le Cashback.
+- Implémentation des fonctionnalités:Gestions des utilisateur (register, login, update Profile).
+- Développer un module de gestion des produits et des promotions .
+- Développer un module de gestion du panier électronique.
+- Introduire le module Cashback,
+
+Technologies: Laravel,HTML5 CSS3,MySQL, UML, PHP, Sublime Text.
+
+Projets Académiques
+Sept.2018-
+Déc.2019
+
+Projet de développement intégré, Esprit Incubator.
+{ Plateforme Web qui gère les candidatures au sein de Organisme Tunisien des droits d’auteur et des
+
+droits voisins (OTDAV) en utilisant JEE et .NET comme les technologies de Frontend et Backend.
+Janv.2018-
+Mai.2019
+
+Projet de développement intégré, Esprit Incubator.
+{ Projet intégré de développement à esprit comprenant trois parties (Desktop/Web/Mobile) en utilisant
+
+différents technologies (JavaFx/Symfony/CodenameOne).
+
+Formations Académiques
+2017–2020 Diplôme d’ingénieur, École Supérieure Privée d’Ingénierie et de Technologies (ESPRIT),
+
+Tunisie.
+Parcours : Ingénieur et développeur Full Stack en génie logiciel
+
+2014–2017 Licence fondamentale en informatique et multimédia, ISAMM Institut Supérieur des
+Arts Multimédia de la Manouba (ISAMM), Tunisie.
+Parcours : Étudiante en informatique et multimédia.
+
+2013 Diplôme de Baccalauréat, Lycée Khaireddine Pacha, Tunisie.
+Parcours : Sciences Mathématiques
+
+1/2
+
+mailto:cyrine.bejaoui@esprit.tn
+https://www.linkedin.com/in/CyrineBejaoui//
+
+
+Compétences Techniques
+Langages Java, PHP, HTML5, CSS3, JavaScript, XML, C/C++,TypeScript.
+
+Frameworks JEE, ASP.NET, Spring boot, Angular, Symfony.
+Serveurs NodeJS, Apache-Tomcat, WildflIy
+Bases de
+données
+
+Oracle DB, MySQL, MongoDB, PostgreSQL, Cassandra,NoSql.
+
+WebServices RESTful, JAX-WS.
+Autres Scrum, GIT, Gestion de projet,GitLab.
+
+Langues
+Arabe Langue maternelle Anglais Niveau B2
+
+Français Niveau B2 Espagnol Élémentaire- A1
+
+Vie associative
+Club Radio ISAMM - Tunisie 2014 - 2017
+Jeunes Ingénieurs ISAMM. 2015 et 2016
+Club ISAMM events
+
+Centres d’intérêt
+Danse, Camping, Films et séries télévisées.
+
+2/2
+
+
+	Expériences Professionnelles
+	Projets Académiques
+	Formations Académiques
+	Compétences Techniques
+	Langues
+	Vie associative
+	Centres d’intérêt
+
+
+cleaned_text: cyrine bejaoui fortement interesse nouvelles technologies developpement informatique ingenieur informatique fraichement diplome ecole esprit cyrine bejaoui fortement interesse nouvelles technologies developpement informatique ingenieur informatique fraichement diplome ecole esprit 15 rue ibn khaldoun 2081 ariana tunisie h 21 6 52 9339 84 b cyrine bejaoui esprit tn cyrinebejaoui experiences professionnelles fev 2020 aout 2020 ingenieur stagiaire amaris consulting marque groupe internationale mantu tunisie conception realisation dashboard production facturation compte operateur mobile france implementer cadre authentification controle acces spring security introduire module gestion taches permet consultants annoncer productions generation calcul 3 types factures appuie algorithmes bien specifiques presenter systeme permet uploader fichier generer fichiers excels technologies angular spring boot spring security spring data rest postegresql architecture mi croservice intelij juin 2019 aout 2019 stagiaire technicien devlopy tunisie conception realisation module ressource humaine gestion conge application gestion cabinet comptable expert implementation fonctionnalites gestions utilisateur register login update profile developper module gestion conge gestion attestations technologies angular node js rest mongodb visual studio code angular material juin 2018 aout 2018 stagiaire technicien tunivisions magazine tunisien tunisie developpement plateforme web vente billet ligne developper module gestion annonces introduction module billetterie technologies symfony mysql rest git jan 2017 juin 2018 stagiaire technicien smart societe developpement mobile web tunisie developpement conception site web e commerce permet acheteurs web faire economies leurs achats internet introduisant cashback implementation fonctionnalites gestions utilisateur register login update profile developper module gestion produits promotions developper module gestion panier electronique introduire module cashback technologies laravel html5 css3 mysql uml php sublime text projets academiques sept 2018 dec 2019 projet developpement integre esprit incubator plateforme web gere candidatures sein organisme tunisien droits auteur droits voisins otdav utilisant jee net comme technologies frontend backend janv 2018 mai 2019 projet developpement integre esprit incubator projet integre developpement esprit comprenant trois parties desktop web mobile utilisant differents technologies javafx symfony codenameone formations academiques 2017 2020 diplome ingenieur ecole superieure privee ingenierie technologies esprit tunisie parcours ingenieur developpeur full stack genie logiciel 2014 2017 licence fondamentale informatique multimedia isamm institut superieur arts multimedia manouba isamm tunisie parcours etudiante informatique multimedia 2013 diplome baccalaureat lycee khaireddine pacha tunisie parcours sciences mathematiques 1 2 mailto cyrine bejaoui esprit tn https www linkedin com cyrinebejaoui competences techniques langages java php html5 css3 javascript xml typescript frameworks jee asp net spring boot angular symfony serveurs nodejs apache tomcat wildfliy bases donnees oracle db mysql mongodb postgresql cassandra nosql webservices restful jax ws autres scrum git gestion projet gitlab langues arabe langue maternelle anglais niveau b2 francais niveau b2 espagnol elementaire a1 vie associative club radio isamm tunisie 2014 2017 jeunes ingenieurs isamm 2015 2016 club isamm events centres interet danse camping films series televisees 2 2 experiences professionnelles projets academiques formations academiques competences techniques langues vie associative centres interet
+mobile_number: 0
+email: cyrine.bejaoui@esprit.tn
+skills: ['Php', 'Mobile', 'Mysql', 'Sublime', 'Consulting', 'Oracle', 'Javascript', 'Security', 'Xml', 'Nosql', 'Html5', 'Visual', 'Postgresql', '.net', 'Js', 'Rest', 'Scrum', 'Architecture', 'C', 'Java']
+skills_text: Php Mobile Mysql Sublime Consulting Oracle Javascript Security Xml Nosql Html5 Visual Postgresql .net Js Rest Scrum Architecture C Java
+Category: IT

@@ -1,0 +1,8 @@
+=== CV 796 ===
+text: Laura Ben Ali
+cleaned_text: laura ben ali cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 49429735
+email: laura.ben ali@example.com
+skills: ['Adobe', 'Linux', 'SQL', 'Marketing', 'Java']
+skills_text: Adobe Linux SQL Marketing Java
+Category: IT

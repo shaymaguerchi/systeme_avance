@@ -1,0 +1,8 @@
+=== CV 771 ===
+text: Isabelle Fontaine
+cleaned_text: isabelle fontaine cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 92219081
+email: isabelle.fontaine@example.com
+skills: ['Java', 'Linux', 'SQL', 'Management', 'Windows']
+skills_text: Java Linux SQL Management Windows
+Category: Administration

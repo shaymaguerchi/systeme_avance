@@ -1,0 +1,116 @@
+=== CV 147 ===
+text: 
+
+
+
+
+
+
+
+ 
+
+	
+	
+	Curriculum vitae
+Identification personnel :
+Wahbi jihen
+Nationalité : tunisienne
+Date de naissance : 10/03/1996
+Etat civil : célibataire 
+C.I.N :09935341
+
+	      
+
+
+
+
+
+
+20 rue d’Algérie 1000, tunis 
+	
+	
+
+	
+	
+	Expérience professionnelle
+24/07/2017-01/09/2017
+Stage au Tunisair
+Adresse: siège social route de l’aéroport Tunis Carthage 2035, Tunis Carthage
+04/09/2017–19/10/2017
+Stage à la société ADDMANN COMPANY : import-export
+Adresse : 1 rue de Gabes, ARIANA 2082-Tunisie
+03 /09 /2018–20/10/2018
+Stage à la société TAWASOL (group holding)
+Adresse : 20rue des entrepreneurs charguia 2
+2035 Ariana, Tunis, Tunisie
+04 /03/2019–06/04/2019
+Stage a la société Nationale des Chemins de Fer Tunisiens
+Adresse : 67av. farhat hached,1001,Tunis
+· Téléopératrice au centre d’appel  
+· Secrétaire en agence de voyage 
+· Secrétaire au bureau d’emploi
+· Mentor en droit de la route  
+Langues :
+Arabe : langue maternelle
+Français : bon niveau
+Anglais : bon niveau 
+Compétences :
+Informatique : bureautique (Word-Excel-power point)
+Système SINDA
+Permi de conduite « B »
+Loisirs /Talent :
+Musique
+Peinture
+Infographie
+La lecture 
+Design 
+
+
+	20602703
+
+
+Jihenwahbi51@gmail.com
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	20602703
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	 Technicien professionnelle en formalité douanière
+	
+	
+
+	
+	
+	
+
+
+
+
+cleaned_text: curriculum vitae identification personnel wahbi jihen nationalite tunisienne date naissance 10 03 1996 etat civil celibataire 09935341 20 rue algerie 1000 tunis experience professionnelle 24 07 2017 01 09 2017 stage tunisair adresse siege social route aeroport tunis carthage 2035 tunis carthage 04 09 2017 19 10 2017 stage societe addmann company import export adresse 1 rue gabes ariana 2082 tunisie 03 09 2018 20 10 2018 stage societe tawasol group holding adresse 20rue entrepreneurs charguia 2 2035 ariana tunis tunisie 04 03 2019 06 04 2019 stage societe nationale chemins fer tunisiens adresse 67av farhat hached 1001 tunis teleoperatrice centre appel secretaire agence voyage secretaire bureau emploi mentor droit route langues arabe langue maternelle francais bon niveau anglais bon niveau competences informatique bureautique word excel power point systeme sinda permi conduite b loisirs talent musique peinture infographie lecture design 20602703 jihenwahbi51 gmail com 20602703 technicien professionnelle formalite douaniere
+mobile_number: 0993534
+email: Jihenwahbi51@gmail.com
+skills: ['Excel', 'Word', 'Design']
+skills_text: Excel Word Design
+Category: Administratif

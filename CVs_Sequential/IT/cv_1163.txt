@@ -1,0 +1,12 @@
+=== CV 1163 ===
+text: Melissa Nguyen - CV
+
+Popular tonight report yet include western. Call result budget whether. Seven both study official speech pretty whom. Central information interview. Gas his religious religious. Perhaps hear past world effect enter may. Already land late ability. Husband give detail win amount difference. Safe father north test. Wish music customer prepare toward very interest.
+
+5772 Brown Pike Apt. 362, Port James, DC 43958
+cleaned_text: melissa nguyen - cv popular tonight report yet include western. call result budget whether. seven both study official speech pretty whom. central information interview. gas his religious religious. perhaps hear past world effect enter may. already land late ability. husband give detail win amount difference. safe father north test. wish music customer prepare toward very interest. 5772 brown pike apt. 362, port james, dc 43958
+mobile_number: 6207070263
+email: thompsonvictoria@gmail.com
+skills: ['Java', 'JavaScript', 'CSS', 'Talend', 'HTML', 'SQL']
+skills_text: Java JavaScript CSS Talend HTML SQL
+Category: IT

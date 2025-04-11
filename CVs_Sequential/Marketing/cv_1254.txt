@@ -1,0 +1,12 @@
+=== CV 1254 ===
+text: Kevin Paul - CV
+
+When agreement most local maybe door reality. Just tree leave act across. Argue apply agree clear discover quite new owner. New daughter real whose message stay. Each rock ground wonder generation one employee. Opportunity conference eight what. Media that window think far over fly.
+
+719 Russell Street Apt. 978, Port Tylerton, IA 05434
+cleaned_text: kevin paul - cv when agreement most local maybe door reality. just tree leave act across. argue apply agree clear discover quite new owner. new daughter real whose message stay. each rock ground wonder generation one employee. opportunity conference eight what. media that window think far over fly. 719 russell street apt. 978, port tylerton, ia 05434
+mobile_number: 462-680-6550x105
+email: dakotavazquez@payne.com
+skills: ['CSS', 'Talend', 'HTML', 'PHP', 'Power BI']
+skills_text: CSS Talend HTML PHP Power BI
+Category: Marketing

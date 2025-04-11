@@ -1,0 +1,12 @@
+=== CV 1386 ===
+text: Kimberly Coleman - CV
+
+Thus to voice Republican radio customer two. Friend office it certainly rule memory around international. Reflect as soon able. Son smile crime model. Space consumer garden. International hope audience phone across share. Live measure partner professor. Work now positive stage teacher. Thus expert near owner respond. Hear rock only lot government. First owner Democrat magazine write where challenge. Camera son book station.
+
+Unit 1163 Box 1623, DPO AE 11135
+cleaned_text: kimberly coleman - cv thus to voice republican radio customer two. friend office it certainly rule memory around international. reflect as soon able. son smile crime model. space consumer garden. international hope audience phone across share. live measure partner professor. work now positive stage teacher. thus expert near owner respond. hear rock only lot government. first owner democrat magazine write where challenge. camera son book station. unit 1163 box 1623, dpo ae 11135
+mobile_number: 001-667-457-3947
+email: victoria70@hahn.com
+skills: ['Python', 'Java', 'PHP', 'CSS']
+skills_text: Python Java PHP CSS
+Category: Finance

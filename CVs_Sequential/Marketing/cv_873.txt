@@ -1,0 +1,8 @@
+=== CV 873 ===
+text: Laura Lefevre
+cleaned_text: laura lefevre cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 44490971
+email: laura.lefevre@example.com
+skills: ['CSS', 'Management', 'Java', 'Windows', 'HTML', 'SQL']
+skills_text: CSS Management Java Windows HTML SQL
+Category: Marketing

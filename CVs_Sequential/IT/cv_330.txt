@@ -1,0 +1,166 @@
+=== CV 330 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Expérience
+2021 Stage: projet de fin d’année chez Freedom of Dev
+
+Création d’une application web de gestion des plannings des congés
+et des absences.
+(Springboot - vueJs - Vuetify )
+
+2021 Projet académique
+Création d’un forum de communication en appliquant le cycle du De-
+vops.
+(Springboot - vueJs - docker - jenkins )
+
+2021 Projet académique
+Création d’un mini-framework Php en appliquant l’architecture MVC
+et développement d’un site E-commerce à l’aide de ce mini-
+framework.
+(PHP )
+
+2020 Stage d’été chez Infinity Solutions et Engineering temps complet
+Création d’un outil d’analyse Seo et extraction des informations à par-
+tir des sites.
+(NodeJs - vueJs )
+
+2019 Projet fin d’études temps complet
+Réalisation d’un système de gestion des clubs pour la faculté des sci-
+ences économiques et de gestion de Sfax(FSEG).
+(Springboot - vueJs - ElementUi )
+
+2018 Projet Fin d’année temps complet
+Réalisation d’une platforme de gestion des festivals.
+(Laravel)
+
+2018 Stage d’été chez Pixel-Pro temps complet
+Création d’un template Wordpress pour un site d’actualités.
+(Wordpress)
+
+Formation
+2019-2022 Ingénieur en Génie Logiciel et Informatique Décisionnelle
+
+Institut International de Technologie
+2015-2019 Licence fondamentale en informatique de gestion
+
+Faculté des sciences économiques et de gestion de Sfax
+2015 Diplôme de baccalauréat
+
+Section : Mathématiques
+
+Certification
+2021 98-361:MTA: Software Development Fundamentals
+
+Langues
+
+English:
+
+French:
+
+Arabic:
+
+Boulbeba Bouaziz
+i 30/01/1996
+T 55180612 - 23180612
+@ boubeba.bouaziz@iit.ens.tn
+
+boulbebazz@yahoo.fr
+
+À Propos
+Étudiant en génie logiciel, j’ai eu la
+chance de réaliser plusieurs projets
+académiques et professionnels
+(stages et projets Freelance).Je suis à
+la recherche de nouveaux défis qui
+pourraient m’aider à acquérir plus
+d’expérience et de compétences
+professionnelles
+
+Compétences
+
+Pensée positive
+
+Communication sociale
+
+Esprit d’équipe
+
+Power BI|Talend
+
+ERP|Odoo
+
+PHP|laravel
+
+JavaScript|VueJs|Angular
+
+Android studio|Flutter|cordova
+
+IA|python|keras|Tensorflow
+
+Java|SpringBoot|JavaFx
+
+Docker|Jenkins|kubernetes
+
+
+
+cleaned_text: experience 2021 stage projet fin annee chez freedom dev creation application web gestion plannings conges absences springboot vuejs vuetify 2021 projet academique creation forum communication appliquant cycle vops springboot vuejs docker jenkins 2021 projet academique creation mini framework php appliquant architecture mvc developpement site e commerce aide mini framework php 2020 stage ete chez infinity solutions engineering temps complet creation outil analyse seo extraction informations tir sites nodejs vuejs 2019 projet fin etudes temps complet realisation systeme gestion clubs faculte sci ences economiques gestion sfax fseg springboot vuejs elementui 2018 projet fin annee temps complet realisation platforme gestion festivals laravel 2018 stage ete chez pixel pro temps complet creation template wordpress site actualites wordpress formation 2019 2022 ingenieur genie logiciel informatique decisionnelle institut international technologie 2015 2019 licence fondamentale informatique gestion faculte sciences economiques gestion sfax 2015 diplome baccalaureat section mathematiques certification 2021 98 361 mta software development fundamentals langues english french arabic boulbeba bouaziz 30 01 1996 55180612 23180612 boubeba bouaziz iit ens tn boulbebazz yahoo fr propos etudiant genie logiciel chance realiser plusieurs projets academiques professionnels stages projets freelance recherche nouveaux defis pourraient aider acquerir plus experience competences professionnelles competences pensee positive communication sociale esprit equipe power bi talend erp odoo php laravel javascript vuejs angular android studio flutter cordova ia python keras tensorflow java springboot javafx docker jenkins kubernetes
+mobile_number: 021 2021
+email: boubeba.bouaziz@iit.ens.tn
+skills: ['Php', 'Communication', 'English', 'Android', 'Wordpress', 'Seo', 'International', 'French', 'Engineering', 'Docker']
+skills_text: Php Communication English Android Wordpress Seo International French Engineering Docker
+Category: IT

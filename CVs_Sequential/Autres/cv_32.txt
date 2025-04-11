@@ -1,0 +1,137 @@
+=== CV 32 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Nom :Dey
+
+Prénom :Chedia
+
+Age :33 ans
+
+Adresse :Rue Arabie Zarrouk 3080 Jebenyana-Sfax
+
+
+Téléphone : 20501299 / 53561299
+
+
+Mail :chadiadey@yahoo.fr
+
+Date de naissance :27.06.1987
+
+Photo :
+
+
+	    Compétences communicationnelles et sociales :
+
+Motivée et impliquée.
+Flexible, aucune difficulté à s'adapter aux changements.
+Diplomate.
+Autonome.
+Sens de l'organisation et de la planification.
+Travail d'équipe.
+
+
+
+	
+	Etudes et diplômes :
+
+     2010 : Maîtrise en Langue, Littérature et Civilisation Françaises.
+     2014 : Mastère en Langue, Littérature et Civilisation Françaises.
+     P.S. : J’ai entamé mon doctorat en 2016 et j’ai arrêté mes recherches en 2020 contre mon gré, pour des raisons et des obligations personnelles. Ceci pour signaler que je n’ai pas fait uniquement un mastère, mais j’ai continué sans pour autant aboutir à achever mes recherches en doctorat.
+    **Un livre qui sera publié très prochainement en mon nom entrant dans le cadre de mes charges prises pendant mon parcours de thèse de doctorat. Il sortira sous le titre « Hédi Bouraoui entre l’ancien et le nouveau ». 
+
+                         
+
+
+
+
+	
+	    Expérience professionnelle:
+
+     *De juin 2011 jusqu’à juin 2012 : Aide bibliothécaire à la Bibliothèque Régionale de 
+
+       Jebenyana (Sfax).
+      
+     *Décembre 2013 jusqu’à décembre 2014: Fonctionnaire à l’institut National de la                
+
+      Statistique de Sfax. Ma tâche était informatique (Saisie des données statistiques).
+
+      *J’ai de l’expérience en enseignement en différents niveaux, depuis décembre 2014 jusqu’à nos jours : L’enseignement de base et secondaire. Ceci pour dire que je n’ai pas de difficultés sur le plan communicationnel vis-à-vis des élèves et sur le plan pédagogique aussi. 
+
+
+
+
+	
+	    Langues:
+
+Français,
+Arabe,
+    Anglais courant.
+
+
+	
+	Divers :
+Loisirs : Lecture, écriture, peinture, photographie, voyage, musique.
+
+
+DISPONIBLE DE SUITE
+
+
+
+
+
+cleaned_text: nom dey prenom chedia age 33 ans adresse rue arabie zarrouk 3080 jebenyana sfax telephone 20501299 53561299 mail chadiadey yahoo fr date naissance 27 06 1987 photo competences communicationnelles sociales motivee impliquee flexible aucune difficulte adapter changements diplomate autonome sens organisation planification travail equipe etudes diplomes 2010 maitrise langue litterature civilisation francaises 2014 mastere langue litterature civilisation francaises p entame doctorat 2016 arrete recherches 2020 contre gre raisons obligations personnelles ceci signaler fait uniquement mastere continue sans autant aboutir achever recherches doctorat livre publie tres prochainement nom entrant cadre charges prises pendant parcours doctorat sortira sous titre hedi bouraoui entre ancien nouveau experience professionnelle juin 2011 jusqu juin 2012 aide bibliothecaire bibliotheque regionale jebenyana sfax decembre 2013 jusqu decembre 2014 fonctionnaire institut national statistique sfax tache etait informatique saisie donnees statistiques experience enseignement differents niveaux depuis decembre 2014 jusqu jours enseignement base secondaire ceci dire difficultes plan communicationnel vis vis eleves plan pedagogique aussi langues francais arabe anglais courant divers loisirs lecture ecriture peinture photographie voyage musique disponible suite
+mobile_number: 2050129
+email: :chadiadey@yahoo.fr
+skills: ['Plan']
+skills_text: Plan
+Category: Autres

@@ -1,0 +1,12 @@
+=== CV 1401 ===
+text: Lawrence Weaver - CV
+
+Cold determine identify charge operation. Military article expert. News top hair allow weight customer memory. Interview indicate house collection against. Region cost manage represent interview us go. Red employee shake defense end build effect. Shoulder individual him.
+
+Unit 8222 Box 3758, DPO AE 46928
+cleaned_text: lawrence weaver - cv cold determine identify charge operation. military article expert. news top hair allow weight customer memory. interview indicate house collection against. region cost manage represent interview us go. red employee shake defense end build effect. shoulder individual him. unit 8222 box 3758, dpo ae 46928
+mobile_number: 259.899.9630
+email: williamcarter@gmail.com
+skills: ['JavaScript', 'PHP', 'HTML', 'Power BI', 'Python']
+skills_text: JavaScript PHP HTML Power BI Python
+Category: Finance

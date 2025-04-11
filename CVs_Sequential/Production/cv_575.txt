@@ -1,0 +1,8 @@
+=== CV 575 ===
+text: Fatima Fontaine
+cleaned_text: fatima fontaine cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 58851822
+email: fatima.fontaine@example.com
+skills: ['Adobe', 'CSS', 'C++', 'Marketing', 'Finance']
+skills_text: Adobe CSS C++ Marketing Finance
+Category: Production

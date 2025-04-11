@@ -1,0 +1,291 @@
+=== CV 354 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cvexemple.com © Tous droits réservés
+
+
+« Il faut toujours viser la lune,
+car même en cas d’échec, on
+atterrit dans les étoiles »
+
+-Oscar Wide
+
+Rourou Samar
+
+Data Scientist | Consultante BI 
+
+FORMATIONS
+
+2020-
+présente
+
+Institut Supérieur de Gestion de Tunis 
+(ISG Tunis) 
+
+• Mastère Professionnel en Data 
+Science for Business
+
+2017-2020 Institut Supérieur de Gestion de Tunis
+• Licence Appliquée en Informatique 
+
+Décisionnelle (Mention Bien)
+
+2016-2017 LYCÉE Secondaire de Bouargoub
+• Baccalauréat en Sciences de 
+
+l‘Informatique (Mention Bien)
+
+STAGES
+
+• Stage de Projet de Fin d’Etudes
+
+Exploit Consult | Février 2020 – Juin 2020 Bardo
+
+Mise en place d’une solution BI « SparkData » basée sur des
+données issues de l’ERP Odoo.
+
+• Collecte et intégration de données (ETL).
+• Elaboration des rapports Power BI et représentation
+
+interactive des données.
+• Elaboration d’un système de prédiction des pannes et
+
+de planification des maintenances.
+
+• Stage d’été 
+
+Médis Tunisie | Aout 2018 – Septembre 2018 Nabeul
+
+Stage d'initiation à la vie professionnelle au sein de 
+département informatique.
+
+• Maintenance informatique (Matériel et logiciel).
+• Participation à un projet Big Data.
+
+CERTIFICATIONS
+
+CLUB & ASSOCIATION  
+
+• Consultante Junior
+
+Smart Marketing Advisors :Junior Entreprise de ISG 
+Tunis| Novembre 2020 –Mai 2021
+
+• Participation à un projet Externe.
+• Participation à un projet Interne.
+
+• Logictics Team Member
+
+Bilder’s Club ISG | Mai 2019 – Mai 2020
+
+• Participation à des formations.
+• Préparation des évènements.
+
+23ans , célibataire
+
++216 28037099
+
+rourousamar20@gmail.com
+
+Tunis-Nabeul-Sousse
+
+2019 Institut Français de Tunisie
+
+• TensorFlow for Artificial Intelligence, Machine Learning,
+and Deep Learning
+
+coursera |ID 9N8C RS JT C PRN
+
+• Predictive Analytics with SPSS Modeler
+IBM |ID 0344-1622-1930-7983
+
+• Times Series Analysis  in python
+365 Data Science | ID cert_bxvvt6qf
+
+• Data Science avec python 
+Alphorm.com | ID 928271739
+
+• SQL
+365 Data Science | ID cert_72x3rds6
+
+• Advanced Statistical Methods in Python 
+365 Data Science  | ID cert_dvls0cxr
+
+• Tableau 
+365 Data Science  | ID cert_btpy97
+
+
+
+Talend 
+Open 
+Studio
+
+Power 
+BI
+
+IBM 
+Cognos 
+Anlytics
+
+Tableau
+
+MS BI
+
+PROJETS ACADEMIQUE
+
+Business Intelligence :
+
+COMPETENCES
+
+RESEAUX SOCIAUX
+
+https://www.linkedin.com/in/samarrourou/
+
+https://www.facebook.com/rourousamar20/
+
+https://www.instagram.com/samarr_ch/?hl=fr
+
+Langage de Programmation :
+
+Python Java
+
+Cloud Computing :
+
+Développement Web :
+
+CSS HTML
+
+Amazon Web Services
+
+Java Script
+
+SGBD :
+
+PostgreSQL MySQL SQL Server
+
+Statistiques : 
+
+R IBM SPSS Statistics IBM SPSS Modler
+
+Data Science :
+
+NLP Machine Learning Deep Learning
+
+Visualisation de données :
+
+D3.js Gephi Plotly
+
+Angular
+
+C
+
+Matplotlib
+
+• 2021 |Projet Texte Mining - Classification des CV 
+dans les secteurs d'emploi avec un résumé des 
+curriculum vitae en utilisant les techniques de l’ NLP.
+
+Mots clés : Python, NLP ,Text Mining
+
+• 2020 |Projet Text Mining - Mise en place d'un système
+de recommandation pour un site  e-commerce.      
+
+Mots clés : R studio, Text Mining ,E-commerce
+
+• 2020 |Projet Machine Learning - Système d’Aide à 
+la Décision en python.
+
+Mots clés : IA ,Machine Learning ,Pyhton ,Pandas , Numpy
+Matplotlib ,Seaborn
+
+• 2019 | Projet BI - Conception et réalisation d’un
+Data Mart pour le suivi du stock à date.
+Environnement : Talend Open Studio , Power BI 
+
+• 2019 |Projet BI - Mise en place d’un tableau de 
+bord  Pour l’entreprise Happy Land.
+Environnement : Excel ,Power BI
+
+• 2018 |Projet BI - Conception d’une Data Warehouse 
+pour l’analyse de vente des médicaments.
+
+Environnement : MySQL ,Talend Open Studio
+
+LANGUES 
+
+• Arabe : Langue maternelle
+
+• Français : Courant 
+
+• Anglais : Courant
+
+• Espagnol : Débutante
+
+CENTRE D’INTERET
+
+• Danse (Aerobic) 
+
+• Sport (Fitness/Futsal) 
+
+• Peinture
+
+https://www.linkedin.com/in/samarrourou/
+https://www.facebook.com/rourousamar20/
+https://www.instagram.com/samarr_ch/?hl=fr
+
+
+cleaned_text: cvexemple com tous droits reserves faut toujours viser lune car meme cas echec atterrit etoiles oscar wide rourou samar data scientist consultante bi formations 2020 presente institut superieur gestion tunis isg tunis mastere professionnel data science business 2017 2020 institut superieur gestion tunis licence appliquee informatique decisionnelle mention bien 2016 2017 lycee secondaire bouargoub baccalaureat sciences informatique mention bien stages stage projet fin etudes exploit consult fevrier 2020 juin 2020 bardo mise place solution bi sparkdata basee donnees issues erp odoo collecte integration donnees etl elaboration rapports power bi representation interactive donnees elaboration systeme prediction pannes planification maintenances stage ete medis tunisie aout 2018 septembre 2018 nabeul stage initiation vie professionnelle sein departement informatique maintenance informatique materiel logiciel participation projet big data certifications club association consultante junior smart marketing advisors junior entreprise isg tunis novembre 2020 mai 2021 participation projet externe participation projet interne logictics team member bilder club isg mai 2019 mai 2020 participation formations preparation evenements 23ans celibataire 216 28037099 rourousamar20 gmail com tunis nabeul sousse 2019 institut francais tunisie tensorflow artificial intelligence machine learning deep learning coursera id 9n8c rs jt prn predictive analytics spss modeler ibm id 0344 1622 1930 7983 times series analysis python 365 data science id cert bxvvt6qf data science python alphorm com id 928271739 sql 365 data science id cert 72x3rds6 advanced statistical methods python 365 data science id cert dvls0cxr tableau 365 data science id cert btpy97 talend open studio power bi ibm cognos anlytics tableau ms bi projets academique business intelligence competences reseaux sociaux https www linkedin com samarrourou https www facebook com rourousamar20 https www instagram com samarr ch hl fr langage programmation python java cloud computing developpement web css html amazon web services java script sgbd postgresql mysql sql server statistiques r ibm spss statistics ibm spss modler data science nlp machine learning deep learning visualisation donnees d3 js gephi plotly angular matplotlib 2021 projet texte mining classification cv secteurs emploi resume curriculum vitae utilisant techniques nlp mots cles python nlp text mining 2020 projet text mining mise place systeme recommandation site e commerce mots cles r studio text mining e commerce 2020 projet machine learning systeme aide decision python mots cles ia machine learning pyhton pandas numpy matplotlib seaborn 2019 projet bi conception realisation data mart suivi stock date environnement talend open studio power bi 2019 projet bi mise place tableau bord entreprise happy land environnement excel power bi 2018 projet bi conception data warehouse analyse vente medicaments environnement mysql talend open studio langues arabe langue maternelle francais courant anglais courant espagnol debutante centre interet danse aerobic sport fitness futsal peinture https www linkedin com samarrourou https www facebook com rourousamar20 https www instagram com samarr ch hl fr
+mobile_number: 216 2803709
+email: rourousamar20@gmail.com
+skills: ['Ibm', 'Tensorflow', 'Numpy', 'Tableau', 'Excel', 'Html', 'Mysql', 'Seaborn', 'Matplotlib', 'Marketing', 'Cloud', 'Fitness', 'Etl', 'Sql', 'Css', 'Analytics', 'Interactive', 'Pandas', 'Python', 'Analysis', 'R', 'Machine learning', 'Postgresql', 'Warehouse', 'Mining', 'C', 'Java', 'Statistics']
+skills_text: Ibm Tensorflow Numpy Tableau Excel Html Mysql Seaborn Matplotlib Marketing Cloud Fitness Etl Sql Css Analytics Interactive Pandas Python Analysis R Machine learning Postgresql Warehouse Mining C Java Statistics
+Category: IT

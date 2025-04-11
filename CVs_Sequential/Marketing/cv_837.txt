@@ -1,0 +1,8 @@
+=== CV 837 ===
+text: Nadia Moreau
+cleaned_text: nadia moreau cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 42366377
+email: nadia.moreau@example.com
+skills: ['HTML', 'Linux', 'Adobe', 'SQL', 'Windows', 'Java']
+skills_text: HTML Linux Adobe SQL Windows Java
+Category: Marketing

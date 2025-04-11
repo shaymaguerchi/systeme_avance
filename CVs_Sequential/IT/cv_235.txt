@@ -1,0 +1,329 @@
+=== CV 235 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CV TSP Fr
+
+
+Bac scientifique Sciences de l'Ingénieur, mention très bien
+
+CERTIFICAT
+
+RÉSUMÉ
+
+TOPIK niveau 2 - certificat de coréen. En cours de préparation pour le niveau 3
+
+Étudiante en école d'ingénieur, je suis à la recherche d'un stage dans le machine learning,
+
+dans le domaine de data science/machine learning pour le mois de juillet 2022.
+
+Linkedin.com/in/aya-jafri Paris, Région parisienne
+
+06 51 32 58 68 aya.jafri@telecom-sudparis.eu
+
+Aya JAFRI
+Étudiante à Télécom SudParis - IP Paris
+
+EXPÉRIENCE PROFESSIONNELLE
+
+CAL&F - Crédit Agricole Leasing & Factoring
+
+CACIB - Crédit Agricole Corporate and Investment Bank
+
+JUILLET 2020
+
+AOÛT 2019
+
+AUXILIAIRE D'ÉTÉ
+
+Relance des acheteurs via des appels téléphoniques
+
+selon un planning préétabli au pôle service du
+
+recouvrement affacturage 
+
+AUXILIAIRE D'ÉTÉ
+
+Comptabilité : saisie d'OD au pôle Operations & Country
+
+COO's (activités de Financement et d'Investissement du
+
+réseau international)
+
+Télécom SudParis, Institut Polytechnique, Evry
+
+Lycée Hoche, Versailles
+
+2021 - 2024
+
+2019 - 2021
+
+GRANDE ÉCOLE D'INGÉNIEUR
+
+Mathématiques, statistiques, probabilités
+
+Java, Bash, base de données, optimisation
+
+Hyperfréquences, réseaux, télécommunications
+
+Langues, management
+
+CLASSES PRÉPARATOIRES AUX GRANDES ÉCOLES
+
+1ère année : MPSI
+
+2e année : MP
+
+PARCOURS SCOLAIRE
+
+Lycée Viollet-le-Duc, Villiers St-Frédéric
+
+2016 - 2019 LYCÉE
+
+COMPÉTENCES
+
+Bureautique Microsoft
+
+(Word, Excel, PowerPoint)
+
+Bash 
+
+Java
+
+Python 
+
+LANGUES
+
+Français : langue maternelle
+
+Anglais : niveau C1-C2
+
+Coréen : niveau B1
+
+Arabe : niveau A1 
+
+CENTRES D'INTÉRÊTS
+
+Présidente du club finance
+
+FIMTECH et membre du pôle
+
+communication et du pôle
+
+trading algorithmique
+
+Participation à l'épicerie
+
+solidaire du campus
+
+EPICER'INT
+
+PROJETS
+
+Chef du projet GATE® Just
+
+Pitch'it collaborant avec
+
+VocaCoach : constitution d'une
+
+base de données pour une
+
+application d'entraînement à
+
+l'expression orale
+
+Projet informatique : site web
+
+de réservation de plats au
+
+restaurant du campus.
+
+
+
+Science baccalaureate, engineering science, with distinction.
+
+CERTIFICATES
+
+INTRODUCTION
+
+TOPIK level 2 - test of proficiency in Korean. Currently preparing for the level 3.
+
+First year student in an engineering school in France, I am currently looking for an
+
+internship in Data science/Machine learning for this summer 2022.
+
+Linkedin.com/in/aya-jafri
+
+Paris
+
++(33) 6 51 32 58 68
+
+aya.jafri@telecom-sudparis.eu
+
+Aya JAFRI
+Student at Télécom SudParis - IP Paris
+
+PROFESSIONAL EXPERIENCES
+
+CAL&F - Crédit Agricole Leasing & Factoring
+
+CACIB - Crédit Agricole Corporate and Investment Bank
+
+JULY 2020
+
+AUGUST 2019
+
+ASSISTANT IN A BANK HEAD OFFICE
+
+Restarted clients via phone calls while following a
+
+set schedule in the collection and factoring firm.
+
+ASSISTANT IN A BANK HEAD OFFICE
+
+Accounting: entered miscellaneous transactions in the
+
+Operations & Country COO's field (financial and
+
+investment activity)
+
+Télécom SudParis, Polytechnique Institute, Evry
+
+Hoche, Versailles
+
+2021 - 2024
+
+2019 - 2021
+
+SELECTIVE ENGINEERING SCHOOL
+
+Mathematics, statistics, probabilities
+
+Java, Bash, database, optimisation
+
+Physics, networks, telecommunication
+
+Languages(English, Korean, Arabic), management
+
+PREPARATORY CLASSES 
+
+1st year : MPSI (Mathematics, Physics, Engineering Science)
+
+2nd year : MP (Math, Physics)
+
+EDUCATION
+
+Viollet-le-Duc High School, Villiers St-Frédéric
+
+2016 - 2019 HIGH SCHOOL
+
+SKILLS
+
+Microsoft office tools
+
+(Word, Excel, PowerPoint)
+
+Bash 
+
+Java
+
+Python 
+
+LANGUAGES
+
+French : Mother tongue
+
+English : C1-C2 level 
+
+Korean : B1 level
+
+Arabic : A1 level 
+
+VOLUNTEERING
+
+President of the school
+
+finance club FIMTECH and
+
+part of the communication
+
+and trading algorithm
+
+Part of the school solidarity
+
+grocery EPICER'INT
+
+SCHOOL PROJECTS
+
+Manager of the GATE® project
+
+Just Pitch'it collaborating with
+
+VocaCoach : setting up of a
+
+database for an oral expression
+
+training app 
+
+IT project : food reservation
+
+website of the campus
+
+restaurant.
+
+
+
+cleaned_text: cv tsp fr bac scientifique sciences ingenieur mention tres bien certificat resume topik niveau 2 certificat coreen cours preparation niveau 3 etudiante ecole ingenieur recherche stage machine learning domaine data science machine learning mois juillet 2022 linkedin com aya jafri paris region parisienne 06 51 32 58 68 aya jafri telecom sudparis aya jafri etudiante telecom sudparis ip paris experience professionnelle cal f credit agricole leasing factoring cacib credit agricole corporate investment bank juillet 2020 aout 2019 auxiliaire ete relance acheteurs via appels telephoniques selon planning preetabli pole service recouvrement affacturage auxiliaire ete comptabilite saisie od pole operations country coo activites financement investissement reseau international telecom sudparis institut polytechnique evry lycee hoche versailles 2021 2024 2019 2021 grande ecole ingenieur mathematiques statistiques probabilites java bash base donnees optimisation hyperfrequences reseaux telecommunications langues management classes preparatoires grandes ecoles 1ere annee mpsi 2e annee mp parcours scolaire lycee viollet duc villiers st frederic 2016 2019 lycee competences bureautique microsoft word excel powerpoint bash java python langues francais langue maternelle anglais niveau c1 c2 coreen niveau b1 arabe niveau a1 centres interets presidente club finance fimtech membre pole communication pole trading algorithmique participation epicerie solidaire campus epicer int projets chef projet gate r pitch collaborant vocacoach constitution base donnees application entrainement expression orale projet informatique site web reservation plats restaurant campus science baccalaureate engineering science distinction certificates introduction topik level 2 test proficiency korean currently preparing level 3 first year student engineering school france currently looking internship data science machine learning summer 2022 linkedin com aya jafri paris 33 6 51 32 58 68 aya jafri telecom sudparis aya jafri student telecom sudparis ip paris professional experiences cal f credit agricole leasing factoring cacib credit agricole corporate investment bank july 2020 august 2019 assistant bank head office restarted clients via phone calls following set schedule collection factoring firm assistant bank head office accounting entered miscellaneous transactions operations country coo field financial investment activity telecom sudparis polytechnique institute evry hoche versailles 2021 2024 2019 2021 selective engineering school mathematics statistics probabilities java bash database optimisation physics networks telecommunication languages english korean arabic management preparatory classes 1st year mpsi mathematics physics engineering science 2nd year mp math physics education viollet duc high school villiers st frederic 2016 2019 high school skills microsoft office tools word excel powerpoint bash java python languages french mother tongue english c1 c2 level korean b1 level arabic a1 level volunteering president school finance club fimtech part communication trading algorithm part school solidarity grocery epicer int school projects manager gate r project pitch collaborating vocacoach setting database oral expression training app project food reservation website campus restaurant
+mobile_number: 0
+email: aya.jafri@telecom-sudparis.eu
+skills: ['Excel', 'English', 'Physics', 'Phone calls', 'Transactions', 'Word', 'Communication', 'Database', 'French', 'Engineering', 'Python', 'Finance', 'International', 'Accounting', 'Training', 'Website', 'Math', 'Mathematics', 'Operations', 'Powerpoint', 'Schedule', 'Java', 'Statistics']
+skills_text: Excel English Physics Phone calls Transactions Word Communication Database French Engineering Python Finance International Accounting Training Website Math Mathematics Operations Powerpoint Schedule Java Statistics
+Category: IT

@@ -1,0 +1,8 @@
+=== CV 456 ===
+text: Nadia Fontaine
+cleaned_text: nadia fontaine cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 39708168
+email: nadia.fontaine@example.com
+skills: ['Linux', 'SQL', 'Windows']
+skills_text: Linux SQL Windows
+Category: Production

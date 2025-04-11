@@ -1,0 +1,12 @@
+=== CV 1174 ===
+text: Anna Jones - CV
+
+Indicate ask rest brother. Republican here popular difficult area. Discussion event week factor increase. Conference since force control knowledge. Their that red reality item writer. Similar special about above.
+
+479 Rachel Streets, Port Taylor, NJ 91620
+cleaned_text: anna jones - cv indicate ask rest brother. republican here popular difficult area. discussion event week factor increase. conference since force control knowledge. their that red reality item writer. similar special about above. 479 rachel streets, port taylor, nj 91620
+mobile_number: 7936927859
+email: garretteddie@gordon.com
+skills: ['JavaScript', 'C++', 'SQL', 'Power BI', 'Java']
+skills_text: JavaScript C++ SQL Power BI Java
+Category: HR

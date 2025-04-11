@@ -1,0 +1,153 @@
+=== CV 255 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+souhail dahmeni
+
+
+Python, Java
+HTML CSS  PHP XML
+Power Bi StarUML Odoo
+SQL PL/SQL MongoDB
+Android studio (java)
+Google cloud platform
+excel, powerpoint, access
+
+COMPÉTENCES CLÉS :
+
+E-mail : souhaildahmeni8@gmail.com 
+Téléphone : 52176025
+Adresse : 30 rue des jamsins , ain
+zaghouan.
+linkedin: linkedin.com/in/souhail-
+dahmeni
+
+CONTACTEZ-MOI :
+
+SOUHAIL
+DAHMENI
+
+ETUDIANT EN
+BUSINESS
+INTELLIGENCE
+
+EDUCATION :
+
+2020 - Present : Google Developers
+Students Club - membre departement
+machine learning.
+2019 - 2020 : Info Plus - chef d'équipe
+sponsoring. 
+
+VIE ASSOCIATIVE :
+
+Français : moyen
+
+Anglais : avancé
+
+Certifications :
+
+BigQuery Basics for Data Analysts : GCP
+ 
+
+Security identity fundamentals :GCP
+
+Build and Secure Networks in Google Cloud
+
+Arabe : langue maternelle
+
+Centres d'interets :
+
+jeux vidéos
+
+ 2016 - 2019  : Baccalauréat en économie
+gestion. Lycée l'Aouina.
+
+2019 : Present : Licence en Business
+intelligence : Faculté des sciences
+économiques et de gestion de tunis.
+
+Data science
+
+économie mondiale
+
+Allemand: debutant
+
+PROFIL :
+
+Extrêmement motivé pour développer
+constamment mes compétences. très
+intéressé du domaine . Actuellement à
+la recherche d'une opportunité de
+stage pfe.
+
+PROJETS ACADEMIQUES :
+
+Conception et développement d'un site
+web pour une salle de sport : HTML - CSS -
+
+STARUML - PHP - MYSQL
+
+Projet de mise à jour des tableaux de
+bord des cas corona découverts en
+Turquie : Power BI - SQL developer
+
+LANGUES :
+
+https://www.qwiklabs.com/quests/128?catalog_rank=%7B%22rank%22%3A5%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=12326170
+
+
+cleaned_text: souhail dahmeni python java html css php xml power bi staruml odoo sql pl sql mongodb android studio java google cloud platform excel powerpoint access competences cles e mail souhaildahmeni8 gmail com telephone 52176025 adresse 30 rue jamsins zaghouan linkedin linkedin com souhail dahmeni contactez souhail dahmeni etudiant business intelligence education 2020 present google developers students club membre departement machine learning 2019 2020 info plus chef equipe sponsoring vie associative francais moyen anglais avance certifications bigquery basics data analysts gcp security identity fundamentals gcp build secure networks google cloud arabe langue maternelle centres interets jeux videos 2016 2019 baccalaureat economie gestion lycee aouina 2019 present licence business intelligence faculte sciences economiques gestion tunis data science economie mondiale allemand debutant profil extremement motive developper constamment competences tres interesse domaine actuellement recherche opportunite stage pfe projets academiques conception developpement site web salle sport html css staruml php mysql projet mise jour tableaux bord cas corona decouverts turquie power bi sql developer langues https www qwiklabs com quests 128 catalog rank 7b 22rank 22 3a5 2c 22num filters 22 3a1 2c 22has search 22 3atrue 7d search id 12326170
+mobile_number: 5217602
+email: souhaildahmeni8@gmail.com
+skills: ['Php', 'Excel', 'Android', 'Html', 'Mysql', 'Sql', 'Security', 'Python', 'Css', 'Powerpoint', 'Xml', 'Access', 'Cloud', 'Business intelligence', 'Java']
+skills_text: Php Excel Android Html Mysql Sql Security Python Css Powerpoint Xml Access Cloud Business intelligence Java
+Category: IT

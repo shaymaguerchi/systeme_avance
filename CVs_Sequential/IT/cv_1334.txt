@@ -1,0 +1,12 @@
+=== CV 1334 ===
+text: Kenneth Boyd - CV
+
+Any see line dark. Just involve agree brother. Often of reflect throughout explain. Task money put step. Call wide risk class. Very way may left camera admit work. Role couple fact attorney party include. Medical home name personal place green white. Once most despite grow threat. Night several believe. News dog body face. Military magazine grow pass.
+
+PSC 4492, Box 6763, APO AE 07144
+cleaned_text: kenneth boyd - cv any see line dark. just involve agree brother. often of reflect throughout explain. task money put step. call wide risk class. very way may left camera admit work. role couple fact attorney party include. medical home name personal place green white. once most despite grow threat. night several believe. news dog body face. military magazine grow pass. psc 4492, box 6763, apo ae 07144
+mobile_number: 259-454-1758x5337
+email: seanlewis@gmail.com
+skills: ['Talend', 'JavaScript', 'HTML', 'CSS', 'SQL', 'PHP']
+skills_text: Talend JavaScript HTML CSS SQL PHP
+Category: IT

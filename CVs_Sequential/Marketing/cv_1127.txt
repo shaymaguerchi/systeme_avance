@@ -1,0 +1,12 @@
+=== CV 1127 ===
+text: Jennifer Anderson - CV
+
+Small company air population cultural second trade TV. Nice fill born million try affect. Speak heart together. Learn step truth however defense student per. Large behind sort part kid. Modern together society evidence. Shoulder agree table along trade.
+
+91829 Jones Road, South Tiffany, NM 97321
+cleaned_text: jennifer anderson - cv small company air population cultural second trade tv. nice fill born million try affect. speak heart together. learn step truth however defense student per. large behind sort part kid. modern together society evidence. shoulder agree table along trade. 91829 jones road, south tiffany, nm 97321
+mobile_number: 409.847.7091x836
+email: medinamatthew@jackson.net
+skills: ['PHP', 'Python', 'C++']
+skills_text: PHP Python C++
+Category: Marketing

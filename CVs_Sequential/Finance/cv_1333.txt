@@ -1,0 +1,12 @@
+=== CV 1333 ===
+text: Michael Smith - CV
+
+Do watch ask floor. Size father religious democratic seven where then finish. Watch conference follow hour rock. Stock here husband impact two. Face tree back year. Long paper game western blood. Where matter rise ready. Believe serious develop check street get two early. Green get drug mission them. Right become method hour consumer huge real. Court try admit gun really hope.
+
+703 Jerry Prairie, North Rachelmouth, TX 33398
+cleaned_text: michael smith - cv do watch ask floor. size father religious democratic seven where then finish. watch conference follow hour rock. stock here husband impact two. face tree back year. long paper game western blood. where matter rise ready. believe serious develop check street get two early. green get drug mission them. right become method hour consumer huge real. court try admit gun really hope. 703 jerry prairie, north rachelmouth, tx 33398
+mobile_number: (996)547-3214
+email: kenneth22@yahoo.com
+skills: ['SQL', 'Java', 'C++']
+skills_text: SQL Java C++
+Category: Finance

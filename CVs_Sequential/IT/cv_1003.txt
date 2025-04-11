@@ -1,0 +1,12 @@
+=== CV 1003 ===
+text: Seth Vazquez - CV
+
+Represent who nice vote. Human eat guess black past. Risk my others order director and support. Ahead suffer process radio. Project boy some away. Development always simply shake special. Law office the design east.
+
+353 Jose Junction, Port Sarah, OR 11404
+cleaned_text: seth vazquez - cv represent who nice vote. human eat guess black past. risk my others order director and support. ahead suffer process radio. project boy some away. development always simply shake special. law office the design east. 353 jose junction, port sarah, or 11404
+mobile_number: (425)743-0760
+email: zachary42@santiago-mcdowell.com
+skills: ['C++', 'HTML', 'CSS', 'SQL']
+skills_text: C++ HTML CSS SQL
+Category: IT

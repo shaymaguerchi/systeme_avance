@@ -1,0 +1,8 @@
+=== CV 435 ===
+text: Karim Roche
+cleaned_text: karim roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 51800975
+email: karim.roche@example.com
+skills: ['SQL', 'Python', 'Java', 'Finance', 'Marketing']
+skills_text: SQL Python Java Finance Marketing
+Category: Production

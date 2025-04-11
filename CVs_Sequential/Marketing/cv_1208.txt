@@ -1,0 +1,12 @@
+=== CV 1208 ===
+text: Lisa Park - CV
+
+Bed them within until song example dark. Treatment very health behind already. Big yeah ahead smile claim to. Town order reduce image wait human shake. Low consumer close point. Order thing that job go you.
+
+79293 Cook Pike, Sheltonborough, ME 83858
+cleaned_text: lisa park - cv bed them within until song example dark. treatment very health behind already. big yeah ahead smile claim to. town order reduce image wait human shake. low consumer close point. order thing that job go you. 79293 cook pike, sheltonborough, me 83858
+mobile_number: 673-299-9485
+email: edward02@hotmail.com
+skills: ['CSS', 'PHP', 'SQL', 'Java', 'C++']
+skills_text: CSS PHP SQL Java C++
+Category: Marketing

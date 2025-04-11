@@ -1,0 +1,8 @@
+=== CV 475 ===
+text: Karim Girard
+cleaned_text: karim girard cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 94660337
+email: karim.girard@example.com
+skills: ['Windows', 'Adobe', 'SQL']
+skills_text: Windows Adobe SQL
+Category: IT

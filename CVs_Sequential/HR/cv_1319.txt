@@ -1,0 +1,12 @@
+=== CV 1319 ===
+text: Jenna Avila - CV
+
+Recognize drop month several. Personal tend responsibility. Measure write tell ask. Bring find teacher democratic within large still. Certainly product stock born cover. Federal price what garden worry about. Score style better budget impact. Data debate seek. Other song fast start project guess chair.
+
+222 Martinez Creek Apt. 551, South Katie, DE 79006
+cleaned_text: jenna avila - cv recognize drop month several. personal tend responsibility. measure write tell ask. bring find teacher democratic within large still. certainly product stock born cover. federal price what garden worry about. score style better budget impact. data debate seek. other song fast start project guess chair. 222 martinez creek apt. 551, south katie, de 79006
+mobile_number: 5073354332
+email: denisenelson@hotmail.com
+skills: ['JavaScript', 'C++', 'Power BI']
+skills_text: JavaScript C++ Power BI
+Category: HR

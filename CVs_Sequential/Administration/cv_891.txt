@@ -1,0 +1,8 @@
+=== CV 891 ===
+text: Hugo Roche
+cleaned_text: hugo roche cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 32102442
+email: hugo.roche@example.com
+skills: ['C++', 'Python', 'Java', 'Marketing', 'Windows', 'Linux']
+skills_text: C++ Python Java Marketing Windows Linux
+Category: Administration

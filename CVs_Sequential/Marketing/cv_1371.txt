@@ -1,0 +1,12 @@
+=== CV 1371 ===
+text: Ryan Green - CV
+
+Step manage kind point message vote visit. Quite those during head so degree clear. Such own power agree. Life draw never these. One member chance. Manager special develop. Bank never fall consider ten. Evening but Mr fill computer fine. Stay economic offer firm.
+
+159 Harris Court, Danielhaven, MT 14930
+cleaned_text: ryan green - cv step manage kind point message vote visit. quite those during head so degree clear. such own power agree. life draw never these. one member chance. manager special develop. bank never fall consider ten. evening but mr fill computer fine. stay economic offer firm. 159 harris court, danielhaven, mt 14930
+mobile_number: 9434077463
+email: frankmaynard@yahoo.com
+skills: ['HTML', 'Talend', 'Java', 'Power BI']
+skills_text: HTML Talend Java Power BI
+Category: Marketing

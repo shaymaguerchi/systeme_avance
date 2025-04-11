@@ -1,0 +1,8 @@
+=== CV 730 ===
+text: Nadia Fontaine
+cleaned_text: nadia fontaine cv formation academique licence domaine specialise gestion informatique ...
+mobile_number: +216 81307170
+email: nadia.fontaine@example.com
+skills: ['Python', 'Java', 'HTML', 'Marketing']
+skills_text: Python Java HTML Marketing
+Category: Administration

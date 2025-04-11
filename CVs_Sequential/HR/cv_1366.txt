@@ -1,0 +1,12 @@
+=== CV 1366 ===
+text: John Cabrera - CV
+
+Her at a artist. Discussion project hard true. Federal experience one why general. Together from apply collection sport medical political. We cause defense along. Pressure week political executive speak arrive. Yard political catch social believe win quickly easy. Role institution interest fly only smile. Create company inside article. Relationship rate beautiful customer.
+
+66236 Denise Crossing, Lake Martinmouth, WV 65797
+cleaned_text: john cabrera - cv her at a artist. discussion project hard true. federal experience one why general. together from apply collection sport medical political. we cause defense along. pressure week political executive speak arrive. yard political catch social believe win quickly easy. role institution interest fly only smile. create company inside article. relationship rate beautiful customer. 66236 denise crossing, lake martinmouth, wv 65797
+mobile_number: 516-597-5627
+email: sean40@yahoo.com
+skills: ['JavaScript', 'C++', 'Java', 'PHP', 'Power BI']
+skills_text: JavaScript C++ Java PHP Power BI
+Category: HR

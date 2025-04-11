@@ -1,0 +1,125 @@
+=== CV 117 ===
+text: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 
+
+ 
+
+Curriculum vitae 
+* NOM: Sdiri 
+* PRENOM: Aymen 
+* DATE DE NAISSANCE: 03/08/1996 
+* NATIONALITE: Tunisienne 
+* ETAT CIVILE : Célibataire 
+* @ Mail : sdiriaymen38@gmail.com 
+* ADRESSE : 06 Impasse Hergla Borj Louzir Ariana 2073 
+* TEL : +216 94 454 023 
+ 
+
+Etudes et Formations: 
+
+ *2021 : Certificats en IBM digital.   
+
+* 2021 : formation en langue section français.   
+* 2019 : Licence appliquée en logistique et transport à ISET Charguia. 
+* 2019 : Certificats en HP LIFE. 
+* 2019 : Certificat en flexim à Sup’Com Ghazala. 
+* 2016 : Baccalauréat section économie et gestion. 
+
+Stages et Expériences : 
+
+*18/02/2019 à 31/05/2019 : Stage PFE « Projet fin d’études »  au sein de 
+« CTN ». 
+
+*08/01/2018 à 02/02/2018 : Stage de perfectionnement à « Alpha Transit 
+Services » commissionnaire agréé en douane. 
+ 
+
+ 
+
+* 02/01/2017 à 02/02/2017 : Stage initiative au sein de la banque « Best Lease » 
+ 
+
+Connaissances Informatiques : * Suite office (Word, Excel, PowerPoint...) 
+* Navigation internet 
+
+Langues : *Arabe : Native 
+ *Français : écrit, lu et parlé 
+ *Anglais : écrit, lu et parlé 
+
+Divers : * regarder les films, jardinage, Suivre les actualités, écoutes les Musique. 
+
+
+	UCurriculum vitae
+	UEtudes et Formations:
+	*2021 : Certificats en IBM digital.
+	* 2021 : formation en langue section français.
+	UStages et Expériences :
+	UConnaissances Informatiques :U * Suite office (Word, Excel, PowerPoint...)
+
+
+cleaned_text: 1 curriculum vitae nom sdiri prenom aymen date naissance 03 08 1996 nationalite tunisienne etat civile celibataire mail sdiriaymen38 gmail com adresse 06 impasse hergla borj louzir ariana 2073 tel 216 94 454 023 etudes formations 2021 certificats ibm digital 2021 formation langue section francais 2019 licence appliquee logistique transport iset charguia 2019 certificats hp life 2019 certificat flexim sup com ghazala 2016 baccalaureat section economie gestion stages experiences 18 02 2019 31 05 2019 stage pfe projet fin etudes sein ctn 08 01 2018 02 02 2018 stage perfectionnement alpha transit services commissionnaire agree douane 02 01 2017 02 02 2017 stage initiative sein banque best lease connaissances informatiques suite office word excel powerpoint navigation internet langues arabe native francais ecrit lu parle anglais ecrit lu parle divers regarder films jardinage suivre actualites ecoutes musique ucurriculum vitae uetudes formations 2021 certificats ibm digital 2021 formation langue section francais ustages experiences uconnaissances informatiques u suite office word excel powerpoint
+mobile_number: 0
+email: sdiriaymen38@gmail.com
+skills: ['Ibm', 'Transport', 'Excel', 'Powerpoint', 'Word']
+skills_text: Ibm Transport Excel Powerpoint Word
+Category: Administratif
