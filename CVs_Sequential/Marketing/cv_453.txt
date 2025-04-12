@@ -1,8 +1,0 @@
-=== CV 453 ===
-text: Jean Lambert
-cleaned_text: jean lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 71989725
-email: jean.lambert@example.com
-skills: ['Marketing', 'Adobe', 'SQL', 'Management']
-skills_text: Marketing Adobe SQL Management
-Category: Marketing

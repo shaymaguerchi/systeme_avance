@@ -1,8 +1,0 @@
-=== CV 696 ===
-text: Sophie Mokhtar
-cleaned_text: sophie mokhtar cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 97456214
-email: sophie.mokhtar@example.com
-skills: ['Java', 'Windows', 'Marketing', 'Python', 'C++']
-skills_text: Java Windows Marketing Python C++
-Category: Production

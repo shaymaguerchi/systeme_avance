@@ -1,8 +1,0 @@
-=== CV 820 ===
-text: Nadia Dupont
-cleaned_text: nadia dupont cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 30898680
-email: nadia.dupont@example.com
-skills: ['Finance', 'CSS', 'Management', 'SQL', 'Java', 'Linux']
-skills_text: Finance CSS Management SQL Java Linux
-Category: Finance

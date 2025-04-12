@@ -1,8 +1,0 @@
-=== CV 780 ===
-text: Ahmed Girard
-cleaned_text: ahmed girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 79768436
-email: ahmed.girard@example.com
-skills: ['Marketing', 'Linux', 'HTML']
-skills_text: Marketing Linux HTML
-Category: Design

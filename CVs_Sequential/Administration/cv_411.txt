@@ -1,8 +1,0 @@
-=== CV 411 ===
-text: Nadia Mokhtar
-cleaned_text: nadia mokhtar cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 87535449
-email: nadia.mokhtar@example.com
-skills: ['Python', 'Linux', 'Marketing']
-skills_text: Python Linux Marketing
-Category: Administration

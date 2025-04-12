@@ -1,8 +1,0 @@
-=== CV 433 ===
-text: Karim Boussaid
-cleaned_text: karim boussaid cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 42477225
-email: karim.boussaid@example.com
-skills: ['Linux', 'Java', 'HTML', 'Python', 'C++', 'Windows']
-skills_text: Linux Java HTML Python C++ Windows
-Category: Administration

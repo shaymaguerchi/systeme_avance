@@ -1,8 +1,0 @@
-=== CV 436 ===
-text: Ahmed Lambert
-cleaned_text: ahmed lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 54925682
-email: ahmed.lambert@example.com
-skills: ['C++', 'CSS', 'Linux', 'Adobe', 'HTML']
-skills_text: C++ CSS Linux Adobe HTML
-Category: Administration

@@ -1,8 +1,0 @@
-=== CV 478 ===
-text: Jean Lambert
-cleaned_text: jean lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 57286890
-email: jean.lambert@example.com
-skills: ['Windows', 'Management', 'HTML', 'Finance', 'Linux']
-skills_text: Windows Management HTML Finance Linux
-Category: Production

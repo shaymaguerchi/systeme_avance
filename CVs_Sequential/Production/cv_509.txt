@@ -1,8 +1,0 @@
-=== CV 509 ===
-text: Hugo Girard
-cleaned_text: hugo girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 36216772
-email: hugo.girard@example.com
-skills: ['Python', 'Java', 'Linux', 'Management']
-skills_text: Python Java Linux Management
-Category: Production

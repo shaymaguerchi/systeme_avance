@@ -1,8 +1,0 @@
-=== CV 470 ===
-text: Isabelle Moreau
-cleaned_text: isabelle moreau cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 25395236
-email: isabelle.moreau@example.com
-skills: ['Adobe', 'Python', 'SQL', 'Linux', 'Finance']
-skills_text: Adobe Python SQL Linux Finance
-Category: Design

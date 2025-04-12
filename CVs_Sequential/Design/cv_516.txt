@@ -1,8 +1,0 @@
-=== CV 516 ===
-text: Jean Boussaid
-cleaned_text: jean boussaid cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 99015264
-email: jean.boussaid@example.com
-skills: ['HTML', 'Marketing', 'Finance', 'Management', 'Adobe', 'Java']
-skills_text: HTML Marketing Finance Management Adobe Java
-Category: Design

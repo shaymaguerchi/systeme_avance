@@ -1,8 +1,0 @@
-=== CV 851 ===
-text: Ahmed Mokhtar
-cleaned_text: ahmed mokhtar cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 86066714
-email: ahmed.mokhtar@example.com
-skills: ['SQL', 'C++', 'HTML', 'Python', 'Windows', 'Linux']
-skills_text: SQL C++ HTML Python Windows Linux
-Category: Design

@@ -1,8 +1,0 @@
-=== CV 608 ===
-text: Karim Ben Ali
-cleaned_text: karim ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 31844523
-email: karim.ben ali@example.com
-skills: ['Marketing', 'HTML', 'Java', 'Management', 'Adobe']
-skills_text: Marketing HTML Java Management Adobe
-Category: Administration

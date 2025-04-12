@@ -1,8 +1,0 @@
-=== CV 762 ===
-text: Sophie Moreau
-cleaned_text: sophie moreau cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 22479975
-email: sophie.moreau@example.com
-skills: ['CSS', 'Adobe', 'Finance', 'Java', 'Linux', 'Windows']
-skills_text: CSS Adobe Finance Java Linux Windows
-Category: Marketing

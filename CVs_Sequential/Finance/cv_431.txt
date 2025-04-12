@@ -1,8 +1,0 @@
-=== CV 431 ===
-text: Laura Girard
-cleaned_text: laura girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 40202178
-email: laura.girard@example.com
-skills: ['Finance', 'C++', 'Python', 'Marketing']
-skills_text: Finance C++ Python Marketing
-Category: Finance

@@ -1,8 +1,0 @@
-=== CV 712 ===
-text: Hugo Lambert
-cleaned_text: hugo lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 21378508
-email: hugo.lambert@example.com
-skills: ['Java', 'SQL', 'Management', 'CSS']
-skills_text: Java SQL Management CSS
-Category: Administration

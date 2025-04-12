@@ -1,8 +1,0 @@
-=== CV 865 ===
-text: Fatima Girard
-cleaned_text: fatima girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 61958710
-email: fatima.girard@example.com
-skills: ['C++', 'Finance', 'Java']
-skills_text: C++ Finance Java
-Category: IT

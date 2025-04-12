@@ -1,8 +1,0 @@
-=== CV 849 ===
-text: Jean Roche
-cleaned_text: jean roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 33874532
-email: jean.roche@example.com
-skills: ['Linux', 'Python', 'Adobe', 'SQL']
-skills_text: Linux Python Adobe SQL
-Category: Administration

@@ -1,8 +1,0 @@
-=== CV 465 ===
-text: Ahmed Lefevre
-cleaned_text: ahmed lefevre cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 21060756
-email: ahmed.lefevre@example.com
-skills: ['Python', 'Windows', 'C++', 'Linux', 'SQL']
-skills_text: Python Windows C++ Linux SQL
-Category: Finance

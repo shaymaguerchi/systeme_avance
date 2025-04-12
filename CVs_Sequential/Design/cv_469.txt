@@ -1,8 +1,0 @@
-=== CV 469 ===
-text: Fatima Roche
-cleaned_text: fatima roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 69136238
-email: fatima.roche@example.com
-skills: ['Management', 'Adobe', 'Python', 'SQL', 'HTML', 'CSS']
-skills_text: Management Adobe Python SQL HTML CSS
-Category: Design

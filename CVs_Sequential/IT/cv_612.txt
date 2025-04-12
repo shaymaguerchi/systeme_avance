@@ -1,8 +1,0 @@
-=== CV 612 ===
-text: Nadia Boussaid
-cleaned_text: nadia boussaid cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 33078272
-email: nadia.boussaid@example.com
-skills: ['Marketing', 'Linux', 'SQL', 'Windows', 'C++']
-skills_text: Marketing Linux SQL Windows C++
-Category: IT

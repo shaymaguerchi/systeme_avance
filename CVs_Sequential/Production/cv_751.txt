@@ -1,8 +1,0 @@
-=== CV 751 ===
-text: Karim Ben Ali
-cleaned_text: karim ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 73210351
-email: karim.ben ali@example.com
-skills: ['HTML', 'C++', 'Management', 'Linux']
-skills_text: HTML C++ Management Linux
-Category: Production

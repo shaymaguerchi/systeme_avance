@@ -1,8 +1,0 @@
-=== CV 500 ===
-text: Mohamed Dupont
-cleaned_text: mohamed dupont cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 61231300
-email: mohamed.dupont@example.com
-skills: ['Finance', 'C++', 'Linux', 'SQL', 'Management']
-skills_text: Finance C++ Linux SQL Management
-Category: Design

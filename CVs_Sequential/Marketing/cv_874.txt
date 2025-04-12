@@ -1,8 +1,0 @@
-=== CV 874 ===
-text: Mohamed Lambert
-cleaned_text: mohamed lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 96727921
-email: mohamed.lambert@example.com
-skills: ['Management', 'SQL', 'C++', 'Finance', 'Windows', 'HTML']
-skills_text: Management SQL C++ Finance Windows HTML
-Category: Marketing

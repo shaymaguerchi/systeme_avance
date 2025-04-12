@@ -1,8 +1,0 @@
-=== CV 577 ===
-text: Laura Mokhtar
-cleaned_text: laura mokhtar cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 54099988
-email: laura.mokhtar@example.com
-skills: ['SQL', 'Management', 'HTML']
-skills_text: SQL Management HTML
-Category: IT

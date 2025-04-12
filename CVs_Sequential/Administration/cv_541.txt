@@ -1,8 +1,0 @@
-=== CV 541 ===
-text: Ahmed Ben Ali
-cleaned_text: ahmed ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 63279435
-email: ahmed.ben ali@example.com
-skills: ['CSS', 'Linux', 'Windows', 'HTML', 'SQL']
-skills_text: CSS Linux Windows HTML SQL
-Category: Administration

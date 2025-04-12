@@ -1,8 +1,0 @@
-=== CV 464 ===
-text: Hugo Lefevre
-cleaned_text: hugo lefevre cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 74055257
-email: hugo.lefevre@example.com
-skills: ['C++', 'Management', 'Windows', 'HTML']
-skills_text: C++ Management Windows HTML
-Category: Production

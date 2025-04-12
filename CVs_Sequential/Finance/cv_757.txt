@@ -1,8 +1,0 @@
-=== CV 757 ===
-text: Laura Lefevre
-cleaned_text: laura lefevre cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 73171097
-email: laura.lefevre@example.com
-skills: ['Marketing', 'Python', 'Windows', 'SQL']
-skills_text: Marketing Python Windows SQL
-Category: Finance

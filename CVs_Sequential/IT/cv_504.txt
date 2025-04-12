@@ -1,8 +1,0 @@
-=== CV 504 ===
-text: Jean Lefevre
-cleaned_text: jean lefevre cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 80206384
-email: jean.lefevre@example.com
-skills: ['HTML', 'CSS', 'Adobe', 'Windows', 'Python', 'Management']
-skills_text: HTML CSS Adobe Windows Python Management
-Category: IT

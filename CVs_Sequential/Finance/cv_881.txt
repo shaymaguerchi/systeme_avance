@@ -1,8 +1,0 @@
-=== CV 881 ===
-text: Hugo Dupont
-cleaned_text: hugo dupont cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 66772732
-email: hugo.dupont@example.com
-skills: ['Marketing', 'Python', 'Windows', 'SQL', 'Finance', 'Linux']
-skills_text: Marketing Python Windows SQL Finance Linux
-Category: Finance

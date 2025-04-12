@@ -1,8 +1,0 @@
-=== CV 703 ===
-text: Mohamed Ben Ali
-cleaned_text: mohamed ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 58127118
-email: mohamed.ben ali@example.com
-skills: ['CSS', 'Marketing', 'Java', 'C++', 'SQL']
-skills_text: CSS Marketing Java C++ SQL
-Category: Finance

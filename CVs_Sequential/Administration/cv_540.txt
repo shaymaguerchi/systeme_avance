@@ -1,8 +1,0 @@
-=== CV 540 ===
-text: Isabelle Girard
-cleaned_text: isabelle girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 77094550
-email: isabelle.girard@example.com
-skills: ['Marketing', 'Windows', 'Adobe']
-skills_text: Marketing Windows Adobe
-Category: Administration

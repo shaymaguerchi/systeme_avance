@@ -1,8 +1,0 @@
-=== CV 831 ===
-text: Nadia Roche
-cleaned_text: nadia roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 36338499
-email: nadia.roche@example.com
-skills: ['HTML', 'Finance', 'SQL', 'Marketing', 'Python']
-skills_text: HTML Finance SQL Marketing Python
-Category: Production

@@ -1,8 +1,0 @@
-=== CV 727 ===
-text: Karim Boussaid
-cleaned_text: karim boussaid cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 95943582
-email: karim.boussaid@example.com
-skills: ['HTML', 'CSS', 'Adobe', 'Marketing', 'C++', 'Management']
-skills_text: HTML CSS Adobe Marketing C++ Management
-Category: Marketing

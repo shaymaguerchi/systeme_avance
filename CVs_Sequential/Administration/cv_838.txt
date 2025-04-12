@@ -1,8 +1,0 @@
-=== CV 838 ===
-text: Fatima Ben Ali
-cleaned_text: fatima ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 94621320
-email: fatima.ben ali@example.com
-skills: ['SQL', 'Windows', 'Python', 'CSS']
-skills_text: SQL Windows Python CSS
-Category: Administration

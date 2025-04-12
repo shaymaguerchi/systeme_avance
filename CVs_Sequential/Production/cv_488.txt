@@ -1,8 +1,0 @@
-=== CV 488 ===
-text: Ahmed Mokhtar
-cleaned_text: ahmed mokhtar cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 82704755
-email: ahmed.mokhtar@example.com
-skills: ['Adobe', 'CSS', 'HTML', 'Marketing']
-skills_text: Adobe CSS HTML Marketing
-Category: Production

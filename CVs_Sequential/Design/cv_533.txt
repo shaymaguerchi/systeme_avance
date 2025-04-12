@@ -1,8 +1,0 @@
-=== CV 533 ===
-text: Ahmed Moreau
-cleaned_text: ahmed moreau cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 53433926
-email: ahmed.moreau@example.com
-skills: ['Adobe', 'SQL', 'CSS']
-skills_text: Adobe SQL CSS
-Category: Design

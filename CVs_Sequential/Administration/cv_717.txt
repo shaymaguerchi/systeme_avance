@@ -1,8 +1,0 @@
-=== CV 717 ===
-text: Mohamed Fontaine
-cleaned_text: mohamed fontaine cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 40154636
-email: mohamed.fontaine@example.com
-skills: ['C++', 'Python', 'Adobe', 'Linux']
-skills_text: C++ Python Adobe Linux
-Category: Administration

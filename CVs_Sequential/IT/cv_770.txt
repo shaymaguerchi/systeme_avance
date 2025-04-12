@@ -1,8 +1,0 @@
-=== CV 770 ===
-text: Isabelle Roche
-cleaned_text: isabelle roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 80473681
-email: isabelle.roche@example.com
-skills: ['Adobe', 'Linux', 'CSS']
-skills_text: Adobe Linux CSS
-Category: IT

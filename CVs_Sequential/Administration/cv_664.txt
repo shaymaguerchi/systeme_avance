@@ -1,8 +1,0 @@
-=== CV 664 ===
-text: Hugo Mokhtar
-cleaned_text: hugo mokhtar cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 83612019
-email: hugo.mokhtar@example.com
-skills: ['Java', 'Adobe', 'Finance', 'CSS', 'SQL', 'Marketing']
-skills_text: Java Adobe Finance CSS SQL Marketing
-Category: Administration

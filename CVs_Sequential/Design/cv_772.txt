@@ -1,8 +1,0 @@
-=== CV 772 ===
-text: Jean Girard
-cleaned_text: jean girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 90495826
-email: jean.girard@example.com
-skills: ['SQL', 'Marketing', 'Adobe', 'Linux', 'CSS', 'Management']
-skills_text: SQL Marketing Adobe Linux CSS Management
-Category: Design

@@ -1,8 +1,0 @@
-=== CV 613 ===
-text: Karim Dupont
-cleaned_text: karim dupont cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 37685260
-email: karim.dupont@example.com
-skills: ['Finance', 'Windows', 'Adobe']
-skills_text: Finance Windows Adobe
-Category: Design

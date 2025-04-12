@@ -1,8 +1,0 @@
-=== CV 606 ===
-text: Mohamed Roche
-cleaned_text: mohamed roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 52354430
-email: mohamed.roche@example.com
-skills: ['Finance', 'Java', 'Windows']
-skills_text: Finance Java Windows
-Category: Marketing

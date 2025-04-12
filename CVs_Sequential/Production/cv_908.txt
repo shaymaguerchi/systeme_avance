@@ -1,8 +1,0 @@
-=== CV 908 ===
-text: Mohamed Boussaid
-cleaned_text: mohamed boussaid cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 98636178
-email: mohamed.boussaid@example.com
-skills: ['HTML', 'C++', 'Java', 'Adobe', 'Management']
-skills_text: HTML C++ Java Adobe Management
-Category: Production

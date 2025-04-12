@@ -1,8 +1,0 @@
-=== CV 725 ===
-text: Isabelle Ben Ali
-cleaned_text: isabelle ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 20871565
-email: isabelle.ben ali@example.com
-skills: ['Adobe', 'Java', 'Python', 'Marketing']
-skills_text: Adobe Java Python Marketing
-Category: Finance

@@ -1,8 +1,0 @@
-=== CV 443 ===
-text: Mohamed Fontaine
-cleaned_text: mohamed fontaine cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 91699099
-email: mohamed.fontaine@example.com
-skills: ['Adobe', 'SQL', 'C++']
-skills_text: Adobe SQL C++
-Category: Marketing

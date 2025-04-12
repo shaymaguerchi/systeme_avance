@@ -1,8 +1,0 @@
-=== CV 714 ===
-text: Fatima Dupont
-cleaned_text: fatima dupont cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 54079975
-email: fatima.dupont@example.com
-skills: ['Adobe', 'CSS', 'Management']
-skills_text: Adobe CSS Management
-Category: Finance

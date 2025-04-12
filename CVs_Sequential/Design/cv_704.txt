@@ -1,8 +1,0 @@
-=== CV 704 ===
-text: Nadia Girard
-cleaned_text: nadia girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 29063291
-email: nadia.girard@example.com
-skills: ['Python', 'Marketing', 'Linux', 'SQL', 'Java', 'Management']
-skills_text: Python Marketing Linux SQL Java Management
-Category: Design

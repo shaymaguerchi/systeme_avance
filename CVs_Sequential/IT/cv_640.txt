@@ -1,8 +1,0 @@
-=== CV 640 ===
-text: Karim Mokhtar
-cleaned_text: karim mokhtar cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 24252747
-email: karim.mokhtar@example.com
-skills: ['Linux', 'CSS', 'Adobe', 'Management', 'Windows', 'Java']
-skills_text: Linux CSS Adobe Management Windows Java
-Category: IT

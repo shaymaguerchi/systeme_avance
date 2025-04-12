@@ -1,8 +1,0 @@
-=== CV 729 ===
-text: Jean Boussaid
-cleaned_text: jean boussaid cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 46465575
-email: jean.boussaid@example.com
-skills: ['CSS', 'C++', 'Finance', 'Python', 'Linux', 'Java']
-skills_text: CSS C++ Finance Python Linux Java
-Category: Marketing

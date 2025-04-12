@@ -1,8 +1,0 @@
-=== CV 535 ===
-text: Jean Lefevre
-cleaned_text: jean lefevre cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 67624260
-email: jean.lefevre@example.com
-skills: ['Linux', 'Management', 'Marketing']
-skills_text: Linux Management Marketing
-Category: Design

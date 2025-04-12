@@ -1,8 +1,0 @@
-=== CV 897 ===
-text: Isabelle Roche
-cleaned_text: isabelle roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 90392929
-email: isabelle.roche@example.com
-skills: ['Java', 'HTML', 'SQL', 'C++', 'Windows']
-skills_text: Java HTML SQL C++ Windows
-Category: Marketing

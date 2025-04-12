@@ -1,8 +1,0 @@
-=== CV 756 ===
-text: Isabelle Girard
-cleaned_text: isabelle girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 90499457
-email: isabelle.girard@example.com
-skills: ['CSS', 'C++', 'Java', 'Finance']
-skills_text: CSS C++ Java Finance
-Category: Marketing

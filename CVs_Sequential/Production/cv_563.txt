@@ -1,8 +1,0 @@
-=== CV 563 ===
-text: Sophie Roche
-cleaned_text: sophie roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 23450518
-email: sophie.roche@example.com
-skills: ['Linux', 'Python', 'Adobe']
-skills_text: Linux Python Adobe
-Category: Production

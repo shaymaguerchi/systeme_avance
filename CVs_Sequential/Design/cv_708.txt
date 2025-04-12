@@ -1,8 +1,0 @@
-=== CV 708 ===
-text: Isabelle Fontaine
-cleaned_text: isabelle fontaine cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 40952336
-email: isabelle.fontaine@example.com
-skills: ['Windows', 'Marketing', 'Python', 'C++', 'Finance', 'Adobe']
-skills_text: Windows Marketing Python C++ Finance Adobe
-Category: Design

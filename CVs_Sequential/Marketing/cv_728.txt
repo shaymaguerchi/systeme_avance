@@ -1,8 +1,0 @@
-=== CV 728 ===
-text: Isabelle Lambert
-cleaned_text: isabelle lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 43171767
-email: isabelle.lambert@example.com
-skills: ['Management', 'C++', 'Finance', 'CSS', 'Python']
-skills_text: Management C++ Finance CSS Python
-Category: Marketing

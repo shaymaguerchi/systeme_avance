@@ -1,8 +1,0 @@
-=== CV 530 ===
-text: Isabelle Boussaid
-cleaned_text: isabelle boussaid cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 33411966
-email: isabelle.boussaid@example.com
-skills: ['HTML', 'CSS', 'C++', 'Windows', 'Marketing', 'Python']
-skills_text: HTML CSS C++ Windows Marketing Python
-Category: Finance

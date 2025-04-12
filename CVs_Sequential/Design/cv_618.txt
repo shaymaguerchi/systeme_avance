@@ -1,8 +1,0 @@
-=== CV 618 ===
-text: Sophie Ben Ali
-cleaned_text: sophie ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 55033368
-email: sophie.ben ali@example.com
-skills: ['Python', 'SQL', 'Linux', 'Java']
-skills_text: Python SQL Linux Java
-Category: Design

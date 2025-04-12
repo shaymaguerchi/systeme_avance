@@ -1,8 +1,0 @@
-=== CV 746 ===
-text: Karim Moreau
-cleaned_text: karim moreau cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 61696915
-email: karim.moreau@example.com
-skills: ['HTML', 'Finance', 'Linux', 'Adobe']
-skills_text: HTML Finance Linux Adobe
-Category: Marketing

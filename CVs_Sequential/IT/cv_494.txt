@@ -1,8 +1,0 @@
-=== CV 494 ===
-text: Isabelle Mokhtar
-cleaned_text: isabelle mokhtar cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 43806052
-email: isabelle.mokhtar@example.com
-skills: ['Adobe', 'Java', 'Linux', 'C++']
-skills_text: Adobe Java Linux C++
-Category: IT

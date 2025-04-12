@@ -1,8 +1,0 @@
-=== CV 573 ===
-text: Fatima Moreau
-cleaned_text: fatima moreau cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 55140770
-email: fatima.moreau@example.com
-skills: ['HTML', 'Java', 'SQL', 'Adobe', 'Linux', 'Management']
-skills_text: HTML Java SQL Adobe Linux Management
-Category: Design

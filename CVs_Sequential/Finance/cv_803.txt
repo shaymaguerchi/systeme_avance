@@ -1,8 +1,0 @@
-=== CV 803 ===
-text: Nadia Roche
-cleaned_text: nadia roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 63485448
-email: nadia.roche@example.com
-skills: ['HTML', 'CSS', 'Java', 'Windows']
-skills_text: HTML CSS Java Windows
-Category: Finance

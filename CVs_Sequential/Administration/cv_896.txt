@@ -1,8 +1,0 @@
-=== CV 896 ===
-text: Nadia Lefevre
-cleaned_text: nadia lefevre cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 40425164
-email: nadia.lefevre@example.com
-skills: ['Finance', 'SQL', 'Management', 'C++', 'Linux', 'Windows']
-skills_text: Finance SQL Management C++ Linux Windows
-Category: Administration

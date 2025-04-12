@@ -1,8 +1,0 @@
-=== CV 441 ===
-text: Jean Ben Ali
-cleaned_text: jean ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 21342534
-email: jean.ben ali@example.com
-skills: ['CSS', 'Java', 'Linux']
-skills_text: CSS Java Linux
-Category: Finance

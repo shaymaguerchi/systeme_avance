@@ -1,8 +1,0 @@
-=== CV 775 ===
-text: Fatima Girard
-cleaned_text: fatima girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 64146969
-email: fatima.girard@example.com
-skills: ['Python', 'Adobe', 'HTML', 'SQL']
-skills_text: Python Adobe HTML SQL
-Category: Administration

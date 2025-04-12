@@ -1,8 +1,0 @@
-=== CV 627 ===
-text: Hugo Roche
-cleaned_text: hugo roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 68781052
-email: hugo.roche@example.com
-skills: ['C++', 'Finance', 'SQL', 'Marketing', 'CSS', 'Management']
-skills_text: C++ Finance SQL Marketing CSS Management
-Category: Design

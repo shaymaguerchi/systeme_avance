@@ -1,8 +1,0 @@
-=== CV 801 ===
-text: Sophie Lambert
-cleaned_text: sophie lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 35892729
-email: sophie.lambert@example.com
-skills: ['Windows', 'Python', 'SQL', 'CSS']
-skills_text: Windows Python SQL CSS
-Category: Finance

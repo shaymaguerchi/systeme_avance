@@ -1,8 +1,0 @@
-=== CV 582 ===
-text: Ahmed Boussaid
-cleaned_text: ahmed boussaid cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 50206145
-email: ahmed.boussaid@example.com
-skills: ['Linux', 'SQL', 'HTML']
-skills_text: Linux SQL HTML
-Category: Administration

@@ -1,8 +1,0 @@
-=== CV 419 ===
-text: Karim Roche
-cleaned_text: karim roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 58319519
-email: karim.roche@example.com
-skills: ['Management', 'Java', 'Marketing', 'Finance', 'CSS']
-skills_text: Management Java Marketing Finance CSS
-Category: Marketing

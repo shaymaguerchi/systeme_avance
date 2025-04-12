@@ -1,8 +1,0 @@
-=== CV 824 ===
-text: Mohamed Roche
-cleaned_text: mohamed roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 46916891
-email: mohamed.roche@example.com
-skills: ['Management', 'Adobe', 'CSS', 'Java', 'Windows', 'HTML']
-skills_text: Management Adobe CSS Java Windows HTML
-Category: IT

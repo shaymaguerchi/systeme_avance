@@ -1,8 +1,0 @@
-=== CV 498 ===
-text: Nadia Fontaine
-cleaned_text: nadia fontaine cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 56380192
-email: nadia.fontaine@example.com
-skills: ['SQL', 'Adobe', 'HTML', 'CSS', 'Java']
-skills_text: SQL Adobe HTML CSS Java
-Category: Design

@@ -1,8 +1,0 @@
-=== CV 795 ===
-text: Hugo Girard
-cleaned_text: hugo girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 68414710
-email: hugo.girard@example.com
-skills: ['Windows', 'Management', 'Marketing', 'C++', 'Java']
-skills_text: Windows Management Marketing C++ Java
-Category: Finance

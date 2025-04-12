@@ -1,8 +1,0 @@
-=== CV 790 ===
-text: Sophie Moreau
-cleaned_text: sophie moreau cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 21911060
-email: sophie.moreau@example.com
-skills: ['Marketing', 'C++', 'Management']
-skills_text: Marketing C++ Management
-Category: IT

@@ -1,8 +1,0 @@
-=== CV 564 ===
-text: Hugo Moreau
-cleaned_text: hugo moreau cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 92490313
-email: hugo.moreau@example.com
-skills: ['C++', 'HTML', 'Adobe', 'Windows', 'Finance', 'Linux']
-skills_text: C++ HTML Adobe Windows Finance Linux
-Category: Marketing

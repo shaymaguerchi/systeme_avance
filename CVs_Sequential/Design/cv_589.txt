@@ -1,8 +1,0 @@
-=== CV 589 ===
-text: Laura Ben Ali
-cleaned_text: laura ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 59555987
-email: laura.ben ali@example.com
-skills: ['Python', 'CSS', 'Finance', 'HTML', 'Management', 'Adobe']
-skills_text: Python CSS Finance HTML Management Adobe
-Category: Design

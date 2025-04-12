@@ -1,8 +1,0 @@
-=== CV 840 ===
-text: Isabelle Roche
-cleaned_text: isabelle roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 31597461
-email: isabelle.roche@example.com
-skills: ['Windows', 'Marketing', 'CSS', 'Python']
-skills_text: Windows Marketing CSS Python
-Category: IT

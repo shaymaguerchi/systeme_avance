@@ -1,8 +1,0 @@
-=== CV 864 ===
-text: Karim Lefevre
-cleaned_text: karim lefevre cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 82674171
-email: karim.lefevre@example.com
-skills: ['Management', 'Adobe', 'Windows', 'Linux', 'Finance']
-skills_text: Management Adobe Windows Linux Finance
-Category: IT

@@ -1,8 +1,0 @@
-=== CV 678 ===
-text: Laura Ben Ali
-cleaned_text: laura ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 44763964
-email: laura.ben ali@example.com
-skills: ['Adobe', 'Windows', 'Management']
-skills_text: Adobe Windows Management
-Category: IT

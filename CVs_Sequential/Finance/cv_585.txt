@@ -1,8 +1,0 @@
-=== CV 585 ===
-text: Fatima Boussaid
-cleaned_text: fatima boussaid cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 58210101
-email: fatima.boussaid@example.com
-skills: ['Python', 'CSS', 'HTML', 'Java', 'Finance']
-skills_text: Python CSS HTML Java Finance
-Category: Finance

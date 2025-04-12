@@ -1,8 +1,0 @@
-=== CV 758 ===
-text: Laura Girard
-cleaned_text: laura girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 25798417
-email: laura.girard@example.com
-skills: ['Management', 'Finance', 'Adobe']
-skills_text: Management Finance Adobe
-Category: IT

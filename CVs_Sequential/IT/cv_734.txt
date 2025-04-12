@@ -1,8 +1,0 @@
-=== CV 734 ===
-text: Hugo Ben Ali
-cleaned_text: hugo ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 82910467
-email: hugo.ben ali@example.com
-skills: ['Java', 'Finance', 'Adobe', 'SQL']
-skills_text: Java Finance Adobe SQL
-Category: IT

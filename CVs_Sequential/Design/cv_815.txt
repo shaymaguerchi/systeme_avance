@@ -1,8 +1,0 @@
-=== CV 815 ===
-text: Fatima Ben Ali
-cleaned_text: fatima ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 86775217
-email: fatima.ben ali@example.com
-skills: ['Linux', 'HTML', 'Adobe', 'C++']
-skills_text: Linux HTML Adobe C++
-Category: Design

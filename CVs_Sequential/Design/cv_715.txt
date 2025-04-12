@@ -1,8 +1,0 @@
-=== CV 715 ===
-text: Mohamed Girard
-cleaned_text: mohamed girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 72037872
-email: mohamed.girard@example.com
-skills: ['Java', 'C++', 'Linux', 'Management', 'Marketing']
-skills_text: Java C++ Linux Management Marketing
-Category: Design

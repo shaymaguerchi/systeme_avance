@@ -1,8 +1,0 @@
-=== CV 415 ===
-text: Karim Mokhtar
-cleaned_text: karim mokhtar cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 93596359
-email: karim.mokhtar@example.com
-skills: ['Marketing', 'Python', 'CSS', 'Finance', 'HTML']
-skills_text: Marketing Python CSS Finance HTML
-Category: Finance

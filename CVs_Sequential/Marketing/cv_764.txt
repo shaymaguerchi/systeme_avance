@@ -1,8 +1,0 @@
-=== CV 764 ===
-text: Mohamed Boussaid
-cleaned_text: mohamed boussaid cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 63667606
-email: mohamed.boussaid@example.com
-skills: ['Management', 'C++', 'HTML', 'Adobe', 'Java']
-skills_text: Management C++ HTML Adobe Java
-Category: Marketing

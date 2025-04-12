@@ -1,8 +1,0 @@
-=== CV 636 ===
-text: Ahmed Lambert
-cleaned_text: ahmed lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 90187945
-email: ahmed.lambert@example.com
-skills: ['Adobe', 'Linux', 'Finance', 'Python', 'SQL', 'Java']
-skills_text: Adobe Linux Finance Python SQL Java
-Category: IT

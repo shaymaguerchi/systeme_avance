@@ -1,8 +1,0 @@
-=== CV 659 ===
-text: Hugo Lefevre
-cleaned_text: hugo lefevre cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 70991493
-email: hugo.lefevre@example.com
-skills: ['CSS', 'Adobe', 'Finance', 'Management', 'Marketing']
-skills_text: CSS Adobe Finance Management Marketing
-Category: Marketing

@@ -1,8 +1,0 @@
-=== CV 784 ===
-text: Nadia Girard
-cleaned_text: nadia girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 72731763
-email: nadia.girard@example.com
-skills: ['C++', 'Management', 'Marketing', 'HTML', 'Python', 'Adobe']
-skills_text: C++ Management Marketing HTML Python Adobe
-Category: Administration

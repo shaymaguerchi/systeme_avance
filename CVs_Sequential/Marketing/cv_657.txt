@@ -1,8 +1,0 @@
-=== CV 657 ===
-text: Sophie Fontaine
-cleaned_text: sophie fontaine cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 73902864
-email: sophie.fontaine@example.com
-skills: ['Adobe', 'Java', 'CSS']
-skills_text: Adobe Java CSS
-Category: Marketing

@@ -1,8 +1,0 @@
-=== CV 852 ===
-text: Laura Boussaid
-cleaned_text: laura boussaid cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 34100081
-email: laura.boussaid@example.com
-skills: ['Python', 'Marketing', 'Java', 'Management', 'Adobe', 'Finance']
-skills_text: Python Marketing Java Management Adobe Finance
-Category: Finance

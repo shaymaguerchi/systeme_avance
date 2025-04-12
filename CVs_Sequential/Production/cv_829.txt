@@ -1,8 +1,0 @@
-=== CV 829 ===
-text: Ahmed Moreau
-cleaned_text: ahmed moreau cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 37129827
-email: ahmed.moreau@example.com
-skills: ['Adobe', 'Finance', 'CSS', 'C++', 'Python']
-skills_text: Adobe Finance CSS C++ Python
-Category: Production

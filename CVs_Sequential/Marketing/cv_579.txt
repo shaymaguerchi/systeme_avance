@@ -1,8 +1,0 @@
-=== CV 579 ===
-text: Ahmed Roche
-cleaned_text: ahmed roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 25718605
-email: ahmed.roche@example.com
-skills: ['Python', 'Windows', 'Java', 'HTML', 'Adobe', 'CSS']
-skills_text: Python Windows Java HTML Adobe CSS
-Category: Marketing

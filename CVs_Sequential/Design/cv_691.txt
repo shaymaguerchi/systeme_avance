@@ -1,8 +1,0 @@
-=== CV 691 ===
-text: Laura Mokhtar
-cleaned_text: laura mokhtar cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 56280040
-email: laura.mokhtar@example.com
-skills: ['HTML', 'C++', 'Linux', 'Python']
-skills_text: HTML C++ Linux Python
-Category: Design

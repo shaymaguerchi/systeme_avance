@@ -1,8 +1,0 @@
-=== CV 855 ===
-text: Jean Moreau
-cleaned_text: jean moreau cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 70726616
-email: jean.moreau@example.com
-skills: ['Adobe', 'SQL', 'C++']
-skills_text: Adobe SQL C++
-Category: Administration

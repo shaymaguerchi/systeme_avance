@@ -1,8 +1,0 @@
-=== CV 595 ===
-text: Hugo Lefevre
-cleaned_text: hugo lefevre cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 68168419
-email: hugo.lefevre@example.com
-skills: ['Linux', 'Python', 'C++', 'Management', 'Windows', 'Marketing']
-skills_text: Linux Python C++ Management Windows Marketing
-Category: Finance

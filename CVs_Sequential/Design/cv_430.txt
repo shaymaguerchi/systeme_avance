@@ -1,8 +1,0 @@
-=== CV 430 ===
-text: Mohamed Dupont
-cleaned_text: mohamed dupont cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 57457306
-email: mohamed.dupont@example.com
-skills: ['Adobe', 'C++', 'Finance', 'Java']
-skills_text: Adobe C++ Finance Java
-Category: Design

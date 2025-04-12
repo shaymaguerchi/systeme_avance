@@ -1,8 +1,0 @@
-=== CV 446 ===
-text: Isabelle Fontaine
-cleaned_text: isabelle fontaine cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 40918045
-email: isabelle.fontaine@example.com
-skills: ['Linux', 'Adobe', 'CSS', 'Marketing']
-skills_text: Linux Adobe CSS Marketing
-Category: Production

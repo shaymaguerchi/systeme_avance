@@ -1,8 +1,0 @@
-=== CV 452 ===
-text: Ahmed Lefevre
-cleaned_text: ahmed lefevre cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 60266964
-email: ahmed.lefevre@example.com
-skills: ['Marketing', 'Management', 'Windows', 'HTML', 'Finance']
-skills_text: Marketing Management Windows HTML Finance
-Category: Design

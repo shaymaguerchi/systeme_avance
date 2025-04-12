@@ -1,8 +1,0 @@
-=== CV 833 ===
-text: Ahmed Fontaine
-cleaned_text: ahmed fontaine cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 67073852
-email: ahmed.fontaine@example.com
-skills: ['Marketing', 'CSS', 'Management']
-skills_text: Marketing CSS Management
-Category: Design

@@ -1,8 +1,0 @@
-=== CV 617 ===
-text: Mohamed Boussaid
-cleaned_text: mohamed boussaid cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 81877955
-email: mohamed.boussaid@example.com
-skills: ['Linux', 'SQL', 'Windows', 'HTML', 'C++']
-skills_text: Linux SQL Windows HTML C++
-Category: Finance

@@ -1,8 +1,0 @@
-=== CV 860 ===
-text: Karim Fontaine
-cleaned_text: karim fontaine cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 43408116
-email: karim.fontaine@example.com
-skills: ['C++', 'Linux', 'Finance', 'HTML', 'Windows']
-skills_text: C++ Linux Finance HTML Windows
-Category: IT

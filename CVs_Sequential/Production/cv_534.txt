@@ -1,8 +1,0 @@
-=== CV 534 ===
-text: Nadia Lefevre
-cleaned_text: nadia lefevre cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 59543308
-email: nadia.lefevre@example.com
-skills: ['SQL', 'Python', 'Windows', 'Linux', 'Finance']
-skills_text: SQL Python Windows Linux Finance
-Category: Production

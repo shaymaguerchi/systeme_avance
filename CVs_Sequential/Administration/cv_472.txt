@@ -1,8 +1,0 @@
-=== CV 472 ===
-text: Jean Roche
-cleaned_text: jean roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 64006426
-email: jean.roche@example.com
-skills: ['Marketing', 'Finance', 'HTML', 'CSS', 'Windows', 'SQL']
-skills_text: Marketing Finance HTML CSS Windows SQL
-Category: Administration

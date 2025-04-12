@@ -1,8 +1,0 @@
-=== CV 804 ===
-text: Nadia Lefevre
-cleaned_text: nadia lefevre cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 83563282
-email: nadia.lefevre@example.com
-skills: ['Linux', 'Java', 'C++', 'Finance']
-skills_text: Linux Java C++ Finance
-Category: Marketing

@@ -1,8 +1,0 @@
-=== CV 538 ===
-text: Sophie Ben Ali
-cleaned_text: sophie ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 43475866
-email: sophie.ben ali@example.com
-skills: ['Marketing', 'Adobe', 'Java']
-skills_text: Marketing Adobe Java
-Category: Administration

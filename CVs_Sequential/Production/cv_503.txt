@@ -1,8 +1,0 @@
-=== CV 503 ===
-text: Laura Boussaid
-cleaned_text: laura boussaid cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 47991114
-email: laura.boussaid@example.com
-skills: ['Python', 'CSS', 'HTML']
-skills_text: Python CSS HTML
-Category: Production

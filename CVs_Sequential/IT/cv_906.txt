@@ -1,8 +1,0 @@
-=== CV 906 ===
-text: Isabelle Roche
-cleaned_text: isabelle roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 62847016
-email: isabelle.roche@example.com
-skills: ['Adobe', 'Windows', 'CSS', 'SQL', 'HTML', 'Management']
-skills_text: Adobe Windows CSS SQL HTML Management
-Category: IT

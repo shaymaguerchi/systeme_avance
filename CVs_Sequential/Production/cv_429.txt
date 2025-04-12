@@ -1,8 +1,0 @@
-=== CV 429 ===
-text: Isabelle Lambert
-cleaned_text: isabelle lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 26121109
-email: isabelle.lambert@example.com
-skills: ['Marketing', 'Linux', 'Management']
-skills_text: Marketing Linux Management
-Category: Production

@@ -1,8 +1,0 @@
-=== CV 450 ===
-text: Fatima Mokhtar
-cleaned_text: fatima mokhtar cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 80274953
-email: fatima.mokhtar@example.com
-skills: ['Linux', 'C++', 'Java', 'CSS', 'Python']
-skills_text: Linux C++ Java CSS Python
-Category: IT

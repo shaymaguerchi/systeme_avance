@@ -1,8 +1,0 @@
-=== CV 653 ===
-text: Mohamed Lambert
-cleaned_text: mohamed lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 50616926
-email: mohamed.lambert@example.com
-skills: ['SQL', 'Adobe', 'C++', 'HTML', 'Marketing', 'Java']
-skills_text: SQL Adobe C++ HTML Marketing Java
-Category: Finance

@@ -1,8 +1,0 @@
-=== CV 682 ===
-text: Sophie Fontaine
-cleaned_text: sophie fontaine cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 22101525
-email: sophie.fontaine@example.com
-skills: ['Management', 'Windows', 'Finance', 'HTML']
-skills_text: Management Windows Finance HTML
-Category: Design

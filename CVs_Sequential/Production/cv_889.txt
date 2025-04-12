@@ -1,8 +1,0 @@
-=== CV 889 ===
-text: Jean Ben Ali
-cleaned_text: jean ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 26966776
-email: jean.ben ali@example.com
-skills: ['CSS', 'Adobe', 'Python', 'Marketing', 'Finance', 'Management']
-skills_text: CSS Adobe Python Marketing Finance Management
-Category: Production

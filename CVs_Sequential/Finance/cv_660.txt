@@ -1,8 +1,0 @@
-=== CV 660 ===
-text: Sophie Lambert
-cleaned_text: sophie lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 66826324
-email: sophie.lambert@example.com
-skills: ['Java', 'C++', 'Linux', 'Marketing', 'Finance']
-skills_text: Java C++ Linux Marketing Finance
-Category: Finance

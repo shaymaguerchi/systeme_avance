@@ -1,8 +1,0 @@
-=== CV 750 ===
-text: Ahmed Fontaine
-cleaned_text: ahmed fontaine cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 67068984
-email: ahmed.fontaine@example.com
-skills: ['Windows', 'Python', 'Linux', 'Management']
-skills_text: Windows Python Linux Management
-Category: Administration

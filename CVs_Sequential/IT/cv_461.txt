@@ -1,8 +1,0 @@
-=== CV 461 ===
-text: Ahmed Fontaine
-cleaned_text: ahmed fontaine cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 55901396
-email: ahmed.fontaine@example.com
-skills: ['Adobe', 'Marketing', 'C++', 'HTML', 'Windows']
-skills_text: Adobe Marketing C++ HTML Windows
-Category: IT

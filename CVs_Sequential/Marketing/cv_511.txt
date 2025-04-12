@@ -1,8 +1,0 @@
-=== CV 511 ===
-text: Isabelle Moreau
-cleaned_text: isabelle moreau cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 80541422
-email: isabelle.moreau@example.com
-skills: ['Windows', 'CSS', 'C++']
-skills_text: Windows CSS C++
-Category: Marketing

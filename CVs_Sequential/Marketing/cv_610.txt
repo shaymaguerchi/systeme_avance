@@ -1,8 +1,0 @@
-=== CV 610 ===
-text: Hugo Girard
-cleaned_text: hugo girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 90144710
-email: hugo.girard@example.com
-skills: ['Finance', 'HTML', 'Marketing', 'Adobe', 'Management']
-skills_text: Finance HTML Marketing Adobe Management
-Category: Marketing

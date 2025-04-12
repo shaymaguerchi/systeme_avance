@@ -1,8 +1,0 @@
-=== CV 489 ===
-text: Laura Fontaine
-cleaned_text: laura fontaine cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 63448973
-email: laura.fontaine@example.com
-skills: ['CSS', 'Python', 'SQL', 'Finance', 'Marketing', 'Linux']
-skills_text: CSS Python SQL Finance Marketing Linux
-Category: Administration

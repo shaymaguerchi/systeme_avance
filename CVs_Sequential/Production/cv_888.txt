@@ -1,8 +1,0 @@
-=== CV 888 ===
-text: Mohamed Moreau
-cleaned_text: mohamed moreau cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 68252470
-email: mohamed.moreau@example.com
-skills: ['SQL', 'HTML', 'Linux', 'Windows', 'Management', 'Python']
-skills_text: SQL HTML Linux Windows Management Python
-Category: Production

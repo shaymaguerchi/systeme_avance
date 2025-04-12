@@ -1,8 +1,0 @@
-=== CV 666 ===
-text: Sophie Dupont
-cleaned_text: sophie dupont cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 65352369
-email: sophie.dupont@example.com
-skills: ['C++', 'CSS', 'Linux', 'SQL']
-skills_text: C++ CSS Linux SQL
-Category: Marketing

@@ -1,8 +1,0 @@
-=== CV 460 ===
-text: Laura Lefevre
-cleaned_text: laura lefevre cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 83898672
-email: laura.lefevre@example.com
-skills: ['Finance', 'Java', 'CSS', 'Linux']
-skills_text: Finance Java CSS Linux
-Category: IT

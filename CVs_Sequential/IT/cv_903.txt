@@ -1,8 +1,0 @@
-=== CV 903 ===
-text: Jean Roche
-cleaned_text: jean roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 29360066
-email: jean.roche@example.com
-skills: ['Java', 'Finance', 'C++', 'Management', 'Adobe', 'CSS']
-skills_text: Java Finance C++ Management Adobe CSS
-Category: IT

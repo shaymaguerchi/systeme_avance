@@ -1,8 +1,0 @@
-=== CV 506 ===
-text: Karim Dupont
-cleaned_text: karim dupont cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 83994686
-email: karim.dupont@example.com
-skills: ['Java', 'SQL', 'C++', 'Marketing', 'Finance']
-skills_text: Java SQL C++ Marketing Finance
-Category: Finance

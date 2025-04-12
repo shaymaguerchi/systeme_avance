@@ -1,8 +1,0 @@
-=== CV 747 ===
-text: Jean Lambert
-cleaned_text: jean lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 34975220
-email: jean.lambert@example.com
-skills: ['Python', 'C++', 'Management', 'Adobe', 'HTML']
-skills_text: Python C++ Management Adobe HTML
-Category: Production

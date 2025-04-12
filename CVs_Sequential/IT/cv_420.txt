@@ -1,8 +1,0 @@
-=== CV 420 ===
-text: Isabelle Ben Ali
-cleaned_text: isabelle ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 71523298
-email: isabelle.ben ali@example.com
-skills: ['C++', 'Marketing', 'Python', 'CSS', 'HTML']
-skills_text: C++ Marketing Python CSS HTML
-Category: IT

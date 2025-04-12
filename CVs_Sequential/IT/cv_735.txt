@@ -1,8 +1,0 @@
-=== CV 735 ===
-text: Hugo Moreau
-cleaned_text: hugo moreau cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 62956529
-email: hugo.moreau@example.com
-skills: ['Java', 'Marketing', 'Finance', 'Adobe', 'SQL']
-skills_text: Java Marketing Finance Adobe SQL
-Category: IT

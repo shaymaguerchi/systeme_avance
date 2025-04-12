@@ -1,8 +1,0 @@
-=== CV 706 ===
-text: Nadia Ben Ali
-cleaned_text: nadia ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 98044497
-email: nadia.ben ali@example.com
-skills: ['Java', 'HTML', 'Marketing', 'C++', 'Linux', 'Management']
-skills_text: Java HTML Marketing C++ Linux Management
-Category: Finance

@@ -1,8 +1,0 @@
-=== CV 819 ===
-text: Karim Mokhtar
-cleaned_text: karim mokhtar cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 48067540
-email: karim.mokhtar@example.com
-skills: ['C++', 'Windows', 'SQL']
-skills_text: C++ Windows SQL
-Category: IT

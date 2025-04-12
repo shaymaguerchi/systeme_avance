@@ -1,8 +1,0 @@
-=== CV 785 ===
-text: Hugo Lambert
-cleaned_text: hugo lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 23633021
-email: hugo.lambert@example.com
-skills: ['SQL', 'Windows', 'HTML', 'Python']
-skills_text: SQL Windows HTML Python
-Category: Administration

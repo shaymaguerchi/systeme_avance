@@ -1,8 +1,0 @@
-=== CV 468 ===
-text: Jean Ben Ali
-cleaned_text: jean ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 90579561
-email: jean.ben ali@example.com
-skills: ['Adobe', 'Linux', 'Finance']
-skills_text: Adobe Linux Finance
-Category: IT

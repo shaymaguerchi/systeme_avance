@@ -1,8 +1,0 @@
-=== CV 524 ===
-text: Nadia Ben Ali
-cleaned_text: nadia ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 94146170
-email: nadia.ben ali@example.com
-skills: ['HTML', 'C++', 'CSS', 'Management', 'Finance']
-skills_text: HTML C++ CSS Management Finance
-Category: Finance

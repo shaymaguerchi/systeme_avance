@@ -1,8 +1,0 @@
-=== CV 680 ===
-text: Sophie Girard
-cleaned_text: sophie girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 73598356
-email: sophie.girard@example.com
-skills: ['Management', 'Finance', 'Adobe', 'Linux', 'Windows', 'CSS']
-skills_text: Management Finance Adobe Linux Windows CSS
-Category: IT

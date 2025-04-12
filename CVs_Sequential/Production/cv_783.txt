@@ -1,8 +1,0 @@
-=== CV 783 ===
-text: Hugo Roche
-cleaned_text: hugo roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 75028040
-email: hugo.roche@example.com
-skills: ['Marketing', 'Windows', 'Java', 'Management', 'Finance']
-skills_text: Marketing Windows Java Management Finance
-Category: Production

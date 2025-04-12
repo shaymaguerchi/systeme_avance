@@ -1,8 +1,0 @@
-=== CV 505 ===
-text: Jean Lambert
-cleaned_text: jean lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 99814560
-email: jean.lambert@example.com
-skills: ['HTML', 'Management', 'Java']
-skills_text: HTML Management Java
-Category: Marketing

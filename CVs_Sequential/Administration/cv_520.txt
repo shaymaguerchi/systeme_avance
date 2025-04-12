@@ -1,8 +1,0 @@
-=== CV 520 ===
-text: Mohamed Ben Ali
-cleaned_text: mohamed ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 88266856
-email: mohamed.ben ali@example.com
-skills: ['Python', 'Finance', 'CSS', 'Management']
-skills_text: Python Finance CSS Management
-Category: Administration

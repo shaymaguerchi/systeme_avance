@@ -1,8 +1,0 @@
-=== CV 586 ===
-text: Hugo Boussaid
-cleaned_text: hugo boussaid cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 24608569
-email: hugo.boussaid@example.com
-skills: ['Marketing', 'Windows', 'Java', 'C++', 'Management', 'Linux']
-skills_text: Marketing Windows Java C++ Management Linux
-Category: Finance

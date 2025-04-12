@@ -1,8 +1,0 @@
-=== CV 853 ===
-text: Jean Girard
-cleaned_text: jean girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 78612828
-email: jean.girard@example.com
-skills: ['Python', 'Finance', 'Marketing']
-skills_text: Python Finance Marketing
-Category: Production

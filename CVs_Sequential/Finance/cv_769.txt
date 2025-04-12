@@ -1,8 +1,0 @@
-=== CV 769 ===
-text: Fatima Lefevre
-cleaned_text: fatima lefevre cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 62392418
-email: fatima.lefevre@example.com
-skills: ['Linux', 'HTML', 'Python', 'Management']
-skills_text: Linux HTML Python Management
-Category: Finance

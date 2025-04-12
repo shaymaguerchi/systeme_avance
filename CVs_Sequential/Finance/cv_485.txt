@@ -1,8 +1,0 @@
-=== CV 485 ===
-text: Jean Ben Ali
-cleaned_text: jean ben ali cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 91729971
-email: jean.ben ali@example.com
-skills: ['Java', 'Finance', 'HTML', 'Management']
-skills_text: Java Finance HTML Management
-Category: Finance

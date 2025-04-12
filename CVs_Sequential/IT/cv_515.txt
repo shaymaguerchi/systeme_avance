@@ -1,8 +1,0 @@
-=== CV 515 ===
-text: Isabelle Girard
-cleaned_text: isabelle girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 22343213
-email: isabelle.girard@example.com
-skills: ['Marketing', 'HTML', 'Management', 'Linux', 'Finance', 'Java']
-skills_text: Marketing HTML Management Linux Finance Java
-Category: IT

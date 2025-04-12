@@ -1,8 +1,0 @@
-=== CV 776 ===
-text: Fatima Lambert
-cleaned_text: fatima lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 37608591
-email: fatima.lambert@example.com
-skills: ['Management', 'SQL', 'HTML', 'Windows', 'CSS']
-skills_text: Management SQL HTML Windows CSS
-Category: Administration

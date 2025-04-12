@@ -1,8 +1,0 @@
-=== CV 519 ===
-text: Jean Mokhtar
-cleaned_text: jean mokhtar cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 48844760
-email: jean.mokhtar@example.com
-skills: ['Marketing', 'Python', 'SQL', 'HTML']
-skills_text: Marketing Python SQL HTML
-Category: Administration

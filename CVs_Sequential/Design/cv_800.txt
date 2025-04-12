@@ -1,8 +1,0 @@
-=== CV 800 ===
-text: Hugo Girard
-cleaned_text: hugo girard cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 40258887
-email: hugo.girard@example.com
-skills: ['Linux', 'Management', 'Java']
-skills_text: Linux Management Java
-Category: Design

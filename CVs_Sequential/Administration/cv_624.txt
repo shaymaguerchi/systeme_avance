@@ -1,8 +1,0 @@
-=== CV 624 ===
-text: Isabelle Mokhtar
-cleaned_text: isabelle mokhtar cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 87410346
-email: isabelle.mokhtar@example.com
-skills: ['Python', 'HTML', 'Management', 'C++', 'Windows']
-skills_text: Python HTML Management C++ Windows
-Category: Administration

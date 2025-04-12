@@ -1,8 +1,0 @@
-=== CV 635 ===
-text: Jean Moreau
-cleaned_text: jean moreau cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 47115797
-email: jean.moreau@example.com
-skills: ['HTML', 'Finance', 'Marketing', 'CSS', 'Windows']
-skills_text: HTML Finance Marketing CSS Windows
-Category: Production

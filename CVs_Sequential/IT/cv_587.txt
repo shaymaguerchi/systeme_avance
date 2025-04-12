@@ -1,8 +1,0 @@
-=== CV 587 ===
-text: Fatima Roche
-cleaned_text: fatima roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 74685710
-email: fatima.roche@example.com
-skills: ['HTML', 'Finance', 'Management', 'Java', 'Marketing', 'Adobe']
-skills_text: HTML Finance Management Java Marketing Adobe
-Category: IT

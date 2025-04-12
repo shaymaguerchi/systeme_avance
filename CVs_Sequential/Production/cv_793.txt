@@ -1,8 +1,0 @@
-=== CV 793 ===
-text: Karim Lambert
-cleaned_text: karim lambert cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 49459454
-email: karim.lambert@example.com
-skills: ['Adobe', 'Finance', 'Windows', 'CSS', 'Python', 'Marketing']
-skills_text: Adobe Finance Windows CSS Python Marketing
-Category: Production

@@ -1,8 +1,0 @@
-=== CV 794 ===
-text: Fatima Lefevre
-cleaned_text: fatima lefevre cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 33880599
-email: fatima.lefevre@example.com
-skills: ['Python', 'Linux', 'Marketing', 'CSS', 'SQL']
-skills_text: Python Linux Marketing CSS SQL
-Category: Marketing

@@ -1,8 +1,0 @@
-=== CV 900 ===
-text: Nadia Mokhtar
-cleaned_text: nadia mokhtar cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 88589744
-email: nadia.mokhtar@example.com
-skills: ['Adobe', 'HTML', 'CSS', 'C++', 'Python', 'Management']
-skills_text: Adobe HTML CSS C++ Python Management
-Category: Production

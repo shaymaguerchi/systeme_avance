@@ -1,8 +1,0 @@
-=== CV 854 ===
-text: Isabelle Dupont
-cleaned_text: isabelle dupont cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 26259148
-email: isabelle.dupont@example.com
-skills: ['Finance', 'Windows', 'CSS', 'SQL', 'Management', 'Marketing']
-skills_text: Finance Windows CSS SQL Management Marketing
-Category: Administration

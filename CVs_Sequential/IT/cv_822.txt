@@ -1,8 +1,0 @@
-=== CV 822 ===
-text: Karim Roche
-cleaned_text: karim roche cv formation academique licence domaine specialise gestion informatique ...
-mobile_number: +216 84668198
-email: karim.roche@example.com
-skills: ['CSS', 'Python', 'Finance', 'SQL', 'Marketing', 'Linux']
-skills_text: CSS Python Finance SQL Marketing Linux
-Category: IT
